@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reliance Matrix](https://reliancematrix.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6933dad4a0dde7020e2f26de?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 12 |
+| **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Jan 12 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/696490c5a112b402661273cd?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Jan 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Jan 12 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - P/C Claims (Summer 2026)](https://jobright.ai/jobs/info/69102494183be660d2677828?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Jan 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Instructional Design Intern: Training Design & Development Job ID : 269491](https://jobright.ai/jobs/info/6964c89d2cbf4e44756e4959?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Jan 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6964b40aa112b40266129ee9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 12 |
@@ -97,12 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6963b9efa112b4026611ccdb?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Health Education Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6963b4762cbf4e44756d6378?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 11 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Sports Analytics & Film Internship - Summer '26](https://jobright.ai/jobs/info/6963b09f2cbf4e44756d62ae?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Jan 11 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6963aed925e18715078043f3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
-| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6963adae25e1871507804324?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6963adae25e1871507804324?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Jan 11 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6963905325e1871507801b71?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 11 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Learning and Development Associate](https://jobright.ai/jobs/info/692a14634c474121999cb67b?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 11 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 11 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 11 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Jan 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Jan 11 |
@@ -130,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Global Insights & Analytics MBA Intern, Immunology](https://jobright.ai/jobs/info/69627a1725e18715077f4b8c?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Jan 10 |
 | **[Community Mental Health for Central Michigan](http://www.cmhcm.org)** | **[Student Intern/Volunteer/Job Shadow - Mount Pleasant (Isabella County)](https://jobright.ai/jobs/info/69626f8ca112b4026610d245?utm_campaign=1057&utm_source=git)** | Mount Pleasant, MI | On Site | Jan 10 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6962695f2cbf4e44756c6222?utm_campaign=1057&utm_source=git)** | Bothell, WA | On Site | Jan 10 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696266b72cbf4e44756c6176?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Primetals Technologies](https://primetals.com)** | **[Commissioning Training Associate Internship](https://jobright.ai/jobs/info/6963bd982cbf4e44756d660d?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Jan 10 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/696261e625e18715077f44c2?utm_campaign=1057&utm_source=git)** | Denver County, CO | On Site | Jan 10 |
 | **[CN](http://www.cn.ca)** | **[Intern, Future Leaders Development- EN](https://jobright.ai/jobs/info/6929dcca66796e3028f8d653?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
