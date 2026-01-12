@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - P/C Claims (Summer 2026)](https://jobright.ai/jobs/info/69102494183be660d2677828?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Jan 12 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Instructional Design Intern: Training Design & Development Job ID : 269491](https://jobright.ai/jobs/info/6964c89d2cbf4e44756e4959?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Jan 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6964b40aa112b40266129ee9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 12 |
 | ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6964b3df25e1871507811b69?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 12 |
 | **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Graduate Intern of Pre-Collegiate Outreach Programs](https://jobright.ai/jobs/info/6964b3662cbf4e44756e382d?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Jan 12 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Learning Management](https://jobright.ai/jobs/info/69642e4fa112b4026612264f?utm_campaign=1057&utm_source=git)** | Headquarters, NJ | On Site | Jan 11 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69642e05a112b40266122638?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 11 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69642dec25e187150780a172?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 11 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER I (Student/Work Study)](https://jobright.ai/jobs/info/69642de425e187150780a16e?utm_campaign=1057&utm_source=git)** | Flint, AR | Hybrid | Jan 11 |
 | **[Mid Fairfield Community Care Center](https://mfccc.org/)** | **[APRN Intern](https://jobright.ai/jobs/info/6963fef72cbf4e44756d9c59?utm_campaign=1057&utm_source=git)** | 100 EAST AVE - NORWALK, CT 06851 | On Site | Jan 11 |
 | **[FINRA](http://www.finra.org)** | **[Undergraduate Intern, Corporate Intern Program](https://jobright.ai/jobs/info/6963ef9da112b4026611faab?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 11 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Environmental Education Intern - Pymatuning State Park](https://jobright.ai/jobs/info/69419cf550bbaf7650536dfb?utm_campaign=1057&utm_source=git)** | Jamestown, PA | On Site | Jan 11 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
