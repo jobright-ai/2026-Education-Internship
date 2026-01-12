@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2027 EXPLORE Intern](https://jobright.ai/jobs/info/69648a3ea112b40266127250?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jan 11 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6964b40aa112b40266129ee9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 12 |
+| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6964b3df25e1871507811b69?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 12 |
+| **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Graduate Intern of Pre-Collegiate Outreach Programs](https://jobright.ai/jobs/info/6964b3662cbf4e44756e382d?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Jan 12 |
+| **[H2M architects + engineers](http://h2m.com/)** | **[Core of Excellence - Student Intern](https://jobright.ai/jobs/info/6964a86ba112b40266128057?utm_campaign=1057&utm_source=git)** | Melville, NY, USA | On Site | Jan 11 |
+| ↳ | **[Risk Management - Student Intern](https://jobright.ai/jobs/info/6964a63aa112b40266127eb4?utm_campaign=1057&utm_source=git)** | Melville, NY, USA | On Site | Jan 11 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Trading Internship](https://jobright.ai/jobs/info/69648db12cbf4e44756e0e06?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jan 11 |
+| **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2027 EXPLORE Intern](https://jobright.ai/jobs/info/69648bf22cbf4e44756e0d1e?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Jan 11 |
+| ↳ | **[Summer 2027 EXPLORE Intern](https://jobright.ai/jobs/info/69648bca25e187150780eeb2?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jan 11 |
+| ↳ | **[Summer 2027 EXPLORE Intern](https://jobright.ai/jobs/info/69648a3ea112b40266127250?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jan 11 |
 | **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Graduate Intern of Pre-Collegiate Outreach Programs](https://jobright.ai/jobs/info/69648a36a112b4026612724b?utm_campaign=1057&utm_source=git)** | Worcester | On Site | Jan 11 |
 | **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2027 EXPLORE Intern](https://jobright.ai/jobs/info/69648944a112b40266127200?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 11 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Forest Economics Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6964852c25e187150780ed29?utm_campaign=1057&utm_source=git)** | 1300 Sw 5th Ave Ste 3200, Portland, OR, 97201, US | On Site | Jan 11 |
@@ -112,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69636916a112b402661189fa?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 10 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Sophomore or Junior Internship – Summer 2027 Interest](https://jobright.ai/jobs/info/6962eaa425e18715077f9879?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[The Commons XR](https://thecommonsxr.com)** | **[UNPAID Internship - One slot available for 2026 Spring Cohort for students/Post-Grads in Mental health, Social Work, Psychology](https://jobright.ai/jobs/info/6962e49925e18715077f9827?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Jan 10 |
+| **[Springfield Public Schools (Massachusetts)](https://www.springfieldpublicschools.com/)** | **[Early Childhood Student Intern](https://jobright.ai/jobs/info/69641e2b2cbf4e44756dbbff?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Jan 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (COE) (NFWS)](https://jobright.ai/jobs/info/6962ae8e25e18715077f7606?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs - GI Oncology Summer Intern (Doctoral)](https://jobright.ai/jobs/info/6962adea25e18715077f75d7?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 10 |
 | **[Ridgewood Public Schools](https://www.ridgewood.k12.nj.us/)** | **[Summer Music Academy Director - Internal](https://jobright.ai/jobs/info/6962afcf2cbf4e44756c91a1?utm_campaign=1057&utm_source=git)** | Ridgewood, NJ | On Site | Jan 10 |
@@ -125,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/696261e625e18715077f44c2?utm_campaign=1057&utm_source=git)** | Denver County, CO | On Site | Jan 10 |
 | **[CN](http://www.cn.ca)** | **[Intern, Future Leaders Development- EN](https://jobright.ai/jobs/info/6929dcca66796e3028f8d653?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 10 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Equity & Inclusion Intern (Summer 2026)](https://jobright.ai/jobs/info/694622837d506e3808f17430?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
-| **[Springfield Public Schools (Massachusetts)](https://www.springfieldpublicschools.com/)** | **[Early Childhood Student Intern](https://jobright.ai/jobs/info/6963b27125e1871507804545?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Jan 10 |
 | **[Illinois College](http://www.ic.edu/)** | **[ST PATH Student Intern (Chesley Health & Wellness) Spring 2026](https://jobright.ai/jobs/info/69625a8625e18715077f40d8?utm_campaign=1057&utm_source=git)** | Illinois College - Jacksonville, IL 62650 | On Site | Jan 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examination Development- Notices, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912d9f3c98948514c47ece9?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jan 10 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Psychology - Department Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6945c09563141d1884554dc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Jan 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Jan 10 |
-| **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/6962245125e18715077f053e?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
