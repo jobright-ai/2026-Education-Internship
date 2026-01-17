@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696bc3c0db26b618950f479b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 17 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696bbc69350cf43803130887?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696ba2615fc86241853afdf0?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/696ba0535fc86241853afcce?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696b9d77db26b618950f25d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
@@ -71,9 +73,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Jan 17 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6965e4cd2cbf4e44756f9885?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Jan 17 |
-| **[Bank of Hawaii](https://www.boh.com/personal/)** | **[2026 Summer Intern Program](https://jobright.ai/jobs/info/694a08acc6f0e2546ceef745?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 17 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696a76165fc8624185397718?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
 | **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Jan 17 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
+| **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694eff5229655e4dd65892ed?utm_campaign=1057&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Jan 17 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694f00adce13cd1056574409?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jan 17 |
@@ -85,7 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Jan 17 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda83aa125e75c422addd9?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Jan 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Jan 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda96eddc10244dd682b4d?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Jan 17 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jan 17 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda96eddc10244dd682b4d?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Jan 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Jan 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Jan 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 17 |
@@ -100,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/696b723d350cf4380312c748?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696ab3fedb26b618950df19a?utm_campaign=1057&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
 | **[Robin Hood](http://www.robinhood.org)** | **[Summer Intern (Graduate Student)](https://jobright.ai/jobs/info/696ab3f5350cf4380311ba2a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696ab373db26b618950defcf?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 16 |
-| **[La Clínica de La Raza](https://laclinica.org/)** | **[ARISE Highschool Internship](https://jobright.ai/jobs/info/696ad0435fc862418539f1bf?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jan 16 |
 | **[Robin Hood](http://www.robinhood.org)** | **[Summer Intern (Undergraduate Student)](https://jobright.ai/jobs/info/696ab010db26b618950de3d1?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 | ↳ | **[Summer Intern (Graduate Student)](https://jobright.ai/jobs/info/696aaf655fc862418539b405?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 16 |
 | ↳ | **[Summer Intern (Undergraduate Student)](https://jobright.ai/jobs/info/696aae23350cf4380311a5e1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 16 |
 | **[Flynn Group](https://flynn.com)** | **[Instructional e-Learning Design Intern](https://jobright.ai/jobs/info/696ad5af350cf4380311f20f?utm_campaign=1057&utm_source=git)** | Independence, OH | Hybrid | Jan 16 |
-| **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696aad03350cf4380311a232?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
-| ↳ | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696aacec5fc862418539ab47?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 16 |
-| **[Ohio EPA](http://www.epa.ohio.gov/)** | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696ae6f5350cf43803121553?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
