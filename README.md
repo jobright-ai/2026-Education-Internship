@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velastra](velastra.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/696bd903db26b618950f4a74?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Jan 17 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696bc3c0db26b618950f479b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 17 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696bbc69350cf43803130887?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696ba2615fc86241853afdf0?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/696ba0535fc86241853afcce?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 17 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696b9f245fc86241853afbf8?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696b9d77db26b618950f25d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Jan 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 17 |
@@ -104,16 +106,15 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/696b723d350cf4380312c748?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
 | **[EWU School of Business](https://www.ewu.edu/cpp/business/)** | **[Associate Director, Student Financial Services](https://jobright.ai/jobs/info/696b426c5fc86241853a9aed?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 17 |
 | **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Foundation Intern](https://jobright.ai/jobs/info/696b61d4db26b618950ef6b1?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jan 16 |
 | **[Delaware Nature Society Inc](https://www.delawarenaturesociety.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/696b39e9db26b618950ebfc7?utm_campaign=1057&utm_source=git)** | Hockessin, DE 19707 | On Site | Jan 16 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/696b2cdddb26b618950eb602?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 16 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696b25445fc86241853a8596?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 16 |
 | **[Vermont State University](https://vermontstate.edu)** | **[Graduate Counseling Intern](https://jobright.ai/jobs/info/696b24075fc86241853a852d?utm_campaign=1057&utm_source=git)** | Castleton, VT | On Site | Jan 16 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/696b27495fc86241853a8695?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 16 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/69653b752cbf4e44756eb181?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Jan 16 |
 | **[Stoneridge Software](http://stoneridgesoftware.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/696ad1a55fc862418539f456?utm_campaign=1057&utm_source=git)** | Fargo, ND | Remote | Jan 16 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696b01fd350cf4380312419a?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Strategy](https://jobright.ai/jobs/info/696adfa7350cf438031205fe?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Internship, Underwriting- San Francisco, CA June 2026](https://jobright.ai/jobs/info/696adf20350cf43803120595?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Music Community Internship at Hopeless Records' Non-Profit](https://jobright.ai/jobs/info/696ade36350cf43803120496?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[American Chemical Society](https://www.acs.org/)** | **[Global and Student Engagement Intern](https://jobright.ai/jobs/info/696ab704350cf4380311bd4b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Campus Recreation Internship](https://jobright.ai/jobs/info/696ae2ae5fc86241853a1345?utm_campaign=1057&utm_source=git)** | Superior, WI | On Site | Jan 16 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696ae718db26b618950e4b72?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Jan 16 |
-| **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696ab3fedb26b618950df19a?utm_campaign=1057&utm_source=git)** | 50 W Town St50 West Town Street | On Site | Jan 16 |
 | **[Robin Hood](http://www.robinhood.org)** | **[Summer Intern (Graduate Student)](https://jobright.ai/jobs/info/696ab3f5350cf4380311ba2a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696ab373db26b618950defcf?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 16 |
 | **[Robin Hood](http://www.robinhood.org)** | **[Summer Intern (Undergraduate Student)](https://jobright.ai/jobs/info/696ab010db26b618950de3d1?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jan 16 |
 | ↳ | **[Summer Intern (Graduate Student)](https://jobright.ai/jobs/info/696aaf655fc862418539b405?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 16 |
 | ↳ | **[Summer Intern (Undergraduate Student)](https://jobright.ai/jobs/info/696aae23350cf4380311a5e1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, US | Hybrid | Jan 16 |
 | **[Flynn Group](https://flynn.com)** | **[Instructional e-Learning Design Intern](https://jobright.ai/jobs/info/696ad5af350cf4380311f20f?utm_campaign=1057&utm_source=git)** | Independence, OH | Hybrid | Jan 16 |
+| **[State of Ohio](http://ohio.gov/)** | **[2026 Summer College Intern - Communications and Outreach](https://jobright.ai/jobs/info/696aad03350cf4380311a232?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
