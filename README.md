@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/68b725c22124650c1401fad2?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jan 18 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Nutrition Dietetic Internship](https://jobright.ai/jobs/info/69179ab415b41563671797df?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 18 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Jan 18 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking](https://jobright.ai/jobs/info/696c9c8edb26b618950fe4a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696c9c335fc86241853bc558?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 18 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Student Assistant](https://jobright.ai/jobs/info/696c83dcdb26b618950fd167?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/696c7390db26b618950fcaad?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696c6d81350cf43803139830?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 17 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696c69b2db26b618950fc5d4?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
 | **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Courses & Events](https://jobright.ai/jobs/info/696c532ddb26b618950fa159?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696c47fadb26b618950f9ca7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 17 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[SUMMER INTERNSHIP](https://jobright.ai/jobs/info/696c3fa25fc86241853b6f72?utm_campaign=1057&utm_source=git)** | ARLINGTON, VA 22201 | On Site | Jan 17 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, CSR Strategy](https://jobright.ai/jobs/info/696adfa7350cf438031205fe?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Internship, Underwriting- San Francisco, CA June 2026](https://jobright.ai/jobs/info/696adf20350cf43803120595?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Music Community Internship at Hopeless Records' Non-Profit](https://jobright.ai/jobs/info/696ade36350cf43803120496?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 16 |
-| **[Journey Mental Health Center](https://www.journeymhc.org)** | **[Community Support Program Student - Intern (Unpaid) (2895)](https://jobright.ai/jobs/info/696aff8bdb26b618950e7531?utm_campaign=1057&utm_source=git)** | Madison, WI 53713 | On Site | Jan 16 |
-| ↳ | **[Behavioral Health in Schools/ Outpatient Counseling Services (Masters Internship) - Unpaid (2912)](https://jobright.ai/jobs/info/696b053ddb26b618950e7c9e?utm_campaign=1057&utm_source=git)** | MADISON, WI 53711 | On Site | Jan 16 |
+| **[Journey Mental Health Center](https://www.journeymhc.org)** | **[Behavioral Health in Schools/ Outpatient Counseling Services (Masters Internship) - Unpaid (2912)](https://jobright.ai/jobs/info/696b053ddb26b618950e7c9e?utm_campaign=1057&utm_source=git)** | MADISON, WI 53711 | On Site | Jan 16 |
+| ↳ | **[Community Support Program Student - Intern (Unpaid) (2895)](https://jobright.ai/jobs/info/696aff8bdb26b618950e7531?utm_campaign=1057&utm_source=git)** | Madison, WI 53713 | On Site | Jan 16 |
 | **[State of Ohio](http://ohio.gov/)** | **[Supports and Monitoring College Intern](https://jobright.ai/jobs/info/696afdf6350cf43803123c03?utm_campaign=1057&utm_source=git)** | 25 South Front Street25 S. Front St. | On Site | Jan 16 |
 | ↳ | **[Supports and Monitoring College Intern](https://jobright.ai/jobs/info/696afea75fc86241853a46aa?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 16 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[KidSuccess School Based Therapist Internship](https://jobright.ai/jobs/info/696b00c0db26b618950e7703?utm_campaign=1057&utm_source=git)** | Denver,CO,US | On Site | Jan 16 |
 | **[State of Ohio](http://ohio.gov/)** | **[Supports and Monitoring College Intern](https://jobright.ai/jobs/info/696b0671db26b618950e7e08?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 16 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Seeds to Trees College Intern, Spring](https://jobright.ai/jobs/info/696b03e75fc86241853a4dbe?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 16 |
-| **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Courses & Events](https://jobright.ai/jobs/info/696c0dc6db26b618950f74d3?utm_campaign=1057&utm_source=git)** | Remote - USA | Remote | Jan 16 |
-| **[The Center for Great Expectations](http://www.cge-nj.org)** | **[Clinical Intern - Residential Programs](https://jobright.ai/jobs/info/696ad0265fc862418539f189?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
