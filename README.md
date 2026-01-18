@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Student Assistant](https://jobright.ai/jobs/info/696c83dcdb26b618950fd167?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/696c7390db26b618950fcaad?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696c6d81350cf43803139830?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 17 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696c69b2db26b618950fc5d4?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 17 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
@@ -130,13 +131,13 @@ For a complete list, click the following sortable link below:
 | **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Foundation Intern](https://jobright.ai/jobs/info/696b61d4db26b618950ef6b1?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jan 16 |
 | **[Delaware Nature Society Inc](https://www.delawarenaturesociety.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/696b39e9db26b618950ebfc7?utm_campaign=1057&utm_source=git)** | Hockessin, DE 19707 | On Site | Jan 16 |
 | **[Vermont State University](https://vermontstate.edu)** | **[Graduate Counseling Intern](https://jobright.ai/jobs/info/696b24075fc86241853a852d?utm_campaign=1057&utm_source=git)** | Castleton, VT | On Site | Jan 16 |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Wasco State Prison (WSP)](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464adf6?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Jan 16 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/696b0cd4350cf43803125018?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jan 16 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Undergraduate Intern &amp;#8211; Health Information Management](https://jobright.ai/jobs/info/696c5c4f350cf438031377e2?utm_campaign=1057&utm_source=git)** | Wailuku, HI | On Site | Jan 16 |
 | **[Vibrant Emotional Health](https://www.vibrant.org)** | **[Mental Health Intern, Clinical](https://jobright.ai/jobs/info/696afd9bdb26b618950e72a5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Aces International Preschool and Childcare Center Assistant Classroom Instructor - Woodbury](https://jobright.ai/jobs/info/696afab8db26b618950e6e75?utm_campaign=1057&utm_source=git)** | Woodbury, CT | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/696af864db26b618950e6b32?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b1b42db26b618950eaa88?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696af35b350cf43803122f76?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 16 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/696b27495fc86241853a8695?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 16 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/69653b752cbf4e44756eb181?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Redington-Fairview General Hospital](https://www.rfgh.net/index.xhtml)** | **[Nursing Student Summer Intern (Paid)](https://jobright.ai/jobs/info/696acfdfdb26b618950e1f48?utm_campaign=1057&utm_source=git)** | Skowhegan, ME | On Site | Jan 16 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/696acdc4350cf4380311e3d7?utm_campaign=1057&utm_source=git)** | Merritt Island, FL | On Site | Jan 16 |
 | ↳ | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/696acd5f350cf4380311e36d?utm_campaign=1057&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Summer Internship, Underwriting- Los Angeles, CA June 2026](https://jobright.ai/jobs/info/696acd135fc862418539ec0a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
