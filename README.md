@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/696de7b9350cf4380314acdf?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 19 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696de6e8350cf4380314ac92?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 19 |
+| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696de4c8db26b6189510d5ec?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/696de198db26b6189510d531?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696de12bdb26b6189510d51d?utm_campaign=1057&utm_source=git)** | Nassawadox, VA | On Site | Jan 18 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/696ddc38350cf4380314a89a?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 18 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dc2815fc86241853c996a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 18 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696dbff6db26b6189510c07c?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 18 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dbe52db26b6189510c00b?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Jan 18 |
-| **[University of Iowa](https://uicb.uiowa.edu)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/696dac6b5fc86241853c7605?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | Jan 18 |
 | **[Transformative Changes](www.transformativechanges.org)** | **[Internship /  Apprenticeship](https://jobright.ai/jobs/info/696dab9f350cf43803147359?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jan 18 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 18 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696d95615fc86241853c68c5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 18 |
@@ -86,16 +88,15 @@ For a complete list, click the following sortable link below:
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Natural Resources Stewardship](https://jobright.ai/jobs/info/696d0c89db26b61895102e7a?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 18 |
 | ↳ | **[Summer Student Intern - Natural Resources Stewardship](https://jobright.ai/jobs/info/696d0c1e350cf4380313ff44?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 18 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/696cedb9db26b618951029d1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 18 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696ced975fc86241853c013f?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 18 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/696cece65fc86241853c00fd?utm_campaign=1057&utm_source=git)** | Rosemont, PA | On Site | Jan 18 |
+| ↳ | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/696cece65fc86241853c00fd?utm_campaign=1057&utm_source=git)** | Rosemont, PA | On Site | Jan 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696cea04350cf4380313fc64?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 18 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696ce95e350cf4380313fc25?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 18 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/696259db2cbf4e44756c5b5d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Jan 18 |
-| ↳ | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Jan 18 |
+| ↳ | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 18 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 18 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 18 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Jan 18 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
