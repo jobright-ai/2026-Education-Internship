@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 18 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696d95615fc86241853c68c5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 18 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/695ef04ba112b402660dac8d?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Jan 18 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/696d6c0a5fc86241853c4591?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696d64e9350cf4380314410f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 18 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/696259db2cbf4e44756c5b5d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Jan 18 |
-| ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 18 |
+| ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Jan 18 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 18 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 18 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Jan 18 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Nutrition Dietetic Internship](https://jobright.ai/jobs/info/69179ab415b41563671797df?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 18 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 18 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Jan 18 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696c9c335fc86241853bc558?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 18 |
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Student Assistant](https://jobright.ai/jobs/info/696c83dcdb26b618950fd167?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Courses & Events](https://jobright.ai/jobs/info/696c532ddb26b618950fa159?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 17 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[SUMMER INTERNSHIP](https://jobright.ai/jobs/info/696c3fa25fc86241853b6f72?utm_campaign=1057&utm_source=git)** | ARLINGTON, VA 22201 | On Site | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vibrant Emotional Health](https://www.vibrant.org)** | **[Mental Health Intern, Clinical](https://jobright.ai/jobs/info/696afd9bdb26b618950e72a5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/696af864db26b618950e6b32?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696af35b350cf43803122f76?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 16 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/696b27495fc86241853a8695?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
