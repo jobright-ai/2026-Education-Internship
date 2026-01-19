@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/695ef04ba112b402660dac8d?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Jan 18 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/696d6c0a5fc86241853c4591?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696d64e9350cf4380314410f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 18 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696d64d6db26b61895106c7d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 18 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/696b0cd4350cf43803125018?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jan 16 |
 | **[Vibrant Emotional Health](https://www.vibrant.org)** | **[Mental Health Intern, Clinical](https://jobright.ai/jobs/info/696afd9bdb26b618950e72a5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/696af864db26b618950e6b32?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b1b42db26b618950eaa88?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696af35b350cf43803122f76?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 16 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/696b27495fc86241853a8695?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
