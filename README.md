@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696dc528db26b6189510c484?utm_campaign=1057&utm_source=git)** | Nassawadox, Virginia | On Site | Jan 18 |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dc2985fc86241853c996e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 18 |
+| ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dc2815fc86241853c996a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 18 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696dbff6db26b6189510c07c?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 18 |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dbe52db26b6189510c00b?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Jan 18 |
+| **[University of Iowa](https://uicb.uiowa.edu)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/696dac6b5fc86241853c7605?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | Jan 18 |
+| **[Transformative Changes](www.transformativechanges.org)** | **[Internship /  Apprenticeship](https://jobright.ai/jobs/info/696dab9f350cf43803147359?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jan 18 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 18 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696d95615fc86241853c68c5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 18 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/695ef04ba112b402660dac8d?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Jan 18 |
@@ -92,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Jan 18 |
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Student Assistant](https://jobright.ai/jobs/info/696c83dcdb26b618950fd167?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Courses & Events](https://jobright.ai/jobs/info/696c532ddb26b618950fa159?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Atlanta, Summer 2026)](https://jobright.ai/jobs/info/6916b29a286ccf0a15138ba4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | **[Mercatus Center at George Mason University](http://mercatus.org)** | **[SUMMER INTERNSHIP](https://jobright.ai/jobs/info/696c3fa25fc86241853b6f72?utm_campaign=1057&utm_source=git)** | ARLINGTON, VA 22201 | On Site | Jan 17 |
 | **[Education Design Lab](https://eddesignlab.org/)** | **[Education Design Intern](https://jobright.ai/jobs/info/696bff35350cf43803134163?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jan 17 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/696bf6f85fc86241853b47c3?utm_campaign=1057&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 17 |
@@ -139,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
 | **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Accounting Assistant Professor](https://jobright.ai/jobs/info/696c56cd350cf4380313731f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jan 16 |
 | **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Foundation Intern](https://jobright.ai/jobs/info/696b61d4db26b618950ef6b1?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jan 16 |
 | **[Delaware Nature Society Inc](https://www.delawarenaturesociety.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/696b39e9db26b618950ebfc7?utm_campaign=1057&utm_source=git)** | Hockessin, DE 19707 | On Site | Jan 16 |
-| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Mule Creek State Prison (MCSP)](https://jobright.ai/jobs/info/68d7557d295f8e37655d4815?utm_campaign=1057&utm_source=git)** | Amador County, CA | On Site | Jan 16 |
-| **[Vermont State University](https://vermontstate.edu)** | **[Graduate Counseling Intern](https://jobright.ai/jobs/info/696b24075fc86241853a852d?utm_campaign=1057&utm_source=git)** | Castleton, VT | On Site | Jan 16 |
-| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Wasco State Prison (WSP)](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464adf6?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Jan 16 |
-| **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/696b0cd4350cf43803125018?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jan 16 |
-| **[Vibrant Emotional Health](https://www.vibrant.org)** | **[Mental Health Intern, Clinical](https://jobright.ai/jobs/info/696afd9bdb26b618950e72a5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 16 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/696af864db26b618950e6b32?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696af35b350cf43803122f76?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
