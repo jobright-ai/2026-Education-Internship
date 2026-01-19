@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/696de198db26b6189510d531?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 18 |
+| **[The Nature Conservancy](http://www.nature.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696de12bdb26b6189510d51d?utm_campaign=1057&utm_source=git)** | Nassawadox, VA | On Site | Jan 18 |
+| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/696ddc38350cf4380314a89a?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 18 |
+| **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/696dda84db26b6189510d11b?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Jan 18 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Mental Health Support Services](https://jobright.ai/jobs/info/696dd2915fc86241853ca389?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/696dcc2c5fc86241853ca12d?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 18 |
+| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/696dcb41350cf43803149f1c?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 18 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/696dc528db26b6189510c484?utm_campaign=1057&utm_source=git)** | Nassawadox, Virginia | On Site | Jan 18 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dc2985fc86241853c996e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 18 |
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/696dc2815fc86241853c996a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 18 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b54bfdb26b618950ee595?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 17 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 17 |
-| **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Internship - All Degrees - Summer 2026](https://jobright.ai/jobs/info/696b97675fc86241853af730?utm_campaign=1057&utm_source=git)** | Heber City, UT | On Site | Jan 17 |
-| **[EWU School of Business](https://www.ewu.edu/cpp/business/)** | **[Associate Director, Student Financial Services](https://jobright.ai/jobs/info/696b426c5fc86241853a9aed?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 17 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant/Associate/Full Professor in Computer Science](https://jobright.ai/jobs/info/696c487fdb26b618950f9cca?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Accounting Assistant Professor](https://jobright.ai/jobs/info/696c56cd350cf4380313731f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jan 16 |
-| **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Foundation Intern](https://jobright.ai/jobs/info/696b61d4db26b618950ef6b1?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jan 16 |
-| **[Delaware Nature Society Inc](https://www.delawarenaturesociety.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/696b39e9db26b618950ebfc7?utm_campaign=1057&utm_source=git)** | Hockessin, DE 19707 | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
