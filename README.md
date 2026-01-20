@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Student Intern (Center of Innovation)](https://jobright.ai/jobs/info/696f52e59c3c5263345609b9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 20 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68d021d9846f0b04af687d5a?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Jan 20 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/6937625fa0dde7020e3022c5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Jan 20 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[VOCATIONAL REHABILITATION CAREER TRAINING COORDINATOR - 01202026- 74487](https://jobright.ai/jobs/info/696f71730f4e0f657ea3b8b0?utm_campaign=1057&utm_source=git)** | Madison County, TN | On Site | Jan 20 |
+| ↳ | **[VOCATIONAL REHABILITATION CAREER TRAINING COORDINATOR - 01202026- 74454](https://jobright.ai/jobs/info/696f708282817106e976794e?utm_campaign=1057&utm_source=git)** | Maury County, TN | On Site | Jan 20 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696f77b03ed06875134a605b?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking](https://jobright.ai/jobs/info/696f447c82817106e97669c4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern Trauma Step-Down](https://jobright.ai/jobs/info/696f3f5e0f4e0f657ea3aa56?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/696f3f400f4e0f657ea3aa51?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
@@ -72,12 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/696ee245350cf4380315d9fc?utm_campaign=1057&utm_source=git)** | Kalamazoo, MI | On Site | Jan 19 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/696ef67082817106e9761977?utm_campaign=1057&utm_source=git)** | Rosemont, PA | On Site | Jan 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696ed4915fc86241853dcf49?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 19 |
-| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696ed458db26b6189511f392?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 19 |
 | **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/696ed33f350cf4380315cd23?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Jan 19 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/696ed257350cf4380315cca5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 19 |
 | **[CIBC Mellon](https://www.cibcmellon.com)** | **[Summer Internship Student - May to August 2026 Term](https://jobright.ai/jobs/info/696eca9adb26b6189511d808?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[Monroe Hospital](http://www.monroehospital.com)** | **[Student Nurse Intern - Med/Surg Acute](https://jobright.ai/jobs/info/696ea9a4db26b6189511a09d?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Jan 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - NJBU - 2025-2026](https://jobright.ai/jobs/info/696ea797db26b61895119bf2?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Jan 19 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[Licensed Professional Counselor Intern](https://jobright.ai/jobs/info/696ea1865fc86241853d6a83?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 19 |
 | **[Mount Royal University](http://www.mtroyal.ca/)** | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/696599f85ad3a93f8230f5d3?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 19 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Student Nurse Intern -  Med/Surg Acute](https://jobright.ai/jobs/info/696e8905db26b6189511662d?utm_campaign=1057&utm_source=git)** | US-IN-Bloomington | On Site | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Jan 17 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Jan 17 |
 | ↳ | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Jan 17 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
