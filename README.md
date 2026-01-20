@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Student Intern (Center of Innovation)](https://jobright.ai/jobs/info/696f52e59c3c5263345609b9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking](https://jobright.ai/jobs/info/696f447c82817106e97669c4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern Trauma Step-Down](https://jobright.ai/jobs/info/696f3f5e0f4e0f657ea3aa56?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/696f3f400f4e0f657ea3aa51?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Jan 20 |
@@ -74,9 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/696ed458db26b6189511f392?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 19 |
 | **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/696ed33f350cf4380315cd23?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Jan 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/696ed257350cf4380315cca5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 19 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/696ecb99350cf4380315b1b0?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 19 |
 | **[CIBC Mellon](https://www.cibcmellon.com)** | **[Summer Internship Student - May to August 2026 Term](https://jobright.ai/jobs/info/696eca9adb26b6189511d808?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/696eb985db26b6189511c190?utm_campaign=1057&utm_source=git)** | Flint, AR | On Site | Jan 19 |
 | **[Monroe Hospital](http://www.monroehospital.com)** | **[Student Nurse Intern - Med/Surg Acute](https://jobright.ai/jobs/info/696ea9a4db26b6189511a09d?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Jan 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - NJBU - 2025-2026](https://jobright.ai/jobs/info/696ea797db26b61895119bf2?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Jan 19 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[Licensed Professional Counselor Intern](https://jobright.ai/jobs/info/696ea1865fc86241853d6a83?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 19 |
@@ -89,11 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/696e4a7a350cf43803150bd4?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 19 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696e467a5fc86241853d0add?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 19 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/696e45a1350cf4380315092b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jan 19 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/696e42f0db26b6189511309c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 19 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/696e42e7db26b61895113093?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 19 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/696e4284db26b61895113070?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jan 19 |
-| ↳ | **[International Enrollment Coordinator](https://jobright.ai/jobs/info/696e4174db26b61895112fdb?utm_campaign=1057&utm_source=git)** | Clarendon, TX | On Site | Jan 19 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/696e3fccdb26b61895112f4c?utm_campaign=1057&utm_source=git)** | Reston, VA | Remote | Jan 19 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68ce6c75846f0b04af679b5a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 19 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/696eabaa5fc86241853d801c?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 19 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68cc4aea16d00d2beeb1d243?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
@@ -133,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/696259db2cbf4e44756c5b5d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Jan 18 |
-| ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Jan 18 |
 | ↳ | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 18 |
+| ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Jan 18 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 18 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 18 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Jan 18 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/695fe4857ebc25398eb5bc80?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/68dd73e9ddc10244dd67f7fc?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Jan 17 |
+| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Jan 17 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Jan 17 |
+| ↳ | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Jan 17 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
