@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Seasonal Health and Performance Intern](https://jobright.ai/jobs/info/69712b6651f7264771835fca?utm_campaign=1057&utm_source=git)** | 76 Lou Groza Boulevard, Berea, OH, USA | On Site | Jan 21 |
+| **[Jefferson County, Colorado](https://jeffco.us)** | **[Jeffco Innovation Lab Intern](https://jobright.ai/jobs/info/69712b13333b6343a14d9bd6?utm_campaign=1057&utm_source=git)** | Golden, CO | Hybrid | Jan 21 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Inventory Management Systems](https://jobright.ai/jobs/info/6971287f587dfa0bb55eb144?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/697113a8587dfa0bb55ea5a7?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | Jan 21 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1057&utm_source=git)** | Manteno, Illinois | On Site | Jan 21 |
 | **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/6971096e333b6343a14d86c2?utm_campaign=1057&utm_source=git)** | Winston Salem, NC | On Site | Jan 21 |
+| **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/697125a0587dfa0bb55eae63?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | On Site | Jan 21 |
 | **[Penn State University](http://psu.edu)** | **[Spring 2026 Undergraduate Research Internship: Community-Based Coaching & Health Interventions](https://jobright.ai/jobs/info/6971037651f72647718332dc?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Jan 21 |
 | **[Flexco](https://flexco.com)** | **[Instructional Content Intern](https://jobright.ai/jobs/info/6971034a333b6343a14d83dc?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | On Site | Jan 21 |
 | **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/69710213587dfa0bb55e822e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -124,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[All Tile CCS](https://alltile.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69701e1e82817106e97735fe?utm_campaign=1057&utm_source=git)** | Bloomington, MN | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Research Facilitator – Summer 2026](https://jobright.ai/jobs/info/69701c8d82817106e9773532?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern West 3 Cardiac PICU](https://jobright.ai/jobs/info/69701c230f4e0f657ea4754a?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
-| **[Dallas Museum of Art](https://dma.org/)** | **[McDermott Intern for Access Programs & Resources](https://jobright.ai/jobs/info/69703afe333b6343a14ca418?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
-| ↳ | **[McDermott Intern for School Outreach Programs](https://jobright.ai/jobs/info/69703e9f587dfa0bb55dc1b1?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
+| **[Dallas Museum of Art](https://dma.org/)** | **[McDermott Intern for School Outreach Programs](https://jobright.ai/jobs/info/69703e9f587dfa0bb55dc1b1?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
+| ↳ | **[McDermott Intern for Access Programs & Resources](https://jobright.ai/jobs/info/69703afe333b6343a14ca418?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
 | **[City of Fridley](http://www.fridleymn.gov)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69703ee1333b6343a14ca82d?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Jan 20 |
 | **[Community State Bank - Des Moines, IA](https://www.bankcsb.com/)** | **[Intern Summer 2026](https://jobright.ai/jobs/info/6970118c82817106e9772ccb?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Jan 20 |
 | **[Kailera Therapeutics](https://www.kailera.com)** | **[Internship: Clinical Operations](https://jobright.ai/jobs/info/69700e0a82817106e97729b7?utm_campaign=1057&utm_source=git)** | Waltham, Massachusetts | On Site | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | Hybrid | Jan 20 |
 | **[Vibrant Emotional Health](https://www.vibrant.org)** | **[Mental Health Intern, Clinical](https://jobright.ai/jobs/info/696afd9bdb26b618950e72a5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/696fe88782817106e976ee54?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
-| ↳ | **[Program and Operations Coordinator, The Pride Center (Student Services Professional III)](https://jobright.ai/jobs/info/696fe8520f4e0f657ea42fa2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 20 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fe69c3ed06875134ad05a?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Jan 20 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/696fe59d0f4e0f657ea42c03?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
