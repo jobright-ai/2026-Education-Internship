@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID 2026-3785)](https://jobright.ai/jobs/info/69706d82587dfa0bb55e1477?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
+| ↳ | **[Summer 2026, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID 2026-3784)](https://jobright.ai/jobs/info/69706d7f51f726477182c223?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69706c40333b6343a14cfaeb?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 20 |
 | **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/69705a9f51f7264771829f44?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/69705279333b6343a14cbf7b?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/697051af333b6343a14cbef3?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 20 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[All Tile CCS](https://alltile.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69701e1e82817106e97735fe?utm_campaign=1057&utm_source=git)** | Bloomington, MN | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Research Facilitator – Summer 2026](https://jobright.ai/jobs/info/69701c8d82817106e9773532?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern West 3 Cardiac PICU](https://jobright.ai/jobs/info/69701c230f4e0f657ea4754a?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
-| **[Dallas Museum of Art](https://dma.org/)** | **[McDermott Intern for Access Programs & Resources](https://jobright.ai/jobs/info/69703afe333b6343a14ca418?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
-| ↳ | **[McDermott Intern for School Outreach Programs](https://jobright.ai/jobs/info/69703e9f587dfa0bb55dc1b1?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
+| **[Dallas Museum of Art](https://dma.org/)** | **[McDermott Intern for School Outreach Programs](https://jobright.ai/jobs/info/69703e9f587dfa0bb55dc1b1?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
+| ↳ | **[McDermott Intern for Access Programs & Resources](https://jobright.ai/jobs/info/69703afe333b6343a14ca418?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 20 |
 | **[City of Fridley](http://www.fridleymn.gov)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69703ee1333b6343a14ca82d?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Jan 20 |
 | **[Community State Bank - Des Moines, IA](https://www.bankcsb.com/)** | **[Intern Summer 2026](https://jobright.ai/jobs/info/6970118c82817106e9772ccb?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Jan 20 |
 | **[Kailera Therapeutics](https://www.kailera.com)** | **[Internship: Clinical Operations](https://jobright.ai/jobs/info/69700e0a82817106e97729b7?utm_campaign=1057&utm_source=git)** | Waltham, Massachusetts | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953f8925bb7de448ef6e902?utm_campaign=1057&utm_source=git)** | Red Bank, NJ | On Site | Jan 20 |
 | ↳ | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953eb5eaa05c26e7aae6c95?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fb82a0f4e0f657ea40a87?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
-| ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fb6a93ed06875134aa554?utm_campaign=1057&utm_source=git)** | Scottsbluff, NE | On Site | Jan 20 |
-| **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953ec7a5bb7de448ef6e667?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fb4d782817106e976bf02?utm_campaign=1057&utm_source=git)** | Health and Human Services, 1955 Military Ave - Fremont | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
