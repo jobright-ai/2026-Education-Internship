@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Training Specialist (Internal Only)](https://jobright.ai/jobs/info/6970b73951f726477182f555?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jan 21 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Assistant Director of Clinical Nutrition and Dietetic Internship Director](https://jobright.ai/jobs/info/6959e395aa05c26e7ab3844e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Technical Internships - Summer 2026](https://jobright.ai/jobs/info/6970b38a587dfa0bb55e4791?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 21 |
+| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Mental Health Therapist- LCSW, LPCC, LMSW, LMHC, LMFT, Intern](https://jobright.ai/jobs/info/6970ba9551f726477182f5a9?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Kaleida Health](http://www.kaleidahealth.org)** | **[Pharmacy Intern HC](https://jobright.ai/jobs/info/69709ccc333b6343a14d29ca?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Jan 21 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697098ba587dfa0bb55e3bf3?utm_campaign=1057&utm_source=git)** | Deerfield, IL | On Site | Jan 21 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Trading Internship](https://jobright.ai/jobs/info/6970986d51f726477182e500?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 21 |
@@ -99,8 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69700b960f4e0f657ea466ec?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Supervision and Regulation Intern- Bank Examiner](https://jobright.ai/jobs/info/69700aa582817106e97726e9?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Jan 20 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Finance & Accounting Development Program Intern - Omaha, NE](https://jobright.ai/jobs/info/697004c20f4e0f657ea46261?utm_campaign=1057&utm_source=git)** | Omaha, NE | Hybrid | Jan 20 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6970223682817106e97739af?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 20 |
-| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697022aa3ed06875134b20e5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 20 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697022aa3ed06875134b20e5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 20 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6970212e3ed06875134b2011?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Research Facilitator – Summer 2026](https://jobright.ai/jobs/info/697001a13ed06875134b01e2?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 | ↳ | **[Supervision and Regulation Intern- Bank Examiner](https://jobright.ai/jobs/info/697001410f4e0f657ea45edb?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | Hybrid | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fc56c3ed06875134ab554?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Jan 20 |
 | **[Community State Bank - Des Moines, IA](https://www.bankcsb.com/)** | **[Intern Summer 2026](https://jobright.ai/jobs/info/696fe59c82817106e976ead5?utm_campaign=1057&utm_source=git)** | Ankeny,IA,US | On Site | Jan 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[2026 Specialty Program-  Boeing LGO Internship Leadership Program](https://jobright.ai/jobs/info/696fc50682817106e976d329?utm_campaign=1057&utm_source=git)** | USA - Everett, WA | On Site | Jan 20 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fc48482817106e976d2d1?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Summer Internship, Underwriting- Los Angeles, CA June 2026](https://jobright.ai/jobs/info/696acd135fc862418539ec0a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
-| ↳ | **[Summer Internship, Underwriting- San Francisco, CA June 2026](https://jobright.ai/jobs/info/696adf20350cf43803120595?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
