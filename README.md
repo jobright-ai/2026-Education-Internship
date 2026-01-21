@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69708ff851f726477182d1f3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/697080fe587dfa0bb55e1c32?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID 2026-3785)](https://jobright.ai/jobs/info/69706d82587dfa0bb55e1477?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | ↳ | **[Summer 2026, Research Internship, Brown Center on Education Policy, Governance Studies (Job ID 2026-3784)](https://jobright.ai/jobs/info/69706d7f51f726477182c223?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69706c40333b6343a14cfaeb?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/697088a0587dfa0bb55e21da?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jan 20 |
 | **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/69705a9f51f7264771829f44?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/69705279333b6343a14cbf7b?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/697051af333b6343a14cbef3?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com)** | **[2026 Summer Intern- IT](https://jobright.ai/jobs/info/696fc0a182817106e976d0ac?utm_campaign=1057&utm_source=git)** | 9 Roy Street, Dover, NJ, 07801-4308, US | On Site | Jan 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[2026 Specialty Program-  Boeing LGO Internship Leadership Program](https://jobright.ai/jobs/info/696fbf3482817106e976d01a?utm_campaign=1057&utm_source=git)** | USA - North Charleston, SC | On Site | Jan 20 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fbc253ed06875134ab02a?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Jan 20 |
-| **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953f8925bb7de448ef6e902?utm_campaign=1057&utm_source=git)** | Red Bank, NJ | On Site | Jan 20 |
-| ↳ | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953eb5eaa05c26e7aae6c95?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
