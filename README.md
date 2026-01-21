@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1057&utm_source=git)** | Manteno, Illinois | On Site | Jan 21 |
+| **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/6971096e333b6343a14d86c2?utm_campaign=1057&utm_source=git)** | Winston Salem, NC | On Site | Jan 21 |
 | **[Penn State University](http://psu.edu)** | **[Spring 2026 Undergraduate Research Internship: Community-Based Coaching & Health Interventions](https://jobright.ai/jobs/info/6971037651f72647718332dc?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Jan 21 |
 | **[Flexco](https://flexco.com)** | **[Instructional Content Intern](https://jobright.ai/jobs/info/6971034a333b6343a14d83dc?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | On Site | Jan 21 |
 | **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/69710213587dfa0bb55e822e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[TIH](https://www.truistinsurance.com/)** | **[Intern - CRC](https://jobright.ai/jobs/info/6970eb2c51f7264771832337?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 21 |
 | **[Sioux Falls School District](http://www.sf.k12.sd.us)** | **[School Nurse - Extended School Year & Summer Programs (INTERNAL CANDIDATES ONLY)](https://jobright.ai/jobs/info/6970ea3851f72647718322ae?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Jan 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6970e8f3333b6343a14d5ce0?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
+| **[Upptik](https://upptik.com)** | **[Upptik Internships](https://jobright.ai/jobs/info/697103f0587dfa0bb55e8899?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Remote | Jan 21 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[FY25 International Student On-Campus Employment Trainee (1207)](https://jobright.ai/jobs/info/6971038c51f7264771833322?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697100a9333b6343a14d7373?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 21 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Jan 21 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Substance Use Disorder Clinical Intern (Master's Level)](https://jobright.ai/jobs/info/6970ebdd51f726477183239b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Jan 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69543ac2f1f8465b79eb5887?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Parks and Recreation (Therapeutic Recreation)](https://jobright.ai/jobs/info/6970eec551f726477183255c?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
-| ↳ | **[2026 Summer Intern - Learning and Performance Center](https://jobright.ai/jobs/info/6970e7b851f7264771832132?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Learning and Performance Center](https://jobright.ai/jobs/info/6970e7b851f7264771832132?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
+| ↳ | **[2026 Summer Intern - Parks and Recreation (Therapeutic Recreation)](https://jobright.ai/jobs/info/6970eec551f726477183255c?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
 | ↳ | **[2026 Summer Intern - Juvenile Justice Services](https://jobright.ai/jobs/info/6970e691587dfa0bb55e729b?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Training Specialist (Internal Only)](https://jobright.ai/jobs/info/6970b73951f726477182f555?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jan 21 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Assistant Director of Clinical Nutrition and Dietetic Internship Director](https://jobright.ai/jobs/info/6959e395aa05c26e7ab3844e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 20 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fe69c3ed06875134ad05a?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Jan 20 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/696fe59d0f4e0f657ea42c03?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Jan 20 |
-| **[Varsity Spirit](https://www.varsity.com/)** | **[Operations Assistant, Training & Education - Internship](https://jobright.ai/jobs/info/6970036b82817106e9772060?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 20 |
-| **[All Surfaces](https://allsurfaces.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/697001ce0f4e0f657ea45f73?utm_campaign=1057&utm_source=git)** | Bloomington, MN | Hybrid | Jan 20 |
-| **[Tampa International Forest Products, LLC](http://tifp.com)** | **[Summer Internship - Commodity Trading](https://jobright.ai/jobs/info/697004033ed06875134b044f?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
