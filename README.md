@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69718872333b6343a14e236a?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
+| **[Memorial Health](https://memorial.health)** | **[Summer 2026 Student Nurse Intern- Lincoln Memorial Hospital - ED](https://jobright.ai/jobs/info/697181fa587dfa0bb55f34e2?utm_campaign=1057&utm_source=git)** | US-IL-Lincoln | On Site | Jan 21 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/697180a3587dfa0bb55f3360?utm_campaign=1057&utm_source=git)** | Glenview, IL | On Site | Jan 21 |
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/69717ec251f726477183db53?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Jan 21 |
 | **[Vanir](http://vanir.com)** | **[Student Trainee](https://jobright.ai/jobs/info/69717e20587dfa0bb55f30a6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/697051af333b6343a14cbef3?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 20 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[ACE Mentoring Program Alumni Summer Internship](https://jobright.ai/jobs/info/6970503751f72647718285ad?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[American Savings Bank](https://www.asbhawaii.com/)** | **[ASB Intern](https://jobright.ai/jobs/info/69251c1dc0cefa13343e6a64?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 20 |
-| **[California State University, Monterey Bay](https://www.csumb.edu)** | **[New Student Programs & Campus Tour Coordinator - Internal Only Recruitment](https://jobright.ai/jobs/info/69704a0851f726477182810f?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Jan 20 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Money Museum – Summer 2026](https://jobright.ai/jobs/info/69702ebf587dfa0bb55db134?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
