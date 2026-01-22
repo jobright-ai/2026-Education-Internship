@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6959f00e9f1b381eb272a85e?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/6939c81bac80bb5492bc4be8?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Jan 22 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6972097fcda45e6953583ed2?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[MB Academy Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ea59b707bf728a4b83c3?utm_campaign=1057&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Packsize](https://www.packsize.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69717a3751f726477183d61d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[#DegreesNYC](https://www.degreesnyc.org/)** | **[Internship Specialist (Learning to Work)](https://jobright.ai/jobs/info/697195b851f726477183f0d5?utm_campaign=1057&utm_source=git)** | Learning to Work - New York, NY 10025 | On Site | Jan 21 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Summer Intern - Sanford Sports Performance](https://jobright.ai/jobs/info/69716c8f587dfa0bb55f0bb3?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Jan 21 |
+| **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69720fa4cda45e69535840c4?utm_campaign=1057&utm_source=git)** | Camden, New Jersey, United States | On Site | Jan 21 |
 | **[Packsize](https://www.packsize.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/697167ae51f726477183b290?utm_campaign=1057&utm_source=git)** | Packsize Salt Lake City | On Site | Jan 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697165d9587dfa0bb55f0685?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 21 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6971643a51f726477183af33?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 21 |
@@ -140,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Spring 2026 Undergraduate Research Internship: Community-Based Coaching & Health Interventions](https://jobright.ai/jobs/info/6971037651f72647718332dc?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Jan 21 |
 | **[Flexco](https://flexco.com)** | **[Instructional Content Intern](https://jobright.ai/jobs/info/6971034a333b6343a14d83dc?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | On Site | Jan 21 |
 | **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/69710213587dfa0bb55e822e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/6970fc72587dfa0bb55e7f56?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 21 |
 | **[American Management Association](http://www.amanet.org/)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/6970fadc333b6343a14d6656?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Special Programs Intern](https://jobright.ai/jobs/info/6970f818587dfa0bb55e7c8c?utm_campaign=1057&utm_source=git)** | US Nationwide - Remote | Remote | Jan 21 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/6970f76151f72647718328ae?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6970cef9587dfa0bb55e6571?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO, Red Bank, NJ and NYC](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 21 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Jan 21 |
-| **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Substance Use Disorder Clinical Intern (Master's Level)](https://jobright.ai/jobs/info/6970ebdd51f726477183239b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[US Vietnam Talent International School](https://utschool.edu.vn/)** | **[Intern, School Projects](https://jobright.ai/jobs/info/6971bbf551f7264771842f52?utm_campaign=1057&utm_source=git)** | Greater Van | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
