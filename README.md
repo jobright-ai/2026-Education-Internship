@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[MB Academy Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ea59b707bf728a4b83c3?utm_campaign=1057&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6971e84db707bf728a4b828d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6971e7c6cda45e695358179e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[MB Academy Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/6971e720cda45e6953581580?utm_campaign=1057&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 22 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6971dbbdcda45e6953580d57?utm_campaign=1057&utm_source=git)** | Becket, MA 01223 | On Site | Jan 22 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Innovation Program Management Assistant (Co-op Student)](https://jobright.ai/jobs/info/696886ac1703f05405aa4728?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern-Alamo TN](https://jobright.ai/jobs/info/6971d081b707bf728a4b5d0a?utm_campaign=1057&utm_source=git)** | Alamo, TN | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6970cef9587dfa0bb55e6571?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO, Red Bank, NJ and NYC](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 21 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Jan 21 |
-| **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Substance Use Disorder Clinical Intern (Master's Level)](https://jobright.ai/jobs/info/6970ebdd51f726477183239b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[US Vietnam Talent International School](https://utschool.edu.vn/)** | **[Intern, School Projects](https://jobright.ai/jobs/info/6971bbf551f7264771842f52?utm_campaign=1057&utm_source=git)** | Greater Van | On Site | Jan 21 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Jan 21 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69543ac2f1f8465b79eb5887?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
