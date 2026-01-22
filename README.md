@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6971beba587dfa0bb55f8693?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 21 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Student Nurse Intern, Little Rock, Seeking Summer 2027 RN Graduates](https://jobright.ai/jobs/info/695c532af1f8465b79f276e5?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jan 21 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - Innovation](https://jobright.ai/jobs/info/69688af4f25a380066970960?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Jan 21 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales Lab - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6971afa6587dfa0bb55f7983?utm_campaign=1057&utm_source=git)** | 127 S San Vicente Blvd, Los Angeles, CA, 90048, US | On Site | Jan 21 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO, Red Bank, NJ and NYC](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 21 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Jan 21 |
 | **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Substance Use Disorder Clinical Intern (Master's Level)](https://jobright.ai/jobs/info/6970ebdd51f726477183239b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
+| **[US Vietnam Talent International School](https://utschool.edu.vn/)** | **[Intern, School Projects](https://jobright.ai/jobs/info/6971bbf551f7264771842f52?utm_campaign=1057&utm_source=git)** | Greater Van | On Site | Jan 21 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Jan 21 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69543ac2f1f8465b79eb5887?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Learning and Performance Center](https://jobright.ai/jobs/info/6970e7b851f7264771832132?utm_campaign=1057&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Assistant Director of Clinical Nutrition and Dietetic Internship Director](https://jobright.ai/jobs/info/6959e395aa05c26e7ab3844e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Technical Internships - Summer 2026](https://jobright.ai/jobs/info/6970b38a587dfa0bb55e4791?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 21 |
 | **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6970d9cd587dfa0bb55e6bd4?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jan 21 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern II-22463](https://jobright.ai/jobs/info/691be32215b4156367193c64?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| ↳ | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
