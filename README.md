@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Health Plan Operations Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/697251799b83b424830e3946?utm_campaign=1057&utm_source=git)** | Remote-NY | Remote | Jan 22 |
+| **[Braathe Enterprises](http://www.beyourstart.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69724f33584a1c1ef6fd43e9?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Brixenta](brixenta.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/69724e57584a1c1ef6fd4362?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Jan 22 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69724063584a1c1ef6fd3a4a?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacy Intern](https://jobright.ai/jobs/info/69723f7b9b83b424830e2dd4?utm_campaign=1057&utm_source=git)** | Work at Home - Ohio | Hybrid | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69723f719b83b424830e2dca?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexco](https://flexco.com)** | **[Instructional Content Intern](https://jobright.ai/jobs/info/6971034a333b6343a14d83dc?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | On Site | Jan 21 |
 | **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship/Seasonal Support](https://jobright.ai/jobs/info/69710213587dfa0bb55e822e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[KANSAS OIL RESERVES LLC](https://www.linkedin.com/company/56119048)** | **[Student Representative Internship](https://jobright.ai/jobs/info/6972343fcda18b7438649675?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Remote | Jan 21 |
-| **[American Management Association](http://www.amanet.org/)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/6970fadc333b6343a14d6656?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Special Programs Intern](https://jobright.ai/jobs/info/6970f818587dfa0bb55e7c8c?utm_campaign=1057&utm_source=git)** | US Nationwide - Remote | Remote | Jan 21 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/6970f76151f72647718328ae?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[TIH](https://www.truistinsurance.com/)** | **[Intern - CRC](https://jobright.ai/jobs/info/6970ee49333b6343a14d607f?utm_campaign=1057&utm_source=git)** | CRC-Coconut Creek FL 4467 Lyons | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
