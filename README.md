@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Jan 22 |
+| **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/690130b04539ea1f2141daf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6959f00e9f1b381eb272a85e?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 22 |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[MB Academy Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/697227cacda45e6953586989?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/6939c81bac80bb5492bc4be8?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Jan 22 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6972097fcda45e6953583ed2?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 22 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[MB Academy Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ea59b707bf728a4b83c3?utm_campaign=1057&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/6971e84db707bf728a4b828d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6971e7c6cda45e695358179e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[FY25 International Student On-Campus Employment Trainee (1207)](https://jobright.ai/jobs/info/6971038c51f7264771833322?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Jan 21 |
 | **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6970cef9587dfa0bb55e6571?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
-| **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO, Red Bank, NJ and NYC](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 21 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
