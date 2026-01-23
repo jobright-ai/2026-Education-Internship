@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 23 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Training Onboarding/Admin-College Intern](https://jobright.ai/jobs/info/6973cc09bc8e722e7b189a96?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Jan 23 |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[UCONN Dental Student Summer Internship](https://jobright.ai/jobs/info/6973c94237785856350d9a9a?utm_campaign=1057&utm_source=git)** | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Hybrid | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[ADAPTIVE SPORTS EDUCATION CONFERENCE INTERN](https://jobright.ai/jobs/info/6973c02b206da320f49dbab0?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 23 |
 | ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Imperial Oil](http://www.imperialoil.ca)** | **[Indigenous Internship Program - Cold Lake](https://jobright.ai/jobs/info/6972c6b29b83b424830ecda2?utm_campaign=1057&utm_source=git)** | Cold Lake, Alberta, Canada | On Site | Jan 22 |
 | **[BOK Financial](https://www.bokfinancial.com)** | **[Accelerated Career Track Intern (Tulsa) - Enterprise Data 2026](https://jobright.ai/jobs/info/697296684ccbf64f8df2901e?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US, 74101 | On Site | Jan 22 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[RN - Registered Nurse - Labor and Delivery Internship - MPH](https://jobright.ai/jobs/info/697296664ccbf64f8df29019?utm_campaign=1057&utm_source=git)** | All, MO | On Site | Jan 22 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Emergency Management Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/697295769b83b424830e8c1a?utm_campaign=1057&utm_source=git)** | Mercury, NV | On Site | Jan 22 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Real Estate](https://jobright.ai/jobs/info/6972b00e4ccbf64f8df2bb6a?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Jan 22 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Agricultural and Community Health Intern](https://jobright.ai/jobs/info/697291124ccbf64f8df285e8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
