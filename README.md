@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orange County Public Schools](https://ocps.net)** | **[TECH VOCATIONAL INSTR PT CHILD CARE APPRENTICESHIP- DAY/EVENING](https://jobright.ai/jobs/info/69731795206da320f49d20c8?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
+| **[Tessera](https://tessera.org)** | **[Summer Academy Intern](https://jobright.ai/jobs/info/69731740694e99351d1470ff?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 22 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Health & Wellness Summer Intern](https://jobright.ai/jobs/info/69730b8c206da320f49d1031?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Undergraduate Intern - Patient Financial Operations and Administration](https://jobright.ai/jobs/info/6972fe90206da320f49cf3cc?utm_campaign=1057&utm_source=git)** | Hawaii-Wailuku-Maui Mem. Wili Pa Loop Building | On Site | Jan 22 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Early Career Development Programs Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6972f960694e99351d144052?utm_campaign=1057&utm_source=git)** | Livonia, MI | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Learning & Organizational Development Intern - Spring of 2026](https://jobright.ai/jobs/info/69723e929b83b424830e2d70?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[House Parent for International Students](https://jobright.ai/jobs/info/69723ceb4ccbf64f8df22e68?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | ↳ | **[International Student Advisor](https://jobright.ai/jobs/info/69723cc74ccbf64f8df22e56?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Summer 2026 Education & Workplace Justice Intern (Law Student)](https://jobright.ai/jobs/info/693a3a9b48a8ce22990e36d1?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 22 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/69725b304ccbf64f8df2532e?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
