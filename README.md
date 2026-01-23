@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Jan 23 |
+| ↳ | **[Sales Training Intern](https://jobright.ai/jobs/info/691e130009cc522e87735c25?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/693b4186d4054a2bc0252c9c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 23 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/69537070f1f8465b79eac143?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, United States | On Site | Jan 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69734c1bbc8e722e7b182e72?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
 | ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69733d51206da320f49d401e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Medical Assistant Intern-Training Program](https://jobright.ai/jobs/info/69725ad0584a1c1ef6fd5aff?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
 | **[Skookum](https://tessera.org)** | **[Summer Academy Intern](https://jobright.ai/jobs/info/697258d6584a1c1ef6fd53a5?utm_campaign=1057&utm_source=git)** | Bremerton, Washington | On Site | Jan 22 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69728234584a1c1ef6fd7d97?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 22 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6972ffec1790715e866bebdc?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | Jan 22 |
-| **[Brixenta](brixenta.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/69724e57584a1c1ef6fd4362?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Jan 22 |
-| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 22 |
-| **[Humana](http://www.humana.com)** | **[Unpaid Pharmacy Intern](https://jobright.ai/jobs/info/69723f7b9b83b424830e2dd4?utm_campaign=1057&utm_source=git)** | Work at Home - Ohio | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
