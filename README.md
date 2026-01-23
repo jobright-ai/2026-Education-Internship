@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prisma Health](https://www.prismahealth.org)** | **[OBGYN Student Intern](https://jobright.ai/jobs/info/697321621790715e866c1f17?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 22 |
 | **[Orange County Public Schools](https://ocps.net)** | **[TECH VOCATIONAL INSTR PT CHILD CARE APPRENTICESHIP- DAY/EVENING](https://jobright.ai/jobs/info/69731795206da320f49d20c8?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[Tessera](https://tessera.org)** | **[Summer Academy Intern](https://jobright.ai/jobs/info/69731740694e99351d1470ff?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 22 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Health & Wellness Summer Intern](https://jobright.ai/jobs/info/69730b8c206da320f49d1031?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 22 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Emergency Management Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/697295769b83b424830e8c1a?utm_campaign=1057&utm_source=git)** | Mercury, NV | On Site | Jan 22 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Real Estate](https://jobright.ai/jobs/info/6972b00e4ccbf64f8df2bb6a?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Jan 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Agricultural and Community Health Intern](https://jobright.ai/jobs/info/697291124ccbf64f8df285e8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6972b9be4ccbf64f8df2c5db?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6972b4989b83b424830ebcd5?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 22 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[PROS Intern - Mount Vernon](https://jobright.ai/jobs/info/6972af639b83b424830eb7d5?utm_campaign=1057&utm_source=git)** | Mount Vernon, NY | On Site | Jan 22 |
 | ↳ | **[Behavioral Health Clinic Intern - Middletown](https://jobright.ai/jobs/info/6972adde4ccbf64f8df2b8fa?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Jan 22 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6972ba299b83b424830ec280?utm_campaign=1057&utm_source=git)** | 8355 N RAMPART RANGE RD, LITTLETON, CO, 80125, US | On Site | Jan 22 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6972ffec1790715e866bebdc?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | Jan 22 |
 | **[Brixenta](brixenta.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/69724e57584a1c1ef6fd4362?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Jan 22 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69724063584a1c1ef6fd3a4a?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacy Intern](https://jobright.ai/jobs/info/69723f7b9b83b424830e2dd4?utm_campaign=1057&utm_source=git)** | Work at Home - Ohio | Hybrid | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69723f719b83b424830e2dca?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Learning & Organizational Development Intern - Spring of 2026](https://jobright.ai/jobs/info/69723e929b83b424830e2d70?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 22 |
