@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AgTrust Farm Credit](https://lonestaragcredit.com)** | **[Summer Internship - New Mexico](https://jobright.ai/jobs/info/697521b4bc8e722e7b1a09c4?utm_campaign=1057&utm_source=git)** | Clovis, NM | On Site | Jan 24 |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Pathways Intern: Connections Project Teaching and Administration Assistant](https://jobright.ai/jobs/info/69751ce6bc8e722e7b1a0801?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Jan 24 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6974ff2d37785856350f0673?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 24 |
 | **[City of Fridley](http://www.fridleymn.gov)** | **[Parks and Recreation Internship](https://jobright.ai/jobs/info/6974fac7206da320f49f2c53?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Jan 24 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6974f645bc8e722e7b19f88f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/691e130009cc522e87735c25?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 23 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Colorado Heritage Nurse Internship 2](https://jobright.ai/jobs/info/69737f6637785856350d5968?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
-| **[American Savings Bank](https://www.asbhawaii.com/)** | **[ASB Intern](https://jobright.ai/jobs/info/69251c1dc0cefa13343e6a64?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 23 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/69737ab1206da320f49d7e94?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
