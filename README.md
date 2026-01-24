@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/6974905937785856350eb10a?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 24 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6974807937785856350e926c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Credit Intern (Starting May 2026!)](https://jobright.ai/jobs/info/69747b73bc8e722e7b198c79?utm_campaign=1057&utm_source=git)** | Lafayette, IN, USA | On Site | Jan 23 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69739065206da320f49d8a9a?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Jan 23 |
 | **[Center For Individual Rights](https://www.cir-usa.org)** | **[Summer Clerkship Program](https://jobright.ai/jobs/info/69738fce206da320f49d8a62?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Summer 2026 Undergraduate Internship Program – Hospital Operations](https://jobright.ai/jobs/info/69738f27206da320f49d8a22?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69738e3937785856350d6153?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 23 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/697387c5bc8e722e7b185acb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697386ba37785856350d5c5c?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 23 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/69739fea206da320f49d9203?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Jan 23 |
