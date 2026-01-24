@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Honors College Intern (NFWS)](https://jobright.ai/jobs/info/69753d1e206da320f49f57f3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
+| **[L'Arche Chicago](https://larchechicago.org)** | **[Summer Assistant Internship](https://jobright.ai/jobs/info/6975384b206da320f49f571d?utm_campaign=1057&utm_source=git)** | Forest Park, IL | On Site | Jan 24 |
+| **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/69753133bc8e722e7b1a26aa?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
-| **[AgTrust Farm Credit](https://lonestaragcredit.com)** | **[Summer Internship - Fort Worth](https://jobright.ai/jobs/info/697530b437785856350f2f2d?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 24 |
 | **[Polariz.ai](https://polariz.ai/home)** | **[English Language Intern](https://jobright.ai/jobs/info/697527e8206da320f49f3a53?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 24 |
 | **[AgTrust Farm Credit](https://lonestaragcredit.com)** | **[Summer Internship - New Mexico](https://jobright.ai/jobs/info/697521b4bc8e722e7b1a09c4?utm_campaign=1057&utm_source=git)** | Clovis, NM | On Site | Jan 24 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Pathways Intern: Connections Project Teaching and Administration Assistant](https://jobright.ai/jobs/info/69751ce6bc8e722e7b1a0801?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Summer Internship at Public Risk Group](https://jobright.ai/jobs/info/6966a41d7a34f539205520e6?utm_campaign=1057&utm_source=git)** | Troy, MI | Hybrid | Jan 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Global Marketing [Bellevue]](https://jobright.ai/jobs/info/693b4c0dd4054a2bc0253b29?utm_campaign=1057&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 23 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Jan 23 |
-| **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Internship](https://jobright.ai/jobs/info/68cbc4029e3a822f5d24b943?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
