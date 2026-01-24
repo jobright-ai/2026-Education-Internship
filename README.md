@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69754610bc8e722e7b1a2979?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 24 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Honors College Intern (NFWS)](https://jobright.ai/jobs/info/69753d1e206da320f49f57f3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
 | **[L'Arche Chicago](https://larchechicago.org)** | **[Summer Assistant Internship](https://jobright.ai/jobs/info/6975384b206da320f49f571d?utm_campaign=1057&utm_source=git)** | Forest Park, IL | On Site | Jan 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[MMA National Intern - Summer 2026](https://jobright.ai/jobs/info/693aee6cd4054a2bc024db92?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Summer Internship at Public Risk Group](https://jobright.ai/jobs/info/6966a41d7a34f539205520e6?utm_campaign=1057&utm_source=git)** | Troy, MI | Hybrid | Jan 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Global Marketing [Bellevue]](https://jobright.ai/jobs/info/693b4c0dd4054a2bc0253b29?utm_campaign=1057&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
-| **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
