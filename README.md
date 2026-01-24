@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/6974099537785856350df14c?utm_campaign=1057&utm_source=git)** | Flint, AR | Hybrid | Jan 23 |
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Hotel Summer Internship](https://jobright.ai/jobs/info/6973fe7837785856350de6c5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jan 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Central Region](https://jobright.ai/jobs/info/6973f128bc8e722e7b18d720?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 23 |
 | **[University of Northern Iowa](http://www.uni.edu/)** | **[Humanities Hub Internship Coordinator - College of Humanities, Arts and Sciences](https://jobright.ai/jobs/info/6973ebce206da320f49de440?utm_campaign=1057&utm_source=git)** | Cedar Falls, IA | On Site | Jan 23 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
 | **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[First Tee - Green Valley Ranch Intern](https://jobright.ai/jobs/info/6973b64dbc8e722e7b188af2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 23 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Undergraduate Intern - Patient Financial Operations and Administration](https://jobright.ai/jobs/info/6973d1fbbc8e722e7b18a18d?utm_campaign=1057&utm_source=git)** | Wailuku, HI | On Site | Jan 23 |
 | **[Ecology Project International](https://www.ecologyproject.org)** | **[Field Instructor for 2026 Bitterroot Wildlife Internship](https://jobright.ai/jobs/info/6973b175bc8e722e7b1888d3?utm_campaign=1057&utm_source=git)** | Missoula, MT | Hybrid | Jan 23 |
 | **[Cook Inlet Region, Inc.](http://ciri.com)** | **[CIRI Internship Program](https://jobright.ai/jobs/info/6973ad42bc8e722e7b187ed9?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Jan 23 |
 | **[Ecology Project International](https://www.ecologyproject.org)** | **[Bitterroot Wildlife Internship- Student Participant - Summer 2026](https://jobright.ai/jobs/info/6973a94cbc8e722e7b186ef8?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Jan 23 |
