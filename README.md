@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/69753133bc8e722e7b1a26aa?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
+| **[AgTrust Farm Credit](https://lonestaragcredit.com)** | **[Summer Internship - Fort Worth](https://jobright.ai/jobs/info/697530b437785856350f2f2d?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 24 |
+| **[Polariz.ai](https://polariz.ai/home)** | **[English Language Intern](https://jobright.ai/jobs/info/697527e8206da320f49f3a53?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 24 |
 | **[AgTrust Farm Credit](https://lonestaragcredit.com)** | **[Summer Internship - New Mexico](https://jobright.ai/jobs/info/697521b4bc8e722e7b1a09c4?utm_campaign=1057&utm_source=git)** | Clovis, NM | On Site | Jan 24 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Pathways Intern: Connections Project Teaching and Administration Assistant](https://jobright.ai/jobs/info/69751ce6bc8e722e7b1a0801?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Jan 24 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6974ff2d37785856350f0673?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Jan 23 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Jan 23 |
 | **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Internship](https://jobright.ai/jobs/info/68cbc4029e3a822f5d24b943?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/691e130009cc522e87735c25?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
-| **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 23 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Colorado Heritage Nurse Internship 2](https://jobright.ai/jobs/info/69737f6637785856350d5968?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
