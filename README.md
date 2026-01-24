@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECU Health](http://www.ECUHealth.org)** | **[Clinical Informatics Education Intern](https://jobright.ai/jobs/info/69043534d64a22104aa98191?utm_campaign=1057&utm_source=git)** | Greenville, NC | Hybrid | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccadc50bbaf76504ffc26?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 24 |
+| **[Ohio Department of Developmental Disabilities](https://dodd.ohio.gov)** | **[IT College Intern (PN 20036321)](https://jobright.ai/jobs/info/693c907249a7695fbd034c20?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 24 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/6974905937785856350eb10a?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 24 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6974807937785856350e926c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of St. Louis Park](http://www.stlouispark.org)** | **[Recreation Intern](https://jobright.ai/jobs/info/6973283d694e99351d147e83?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Jan 22 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[OBGYN Student Intern](https://jobright.ai/jobs/info/697321621790715e866c1f17?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 22 |
 | **[Orange County Public Schools](https://ocps.net)** | **[TECH VOCATIONAL INSTR PT CHILD CARE APPRENTICESHIP- DAY/EVENING](https://jobright.ai/jobs/info/69731795206da320f49d20c8?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
-| **[Tessera](https://tessera.org)** | **[Summer Academy Intern](https://jobright.ai/jobs/info/69731740694e99351d1470ff?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 22 |
-| **[Welia Health](https://www.weliahealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69742709206da320f49e4960?utm_campaign=1057&utm_source=git)** | Mora, MN | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
