@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/69743fc8bc8e722e7b19395e?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
+| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 23 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Credit Intern (Starting May 2026!)](https://jobright.ai/jobs/info/69743093bc8e722e7b192736?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
 | **[KerberRose](http://kerberrose.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69742f41bc8e722e7b1925c5?utm_campaign=1057&utm_source=git)** | Milwaukee County, WI | On Site | Jan 23 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Training & Development Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/69742c86bc8e722e7b19228c?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Clinical Operations](https://jobright.ai/jobs/info/6972d8f00488fd59f7d5d337?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Jan 22 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Work Integrated Learning Officer - Appendix-D - FHLS](https://jobright.ai/jobs/info/6972d64a1d55d64a205336e5?utm_campaign=1057&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 22 |
 | **[University of Southern Indiana](http://www.usi.edu/)** | **[International Admissions Coordinator](https://jobright.ai/jobs/info/6972fb82694e99351d144199?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Jan 22 |
-| **[Lee Health](http://www.leehealth.org/)** | **[Intern/RN New Graduate Nurse Residency](https://jobright.ai/jobs/info/697309d21790715e866bffc7?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Jan 22 |
-| **[Dallas Museum of Art](https://dma.org/)** | **[McDermott Intern for Adult Programs](https://jobright.ai/jobs/info/6972d3721d55d64a20533354?utm_campaign=1057&utm_source=git)** | DALLAS,TX,US | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
