@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6974f645bc8e722e7b19f88f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 24 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6974e7c137785856350ee908?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 24 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6974e65737785856350ee8c1?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[NCAA Certification Intern](https://jobright.ai/jobs/info/6974db1137785856350ee37a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Colorado Heritage Nurse Internship 2](https://jobright.ai/jobs/info/69737f6637785856350d5968?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
 | **[American Savings Bank](https://www.asbhawaii.com/)** | **[ASB Intern](https://jobright.ai/jobs/info/69251c1dc0cefa13343e6a64?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 23 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/69737ab1206da320f49d7e94?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 23 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
