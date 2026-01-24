@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Hotel Summer Internship](https://jobright.ai/jobs/info/6973fe7837785856350de6c5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jan 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Central Region](https://jobright.ai/jobs/info/6973f128bc8e722e7b18d720?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 23 |
 | **[University of Northern Iowa](http://www.uni.edu/)** | **[Humanities Hub Internship Coordinator - College of Humanities, Arts and Sciences](https://jobright.ai/jobs/info/6973ebce206da320f49de440?utm_campaign=1057&utm_source=git)** | Cedar Falls, IA | On Site | Jan 23 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/6973ebb3bc8e722e7b18cbc6?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 23 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Cobb Summer 2026 Internship - Georgia](https://jobright.ai/jobs/info/6973e3b9206da320f49ddc73?utm_campaign=1057&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Jan 23 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Fall 2026)](https://jobright.ai/jobs/info/6973dfb9bc8e722e7b18b05e?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Pine Tree Legal Assistance, Inc.](https://www.ptla.org/)** | **[Undergraduate Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6973dc2a206da320f49dd54e?utm_campaign=1057&utm_source=git)** | Portland, ME | Hybrid | Jan 23 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Transition Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/697407be206da320f49e17b2?utm_campaign=1057&utm_source=git)** | Round Rock, TX | On Site | Jan 23 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/6973f63abc8e722e7b18dc72?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 23 |
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Training and Development](https://jobright.ai/jobs/info/6973f21ebc8e722e7b18d7e7?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Jan 23 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 23 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 23 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/69537070f1f8465b79eac143?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, United States | On Site | Jan 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69734c1bbc8e722e7b182e72?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
-| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69733d51206da320f49d401e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Asst. Research Professor & Associate Director](https://jobright.ai/jobs/info/69733142bc8e722e7b1808f3?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Jan 23 |
 | **[City of St. Louis Park](http://www.stlouispark.org)** | **[Recreation Intern](https://jobright.ai/jobs/info/6973283d694e99351d147e83?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Jan 22 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[OBGYN Student Intern](https://jobright.ai/jobs/info/697321621790715e866c1f17?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6972c1ea4ccbf64f8df2cd3e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 22 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6972c151584a1c1ef6fdd338?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 22 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6972c0e39b83b424830ec844?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 22 |
-| **[Downingtown Area School District](http://www.dasd.org)** | **[INTERNAL ONLY - 2026 Summer Extended School Year Programs - Lead Teacher Mentor](https://jobright.ai/jobs/info/6972c0ce4ccbf64f8df2cc05?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
