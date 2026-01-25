@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69769fb1bc8e722e7b1b22a5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
+| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69769f7dbc8e722e7b1b2295?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 25 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69769806206da320f4a054b7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 25 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69767a72bc8e722e7b1b10be?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[SANZIE HEALTHCARE SERVICES, INC.](https://www.sanziehealthcareservices.com)** | **[Career and Internship Advisor](https://jobright.ai/jobs/info/69767a3337785856351014c6?utm_campaign=1057&utm_source=git)** | Crownpoint, NM | On Site | Jan 25 |
 | **[Geneva Park District](https://www.genevaparks.org/)** | **[Recreation Intern (Summer 2026)](https://jobright.ai/jobs/info/697667ae3778585635100e35?utm_campaign=1057&utm_source=git)** | Sunset Community Center/Administrative Offices - Geneva, IL 60134 | On Site | Jan 25 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69755db8bc8e722e7b1a2b8b?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Honors College Intern (NFWS)](https://jobright.ai/jobs/info/69753d1e206da320f49f57f3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
 | **[L'Arche Chicago](https://larchechicago.org)** | **[Summer Assistant Internship](https://jobright.ai/jobs/info/6975384b206da320f49f571d?utm_campaign=1057&utm_source=git)** | Forest Park, IL | On Site | Jan 24 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cigna Healthcare](http://www.cigna.com)** | **[UCONN Dental Student Summer Internship](https://jobright.ai/jobs/info/6973c94237785856350d9a9a?utm_campaign=1057&utm_source=git)** | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Hybrid | Jan 23 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant - Financial Aid & Scholarships](https://jobright.ai/jobs/info/6973e31bbc8e722e7b18b787?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[ADAPTIVE SPORTS EDUCATION CONFERENCE INTERN](https://jobright.ai/jobs/info/6973c02b206da320f49dbab0?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 23 |
-| ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
-| **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
-| **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[First Tee - Green Valley Ranch Intern](https://jobright.ai/jobs/info/6973b64dbc8e722e7b188af2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
