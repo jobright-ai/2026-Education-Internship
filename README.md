@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geneva Park District](https://www.genevaparks.org/)** | **[Recreation Intern (Summer 2026)](https://jobright.ai/jobs/info/697667ae3778585635100e35?utm_campaign=1057&utm_source=git)** | Sunset Community Center/Administrative Offices - Geneva, IL 60134 | On Site | Jan 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/6976597837785856351008e9?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697656923778585635100857?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 25 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Business Internship Coordinator](https://jobright.ai/jobs/info/697656833778585635100841?utm_campaign=1057&utm_source=git)** | Cedar City, UT | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant - Financial Aid & Scholarships](https://jobright.ai/jobs/info/6973e31bbc8e722e7b18b787?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[ADAPTIVE SPORTS EDUCATION CONFERENCE INTERN](https://jobright.ai/jobs/info/6973c02b206da320f49dbab0?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 23 |
 | ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
-| **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
