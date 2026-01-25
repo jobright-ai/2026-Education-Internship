@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales/Kremen Labs - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6975e4e1bc8e722e7b1ab800?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/6975e366206da320f49fe831?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 25 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun PA Cybersecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6975d97ebc8e722e7b1a9fa5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6975d45637785856350fa778?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ecology Project International](https://www.ecologyproject.org)** | **[Bitterroot Wildlife Internship- Student Participant - Summer 2026](https://jobright.ai/jobs/info/6973a94cbc8e722e7b186ef8?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Jan 23 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/6973a63d37785856350d7e10?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jan 23 |
 | **[DCI - District of Columbia International School](https://dcinternationalschool.org/)** | **[School Management-Summer Internship 2026](https://jobright.ai/jobs/info/6973a54337785856350d7db1?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 23 |
-| **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Community Engagement](https://jobright.ai/jobs/info/6973c10d206da320f49dbb47?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 23 |
-| ↳ | **[Summer Student Intern - Rates, Economics, and Energy Risk Management](https://jobright.ai/jobs/info/6973bf63bc8e722e7b18905e?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 23 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69739065206da320f49d8a9a?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
