@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/697594e3206da320f49f8aa2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/6975827637785856350f5ace?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | ↳ | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69758274206da320f49f8087?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/6974d06f206da320f49f057c?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 24 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/6974905937785856350eb10a?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 24 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 24 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6974807937785856350e926c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Credit Intern (Starting May 2026!)](https://jobright.ai/jobs/info/69747b73bc8e722e7b198c79?utm_campaign=1057&utm_source=git)** | Lafayette, IN, USA | On Site | Jan 23 |
+| **[The Cooperative](https://www.snjpc.org/)** | **[Paid Internship – Health Educator](https://jobright.ai/jobs/info/6975a0b337785856350f8963?utm_campaign=1057&utm_source=git)** | Merchantville, NJ | On Site | Jan 23 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68c2041133864f172f9bc52e?utm_campaign=1057&utm_source=git)** | United States Of America | On Site | Jan 23 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Internship and Education Programs, One Summer Chicago Cohort Conductor Intern](https://jobright.ai/jobs/info/6974732d37785856350e8b1f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | ↳ | **[Summer 2026 Internship and Educational Programs- Program Management Intern](https://jobright.ai/jobs/info/697471cabc8e722e7b1984ca?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer 2026 Intern - Insurance](https://jobright.ai/jobs/info/69745483206da320f49e8ea4?utm_campaign=1057&utm_source=git)** | Chesterfield, MO | Hybrid | Jan 23 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Mendix Digital Enterprise Software Applications Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6974502f37785856350e60c2?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 23 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697446a5bc8e722e7b193e1d?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 23 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/6975a07a37785856350f85c6?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/69743fc8bc8e722e7b19395e?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694f00c2ce13cd1056574418?utm_campaign=1057&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center For Individual Rights](https://www.cir-usa.org)** | **[Summer Clerkship Program](https://jobright.ai/jobs/info/69738fce206da320f49d8a62?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Undergraduate Internship Program – Hospital Operations](https://jobright.ai/jobs/info/69738f27206da320f49d8a22?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/697387c5bc8e722e7b185acb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
-| ↳ | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/69739fea206da320f49d9203?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Jan 23 |
-| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – Operations](https://jobright.ai/jobs/info/6973a520206da320f49dab18?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
