@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6975d45637785856350fa778?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/697594e3206da320f49f8aa2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer Student Intern - Community Engagement](https://jobright.ai/jobs/info/6973c10d206da320f49dbb47?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 23 |
 | ↳ | **[Summer Student Intern - Rates, Economics, and Energy Risk Management](https://jobright.ai/jobs/info/6973bf63bc8e722e7b18905e?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 23 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69739065206da320f49d8a9a?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Jan 23 |
-| **[Center For Individual Rights](https://www.cir-usa.org)** | **[Summer Clerkship Program](https://jobright.ai/jobs/info/69738fce206da320f49d8a62?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
