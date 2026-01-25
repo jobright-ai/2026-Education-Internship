@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales/Kremen Labs - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6975e4e1bc8e722e7b1ab800?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/6975e366206da320f49fe831?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 25 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun PA Cybersecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6975d97ebc8e722e7b1a9fa5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Inlet Region, Inc.](http://ciri.com)** | **[CIRI Internship Program](https://jobright.ai/jobs/info/6973ad42bc8e722e7b187ed9?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Jan 23 |
 | **[Ecology Project International](https://www.ecologyproject.org)** | **[Bitterroot Wildlife Internship- Student Participant - Summer 2026](https://jobright.ai/jobs/info/6973a94cbc8e722e7b186ef8?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Jan 23 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/6973a63d37785856350d7e10?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jan 23 |
-| **[DCI - District of Columbia International School](https://dcinternationalschool.org/)** | **[School Management-Summer Internship 2026](https://jobright.ai/jobs/info/6973a54337785856350d7db1?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
