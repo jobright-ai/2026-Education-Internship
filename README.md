@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69755e02206da320f49f5b0c?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69755dec37785856350f34a0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
+| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69755db8bc8e722e7b1a2b8b?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/69755a2737785856350f3450?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69754610bc8e722e7b1a2979?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 24 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Honors College Intern (NFWS)](https://jobright.ai/jobs/info/69753d1e206da320f49f57f3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 24 |
@@ -114,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[University of Missouri-Columbia](https://identity.missouri.edu/apply-the-brand/social-media)** | **[Counseling Center Post-Master's Fellowship (INTERN)](https://jobright.ai/jobs/info/69743125206da320f49e52ca?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Jan 23 |
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Hotel Summer Internship](https://jobright.ai/jobs/info/6973fe7837785856350de6c5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jan 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Central Region](https://jobright.ai/jobs/info/6973f128bc8e722e7b18d720?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 23 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
 | **[University of Northern Iowa](http://www.uni.edu/)** | **[Humanities Hub Internship Coordinator - College of Humanities, Arts and Sciences](https://jobright.ai/jobs/info/6973ebce206da320f49de440?utm_campaign=1057&utm_source=git)** | Cedar Falls, IA | On Site | Jan 23 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/6973ebb3bc8e722e7b18cbc6?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Cloud Services Internship](https://jobright.ai/jobs/info/6973ea2f37785856350dbaa5?utm_campaign=1057&utm_source=git)** | USA VA Falls Church | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – Operations](https://jobright.ai/jobs/info/6973a520206da320f49dab18?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Jan 23 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Learning & Development (Videography) - Spring 2026](https://jobright.ai/jobs/info/68e6c3041852e62f0081e358?utm_campaign=1057&utm_source=git)** | Cedar Park, TX | On Site | Jan 23 |
-| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Knowledge Management & Training Projects](https://jobright.ai/jobs/info/697371c637785856350d5089?utm_campaign=1057&utm_source=git)** | Austin, Texas, United States | On Site | Jan 23 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[MMA National Intern - Summer 2026](https://jobright.ai/jobs/info/693aee6cd4054a2bc024db92?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Summer Internship at Public Risk Group](https://jobright.ai/jobs/info/6966a41d7a34f539205520e6?utm_campaign=1057&utm_source=git)** | Troy, MI | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
