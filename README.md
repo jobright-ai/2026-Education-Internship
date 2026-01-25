@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697656923778585635100857?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 25 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Business Internship Coordinator](https://jobright.ai/jobs/info/697656833778585635100841?utm_campaign=1057&utm_source=git)** | Cedar City, UT | On Site | Jan 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/69762b9ebc8e722e7b1add90?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6976268437785856350fe9a5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/69762411206da320f4a00d3c?utm_campaign=1057&utm_source=git)** | Darien, CT | On Site | Jan 25 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 25 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales/Kremen Labs - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6975e4e1bc8e722e7b1ab800?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/6975e366206da320f49fe831?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 25 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun PA Cybersecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6975d97ebc8e722e7b1a9fa5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6975d45637785856350fa778?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Move United](https://moveunitedsport.org)** | **[ADAPTIVE SPORTS EDUCATION CONFERENCE INTERN](https://jobright.ai/jobs/info/6973c02b206da320f49dbab0?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 23 |
 | ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
-| **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[First Tee - Green Valley Ranch Intern](https://jobright.ai/jobs/info/6973b64dbc8e722e7b188af2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
