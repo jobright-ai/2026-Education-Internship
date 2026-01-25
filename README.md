@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/6975827637785856350f5ace?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| ↳ | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69758274206da320f49f8087?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69757667bc8e722e7b1a4cac?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 24 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69755e02206da320f49f5b0c?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69755dec37785856350f34a0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/69739fea206da320f49d9203?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Jan 23 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – Operations](https://jobright.ai/jobs/info/6973a520206da320f49dab18?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Jan 23 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Learning & Development (Videography) - Spring 2026](https://jobright.ai/jobs/info/68e6c3041852e62f0081e358?utm_campaign=1057&utm_source=git)** | Cedar Park, TX | On Site | Jan 23 |
-| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Knowledge Management & Training Projects](https://jobright.ai/jobs/info/697371c637785856350d5089?utm_campaign=1057&utm_source=git)** | Austin, Texas, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
