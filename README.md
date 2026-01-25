@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1057&utm_source=git)** | Manteno, Illinois | On Site | Jan 25 |
+| **[Sisterson & Co. LLP](http://sisterson.com)** | **[Sisterson Symposium: Summer Leadership Program](https://jobright.ai/jobs/info/689e745879a9f9666254ce94?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 25 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Director, Reichard Real Estate Academy](https://jobright.ai/jobs/info/69761079206da320f49ff403?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Jan 25 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern- Health, Safety, and Environment](https://jobright.ai/jobs/info/68953cea8c6d6b4426778431?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/689435f54c7e851b90ae3fbc?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 25 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6975fb5e206da320f49fe9b3?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 25 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/6975fab4bc8e722e7b1ab946?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 25 |
 | ↳ | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6975fa8fbc8e722e7b1ab944?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ADAPTIVE SPORTS EVENT PLANNING INTERNSHIP (May - Aug)](https://jobright.ai/jobs/info/6973beabbc8e722e7b189006?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6973bada37785856350d8fce?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Jan 23 |
 | **[Colorado Open Golf Foundation](http://www.coloradoopen.com)** | **[First Tee - Green Valley Ranch Intern](https://jobright.ai/jobs/info/6973b64dbc8e722e7b188af2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 23 |
-| **[Ecology Project International](https://www.ecologyproject.org)** | **[Field Instructor for 2026 Bitterroot Wildlife Internship](https://jobright.ai/jobs/info/6973b175bc8e722e7b1888d3?utm_campaign=1057&utm_source=git)** | Missoula, MT | Hybrid | Jan 23 |
-| **[Cook Inlet Region, Inc.](http://ciri.com)** | **[CIRI Internship Program](https://jobright.ai/jobs/info/6973ad42bc8e722e7b187ed9?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Jan 23 |
-| **[Ecology Project International](https://www.ecologyproject.org)** | **[Bitterroot Wildlife Internship- Student Participant - Summer 2026](https://jobright.ai/jobs/info/6973a94cbc8e722e7b186ef8?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
