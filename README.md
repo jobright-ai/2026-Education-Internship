@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/6976597837785856351008e9?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 25 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697656923778585635100857?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 25 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Business Internship Coordinator](https://jobright.ai/jobs/info/697656833778585635100841?utm_campaign=1057&utm_source=git)** | Cedar City, UT | On Site | Jan 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/69762b9ebc8e722e7b1add90?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 25 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6975d45637785856350fa778?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/697594e3206da320f49f8aa2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69758274206da320f49f8087?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69755db8bc8e722e7b1a2b8b?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 24 |
