@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/6976d7963778585635105f87?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6976c476bc8e722e7b1b4518?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6976a1a3377858563510322e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694f00c2ce13cd1056574418?utm_campaign=1057&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 23 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/69745dd237785856350e7687?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 23 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Information & Digital Technologies (IDT) - Summer 2026](https://jobright.ai/jobs/info/6976dfe7377858563510645d?utm_campaign=1057&utm_source=git)** | Muscatine, IA | On Site | Jan 23 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694ef8e3ce13cd10565741b8?utm_campaign=1057&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Credit Intern (Starting May 2026!)](https://jobright.ai/jobs/info/69743093bc8e722e7b192736?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
 | **[KerberRose](http://kerberrose.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69742f41bc8e722e7b1925c5?utm_campaign=1057&utm_source=git)** | Milwaukee County, WI | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, The Pride Center (Student Services Professional III)](https://jobright.ai/jobs/info/6973ea8a206da320f49de2a9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Training Onboarding/Admin-College Intern](https://jobright.ai/jobs/info/6973cc09bc8e722e7b189a96?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Jan 23 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Field Service Apprentice](https://jobright.ai/jobs/info/6973eb9037785856350dbc4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/6973f27637785856350dc8c1?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/6973e9f4206da320f49de1fa?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
