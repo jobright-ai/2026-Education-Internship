@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6976a1a3377858563510322e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6976a194206da320f4a05583?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 25 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6976a192206da320f4a05581?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69769fb1bc8e722e7b1b22a5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69769f7dbc8e722e7b1b2295?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Field Service Apprentice](https://jobright.ai/jobs/info/6973eb9037785856350dbc4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/6973f27637785856350dc8c1?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/6973e9f4206da320f49de1fa?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Jan 23 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[UCONN Dental Student Summer Internship](https://jobright.ai/jobs/info/6973c94237785856350d9a9a?utm_campaign=1057&utm_source=git)** | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg | Hybrid | Jan 23 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant - Financial Aid & Scholarships](https://jobright.ai/jobs/info/6973e31bbc8e722e7b18b787?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 23 |
-| **[Move United](https://moveunitedsport.org)** | **[ADAPTIVE SPORTS EDUCATION CONFERENCE INTERN](https://jobright.ai/jobs/info/6973c02b206da320f49dbab0?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
