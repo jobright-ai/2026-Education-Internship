@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/689437374c7e851b90ae407a?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jan 26 |
+| **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/695e084d61d5475ac1a0c819?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 26 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/6940710449a7695fbd05f20f?utm_campaign=1057&utm_source=git)** | Devon, PA | On Site | Jan 26 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Instructional Design](https://jobright.ai/jobs/info/6977232efdeb8243a279f360?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 26 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6976a1a3377858563510322e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6976a194206da320f4a05583?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 25 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6976a192206da320f4a05581?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69769fb1bc8e722e7b1b22a5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69769f7dbc8e722e7b1b2295?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Transition Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/697407be206da320f49e17b2?utm_campaign=1057&utm_source=git)** | Round Rock, TX | On Site | Jan 23 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/6973f63abc8e722e7b18dc72?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 23 |
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Training and Development](https://jobright.ai/jobs/info/6973f21ebc8e722e7b18d7e7?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Jan 23 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
