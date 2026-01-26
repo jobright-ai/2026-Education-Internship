@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Mental Health Intern Therapist](https://jobright.ai/jobs/info/69775e2852f3c27ec6434e2d?utm_campaign=1057&utm_source=git)** | Lake Worth, FL | Hybrid | Jan 26 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68ce05181ad6b16f028a0f8a?utm_campaign=1057&utm_source=git)** | Davenport, FL | On Site | Jan 26 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Learning and Development (L&D) Intern, Spring 2026](https://jobright.ai/jobs/info/6921281900c9ee50eaecc4d9?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
+| **[Savvas Learning Company](https://www.savvas.com)** | **[Humanities Education Intern](https://jobright.ai/jobs/info/693fb29e49a7695fbd0565e8?utm_campaign=1057&utm_source=git)** | Northbrook, IL | Hybrid | Jan 26 |
+| ↳ | **[Math Education Intern](https://jobright.ai/jobs/info/693fb1a050bbaf765051e2bb?utm_campaign=1057&utm_source=git)** | Northbrook, IL | Hybrid | Jan 26 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/689437374c7e851b90ae407a?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jan 26 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/695e084d61d5475ac1a0c819?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 26 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
@@ -87,8 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/689435f54c7e851b90ae3fbc?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 25 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/6975fab4bc8e722e7b1ab946?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 25 |
-| ↳ | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6975fa8fbc8e722e7b1ab944?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 25 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6975fa8fbc8e722e7b1ab944?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 25 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian II / Intern Program](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 25 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Library - Summer Learning Intern](https://jobright.ai/jobs/info/6973e3c3bc8e722e7b18b8cd?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Jan 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Cobb Summer 2026 Internship - Georgia](https://jobright.ai/jobs/info/6973e3b9206da320f49ddc73?utm_campaign=1057&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Jan 23 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Fall 2026)](https://jobright.ai/jobs/info/6973dfb9bc8e722e7b18b05e?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
-| **[Pine Tree Legal Assistance, Inc.](https://www.ptla.org/)** | **[Undergraduate Internship Opportunities - Summer 2026](https://jobright.ai/jobs/info/6973dc2a206da320f49dd54e?utm_campaign=1057&utm_source=git)** | Portland, ME | Hybrid | Jan 23 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Transition Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/697407be206da320f49e17b2?utm_campaign=1057&utm_source=git)** | Round Rock, TX | On Site | Jan 23 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/6973f63abc8e722e7b18dc72?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 23 |
-| **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Training and Development](https://jobright.ai/jobs/info/6973f21ebc8e722e7b18d7e7?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
