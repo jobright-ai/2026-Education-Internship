@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/6977ac6cfdeb8243a27a913a?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a79afdeb8243a27a88f1?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
 | ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a62efdeb8243a27a86a8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 | **[Yale University](https://www.yale.edu)** | **[Intern](https://jobright.ai/jobs/info/6977a5c1fdeb8243a27a85d9?utm_campaign=1057&utm_source=git)** | Off Campus within Connecticut | Remote | Jan 26 |
@@ -65,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Content Design](https://jobright.ai/jobs/info/6977a20f52f3c27ec643b40b?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Jefferson County, Colorado](https://jeffco.us)** | **[Jeffco Innovation Lab Intern](https://jobright.ai/jobs/info/69779b6788e2b47213bb83ad?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697792d652f3c27ec643a3f1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b03ffdeb8243a27a9683?utm_campaign=1057&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| **[Southwire Company](http://southwire.com)** | **[Learning Operations Analytics Intern](https://jobright.ai/jobs/info/6977ad3cfdeb8243a27a9280?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Jan 26 |
 | **[Yrefy, LLC](https://yrefy.com)** | **[Educational Lending Coordinator Internship](https://jobright.ai/jobs/info/69778eb352f3c27ec6439d23?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/69778839fdeb8243a27a61d6?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 26 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6977867852f3c27ec6439393?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694f00c2ce13cd1056574418?utm_campaign=1057&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 23 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/69745dd237785856350e7687?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694ef8e3ce13cd10565741b8?utm_campaign=1057&utm_source=git)** | Montgomery, AL | Hybrid | Jan 23 |
-| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Credit Intern (Starting May 2026!)](https://jobright.ai/jobs/info/69743093bc8e722e7b192736?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
-| **[KerberRose](http://kerberrose.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69742f41bc8e722e7b1925c5?utm_campaign=1057&utm_source=git)** | Milwaukee County, WI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
