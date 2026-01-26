@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/6977b8aafdeb8243a27aa516?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 26 |
 | **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/6977ac6cfdeb8243a27a913a?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a79afdeb8243a27a88f1?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
 | ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a62efdeb8243a27a86a8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
@@ -67,9 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Jefferson County, Colorado](https://jeffco.us)** | **[Jeffco Innovation Lab Intern](https://jobright.ai/jobs/info/69779b6788e2b47213bb83ad?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697792d652f3c27ec643a3f1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b03ffdeb8243a27a9683?utm_campaign=1057&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b8f188e2b47213bbae62?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
+| ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977b7ef88e2b47213bbac91?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
+| ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977bb6a88e2b47213bbb213?utm_campaign=1057&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
+| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977bd3c52f3c27ec643e0b8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 | **[Southwire Company](http://southwire.com)** | **[Learning Operations Analytics Intern](https://jobright.ai/jobs/info/6977ad3cfdeb8243a27a9280?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Jan 26 |
 | **[Yrefy, LLC](https://yrefy.com)** | **[Educational Lending Coordinator Internship](https://jobright.ai/jobs/info/69778eb352f3c27ec6439d23?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/69778839fdeb8243a27a61d6?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 26 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6977867852f3c27ec6439393?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697781cc88e2b47213bb6505?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Otolaryngology and Communication Intern- Summer 2026 COACH Program](https://jobright.ai/jobs/info/695b9d0aaa05c26e7ab4f430?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
@@ -77,8 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pediatrics Primary Care Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b98c2f1f8465b79f1ab61?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | ↳ | **[Occupational Health Services Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9955aa05c26e7ab4f389?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 | ↳ | **[Ophthalmology Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9ab1f1f8465b79f1abbb?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
-| **[YS Kim Foundation](https://www.yskim.org)** | **[Summer Intern](https://jobright.ai/jobs/info/697777e3fdeb8243a27a4c7c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Adolescent Medicine Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9b74aa05c26e7ab4f404?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
+| ↳ | **[Adolescent Medicine Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9b74aa05c26e7ab4f404?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Communication Enablement (Business Excellence)](https://jobright.ai/jobs/info/691de26661dc50590a64b6c9?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Technology and Innovation Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9907aa05c26e7ab4f380?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 | ↳ | **[Martha Eliot Pediatrics Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695ba247f1f8465b79f1ac95?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Mendix Digital Enterprise Software Applications Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6974502f37785856350e60c2?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 23 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/6975a07a37785856350f85c6?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/69743fc8bc8e722e7b19395e?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jan 23 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Monitoring, Evaluation, Accountability and Learning (MEAL) (Summer 2026)](https://jobright.ai/jobs/info/694f00c2ce13cd1056574418?utm_campaign=1057&utm_source=git)** | Jackson, MS | Hybrid | Jan 23 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 23 |
-| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[International Scholar and Faculty Advisor](https://jobright.ai/jobs/info/69745dd237785856350e7687?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
