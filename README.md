@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/697700b188e2b47213bae87d?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Jan 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/6976d7963778585635105f87?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6976c476bc8e722e7b1b4518?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6973f368bc8e722e7b18d976?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Jan 23 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, The Pride Center (Student Services Professional III)](https://jobright.ai/jobs/info/6973ea8a206da320f49de2a9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Training Onboarding/Admin-College Intern](https://jobright.ai/jobs/info/6973cc09bc8e722e7b189a96?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Jan 23 |
-| **[Okuma America Corporation](https://www.okuma.com)** | **[Field Service Apprentice](https://jobright.ai/jobs/info/6973eb9037785856350dbc4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
