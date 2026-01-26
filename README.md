@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6976c476bc8e722e7b1b4518?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Multimedia for Training Intern](https://jobright.ai/jobs/info/695c6a60aa05c26e7ab5d3fb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6976a1a3377858563510322e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 25 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6976a194206da320f4a05583?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 25 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6976a192206da320f4a05581?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 25 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales/Kremen Labs - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6975e4e1bc8e722e7b1ab800?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun PA Cybersecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6975d97ebc8e722e7b1a9fa5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6975d45637785856350fa778?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Training Onboarding/Admin-College Intern](https://jobright.ai/jobs/info/6973cc09bc8e722e7b189a96?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Jan 23 |
 | **[Okuma America Corporation](https://www.okuma.com)** | **[Field Service Apprentice](https://jobright.ai/jobs/info/6973eb9037785856350dbc4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, GLaD (Student Services Professional III)](https://jobright.ai/jobs/info/6973f27637785856350dc8c1?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/6973e9f4206da320f49de1fa?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
