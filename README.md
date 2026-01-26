@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/69778839fdeb8243a27a61d6?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 26 |
+| **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6977867852f3c27ec6439393?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697781cc88e2b47213bb6505?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Otolaryngology and Communication Intern- Summer 2026 COACH Program](https://jobright.ai/jobs/info/695b9d0aaa05c26e7ab4f430?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | ↳ | **[Emergency Management Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b988ff1f8465b79f1ab5c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | ↳ | **[Pediatrics Primary Care Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b98c2f1f8465b79f1ab61?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Human Resources Training & Development Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/69741f66bc8e722e7b191436?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Jan 23 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Counseling Center Post-Master's Fellowship (INTERN)](https://jobright.ai/jobs/info/69743125206da320f49e52ca?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Jan 23 |
 | **[Crestline Hotels & Resorts](https://www.crestlinehotels.com/)** | **[Hotel Summer Internship](https://jobright.ai/jobs/info/6973fe7837785856350de6c5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jan 23 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Central Region](https://jobright.ai/jobs/info/6973f128bc8e722e7b18d720?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 23 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
-| **[University of Northern Iowa](http://www.uni.edu/)** | **[Humanities Hub Internship Coordinator - College of Humanities, Arts and Sciences](https://jobright.ai/jobs/info/6973ebce206da320f49de440?utm_campaign=1057&utm_source=git)** | Cedar Falls, IA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
