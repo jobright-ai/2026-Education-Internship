@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/6977157652f3c27ec6431b79?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 25 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/697700b188e2b47213bae87d?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Jan 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/6976d7963778585635105f87?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6976c476bc8e722e7b1b4518?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 25 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Gonzales/Kremen Labs - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6975e4e1bc8e722e7b1ab800?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun PA Cybersecurity Intern (Summer 2026)](https://jobright.ai/jobs/info/6975d97ebc8e722e7b1a9fa5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Dean, Counseling and Student Development](https://jobright.ai/jobs/info/69770e00fdeb8243a279e9ea?utm_campaign=1057&utm_source=git)** | Cypress, CA | Hybrid | Jan 25 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern, Ortho Trauma Unit](https://jobright.ai/jobs/info/6975c12bbc8e722e7b1a94f1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Level Green Landscaping](https://www.levelgreenlandscaping.com)** | **[Summer Landscaping Internship](https://jobright.ai/jobs/info/6975951dbc8e722e7b1a5b15?utm_campaign=1057&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 24 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern Training and Development](https://jobright.ai/jobs/info/6973f21ebc8e722e7b18d7e7?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Jan 23 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Jan 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6973f368bc8e722e7b18d976?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Jan 23 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, The Pride Center (Student Services Professional III)](https://jobright.ai/jobs/info/6973ea8a206da320f49de2a9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com)** | **[Training Onboarding/Admin-College Intern](https://jobright.ai/jobs/info/6973cc09bc8e722e7b189a96?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
