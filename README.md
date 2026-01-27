@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Silicon Valley - June 2026 start)](https://jobright.ai/jobs/info/6978227052f3c27ec6444ea7?utm_campaign=1057&utm_source=git)** | Silicon Valley, CA | On Site | Jan 26 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[On-Deck Summer Internship - Sustainability](https://jobright.ai/jobs/info/6978301a88e2b47213bc3700?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Jefferson County, Colorado](https://jeffco.us)** | **[Jeffco Innovation Lab Intern](https://jobright.ai/jobs/info/69712b13333b6343a14d9bd6?utm_campaign=1057&utm_source=git)** | Golden, CO | Hybrid | Jan 26 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/697827ce52f3c27ec6445533?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Jan 26 |
@@ -65,9 +66,13 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Museum Education Intern (Paid)](https://jobright.ai/jobs/info/6978255cfdeb8243a27b19f9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/6978242952f3c27ec64450d2?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jan 26 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Public Health](https://jobright.ai/jobs/info/697823da52f3c27ec6445064?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jan 26 |
-| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Silicon Valley - June 2026 start)](https://jobright.ai/jobs/info/6978227052f3c27ec6444ea7?utm_campaign=1057&utm_source=git)** | Silicon Valley, CA | On Site | Jan 26 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69781c83fdeb8243a27b1031?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student - IT Operations - Business Analyst - 8 Months - Toronto - Summer 2026](https://jobright.ai/jobs/info/695baaa6f396ad6ddab14f9e?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69783a3788e2b47213bc42a6?utm_campaign=1057&utm_source=git)** | La Palma, CA | On Site | Jan 26 |
+| **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student - Technology Reporting Business Analyst - 12 Months - Toronto - May 2026](https://jobright.ai/jobs/info/695bab60aa05c26e7ab4f738?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| ↳ | **[University Co-Op Student - IT Operations - Business Analyst - 8 Months - Toronto - Summer 2026](https://jobright.ai/jobs/info/695baaa6f396ad6ddab14f9e?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/6978372088e2b47213bc3e2e?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Jan 26 |
+| **[Hydro One](http://www.hydroone.com/)** | **[University Co-op Student-Business Analyst - 12 Months, Markham, May 2026](https://jobright.ai/jobs/info/695ba806aa05c26e7ab4f706?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 26 |
+| **[University of Guelph](http://www.uoguelph.ca/)** | **[Co-op Coordinator (Engineering)](https://jobright.ai/jobs/info/69783b4239f7f96cc6d0874a?utm_campaign=1057&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 26 |
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[Blackline Safety](https://www.blacklinesafety.com)** | **[Information Design Intern](https://jobright.ai/jobs/info/69782e0588e2b47213bc32b7?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 26 |
 | **[Between Friends](https://www.betweenfriendschicago.org)** | **[Clinical Internship Coordinator](https://jobright.ai/jobs/info/697826bcfdeb8243a27b1b99?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6977c33afdeb8243a27aaf72?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 26 |
 | **[Jefferson County, Colorado](https://jeffco.us)** | **[Jeffco Innovation Lab Intern](https://jobright.ai/jobs/info/69779b6788e2b47213bb83ad?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b8f188e2b47213bbae62?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
-| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977bd3c52f3c27ec643e0b8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
+| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b03ffdeb8243a27a9683?utm_campaign=1057&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
 | ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977b7ef88e2b47213bbac91?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977bb6a88e2b47213bbb213?utm_campaign=1057&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
-| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977b03ffdeb8243a27a9683?utm_campaign=1057&utm_source=git)** | Plano, TX | Hybrid | Jan 26 |
+| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977bd3c52f3c27ec643e0b8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 | **[Southwire Company](http://southwire.com)** | **[Learning Operations Analytics Intern](https://jobright.ai/jobs/info/6977ad3cfdeb8243a27a9280?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Jan 26 |
 | **[Yrefy, LLC](https://yrefy.com)** | **[Educational Lending Coordinator Internship](https://jobright.ai/jobs/info/69778eb352f3c27ec6439d23?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6977867852f3c27ec6439393?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Otolaryngology and Communication Intern- Summer 2026 COACH Program](https://jobright.ai/jobs/info/695b9d0aaa05c26e7ab4f430?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
-| ↳ | **[Emergency Management Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b988ff1f8465b79f1ab5c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 26 |
-| ↳ | **[Pediatrics Primary Care Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b98c2f1f8465b79f1ab61?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 26 |
-| ↳ | **[Occupational Health Services Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9955aa05c26e7ab4f389?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
-| ↳ | **[Ophthalmology Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b9ab1f1f8465b79f1abbb?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
