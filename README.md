@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Healthcare](https://www.acadiahealthcare.com)** | **[Counselor Intern](https://jobright.ai/jobs/info/6979176d88e2b47213bd31d7?utm_campaign=1057&utm_source=git)** | Wichita Falls, TX | On Site | Jan 27 |
 | **[BD](https://www.bd.com)** | **[Medical Affairs Student Co-op internship](https://jobright.ai/jobs/info/6979079488e2b47213bd1c09?utm_campaign=1057&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 27 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6979074339f7f96cc6d15e2d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 27 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care](https://jobright.ai/jobs/info/690a91514a1b456627b095b9?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Jan 27 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Summer Intern - Clinical Reporting and Analytics](https://jobright.ai/jobs/info/69791d2539f7f96cc6d17ad4?utm_campaign=1057&utm_source=git)** | Camden, NJ, US | On Site | Jan 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/69791c4352f3c27ec6456174?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 27 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/6978fbae88e2b47213bd07b6?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Jan 27 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/6978f6c139f7f96cc6d14a68?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Brunswick Counseling Center & Burlington Comprehensive Counseling](http://www.nbcounselingcenter.org/)** | **[Student Intern (Master's Level)](https://jobright.ai/jobs/info/6978951b88e2b47213bcc27e?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ, US | On Site | Jan 26 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate/Graduate Internship - Tribal Education Partnership Program [TEPP] (Associate in Science or Engineering - Levels I - XI)](https://jobright.ai/jobs/info/696c88bedb26b618950fd6e9?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 26 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Strategic Training and Education Intern](https://jobright.ai/jobs/info/6977d79f52f3c27ec643fda3?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Jan 26 |
-| **[Brooklyn Community Services](https://wearebcs.org)** | **[Internship Coordinator - BHSLCS - Alternative High School](https://jobright.ai/jobs/info/6977fd4452f3c27ec64436e2?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[New Vista KY](https://www.newvista.org)** | **[Clinical Student Intern-Clark TRP](https://jobright.ai/jobs/info/6977f09a52f3c27ec6442226?utm_campaign=1057&utm_source=git)** | New Vista Elevate TRP Clark County, Winchester, KY, US | On Site | Jan 26 |
-| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/6977f3c752f3c27ec644279a?utm_campaign=1057&utm_source=git)** | Waterbury, CT | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
