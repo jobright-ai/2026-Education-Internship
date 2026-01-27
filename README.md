@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bread](https://www.breadpayments.com/)** | **[Intern - Inclusion & Belonging](https://jobright.ai/jobs/info/69787e5339f7f96cc6d0e23e?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 27 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Student Nurse Intern II](https://jobright.ai/jobs/info/69787bd788e2b47213bca06c?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Jan 27 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6978794339f7f96cc6d0df25?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 27 |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2027 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/695c4e2322c9dc0d3d543b5c?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Jan 27 |
+| **[Sound](https://www.sound.health)** | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/6978719652f3c27ec644c0ce?utm_campaign=1057&utm_source=git)** | US-WA-Tukwila | On Site | Jan 27 |
 | **[Sound](https://www.sound.health)** | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/69786d4652f3c27ec644bd27?utm_campaign=1057&utm_source=git)** | Auburn, WA, US | On Site | Jan 26 |
 | ↳ | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/69786b3188e2b47213bc90f1?utm_campaign=1057&utm_source=git)** | US-WA-Auburn | On Site | Jan 26 |
 | ↳ | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/697868f239f7f96cc6d0d2be?utm_campaign=1057&utm_source=git)** | Tukwila, WA, US | On Site | Jan 26 |
+| **[Maricopa Community Colleges](https://www.maricopa.edu/)** | **[Engineering Electronics Faculty (One Year Only)](https://jobright.ai/jobs/info/69787d6d52f3c27ec644cbf4?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Jan 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c46b0aa05c26e7ab59dd8?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Jan 26 |
 | ↳ | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c4164f1f8465b79f249d6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
 | ↳ | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c40c8aa05c26e7ab59314?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
@@ -93,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Blackline Safety](https://www.blacklinesafety.com)** | **[Information Design Intern](https://jobright.ai/jobs/info/69782e0588e2b47213bc32b7?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 26 |
 | **[Between Friends](https://www.betweenfriendschicago.org)** | **[Clinical Internship Coordinator](https://jobright.ai/jobs/info/697826bcfdeb8243a27b1b99?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Cal Alumni Association | UC Berkeley](http://alumni.berkeley.edu)** | **[Student Assistant, Alumni Programming (Mentorship)](https://jobright.ai/jobs/info/697826c988e2b47213bc2775?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Public Programs Intern (Paid)](https://jobright.ai/jobs/info/69782bca88e2b47213bc2c9d?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Museum Education Intern (Paid)](https://jobright.ai/jobs/info/6978302d88e2b47213bc3717?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
+| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Museum Education Intern (Paid)](https://jobright.ai/jobs/info/6978302d88e2b47213bc3717?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
+| ↳ | **[Summer 2026 Public Programs Intern (Paid)](https://jobright.ai/jobs/info/69782bca88e2b47213bc2c9d?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Mercy Joplin Pre-Med Summer Internship 2026](https://jobright.ai/jobs/info/697828f152f3c27ec6445669?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Jan 26 |
 | **[Ovation](http://ovationdev.com)** | **[SUMMER INTERNSHIP 2026 at OVATION](https://jobright.ai/jobs/info/697829ae88e2b47213bc2af7?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Instructional Design and eLearning Intern](https://jobright.ai/jobs/info/69782dbc88e2b47213bc313a?utm_campaign=1057&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Second Chance Training Specialist Intern](https://jobright.ai/jobs/info/6977d53efdeb8243a27ac39b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6977ddd0fdeb8243a27ad048?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 26 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6977e677fdeb8243a27adb50?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 26 |
-| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977d205fdeb8243a27ac099?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Jan 26 |
-| ↳ | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
+| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
+| ↳ | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977d205fdeb8243a27ac099?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977cc2888e2b47213bbc1d2?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
-| ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977cbfffdeb8243a27ab8dd?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Services Internship - Emergency Dept. Main Hospital](https://jobright.ai/jobs/info/6977ec53fdeb8243a27ae321?utm_campaign=1057&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Jan 26 |
-| **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/6977ac6cfdeb8243a27a913a?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 26 |
-| **[New Brunswick Counseling Center & Burlington Comprehensive Counseling](http://www.nbcounselingcenter.org/)** | **[Student Intern (Master's Level)](https://jobright.ai/jobs/info/6977dffc88e2b47213bbdd65?utm_campaign=1057&utm_source=git)** | New Brunswick, New Jersey, United States | On Site | Jan 26 |
-| **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a79afdeb8243a27a88f1?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
-| ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a62efdeb8243a27a86a8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
