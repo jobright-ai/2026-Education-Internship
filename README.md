@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SouthState Bank](https://southstatebank.com)** | **[MarCom Banking Intern (REMOTE)](https://jobright.ai/jobs/info/695c546d22c9dc0d3d544c5d?utm_campaign=1057&utm_source=git)** | Winter Haven, FL | Remote | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/694082d250bbaf7650528b1f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Training Intern - Federal Services Division (FSD): Chattanooga, TN](https://jobright.ai/jobs/info/6978b12639f7f96cc6d10a51?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jan 27 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/6940cb24aa598a08c3f06471?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jan 27 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Jan 27 |
-| **[Women in Cleantech and Sustainability](http://www.womencleantechsustainability.org/)** | **[PROGRAMS GRADUATE STUDENT INTERN (UNCLASSIFIED) (PART-TIME) – ENERGY DEPARTMENT (SAN JOSE METROPOLITAN AREA, CA)](https://jobright.ai/jobs/info/697893a852f3c27ec644eb04?utm_campaign=1057&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Credit Operations](https://jobright.ai/jobs/info/697818b1fdeb8243a27b0c2b?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Jan 27 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Internal Training & Communications, Biomedical - Exton, PA](https://jobright.ai/jobs/info/695c01eb22c9dc0d3d53e423?utm_campaign=1057&utm_source=git)** | Exton, PA | On Site | Jan 27 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Inclusion & Belonging](https://jobright.ai/jobs/info/69787e5339f7f96cc6d0e23e?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 27 |
@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Training and Development Intern](https://jobright.ai/jobs/info/6977f3ddfdeb8243a27af3d2?utm_campaign=1057&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[American University](http://american.edu)** | **[Alcohol & Other Drugs Intern (Student) (FWS)](https://jobright.ai/jobs/info/6977ea7dfdeb8243a27ae0bd?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jan 26 |
 | **[Mental Health Cooperative](https://www.mhc-tn.org)** | **[Intern, Graduate Level](https://jobright.ai/jobs/info/6977ca7488e2b47213bbbfdb?utm_campaign=1057&utm_source=git)** | MHC Nashville, TN | On Site | Jan 26 |
-| **[Red Rock Behavioral Health Services](https://www.red-rock.com/)** | **[Counseling Internship at Cohen Veterans Network (UNPAID)](https://jobright.ai/jobs/info/6977f7d3fdeb8243a27afc52?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jan 26 |
 | **[Upptik](https://upptik.com)** | **[Upptik Internships](https://jobright.ai/jobs/info/6977f9d6fdeb8243a27afdd5?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Remote | Jan 26 |
 | **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Strategic Training and Education Intern](https://jobright.ai/jobs/info/6977c57888e2b47213bbbae5?utm_campaign=1057&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Jan 26 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/6977e6d7fdeb8243a27adbf5?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jan 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Second Chance Training Specialist Intern](https://jobright.ai/jobs/info/6977d53efdeb8243a27ac39b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6977ddd0fdeb8243a27ad048?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 26 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6977e677fdeb8243a27adb50?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 26 |
+| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
