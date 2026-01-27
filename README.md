@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern, Clinical Non-Nursing](https://jobright.ai/jobs/info/6978f50988e2b47213bd02d8?utm_campaign=1057&utm_source=git)** | ND, Fargo | On Site | Jan 27 |
+| **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/6978e8dd52f3c27ec645259f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Virtus](https://www.virtusinsurance.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6978e51752f3c27ec64523a8?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6978e1b752f3c27ec64521ca?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 27 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Eco Innovators College Intern (Part-time)](https://jobright.ai/jobs/info/6978e17739f7f96cc6d138f6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 27 |
@@ -65,8 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6978d28d39f7f96cc6d130e9?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 27 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/697283ee4ccbf64f8df27615?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jan 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6978cba239f7f96cc6d12caf?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 27 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Interns](https://jobright.ai/jobs/info/6978e76952f3c27ec64524d7?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 27 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Communications (Summer 2026)](https://jobright.ai/jobs/info/6978dc8d88e2b47213bcf594?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 27 |
 | **[Crest Vale](crestvale.us)** | **[Trading Internship](https://jobright.ai/jobs/info/6978e1ac52f3c27ec64521c2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 27 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Admissions Associate](https://jobright.ai/jobs/info/6978f12b88e2b47213bd002c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[SouthState Bank](https://southstatebank.com)** | **[MarCom Banking Intern (REMOTE)](https://jobright.ai/jobs/info/695c546d22c9dc0d3d544c5d?utm_campaign=1057&utm_source=git)** | Winter Haven, FL | Remote | Jan 27 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68f84f2c4bafad6d2d76165b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6978d7ce88e2b47213bcf30a?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Alcohol & Other Drugs Intern (Student) (FWS)](https://jobright.ai/jobs/info/6977ea7dfdeb8243a27ae0bd?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jan 26 |
 | **[Mental Health Cooperative](https://www.mhc-tn.org)** | **[Intern, Graduate Level](https://jobright.ai/jobs/info/6977ca7488e2b47213bbbfdb?utm_campaign=1057&utm_source=git)** | MHC Nashville, TN | On Site | Jan 26 |
 | **[Upptik](https://upptik.com)** | **[Upptik Internships](https://jobright.ai/jobs/info/6977f9d6fdeb8243a27afdd5?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Remote | Jan 26 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Global Strategic Training and Education Intern](https://jobright.ai/jobs/info/6977c57888e2b47213bbbae5?utm_campaign=1057&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Jan 26 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6977c21488e2b47213bbb793?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 26 |
-| **[Shineforth (formerly UMFS)](https://www.umfs.org)** | **[Intern](https://jobright.ai/jobs/info/6977ebfd88e2b47213bbed46?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Jan 26 |
-| **[Bread](https://www.breadpayments.com/)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977dfb888e2b47213bbdcf9?utm_campaign=1057&utm_source=git)** | Marion County, IN | Hybrid | Jan 26 |
-| **[Saint Louis Zoo](https://stlzoo.org)** | **[Conservation Education 2026 Paid Internship - Harris-Stowe State University](https://jobright.ai/jobs/info/6977e29dfdeb8243a27ad502?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
