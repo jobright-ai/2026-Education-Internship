@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6978cba239f7f96cc6d12caf?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 27 |
 | **[SouthState Bank](https://southstatebank.com)** | **[MarCom Banking Intern (REMOTE)](https://jobright.ai/jobs/info/695c546d22c9dc0d3d544c5d?utm_campaign=1057&utm_source=git)** | Winter Haven, FL | Remote | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/694082d250bbaf7650528b1f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 27 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Training Intern - Federal Services Division (FSD): Chattanooga, TN](https://jobright.ai/jobs/info/6978b12639f7f96cc6d10a51?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jan 27 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/6940cb24aa598a08c3f06471?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 27 |
+| **[US Vietnam Talent International School](https://utschool.edu.vn/)** | **[Intern, Primary School](https://jobright.ai/jobs/info/6978c9d788e2b47213bcea4f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jan 27 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Jan 27 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Credit Operations](https://jobright.ai/jobs/info/697818b1fdeb8243a27b0c2b?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Training and Development Intern](https://jobright.ai/jobs/info/6977df4f88e2b47213bbdc58?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | ↳ | **[2026-2027 Yearlong Second Chance Training Specialist Intern](https://jobright.ai/jobs/info/6977d53efdeb8243a27ac39b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6977ddd0fdeb8243a27ad048?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 26 |
-| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6977e677fdeb8243a27adb50?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 26 |
-| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
