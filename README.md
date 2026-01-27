@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sound](https://www.sound.health)** | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/69786d4652f3c27ec644bd27?utm_campaign=1057&utm_source=git)** | Auburn, WA, US | On Site | Jan 26 |
+| ↳ | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/69786b3188e2b47213bc90f1?utm_campaign=1057&utm_source=git)** | US-WA-Auburn | On Site | Jan 26 |
+| ↳ | **[Internship Program 2026 - South Region](https://jobright.ai/jobs/info/697868f239f7f96cc6d0d2be?utm_campaign=1057&utm_source=git)** | Tukwila, WA, US | On Site | Jan 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c46b0aa05c26e7ab59dd8?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Jan 26 |
 | ↳ | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c4164f1f8465b79f249d6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
 | ↳ | **[2027 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/695c40c8aa05c26e7ab59314?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Bronx County District Attorney Office](https://www.bronxda.nyc.gov/html/home/home.shtml)** | **[College Summer Intern 2026](https://jobright.ai/jobs/info/695c724f5e4962051b598fa7?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jan 26 |
 | **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student - Investment Management Advisor - 12-16 Months - Summer 2026](https://jobright.ai/jobs/info/695ba71caa05c26e7ab4f6c6?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | ↳ | **[Management - University Co-op Student - Diversity & Inclusion - Toronto - 8 Months - May 2026](https://jobright.ai/jobs/info/695baab3aa05c26e7ab4f72c?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
-| ↳ | **[University Co-Op Student - Technology Reporting Business Analyst - 12 Months - Toronto - May 2026](https://jobright.ai/jobs/info/695bab60aa05c26e7ab4f738?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69781c83fdeb8243a27b1031?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jan 26 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69784c3739f7f96cc6d0b18b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
 | ↳ | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69784d2739f7f96cc6d0b557?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 26 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/6978372088e2b47213bc3e2e?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Jan 26 |
 | ↳ | **[Director - International Students and Scholar Services](https://jobright.ai/jobs/info/69783ece52f3c27ec6447a7a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Education Intern](https://jobright.ai/jobs/info/6978446f52f3c27ec6448253?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[University Co-op Student-Business Analyst - 12 Months, Markham, May 2026](https://jobright.ai/jobs/info/695ba806aa05c26e7ab4f706?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 26 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, High School Success](https://jobright.ai/jobs/info/6978462e52f3c27ec6448428?utm_campaign=1057&utm_source=git)** | Shafter, CA, USA | On Site | Jan 26 |
 | ↳ | **[Wonderful College Scholar Summer Internship, CSR Strategy](https://jobright.ai/jobs/info/6978407752f3c27ec6447cbe?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | Jan 26 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69783d4a88e2b47213bc46f4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 26 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Second Chance Training Specialist Intern](https://jobright.ai/jobs/info/6977d53efdeb8243a27ac39b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6977ddd0fdeb8243a27ad048?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 26 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6977e677fdeb8243a27adb50?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 26 |
-| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977d205fdeb8243a27ac099?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Jan 26 |
-| ↳ | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
+| **[Ascension](https://healthcare.ascension.org)** | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977ce1c88e2b47213bbc401?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Jan 26 |
+| ↳ | **[CST Intern- Brain and Spine](https://jobright.ai/jobs/info/6977d205fdeb8243a27ac099?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977cc2888e2b47213bbc1d2?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | ↳ | **[Intern - Content Design](https://jobright.ai/jobs/info/6977cbfffdeb8243a27ab8dd?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Services Internship - Emergency Dept. Main Hospital](https://jobright.ai/jobs/info/6977ec53fdeb8243a27ae321?utm_campaign=1057&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Jan 26 |
 | **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/6977ac6cfdeb8243a27a913a?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 26 |
 | **[New Brunswick Counseling Center & Burlington Comprehensive Counseling](http://www.nbcounselingcenter.org/)** | **[Student Intern (Master's Level)](https://jobright.ai/jobs/info/6977dffc88e2b47213bbdd65?utm_campaign=1057&utm_source=git)** | New Brunswick, New Jersey, United States | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a79afdeb8243a27a88f1?utm_campaign=1057&utm_source=git)** | Chadds Ford, PA | Hybrid | Jan 26 |
-| ↳ | **[Intern- Financial Risk](https://jobright.ai/jobs/info/6977a62efdeb8243a27a86a8?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
