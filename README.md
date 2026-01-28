@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yes Energy](https://www.yesenergy.com)** | **[Energy Industry Content and Development Intern](https://jobright.ai/jobs/info/6979d56da8de441ca734f218?utm_campaign=1057&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6979ce99d7df290257fc3880?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 28 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Jan 27 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Master's Level MPI Mental Health](https://jobright.ai/jobs/info/695dabe1f1f8465b79f3f56a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
+| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/6979d7edb4589b4ee87c12dc?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | **[Idara-e-Taleem-o-Aagahi (ITA)](https://itacec.org/)** | **[Kitab Gari Intern – Literacy & Community Engagement](https://jobright.ai/jobs/info/6979b8870791bc1d723082f6?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Jan 27 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695dbb6cefe5dd5cbd3d90c0?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jan 27 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[Summer 2026 Internship - Omaha](https://jobright.ai/jobs/info/695dc7d6f1f8465b79f41484?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jan 27 |
@@ -100,8 +103,9 @@ For a complete list, click the following sortable link below:
 | **[TVCC](https://tvcc.on.ca)** | **[Instructor Therapists or Instructor Therapist Interns](https://jobright.ai/jobs/info/69797a7f9c90a224ecc3325c?utm_campaign=1057&utm_source=git)** | London, Ontario, Canada | On Site | Jan 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern](https://jobright.ai/jobs/info/69794c0052f3c27ec645adb5?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 27 |
 | **[Sparkcraft](https://sparkcraft.com)** | **[(English/Mandarin) Teaching Assistant for Generative AI Engineer Course](https://jobright.ai/jobs/info/697976deca92cf0d6a82999e?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jan 27 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6979757aca92cf0d6a82985e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 27 |
-| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/697964e752f3c27ec645db15?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 27 |
+| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/69731f001790715e866c1d83?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | Jan 27 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/697964e752f3c27ec645db15?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 27 |
+| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6979757aca92cf0d6a82985e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 27 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6979635888e2b47213bdad55?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 27 |
 | **[Hazelden Betty Ford Foundation](https://www.hazeldenbettyford.org/)** | **[Substance Use Disorder Clinical Intern (Master's Level)](https://jobright.ai/jobs/info/6979426639f7f96cc6d1ba5d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Greenbelt Community Outreach Internship – ONSITE – Greenbelt Park](https://jobright.ai/jobs/info/69795dce52f3c27ec645cf9f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virtus](https://www.virtusinsurance.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6978e51752f3c27ec64523a8?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Eco Innovators College Intern (Part-time)](https://jobright.ai/jobs/info/6978e17739f7f96cc6d138f6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Quality Training and Development Internship - Fall 2026](https://jobright.ai/jobs/info/6978fe1852f3c27ec6454b34?utm_campaign=1057&utm_source=git)** | De Pere, WI | On Site | Jan 27 |
-| **[Children of America](https://www.childrenofamerica.com/)** | **[Lead Teacher Intern](https://jobright.ai/jobs/info/6978f98788e2b47213bd0612?utm_campaign=1057&utm_source=git)** | Bowie, MD | On Site | Jan 27 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/69406cecaa598a08c3f00bbb?utm_campaign=1057&utm_source=git)** | Bridgeville, PA | On Site | Jan 27 |
-| **[California State University-San Bernardino](https://csusb.edu)** | **[Department of History Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6938ad58aabec14a727d9d40?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Jan 27 |
-| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/697283ee4ccbf64f8df27615?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
