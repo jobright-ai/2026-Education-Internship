@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1b44a112b402660de42f?utm_campaign=1057&utm_source=git)** | Frankfort, KY | Remote | Jan 28 |
+| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1c720badca5763afa8ab?utm_campaign=1057&utm_source=git)** | Albany, NY | Remote | Jan 28 |
+| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/6971b29b333b6343a14e668d?utm_campaign=1057&utm_source=git)** | Montgomery, AL | Remote | Jan 28 |
+| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/696db3be5fc86241853c7943?utm_campaign=1057&utm_source=git)** | Madison, WI | Remote | Jan 28 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697ac99c9d60e431a16c71cc?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 28 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Grambling State University](https://jobright.ai/jobs/info/697ac55f9d60e431a16c6d9b?utm_campaign=1057&utm_source=git)** | United, LA | On Site | Jan 28 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/697ac104f6fc293b0a2cbbe4?utm_campaign=1057&utm_source=git)** | Topeka, Kansas, United States | On Site | Jan 28 |
@@ -88,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Operational Excellence](https://jobright.ai/jobs/info/697a818f8dbbf73badc7a74a?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Jan 28 |
 | **[The Hidden Genius Project](http://www.hiddengeniusproject.org)** | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a7f0cf6fc293b0a2c518d?utm_campaign=1057&utm_source=git)** | Richmond, CA | Hybrid | Jan 28 |
 | **[PatientPoint®](http://patientpoint.com)** | **[Training and Enablement Intern](https://jobright.ai/jobs/info/697a7ebb9d60e431a16bffae?utm_campaign=1057&utm_source=git)** | Remote, US | Remote | Jan 28 |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697ad2a7c532c4768fe0885f?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 28 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Clinical Intern](https://jobright.ai/jobs/info/697a7d868dbbf73badc7a350?utm_campaign=1057&utm_source=git)** | Middleboro, MA | On Site | Jan 28 |
 | **[California State University Channel Islands](https://www.csuci.edu/)** | **[Senior Coordinator of Student Academic Success Services](https://jobright.ai/jobs/info/697aa435f6fc293b0a2c8c76?utm_campaign=1057&utm_source=git)** | Camarillo, CA | On Site | Jan 28 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Graduate Student Intern](https://jobright.ai/jobs/info/697a7c7e8dbbf73badc7a212?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 28 |
@@ -101,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[The Hidden Genius Project](http://www.hiddengeniusproject.org)** | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697aa6a58dbbf73badc7e446?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 28 |
 | **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Camp Christopher - Summer Camp Counselor, Special Needs- Paid Internship](https://jobright.ai/jobs/info/697a6cdf9d60e431a16beb1a?utm_campaign=1057&utm_source=git)** | Bath Twp, Ohio, United States | On Site | Jan 28 |
 | **[The Hidden Genius Project](http://www.hiddengeniusproject.org)** | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a8cb99d60e431a16c173d?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | On Site | Jan 28 |
-| ↳ | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a8978f6fc293b0a2c62b8?utm_campaign=1057&utm_source=git)** | Richmond, CA, US | On Site | Jan 28 |
 | ↳ | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a88618dbbf73badc7b446?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | On Site | Jan 28 |
 | ↳ | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a98c08dbbf73badc7d4c2?utm_campaign=1057&utm_source=git)** | Inglewood, CA, US | On Site | Jan 28 |
+| ↳ | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a8978f6fc293b0a2c62b8?utm_campaign=1057&utm_source=git)** | Richmond, CA, US | On Site | Jan 28 |
 | **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2, Temporary)](https://jobright.ai/jobs/info/697a911ff6fc293b0a2c6fb0?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jan 28 |
 | **[The Hidden Genius Project](http://www.hiddengeniusproject.org)** | **[(Non-paid) Support Services Intern(LA/Chi/Balti/Richmond CA/Atl)](https://jobright.ai/jobs/info/697a87899d60e431a16c0e38?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Summer Undergraduate Intern](https://jobright.ai/jobs/info/697a68028dbbf73badc78af1?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 28 |
@@ -122,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[LRADAC](https://lradac.org)** | **[Clinical Counselor - Richland Internship](https://jobright.ai/jobs/info/697a4cbba8de441ca73579ff?utm_campaign=1057&utm_source=git)** | Columbia, SC, US | On Site | Jan 28 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/697a66a99d60e431a16be414?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 28 |
 | **[American Engineering](http://american-ea.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/697a6573f6fc293b0a2c34e4?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 28 |
-| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Training & Development Student Internship](https://jobright.ai/jobs/info/697a715f9d60e431a16bf057?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Costello Medical](https://www.costellomedical.com)** | **[Global Health Internship](https://jobright.ai/jobs/info/697a70459d60e431a16bef0c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 28 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Student Ambassador Intern (4 Months)](https://jobright.ai/jobs/info/697a38b4b4589b4ee87c7560?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 28 |
 | **[The Center for Innovation in Mental Health](https://sph.cuny.edu/research/centers-and-institutes/cimh/)** | **[Community Mental Health Navigator Intern](https://jobright.ai/jobs/info/697a538db4589b4ee87c9e5a?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Nursing Internship](https://jobright.ai/jobs/info/6979e5aeb4589b4ee87c2997?utm_campaign=1057&utm_source=git)** | Butler, IN | On Site | Jan 28 |
 | **[Orbient 24](orbient24.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/697a0373a5b9804527dfcce4?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Jan 28 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/694211a7bdcf884a5addce58?utm_campaign=1057&utm_source=git)** | Apex, NC | On Site | Jan 28 |
-| ↳ | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6941f16c50bbaf765053c15d?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Jan 28 |
 | ↳ | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6941fce150bbaf765053d086?utm_campaign=1057&utm_source=git)** | Hanover Park, IL | On Site | Jan 28 |
-| ↳ | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6941f89514ee092a69001958?utm_campaign=1057&utm_source=git)** | Manitowoc, WI | On Site | Jan 28 |
-| ↳ | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/69424cd5bdcf884a5ade3447?utm_campaign=1057&utm_source=git)** | New Brighton, MN | On Site | Jan 28 |
-| **[Yes Energy](https://www.yesenergy.com)** | **[Energy Industry Content and Development Intern](https://jobright.ai/jobs/info/6979d56da8de441ca734f218?utm_campaign=1057&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
