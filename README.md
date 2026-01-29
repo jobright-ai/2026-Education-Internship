@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Office of Innovation](https://jobright.ai/jobs/info/69649e432cbf4e44756e14c3?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Jan 29 |
+| **[The Mississippi Farm to School Network](https://www.mississippifarmtoschool.org/)** | **[Paid Internship Opportunities: Mississippi Farm to School Network](https://jobright.ai/jobs/info/697baa681136d179eeef304d?utm_campaign=1057&utm_source=git)** | Mississippi, United States | Remote | Jan 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697ba0ff0b88cc7d64226850?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/697ba09e0b88cc7d64226759?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 29 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697b9cfb1136d179eeef28cd?utm_campaign=1057&utm_source=git)** | 320 E 94th St, New York, NY, 10128, US | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - gRED Early Clinical Development Clinical Operations](https://jobright.ai/jobs/info/697b97af1136d179eeef2069?utm_campaign=1057&utm_source=git)** | South San Francisco | On Site | Jan 29 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[2026-2027 LEAD Peer Mentor / Graduate Internship](https://jobright.ai/jobs/info/697b958e1423772304ebb40e?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 29 |
+| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697ba5100b88cc7d64227390?utm_campaign=1057&utm_source=git)** | 320 E 94th St, New York, NY, 10128, US | On Site | Jan 29 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/695fdf7a7ebc25398eb5b729?utm_campaign=1057&utm_source=git)** | Westborough, MA | On Site | Jan 29 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/697b76141423772304eb9f15?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 29 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Multimedia Intern (Rochester, NY)](https://jobright.ai/jobs/info/692751a891ceeb2e8a53dfdc?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Jan 29 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Jan 29 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Community Programs Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/69434f0f94730b7398765d42?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jan 29 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/69435e6794730b7398766e04?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Jan 29 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 School Partnerships Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943514594730b7398765ee5?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jan 29 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Jan 29 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691ad5f0bcdbf3560c9dae7e?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 29 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed81b570b66e2345d3ea3d?utm_campaign=1057&utm_source=git)** | Irondale, AL | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1c720badca5763afa8ab?utm_campaign=1057&utm_source=git)** | Albany, NY | Remote | Jan 28 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/6971b29b333b6343a14e668d?utm_campaign=1057&utm_source=git)** | Montgomery, AL | Remote | Jan 28 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/696db3be5fc86241853c7943?utm_campaign=1057&utm_source=git)** | Madison, WI | Remote | Jan 28 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697af407c532c4768fe0bfe2?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 28 |
-| **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Admissions Counselor Intern (Full-Time)](https://jobright.ai/jobs/info/697af2cfc532c4768fe0be99?utm_campaign=1057&utm_source=git)** | Straight River, MN | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
