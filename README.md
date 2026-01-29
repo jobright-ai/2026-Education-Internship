@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691acd3615b415636718acb8?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jan 29 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed834c81fdd1626d39d439?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/69435e6794730b7398766e04?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Jan 29 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Jan 29 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT SUPPLY CHAIN](https://jobright.ai/jobs/info/691acc69bcdbf3560c9da762?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 29 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691ad5f0bcdbf3560c9dae7e?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 29 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/697b41171423772304eb65e5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f12b6a1bbea1d9a79e675?utm_campaign=1057&utm_source=git)** | Olympia, WA | Remote | Jan 29 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/6976df9f37785856351062ad?utm_campaign=1057&utm_source=git)** | Jefferson City, MO | Remote | Jan 29 |
@@ -76,10 +82,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/697a5720a5b9804527e02867?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | Remote | Jan 29 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/6976dfeebc8e722e7b1b550a?utm_campaign=1057&utm_source=git)** | Charleston, WV | Remote | Jan 29 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/696312d1a112b40266114623?utm_campaign=1057&utm_source=git)** | Lansing, MI | Remote | Jan 29 |
-| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f177c0badca5763af9e2b?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | Remote | Jan 29 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/697b4cce1423772304eb6c70?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f177c0badca5763af9e2b?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | Remote | Jan 29 |
 | **[SERC Reliability Corporation](http://www.serc1.org)** | **[Intern, Outreach & Training](https://jobright.ai/jobs/info/697b190d17b11b1c2e421cab?utm_campaign=1057&utm_source=git)** | Charlotte, NC, USA, 28277 | On Site | Jan 29 |
+| **[Consultora Partners & Solutions](https://consultorapys.cl)** | **[Summer Internship](https://jobright.ai/jobs/info/697b54921136d179eeeec5f9?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Jan 29 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1bbaa1bbea1d9a79fa6b?utm_campaign=1057&utm_source=git)** | Dover, DE | Remote | Jan 29 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/69688a9ff25a380066970847?utm_campaign=1057&utm_source=git)** | Little Rock, AR | Remote | Jan 29 |
+| **[TSAOG Orthopaedics & Spine](http://tsaog.com)** | **[Physical Therapy Technician- Internship - FULL-TIME](https://jobright.ai/jobs/info/697b52bf1136d179eeeec515?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1fd60badca5763afadd4?utm_campaign=1057&utm_source=git)** | Hartford, CT | Remote | Jan 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/697b301917b11b1c2e424794?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 28 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Associate](https://jobright.ai/jobs/info/697b2d111136d179eeeea073?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
@@ -94,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1d9b0badca5763afab24?utm_campaign=1057&utm_source=git)** | Jackson, MS | Remote | Jan 28 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f2bb9a1bbea1d9a7a0b96?utm_campaign=1057&utm_source=git)** | Providence, RI | Remote | Jan 28 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697b01b617b11b1c2e41f417?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 28 |
-| **[Arizona Community Foundation](https://www.azfoundation.org/)** | **[Scholarship Outreach Intern,  Yuma, Arizona](https://jobright.ai/jobs/info/697b2e171423772304eb5849?utm_campaign=1057&utm_source=git)** | Yuma Affiliate - Yuma, AZ 85364 | On Site | Jan 28 |
-| ↳ | **[Scholarship Outreach Intern , Phoenix, Arizona](https://jobright.ai/jobs/info/697b2b6d17b11b1c2e423ee5?utm_campaign=1057&utm_source=git)** | Central Office - Phoenix, AZ 85016 | On Site | Jan 28 |
+| **[Arizona Community Foundation](https://www.azfoundation.org/)** | **[Scholarship Outreach Intern , Phoenix, Arizona](https://jobright.ai/jobs/info/697b2b6d17b11b1c2e423ee5?utm_campaign=1057&utm_source=git)** | Central Office - Phoenix, AZ 85016 | On Site | Jan 28 |
+| ↳ | **[Scholarship Outreach Intern,  Yuma, Arizona](https://jobright.ai/jobs/info/697b2e171423772304eb5849?utm_campaign=1057&utm_source=git)** | Yuma Affiliate - Yuma, AZ 85364 | On Site | Jan 28 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1778a112b402660ddcae?utm_campaign=1057&utm_source=git)** | Topeka, KS | Remote | Jan 28 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1c000badca5763afa7c0?utm_campaign=1057&utm_source=git)** | Trenton, NJ | Remote | Jan 28 |
 | ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1f10a112b402660deaf6?utm_campaign=1057&utm_source=git)** | Honolulu, HI | Remote | Jan 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Program Steering (International Student)](https://jobright.ai/jobs/info/697ae41117b11b1c2e41b59f?utm_campaign=1057&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Jan 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/697aa15a8dbbf73badc7dcfb?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 28 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/697ac7039d60e431a16c6f41?utm_campaign=1057&utm_source=git)** | Topeka, KS | On Site | Jan 28 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697aa0369d60e431a16c3619?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 28 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Dairy Farm Practices Intern](https://jobright.ai/jobs/info/697ac1568dbbf73badc81107?utm_campaign=1057&utm_source=git)** | Salida, CA | On Site | Jan 28 |
-| **[PatientPoint®](http://patientpoint.com)** | **[Process Improvement and Training Intern](https://jobright.ai/jobs/info/697a9aa88dbbf73badc7d718?utm_campaign=1057&utm_source=git)** | Remote, US | Remote | Jan 28 |
-| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Director, Center for Simulation Education - NKU Internal Only](https://jobright.ai/jobs/info/697ac13d8dbbf73badc810f2?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Jan 28 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/697a9987f6fc293b0a2c823f?utm_campaign=1057&utm_source=git)** | Milford, MA | On Site | Jan 28 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/697a9255f6fc293b0a2c7228?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Summer Internship in Scientific, Regulatory and Nutrition Affairs](https://jobright.ai/jobs/info/694a26ab7d506e3808f561bb?utm_campaign=1057&utm_source=git)** | Rosemont, IL | Hybrid | Jan 28 |
-| **[Metrocare Services](https://www.metrocareservices.org)** | **[LPC-A Intern](https://jobright.ai/jobs/info/696b0f89db26b618950e8933?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
-| **[PatientPoint®](http://patientpoint.com)** | **[Process Improvement and Training Intern](https://jobright.ai/jobs/info/697a8fc3f6fc293b0a2c6ccc?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
