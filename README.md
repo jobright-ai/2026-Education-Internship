@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mutual Group](https://www.mutual.group)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/697cff0b137a05102565f6cb?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf3b23f57a3356966afc6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Jan 30 |
 | ↳ | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf25c137a05102565ee34?utm_campaign=1057&utm_source=git)** | Laurel, MD, US | On Site | Jan 30 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697cee83727747250d579dc7?utm_campaign=1057&utm_source=git)** | Pearl City, HI | On Site | Jan 30 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697ce654137a05102565d007?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[UofL Health](https://uoflhealth.org)** | **[Intern Future Healers, UofL Hospital, Trauma Institute, PRN](https://jobright.ai/jobs/info/697ce29c137a05102565cdd2?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | On Site | Jan 30 |
+| **[Belmark inc](https://www.belmark.com/)** | **[Quality Training and Development Internship - Fall 2026](https://jobright.ai/jobs/info/6978fe1852f3c27ec6454b34?utm_campaign=1057&utm_source=git)** | De Pere, WI | On Site | Jan 30 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697ce0c5727747250d578de4?utm_campaign=1057&utm_source=git)** | Pearl City, Hawaii, United States | On Site | Jan 30 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697cdc56137a05102565c9ec?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 30 |
@@ -127,6 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship, Learning & Organization Development (L&OD)](https://jobright.ai/jobs/info/697c29ff1136d179eeefe3a9?utm_campaign=1057&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fef7282817106e976f527?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Program Management (Research Team)](https://jobright.ai/jobs/info/697c02880b88cc7d6422f105?utm_campaign=1057&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
+| **[PRACTICE](https://practicebc.com/)** | **[Bilingual Regents Prep Intern](https://jobright.ai/jobs/info/697d03ef137a05102565f971?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jan 29 |
 | **[Saint Alphonsus](https://www.saintalphonsus.org)** | **[ASCEND Program Nurse Intern - Full Time](https://jobright.ai/jobs/info/697cc639137a05102565bf77?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Jan 29 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Naturalist (Summer)](https://jobright.ai/jobs/info/697c1d5a0b88cc7d6423189d?utm_campaign=1057&utm_source=git)** | Lake Andes, SD | On Site | Jan 29 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697c1f8a1136d179eeefd4b8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[w3r Consulting](http://w3r.com)** | **[Intern program manager](https://jobright.ai/jobs/info/697bcd4f1423772304ebfaee?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/697bebff0b88cc7d6422d36d?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Jan 29 |
 | ↳ | **[Climbing Arborist Internship / Wixom, MI](https://jobright.ai/jobs/info/697bec320b88cc7d6422d3cb?utm_campaign=1057&utm_source=git)** | Wixom, MI | On Site | Jan 29 |
-| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[IHT Internship opportunity - In-Home Therapy Program – Children’s Behavioral Health Initiative](https://jobright.ai/jobs/info/697bfd900b88cc7d6422ee0c?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Jan 29 |
-| **[State of Ohio](https://www.odh.ohio.gov/)** | **[Summer 2026 College Internship - Library and Information Science](https://jobright.ai/jobs/info/697be1501136d179eeef7bd1?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Summit County | On Site | Jan 29 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Training Specialist II](https://jobright.ai/jobs/info/697bdbac1136d179eeef6fb3?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
