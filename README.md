@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d4477217554c2d9eef7a84?utm_campaign=1057&utm_source=git)** | Wauconda, IL | On Site | Jan 30 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d448fd17554c2d9eef7e4e?utm_campaign=1057&utm_source=git)** | Findlay, OH | On Site | Jan 30 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 30 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44734ffc1276de3fd92aa?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8121?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Jan 30 |
+| **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Information Technology Internships - Summer 2026](https://jobright.ai/jobs/info/694475d1dd382f5f566aa0dd?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jan 30 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/697c74bf3f57a33569662a16?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/697c6a0f727747250d571cd9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
 | **[Westat](https://www.westat.com)** | **[Education Studies Intern](https://jobright.ai/jobs/info/69601e52a112b402660ed57d?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Jan 29 |
@@ -94,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/695ff34d7ebc25398eb5d8c3?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jan 29 |
 | **[Idaho Youth Ranch](https://www.youthranch.org/)** | **[Clinical MSW Internship](https://jobright.ai/jobs/info/697c21ea1136d179eeefd94a?utm_campaign=1057&utm_source=git)** | Caldwell,ID,US | On Site | Jan 29 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/697bf5330b88cc7d6422e18a?utm_campaign=1057&utm_source=git)** | Folsom, CA | On Site | Jan 29 |
-| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c15721423772304ec6973?utm_campaign=1057&utm_source=git)** | GLENVIEW, IL, US | On Site | Jan 29 |
-| ↳ | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c1ea61136d179eeefd2af?utm_campaign=1057&utm_source=git)** | US-IL-GLENVIEW | On Site | Jan 29 |
+| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c1ea61136d179eeefd2af?utm_campaign=1057&utm_source=git)** | US-IL-GLENVIEW | On Site | Jan 29 |
+| ↳ | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c15721423772304ec6973?utm_campaign=1057&utm_source=git)** | GLENVIEW, IL, US | On Site | Jan 29 |
 | **[LCI Education](http://www.lcieducation.com)** | **[INTERNSHIP AND WORK-INTEGRATED LEARNING COORDINATOR – TEE AND TES](https://jobright.ai/jobs/info/697c189b1423772304ec6f96?utm_campaign=1057&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jan 29 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697c07d61136d179eeefab23?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 29 |
 | **[The City University of New York](http://cuny.edu)** | **[Academic Internship Specialist (HEOa) - Hunter-Bellevue School of Nursing](https://jobright.ai/jobs/info/697be40a1423772304ec2696?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697c02491423772304ec4fe4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697bdefc0b88cc7d6422bcab?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 29 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697c33501423772304ec96d1?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 29 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697bfe8f1136d179eeefa408?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 29 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697bc3761136d179eeef4836?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | ↳ | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697bc0171136d179eeef4442?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Medical Affairs Training & Resources](https://jobright.ai/jobs/info/697bd7161136d179eeef656d?utm_campaign=1057&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
@@ -138,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Seneca Gaming Corporation](http://www.SenecaCasinos.com)** | **[Intern](https://jobright.ai/jobs/info/697bbe1b1136d179eeef4225?utm_campaign=1057&utm_source=git)** | Niagara Falls, NY | On Site | Jan 29 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/697ba09e0b88cc7d64226759?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 29 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
-| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
 | ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bbbbf0b88cc7d6422877e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jan 29 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Student Intern](https://jobright.ai/jobs/info/697b9e251423772304ebc044?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Multimedia Intern (Rochester, NY)](https://jobright.ai/jobs/info/692751a891ceeb2e8a53dfdc?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Jan 29 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697b711d1136d179eeeef55c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 29 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Studio Programs Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/695df408821f2713684b249b?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jan 29 |
-| **[SERC Reliability Corporation](http://www.serc1.org)** | **[Intern, Outreach & Training](https://jobright.ai/jobs/info/697c3a850b88cc7d642348ae?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | On Site | Jan 29 |
-| **[CHOR Youth & Family Services- Building Kids Lives since 1884](https://www.buildingkidslives.org/)** | **[COUNSELOR INTERN](https://jobright.ai/jobs/info/697b850b0b88cc7d64224ad6?utm_campaign=1057&utm_source=git)** | Doylestown, PA | On Site | Jan 29 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82f26335d33236129c50?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jan 29 |
-| **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/697b8d7e0b88cc7d64224f06?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
