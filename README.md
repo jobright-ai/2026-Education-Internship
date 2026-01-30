@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf3b23f57a3356966afc6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Jan 30 |
+| ↳ | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf25c137a05102565ee34?utm_campaign=1057&utm_source=git)** | Laurel, MD, US | On Site | Jan 30 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697cee83727747250d579dc7?utm_campaign=1057&utm_source=git)** | Pearl City, HI | On Site | Jan 30 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697ce654137a05102565d007?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[UofL Health](https://uoflhealth.org)** | **[Intern Future Healers, UofL Hospital, Trauma Institute, PRN](https://jobright.ai/jobs/info/697ce29c137a05102565cdd2?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | On Site | Jan 30 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697ce0c5727747250d578de4?utm_campaign=1057&utm_source=git)** | Pearl City, Hawaii, United States | On Site | Jan 30 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Jan 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697cdc56137a05102565c9ec?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 30 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/697cdbea3f57a335696688b9?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jan 30 |
+| **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf70e727747250d57b31f?utm_campaign=1057&utm_source=git)** | Reston, VA, US | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Registered Nurse Intern](https://jobright.ai/jobs/info/697cd80b137a05102565c8cc?utm_campaign=1057&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/697cd231727747250d5786ec?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697cc68c137a05102565bfae?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Jan 30 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Insights & Analytics MBA Intern, Immunology](https://jobright.ai/jobs/info/696090b47ebc25398eb67843?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Jan 30 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697ccfe0727747250d578539?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 30 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/697cb072137a05102565ae0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Trading Bootcamp Micro-Internship](https://jobright.ai/jobs/info/697ce1ee137a05102565cd66?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 30 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[PWDI Scholars Internship Program - Administrative](https://jobright.ai/jobs/info/6944a14f50bbaf765056a51a?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 30 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[IHT Internship opportunity - In-Home Therapy Program – Children’s Behavioral Health Initiative](https://jobright.ai/jobs/info/697bfd900b88cc7d6422ee0c?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Jan 29 |
 | **[State of Ohio](https://www.odh.ohio.gov/)** | **[Summer 2026 College Internship - Library and Information Science](https://jobright.ai/jobs/info/697be1501136d179eeef7bd1?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Summit County | On Site | Jan 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Training Specialist II](https://jobright.ai/jobs/info/697bdbac1136d179eeef6fb3?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Jan 29 |
-| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Summer Camp Summer Intern](https://jobright.ai/jobs/info/697bdec21136d179eeef761c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 29 |
-| **[Mithun](https://mithun.com)** | **[Summer Internships](https://jobright.ai/jobs/info/697be4bd1423772304ec26fd?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
-| **[JDC (The Joint)](http://www.jdc.org)** | **[Programs and Operations Intern](https://jobright.ai/jobs/info/697bbb330b88cc7d642286e0?utm_campaign=1057&utm_source=git)** | NY, New York, US | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
