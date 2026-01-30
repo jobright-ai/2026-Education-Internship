@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westat](https://www.westat.com)** | **[Education Studies Intern](https://jobright.ai/jobs/info/69601e52a112b402660ed57d?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Jan 29 |
+| **[Legends Global](http://legends.net)** | **[Summer 2026 Graduate Student Internship](https://jobright.ai/jobs/info/6960494fa1bbea1d9a7b2d3e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jan 29 |
 | **[Collège LaSalle, Montréal](https://www.collegelasalle.com)** | **[INTERNSHIP AND WORK-INTEGRATED LEARNING COORDINATOR – TEE AND TES](https://jobright.ai/jobs/info/697c41ce1136d179eef013a5?utm_campaign=1057&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jan 29 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Training Operations Intern (Co-op)](https://jobright.ai/jobs/info/697c38760b88cc7d64233f45?utm_campaign=1057&utm_source=git)** | Draper, UT | On Site | Jan 29 |
 | ↳ | **[Training Operations Intern (Co-op)](https://jobright.ai/jobs/info/697c34660b88cc7d64233ada?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 29 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of History Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6938ad58aabec14a727d9d40?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Jan 29 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Wealth Management - NJ/NY](https://jobright.ai/jobs/info/697c2e7a1136d179eeefe85d?utm_campaign=1057&utm_source=git)** | Weehawken, NJ | On Site | Jan 29 |
 | **[United Educators](https://www.ue.org/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/692f2782ef4b48533d14317a?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Jan 29 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/697c4c150b88cc7d6423666d?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 29 |
 | **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Wealth Management - NJ/NY](https://jobright.ai/jobs/info/697c2b990b88cc7d64232f4d?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jan 29 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Texas - Katy](https://jobright.ai/jobs/info/697c2a3b0b88cc7d64232dcd?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Jan 29 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697c24771423772304ec84f7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 29 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Seneca Gaming Corporation](http://www.SenecaCasinos.com)** | **[Intern](https://jobright.ai/jobs/info/697bbe1b1136d179eeef4225?utm_campaign=1057&utm_source=git)** | Niagara Falls, NY | On Site | Jan 29 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697ba0ff0b88cc7d64226850?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/697ba09e0b88cc7d64226759?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 29 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
-| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
 | ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bbbbf0b88cc7d6422877e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jan 29 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Student Intern](https://jobright.ai/jobs/info/697b9e251423772304ebc044?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697b86050b88cc7d64224b6a?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 29 |
 | **[SERC Reliability Corporation](http://www.serc1.org)** | **[Intern, Outreach & Training](https://jobright.ai/jobs/info/697c3a850b88cc7d642348ae?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | On Site | Jan 29 |
 | **[CHOR Youth & Family Services- Building Kids Lives since 1884](https://www.buildingkidslives.org/)** | **[COUNSELOR INTERN](https://jobright.ai/jobs/info/697b850b0b88cc7d64224ad6?utm_campaign=1057&utm_source=git)** | Doylestown, PA | On Site | Jan 29 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82f26335d33236129c50?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jan 29 |
-| **[LiveSwitch](https://www.liveswitch.io)** | **[LiveSwitch SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/697b8d7e0b88cc7d64224f06?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed818570b66e2345d3e9f6?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
