@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City University of New York](http://cuny.edu)** | **[Academic Internship Specialist (HEOa) - Hunter-Bellevue School of Nursing](https://jobright.ai/jobs/info/697be40a1423772304ec2696?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
+| **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Health Plan Operations Intern (Graduate - Summer)](https://jobright.ai/jobs/info/697be0f80b88cc7d6422c16b?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Jan 29 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/697be0a81423772304ec1f1c?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Jan 29 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697bdefc0b88cc7d6422bcab?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 29 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697bc3761136d179eeef4836?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | ↳ | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/697bc0171136d179eeef4442?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -69,10 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Summer Camp Summer Intern](https://jobright.ai/jobs/info/697bd1711423772304ebffe1?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Jan 29 |
 | **[w3r Consulting](http://w3r.com)** | **[Intern program manager](https://jobright.ai/jobs/info/697bcd4f1423772304ebfaee?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
+| **[State of Ohio](http://www.ong.ohio.gov)** | **[Summer 2026 College Internship - Library and Information Science](https://jobright.ai/jobs/info/697be1501136d179eeef7bd1?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Summit County | On Site | Jan 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Training Specialist II](https://jobright.ai/jobs/info/697bdbac1136d179eeef6fb3?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Jan 29 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Summer Camp Summer Intern](https://jobright.ai/jobs/info/697bdec21136d179eeef761c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 29 |
+| **[Mithun](https://mithun.com)** | **[Summer Internships](https://jobright.ai/jobs/info/697be4bd1423772304ec26fd?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Programs and Operations Intern](https://jobright.ai/jobs/info/697bbb330b88cc7d642286e0?utm_campaign=1057&utm_source=git)** | NY, New York, US | Hybrid | Jan 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Jan 29 |
+| ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Jan 29 |
 | ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fef390f4e0f657ea43724?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
 | ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jan 29 |
 | **[Costello Medical](https://www.costellomedical.com)** | **[Analyst/Medical Writer Summer Internship](https://jobright.ai/jobs/info/697bb9791423772304ebe489?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
@@ -87,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697ba0ff0b88cc7d64226850?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/697ba09e0b88cc7d64226759?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 29 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship (Prevention)](https://jobright.ai/jobs/info/697bc1261136d179eeef457b?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, IL, US | On Site | Jan 29 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
-| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/697bcc161423772304ebf9e8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, US | On Site | Jan 29 |
+| ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bca191136d179eeef5056?utm_campaign=1057&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 29 |
 | ↳ | **[Counselor Intern](https://jobright.ai/jobs/info/697bbbbf0b88cc7d6422877e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jan 29 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[JDC (The Joint)](http://www.jdc.org)** | **[Student Intern](https://jobright.ai/jobs/info/697b9e251423772304ebc044?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics - Nutrition (Part-time)](https://jobright.ai/jobs/info/697b35911136d179eeeeb34a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 28 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ophthalmic Assistant Internship- Mercy Springfield](https://jobright.ai/jobs/info/697b0c671423772304eb1c97?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Jan 28 |
 | **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Freedom School Servant Leader Intern (Summer 2026)](https://jobright.ai/jobs/info/697b0c2fc532c4768fe0ee36?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jan 28 |
-| **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/697b0b16c532c4768fe0eb75?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jan 28 |
-| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/6974667637785856350e7f7b?utm_campaign=1057&utm_source=git)** | Helena, MT | Remote | Jan 28 |
-| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/696da85e5fc86241853c7192?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jan 28 |
-| **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Freedom School Servant Leader Intern (Summer 2026)](https://jobright.ai/jobs/info/697b09fa1423772304eb1ab9?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jan 28 |
-| **[Pearson](https://www.pearson.com/)** | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/69782dad39f7f96cc6d0703b?utm_campaign=1057&utm_source=git)** | Cheyenne, WY | Remote | Jan 28 |
-| ↳ | **[Associate, Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1d9b0badca5763afab24?utm_campaign=1057&utm_source=git)** | Jackson, MS | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
