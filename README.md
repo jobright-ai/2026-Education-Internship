@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Summer 2026)](https://jobright.ai/jobs/info/697e63667f40342e15d7284a?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jan 31 |
 | **[Chesterfield College](https://linktr.ee/chesterfieldcollege)** | **[Work Based Tutor/IQA – Electrical installation](https://jobright.ai/jobs/info/697e5256abff4c399a9d0b65?utm_campaign=1057&utm_source=git)** | Field, British Columbia, Canada | Hybrid | Jan 31 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/697e4b3fabff4c399a9d0997?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 31 |
 | ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/697e45f17f40342e15d71a77?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 31 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/697e5e0fce48107c05428c23?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 31 |
 | **[Wichita State University](http://www.wichita.edu)** | **[eXtended Reality Student Assistant](https://jobright.ai/jobs/info/697e372dce48107c05427d82?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - CLINICAL REPORTING AND ANALYTICS](https://jobright.ai/jobs/info/697a240eb4589b4ee87c699a?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697e2845abff4c399a9ce9ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
@@ -74,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Intern](https://jobright.ai/jobs/info/6961c6f1f3f4cd132506cac0?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Jan 31 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Jan 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 31 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697e0fd2ce48107c05425979?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 31 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 31 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 31 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/697de57bce48107c0542302f?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/697d23fe727747250d57ddbe?utm_campaign=1057&utm_source=git)** | Buffalo, New York, United States | On Site | Jan 30 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[HSO Intern - (Hire in process – PLEASE DO NOT APPLY TO THIS POSTING)](https://jobright.ai/jobs/info/697d255c727747250d57e086?utm_campaign=1057&utm_source=git)** | One Texas Center | On Site | Jan 30 |
 | **[Mutual Group](https://www.mutual.group)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/697cff0b137a05102565f6cb?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Young STEAMers](https://www.youngsteamers.org/)** | **[STEAM Instructor Intern (Paid Internship -> Part Time Position)](https://jobright.ai/jobs/info/697d1d0f137a051025661534?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
