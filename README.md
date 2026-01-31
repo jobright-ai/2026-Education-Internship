@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TurbineOne](https://turbineone.com/)** | **[SkillBridge Fellowship](https://jobright.ai/jobs/info/695ec3e0a112b402660d79a7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Training Intern - Summer 2026](https://jobright.ai/jobs/info/697df1c7ce48107c05423287?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Intern](https://jobright.ai/jobs/info/6961c6f1f3f4cd132506cac0?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Jan 31 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Jan 31 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2, Temporary)](https://jobright.ai/jobs/info/697d4934137a05102566568f?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Hogsalt](https://www.hogsalt.com)** | **[Culinary Operations Summer Internship Experience](https://jobright.ai/jobs/info/697d71523f57a33569675617?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[EHS Training Technology and Ops Internship - Summer 2026](https://jobright.ai/jobs/info/697d2bff3f57a3356966efe9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Jan 30 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697d46473f57a33569671481?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 30 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License) - Part Time](https://jobright.ai/jobs/info/697d62b73f57a335696744a9?utm_campaign=1057&utm_source=git)** | US-FL-Riverview | On Site | Jan 30 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/697d45a03f57a335696713e2?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 Intern: Content Creator, Online Learning Modules](https://jobright.ai/jobs/info/697d3fd83f57a335696710bc?utm_campaign=1057&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Jan 30 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697d61153f57a335696742ed?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Orientation Intern](https://jobright.ai/jobs/info/697d389b727747250d5807e0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697d5d44137a051025667d4a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 30 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern PD Days - Float Pool](https://jobright.ai/jobs/info/697d33b43f57a3356967024b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/697d2b4a137a051025662e0a?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/697d2986137a0510256629af?utm_campaign=1057&utm_source=git)** | Morristown, NJ | Hybrid | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf25c137a05102565ee34?utm_campaign=1057&utm_source=git)** | Laurel, MD, US | On Site | Jan 30 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697cee83727747250d579dc7?utm_campaign=1057&utm_source=git)** | Pearl City, HI | On Site | Jan 30 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/697d0b4d137a051025660083?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Jan 30 |
+| **[PEAK6](https://www.peak6.com)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/68d3ae37952b4a32e23d8849?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
