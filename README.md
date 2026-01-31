@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License) - Part Time](https://jobright.ai/jobs/info/697da2b7ce48107c0541f434?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Jan 30 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697da294abff4c399a9c7a59?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/697d9c05abff4c399a9c713f?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Jan 30 |
 | **[Phillips Exeter Academy](https://www.exeter.edu/)** | **[Choral Assistant/ Intern](https://jobright.ai/jobs/info/697d92b0ce48107c0541dc1d?utm_campaign=1057&utm_source=git)** | Exeter, NH | On Site | Jan 30 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Organic Gardening, Permaculture & Regenerative Farming Intern](https://jobright.ai/jobs/info/697d9133abff4c399a9c61ba?utm_campaign=1057&utm_source=git)** | Caledon, Ontario, Canada | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Research Intern - Paragon Health Institute](https://jobright.ai/jobs/info/697d8741abff4c399a9c3e6e?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Jan 30 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Transfer Student Success Coach for Access, Connect, Complete, Engage (ACCE) Program](https://jobright.ai/jobs/info/697d83447f40342e15d64d2b?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 30 |
+| **[Terros Health](https://www.terroshealth.org/)** | **[Internship - Master's or Bachelor's Level - Terros Health (Yuma) Boys and Girls Clubs of the Valley partnership](https://jobright.ai/jobs/info/697d9a3d7f40342e15d68224?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Foster Care Internship; Master's Level Columbus Ohio](https://jobright.ai/jobs/info/697d7ceb3f57a33569676636?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jan 30 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697d758c727747250d585e41?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 30 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691abc4f15b415636718a45a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ae13b15b415636718b774?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Jan 30 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Evaluation and Learning](https://jobright.ai/jobs/info/6960d970a1bbea1d9a7b93a3?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[City of Brampton](http://www.brampton.ca)** | **[Inclusion / Integration Specialist - Summer Camp 2026](https://jobright.ai/jobs/info/69794eb652f3c27ec645b0d2?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 30 |
-| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ed913081fdd1626d39d8eb?utm_campaign=1057&utm_source=git)** | Greater Idaho Falls | On Site | Jan 30 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, Per Diem, 07P-7:30A](https://jobright.ai/jobs/info/6944713e50bbaf7650567312?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
