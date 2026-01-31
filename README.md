@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**INTERNAL ONLY** Director - Jewish Studies Program](https://jobright.ai/jobs/info/697db8c0abff4c399a9c8d20?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 31 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697dab55abff4c399a9c811d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
 | ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697daaebce48107c0541f975?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Associate Program Director for Student Organizations, Center for Student Organizations & Activities (Student Services Professional IV)](https://jobright.ai/jobs/info/697daa917f40342e15d6914e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Jan 30 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Pulmonary Student Intern](https://jobright.ai/jobs/info/6944bdc9a7227b3ece6669a2?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 | **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/697ca526137a0510256592f4?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 30 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/697ca37a137a05102565923f?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
