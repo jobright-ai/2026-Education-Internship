@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. David's Developmental & Therapeutic Services](https://www.stdavidscenter.org/)** | **[Dietician Intern](https://jobright.ai/jobs/info/697dcd7dce48107c054224ee?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 31 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697dc8ec7f40342e15d6b0b2?utm_campaign=1057&utm_source=git)** | Wethersfield, CT | On Site | Jan 31 |
+| **[Viwinco Windows](https://www.viwinco.com/)** | **[Learning and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbd537f40342e15d6a0f8?utm_campaign=1057&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**INTERNAL ONLY** Director - Jewish Studies Program](https://jobright.ai/jobs/info/697db8c0abff4c399a9c8d20?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 31 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697dab55abff4c399a9c811d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
 | ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697daaebce48107c0541f975?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697d61153f57a335696742ed?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Orientation Intern](https://jobright.ai/jobs/info/697d389b727747250d5807e0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697d57593f57a33569673835?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 30 |
-| ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697d5d44137a051025667d4a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 30 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697d5d44137a051025667d4a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 30 |
+| ↳ | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697d57593f57a33569673835?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 30 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern PD Days - Float Pool](https://jobright.ai/jobs/info/697d33b43f57a3356967024b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697d4ee0137a051025665b2e?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 30 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/697d2b4a137a051025662e0a?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Insights & Analytics MBA Intern, Immunology](https://jobright.ai/jobs/info/696090b47ebc25398eb67843?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Jan 30 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/697d62d1137a051025668326?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jan 30 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[PWDI Scholars Internship Program - Administrative](https://jobright.ai/jobs/info/6944a14f50bbaf765056a51a?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 30 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Jan 30 |
-| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Pulmonary Student Intern](https://jobright.ai/jobs/info/6944bdc9a7227b3ece6669a2?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 30 |
-| **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/697ca526137a0510256592f4?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
