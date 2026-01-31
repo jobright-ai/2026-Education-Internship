@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Operations Financial AnalystIntern](https://jobright.ai/jobs/info/6971b49151f72647718427cb?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jan 31 |
+| **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Psychology - Department Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6945c09563141d1884554dc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Jan 31 |
 | **[TurbineOne](https://turbineone.com/)** | **[SkillBridge Fellowship](https://jobright.ai/jobs/info/695ec3e0a112b402660d79a7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Training Intern - Summer 2026](https://jobright.ai/jobs/info/697df1c7ce48107c05423287?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Intern](https://jobright.ai/jobs/info/6961c6f1f3f4cd132506cac0?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PRACTICE](https://practicebc.com/)** | **[Middle School Spanish Intern](https://jobright.ai/jobs/info/697d15d03f57a3356966cb8b?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf25c137a05102565ee34?utm_campaign=1057&utm_source=git)** | Laurel, MD, US | On Site | Jan 30 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697cee83727747250d579dc7?utm_campaign=1057&utm_source=git)** | Pearl City, HI | On Site | Jan 30 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/697d0b4d137a051025660083?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Jan 30 |
-| **[PEAK6](https://www.peak6.com)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/68d3ae37952b4a32e23d8849?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
