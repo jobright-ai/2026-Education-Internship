@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697e2845abff4c399a9ce9ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Lecturer in International Political Economy](https://jobright.ai/jobs/info/697e1cdace48107c05425e8c?utm_campaign=1057&utm_source=git)** | Medford, OR | Hybrid | Jan 31 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697e19c5ce48107c05425d47?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 31 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697e1882ce48107c05425cec?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d16a13f57a3356966cc94?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf3b23f57a3356966afc6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Jan 30 |
 | **[PRACTICE](https://practicebc.com/)** | **[Middle School Spanish Intern](https://jobright.ai/jobs/info/697d15d03f57a3356966cb8b?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Jan 30 |
-| **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf25c137a05102565ee34?utm_campaign=1057&utm_source=git)** | Laurel, MD, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
