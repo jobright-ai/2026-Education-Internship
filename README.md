@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697dab55abff4c399a9c811d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
+| ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697daaebce48107c0541f975?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
+| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Associate Program Director for Student Organizations, Center for Student Organizations & Activities (Student Services Professional IV)](https://jobright.ai/jobs/info/697daa917f40342e15d6914e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License) - Part Time](https://jobright.ai/jobs/info/697da2b7ce48107c0541f434?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Jan 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697da294abff4c399a9c7a59?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/697d9c05abff4c399a9c713f?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Jan 30 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697d61153f57a335696742ed?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Orientation Intern](https://jobright.ai/jobs/info/697d389b727747250d5807e0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697d5d44137a051025667d4a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 30 |
-| ↳ | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697d57593f57a33569673835?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 30 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697d57593f57a33569673835?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 30 |
+| ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697d5d44137a051025667d4a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 30 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern PD Days - Float Pool](https://jobright.ai/jobs/info/697d33b43f57a3356967024b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697d4ee0137a051025665b2e?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 30 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/697d2b4a137a051025662e0a?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Pulmonary Student Intern](https://jobright.ai/jobs/info/6944bdc9a7227b3ece6669a2?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 30 |
 | **[Independence Community College](http://www.indycc.edu/)** | **[Senior Intern Program Developer](https://jobright.ai/jobs/info/697ca526137a0510256592f4?utm_campaign=1057&utm_source=git)** | Independence, KS | On Site | Jan 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/697ca37a137a05102565923f?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Jan 30 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691abc4f15b415636718a45a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ae13b15b415636718b774?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Jan 30 |
-| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Evaluation and Learning](https://jobright.ai/jobs/info/6960d970a1bbea1d9a7b93a3?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
