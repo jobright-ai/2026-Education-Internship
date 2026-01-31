@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chesterfield College](https://linktr.ee/chesterfieldcollege)** | **[Work Based Tutor/IQA – Electrical installation](https://jobright.ai/jobs/info/697e5256abff4c399a9d0b65?utm_campaign=1057&utm_source=git)** | Field, British Columbia, Canada | Hybrid | Jan 31 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/697e4b3fabff4c399a9d0997?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Jan 31 |
+| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/697e45f17f40342e15d71a77?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 31 |
 | **[Wichita State University](http://www.wichita.edu)** | **[eXtended Reality Student Assistant](https://jobright.ai/jobs/info/697e372dce48107c05427d82?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - CLINICAL REPORTING AND ANALYTICS](https://jobright.ai/jobs/info/697a240eb4589b4ee87c699a?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697e2845abff4c399a9ce9ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[HSO Intern - (Hire in process – PLEASE DO NOT APPLY TO THIS POSTING)](https://jobright.ai/jobs/info/697d255c727747250d57e086?utm_campaign=1057&utm_source=git)** | One Texas Center | On Site | Jan 30 |
 | **[Mutual Group](https://www.mutual.group)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/697cff0b137a05102565f6cb?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Young STEAMers](https://www.youngsteamers.org/)** | **[STEAM Instructor Intern (Paid Internship -> Part Time Position)](https://jobright.ai/jobs/info/697d1d0f137a051025661534?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Charlotte, Summer 2026)](https://jobright.ai/jobs/info/697d1aab137a051025661213?utm_campaign=1057&utm_source=git)** | Charlotte, NC, USA | On Site | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d16a13f57a3356966cc94?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 30 |
-| **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697cf3b23f57a3356966afc6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
