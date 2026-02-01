@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697eadd07f40342e15d76ceb?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697e8cd47f40342e15d74a80?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 31 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697e8c7b7f40342e15d74a69?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 31 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697e89b5abff4c399a9d391a?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 31 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/697e5e0fce48107c05428c23?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 31 |
 | **[Wichita State University](http://www.wichita.edu)** | **[eXtended Reality Student Assistant](https://jobright.ai/jobs/info/697e372dce48107c05427d82?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - CLINICAL REPORTING AND ANALYTICS](https://jobright.ai/jobs/info/697a240eb4589b4ee87c699a?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/697e2845abff4c399a9ce9ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Lecturer in International Political Economy](https://jobright.ai/jobs/info/697e1cdace48107c05425e8c?utm_campaign=1057&utm_source=git)** | Medford, OR | Hybrid | Jan 31 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697e19c5ce48107c05425d47?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 31 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697e1882ce48107c05425cec?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 31 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[EHS Training Technology and Ops Internship - Summer 2026](https://jobright.ai/jobs/info/697d2bff3f57a3356966efe9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Jan 30 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License) - Part Time](https://jobright.ai/jobs/info/697d62b73f57a335696744a9?utm_campaign=1057&utm_source=git)** | US-FL-Riverview | On Site | Jan 30 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/697d45a03f57a335696713e2?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 Intern: Content Creator, Online Learning Modules](https://jobright.ai/jobs/info/697d3fd83f57a335696710bc?utm_campaign=1057&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Jan 30 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Research Intern - Paragon Health Institute](https://jobright.ai/jobs/info/697d3f12727747250d5810b3?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Orientation Intern](https://jobright.ai/jobs/info/697d389b727747250d5807e0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Admissions Summer Intern (Summer 2026 900669)](https://jobright.ai/jobs/info/697d2467727747250d57de94?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Jan 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d23cc727747250d57dd47?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | **[University of Puget Sound](http://pugetsound.edu)** | **[Visiting Assistant Professor of Marketing](https://jobright.ai/jobs/info/697d4013727747250d5811fb?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jan 30 |
+| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d3daf137a051025664d88?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
