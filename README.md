@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697f8b087f40342e15d84073?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/697f8558abff4c399a9e313e?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
+| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/697f81e9ce48107c05438a96?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Medical Affairs Training & Resources](https://jobright.ai/jobs/info/697f7a5eabff4c399a9e1784?utm_campaign=1057&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697f7771ce48107c05438980?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Services Advisor](https://jobright.ai/jobs/info/697f643fabff4c399a9e13d8?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697ef48dabff4c399a9d9f91?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/697f2608abff4c399a9dcfcc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/697f2b7babff4c399a9ddf97?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697ec10ace48107c0542d805?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
-| **[University of Florida](https://www.ufl.edu)** | **[RecSports Student Assistant - Sport Programs Intern](https://jobright.ai/jobs/info/697f71b0ce48107c0543890b?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Jan 31 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697e82fc7f40342e15d74995?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
