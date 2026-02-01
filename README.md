@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697edb81abff4c399a9d8ec2?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697ec10ace48107c0542d805?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697ebd847f40342e15d772d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697eadd07f40342e15d76ceb?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697e82fc7f40342e15d74995?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 31 |
 | **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/697e7fc9abff4c399a9d3831?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 31 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697e7fa5ce48107c0542ae4f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 31 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/697e7912ce48107c0542ac73?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 31 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs - GI Oncology Summer Intern (Doctoral)](https://jobright.ai/jobs/info/6962adea25e18715077f75d7?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 31 |
 | **[Grounds For Sculpture](https://www.groundsforsculpture.org)** | **[Public Programs Internship / Education / Summer 2026](https://jobright.ai/jobs/info/697e7164abff4c399a9d323c?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Jan 31 |
 | ↳ | **[School and Group Visits Intern / Education / Summer 2026](https://jobright.ai/jobs/info/697e70f37f40342e15d74388?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Jan 31 |
@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697dc8ec7f40342e15d6b0b2?utm_campaign=1057&utm_source=git)** | Wethersfield, CT | On Site | Jan 31 |
 | **[Viwinco Windows](https://www.viwinco.com/)** | **[Learning and Safety Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbd537f40342e15d6a0f8?utm_campaign=1057&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697dab55abff4c399a9c811d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
-| ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697daaebce48107c0541f975?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 30 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Associate Program Director for Student Organizations, Center for Student Organizations & Activities (Student Services Professional IV)](https://jobright.ai/jobs/info/697daa917f40342e15d6914e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License) - Part Time](https://jobright.ai/jobs/info/697da2b7ce48107c0541f434?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Jan 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Telecom](https://jobright.ai/jobs/info/697da294abff4c399a9c7a59?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Admissions Summer Intern (Summer 2026 900669)](https://jobright.ai/jobs/info/697d2467727747250d57de94?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Jan 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d23cc727747250d57dd47?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
 | **[University of Puget Sound](http://pugetsound.edu)** | **[Visiting Assistant Professor of Marketing](https://jobright.ai/jobs/info/697d4013727747250d5811fb?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jan 30 |
+| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d3daf137a051025664d88?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
