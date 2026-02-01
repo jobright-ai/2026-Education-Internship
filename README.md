@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc7c27f40342e15d86e8f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc510ce48107c0543d114?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 01 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc4f6abff4c399a9e5b37?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Feb 01 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc4c5abff4c399a9e5abd?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Feb 01 |
+| **[Associated Clinic of Psychology](http://acp-mn.com)** | **[DBT Clinical Internship - Master's Level](https://jobright.ai/jobs/info/697fc1927f40342e15d861dd?utm_campaign=1057&utm_source=git)** | Apple Valley, MN | Hybrid | Feb 01 |
+| ↳ | **[Community-Based Clinical Internship - Master's Level](https://jobright.ai/jobs/info/697fc15fabff4c399a9e5389?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 01 |
+| **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Readrise Undergraduate Leadership intern](https://jobright.ai/jobs/info/697fbdb0ce48107c0543c118?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Horticulture Therapy Intern](https://jobright.ai/jobs/info/697fb699ce48107c0543b1b6?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 01 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Intern Grand Rapids Hospitals Class of 2028 or 2029 Students](https://jobright.ai/jobs/info/697fb26d7f40342e15d84c40?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[City of Urbandale](https://www.urbandale.org)** | **[Summer 2026 Library Youth Services Internship](https://jobright.ai/jobs/info/697f9b907f40342e15d841fa?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Feb 01 |
@@ -111,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f063cabff4c399a9db14f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0581abff4c399a9db0ae?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0565abff4c399a9db091?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL 32082 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04dc7f40342e15d7c181?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04d8abff4c399a9db018?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f04bbce48107c054327ab?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efe2f7f40342e15d7ba02?utm_campaign=1057&utm_source=git)** | Miami Clinic, Miami, FL | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697efe037f40342e15d7b9de?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32224 | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697efd3ace48107c05431cc6?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
-| **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697efc877f40342e15d7b856?utm_campaign=1057&utm_source=git)** | Saint Augustine, FL 32095 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efc76abff4c399a9da713?utm_campaign=1057&utm_source=git)** | St. Paul Clinic, Woodbury, MN | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efc40abff4c399a9da6d8?utm_campaign=1057&utm_source=git)** | Madison Clinic, Madison, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efc34abff4c399a9da6cc?utm_campaign=1057&utm_source=git)** | Tampa Clinic, Tampa, FL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efb10ce48107c05431afb?utm_campaign=1057&utm_source=git)** | Madison Clinic, Madison, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efacf7f40342e15d7b3eb?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efa807f40342e15d7b1d4?utm_campaign=1057&utm_source=git)** | Skokie Clinic, Skokie, IL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
