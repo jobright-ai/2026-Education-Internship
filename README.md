@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697fd848ce48107c0543f51d?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 01 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Internship](https://jobright.ai/jobs/info/697fd8397f40342e15d8918b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697fd823abff4c399a9e843c?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 01 |
+| ↳ | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697fd7dfce48107c0543f4fa?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc7c27f40342e15d86e8f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc510ce48107c0543d114?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc4f6abff4c399a9e5b37?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Feb 01 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Feb 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/697f0d6c7f40342e15d7c7c2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/697d7aff727747250d5861b3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0ce1ce48107c05432c07?utm_campaign=1057&utm_source=git)** | World Golf Village, FL | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/697efe77ce48107c05431e04?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 31 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/697f28a4abff4c399a9dd6e4?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efe377f40342e15d7ba0c?utm_campaign=1057&utm_source=git)** | West Allis Main Campus, West Allis, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efe2f7f40342e15d7ba02?utm_campaign=1057&utm_source=git)** | Miami Clinic, Miami, FL | On Site | Jan 31 |
-| **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697efe037f40342e15d7b9de?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32224 | On Site | Jan 31 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697efd3ace48107c05431cc6?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
