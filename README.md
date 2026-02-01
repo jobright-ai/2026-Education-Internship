@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697e82fc7f40342e15d74995?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 31 |
+| **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/697e7fc9abff4c399a9d3831?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 31 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697e7fa5ce48107c0542ae4f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 31 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/697e7912ce48107c0542ac73?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jan 31 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs - GI Oncology Summer Intern (Doctoral)](https://jobright.ai/jobs/info/6962adea25e18715077f75d7?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 31 |
 | **[Grounds For Sculpture](https://www.groundsforsculpture.org)** | **[Public Programs Internship / Education / Summer 2026](https://jobright.ai/jobs/info/697e7164abff4c399a9d323c?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Jan 31 |
 | ↳ | **[School and Group Visits Intern / Education / Summer 2026](https://jobright.ai/jobs/info/697e70f37f40342e15d74388?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Jan 31 |
@@ -95,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Jan 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jan 31 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Student Nurse Intern, Springdale, Seeking Summer 2027 RN Graduates](https://jobright.ai/jobs/info/69652f1d6d52670c5c3dfbb4?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 31 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Dean of Extended Education and International Programs](https://jobright.ai/jobs/info/697dd2fdce48107c05422a8c?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Jan 31 |
 | **[St. David's Developmental & Therapeutic Services](https://www.stdavidscenter.org/)** | **[Dietician Intern](https://jobright.ai/jobs/info/697dcd7dce48107c054224ee?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d3daf137a051025664d88?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Sedgwick County Government](https://www.sedgwickcounty.org)** | **[Part-time Overdose Prevention Student Intern - HEALTH](https://jobright.ai/jobs/info/697d17693f57a3356966cd93?utm_campaign=1057&utm_source=git)** | Wichita, KS, US | On Site | Jan 30 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Middle East Research Summer 2026 Internship](https://jobright.ai/jobs/info/697d3a6b727747250d580a25?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/6951e6af29655e4dd65ab82f?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Jan 30 |
-| **[PRACTICE](https://practicebc.com/)** | **[Bilingual Regents Prep Intern](https://jobright.ai/jobs/info/697d0a6a3f57a3356966bf0d?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jan 30 |
-| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Transfer Student Success Coach for Access, Connect, Complete, Engage (ACCE) Program](https://jobright.ai/jobs/info/697d2469137a051025661daa?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 30 |
-| **[University of La Verne](http://laverne.edu)** | **[Advising Office Student Assistant - SP26](https://jobright.ai/jobs/info/697d2f33137a05102566387f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jan 30 |
-| **[Connected Roots Care Center (CRCC)](https://crccomaha.org/)** | **[Avenue Scholar Summer Internship](https://jobright.ai/jobs/info/697d07393f57a3356966bb7b?utm_campaign=1057&utm_source=git)** | Omaha,NE,US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
