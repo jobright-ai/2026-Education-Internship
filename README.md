@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Medical Affairs Training & Resources](https://jobright.ai/jobs/info/697f7a5eabff4c399a9e1784?utm_campaign=1057&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
+| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697f7771ce48107c05438980?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Services Advisor](https://jobright.ai/jobs/info/697f643fabff4c399a9e13d8?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Feb 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f6436abff4c399a9e13d5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f01e27f40342e15d7bdb8?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01dd7f40342e15d7bdb2?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01837f40342e15d7bd40?utm_campaign=1057&utm_source=git)** | Kenosha Clinic, Kenosha, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f00927f40342e15d7bbf6?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0092abff4c399a9daad9?utm_campaign=1057&utm_source=git)** | Sheboygan Clinic, Sheboygan, WI | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f00927f40342e15d7bbf6?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0089ce48107c05432020?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f001ece48107c05431fbd?utm_campaign=1057&utm_source=git)** | Skokie Clinic, Skokie, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0013ce48107c05431fae?utm_campaign=1057&utm_source=git)** | Oconomowoc Main Campus, Oconomowoc, WI | On Site | Jan 31 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697ef48dabff4c399a9d9f91?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/697f2608abff4c399a9dcfcc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/697f2b7babff4c399a9ddf97?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697edb81abff4c399a9d8ec2?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697ec10ace48107c0542d805?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
-| **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697eadd07f40342e15d76ceb?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[University of Florida](https://www.ufl.edu)** | **[RecSports Student Assistant - Sport Programs Intern](https://jobright.ai/jobs/info/697f71b0ce48107c0543890b?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Jan 31 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697e82fc7f40342e15d74995?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
