@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697e8cd47f40342e15d74a80?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 31 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697e8c7b7f40342e15d74a69?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 31 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697e89b5abff4c399a9d391a?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 31 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697e82fc7f40342e15d74995?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jan 31 |
 | **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/697e7fc9abff4c399a9d3831?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 31 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697e7fa5ce48107c0542ae4f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 31 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Research Intern - Paragon Health Institute](https://jobright.ai/jobs/info/697d3f12727747250d5810b3?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jan 30 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Orientation Intern](https://jobright.ai/jobs/info/697d389b727747250d5807e0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 30 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/697e8a7bce48107c0542af4c?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 30 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern PD Days - Float Pool](https://jobright.ai/jobs/info/697d33b43f57a3356967024b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jan 30 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/697d2b4a137a051025662e0a?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Jan 30 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/697d2986137a0510256629af?utm_campaign=1057&utm_source=git)** | Morristown, NJ | Hybrid | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Training and Development Intern](https://jobright.ai/jobs/info/697d25eb137a051025662113?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Jan 30 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Admissions Summer Intern (Summer 2026 900669)](https://jobright.ai/jobs/info/697d2467727747250d57de94?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Jan 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d23cc727747250d57dd47?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| **[University of Puget Sound](http://pugetsound.edu)** | **[Visiting Assistant Professor of Marketing](https://jobright.ai/jobs/info/697d4013727747250d5811fb?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jan 30 |
-| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d3daf137a051025664d88?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Sedgwick County Government](https://www.sedgwickcounty.org)** | **[Part-time Overdose Prevention Student Intern - HEALTH](https://jobright.ai/jobs/info/697d17693f57a3356966cd93?utm_campaign=1057&utm_source=git)** | Wichita, KS, US | On Site | Jan 30 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Middle East Research Summer 2026 Internship](https://jobright.ai/jobs/info/697d3a6b727747250d580a25?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
