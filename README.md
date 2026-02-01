@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Urbandale](https://www.urbandale.org)** | **[Summer 2026 Library Youth Services Internship](https://jobright.ai/jobs/info/697f9b907f40342e15d841fa?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697f8b087f40342e15d84073?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/697f8558abff4c399a9e313e?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/697f81e9ce48107c05438a96?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f063cabff4c399a9db14f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0581abff4c399a9db0ae?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0565abff4c399a9db091?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL 32082 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04dc7f40342e15d7c181?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04d8abff4c399a9db018?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f04bbce48107c054327ab?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efa807f40342e15d7b1d4?utm_campaign=1057&utm_source=git)** | Skokie Clinic, Skokie, IL | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697ef48dabff4c399a9d9f91?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/697f2608abff4c399a9dcfcc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
-| ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/697f2b7babff4c399a9ddf97?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
