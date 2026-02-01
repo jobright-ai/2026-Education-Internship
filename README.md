@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/697ec10ace48107c0542d805?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jan 31 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697ebd847f40342e15d772d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 31 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697eadd07f40342e15d76ceb?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Jan 31 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697e8cd47f40342e15d74a80?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Jan 31 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697e8c7b7f40342e15d74a69?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Training and Development Intern](https://jobright.ai/jobs/info/697d25eb137a051025662113?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Jan 30 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Admissions Summer Intern (Summer 2026 900669)](https://jobright.ai/jobs/info/697d2467727747250d57de94?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Jan 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d23cc727747250d57dd47?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| **[University of Puget Sound](http://pugetsound.edu)** | **[Visiting Assistant Professor of Marketing](https://jobright.ai/jobs/info/697d4013727747250d5811fb?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jan 30 |
-| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d3daf137a051025664d88?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
