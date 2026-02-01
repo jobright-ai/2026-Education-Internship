@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Horticulture Therapy Intern](https://jobright.ai/jobs/info/697fb699ce48107c0543b1b6?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 01 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Intern Grand Rapids Hospitals Class of 2028 or 2029 Students](https://jobright.ai/jobs/info/697fb26d7f40342e15d84c40?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[City of Urbandale](https://www.urbandale.org)** | **[Summer 2026 Library Youth Services Internship](https://jobright.ai/jobs/info/697f9b907f40342e15d841fa?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697f8b087f40342e15d84073?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/697f8558abff4c399a9e313e?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efb10ce48107c05431afb?utm_campaign=1057&utm_source=git)** | Madison Clinic, Madison, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efacf7f40342e15d7b3eb?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697efa807f40342e15d7b1d4?utm_campaign=1057&utm_source=git)** | Skokie Clinic, Skokie, IL | On Site | Jan 31 |
-| **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697ef48dabff4c399a9d9f91?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 31 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/697f2608abff4c399a9dcfcc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
