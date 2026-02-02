@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Feb 02 |
+| **[City of Spokane](https://my.spokanecity.org/)** | **[Temp Seasonal - Waste Reduction Education and Outreach Internship](https://jobright.ai/jobs/info/6980a24c7f40342e15d97896?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Feb 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Feb 02 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6980364fce48107c05446b42?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Feb 02 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Feb 02 |
 | **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980726749964d25b5e3417a?utm_campaign=1057&utm_source=git)** | Fredericksburg Division, Fredericksburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980722549964d25b5e34122?utm_campaign=1057&utm_source=git)** | Holmco Division, Winesburg, OH, US | On Site | Feb 02 |
@@ -76,9 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69801d39abff4c399a9ece40?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69801d0cce48107c05443e45?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Knowledge Management](https://jobright.ai/jobs/info/696464252cbf4e44756de7ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Internship](https://jobright.ai/jobs/info/69800cdbabff4c399a9ec1d0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 01 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/695ef04ba112b402660dac8d?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Feb 01 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Federal Work Study - International Student Services](https://jobright.ai/jobs/info/69800c267f40342e15d8ce9e?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Feb 01 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698009a1abff4c399a9ec14b?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 01 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Curation Internships - Summer 2026](https://jobright.ai/jobs/info/697ff220abff4c399a9e9bc4?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship – Summer 2026](https://jobright.ai/jobs/info/697fee18abff4c399a9e9809?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f023c7f40342e15d7be31?utm_campaign=1057&utm_source=git)** | Nashville Clinic, Nashville, TN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f01e27f40342e15d7bdb8?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01dd7f40342e15d7bdb2?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01837f40342e15d7bd40?utm_campaign=1057&utm_source=git)** | Kenosha Clinic, Kenosha, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
