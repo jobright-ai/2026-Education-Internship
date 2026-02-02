@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6980364fce48107c05446b42?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Feb 02 |
+| **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Feb 02 |
 | **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980726749964d25b5e3417a?utm_campaign=1057&utm_source=git)** | Fredericksburg Division, Fredericksburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980722549964d25b5e34122?utm_campaign=1057&utm_source=git)** | Holmco Division, Winesburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698069337f40342e15d93df6?utm_campaign=1057&utm_source=git)** | Headquarters, North Canton, OH, US | On Site | Feb 02 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698009a1abff4c399a9ec14b?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 01 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Curation Internships - Summer 2026](https://jobright.ai/jobs/info/697ff220abff4c399a9e9bc4?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship – Summer 2026](https://jobright.ai/jobs/info/697fee18abff4c399a9e9809?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697fe6dbabff4c399a9e8fd0?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 01 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fde43ce48107c0543f993?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdb3ece48107c0543f766?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdac4abff4c399a9e84b0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03a5abff4c399a9daea0?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f035d7f40342e15d7bf9e?utm_campaign=1057&utm_source=git)** | Oconomowoc Main Campus, Oconomowoc, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0355abff4c399a9dae2f?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f030cabff4c399a9dadd2?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
