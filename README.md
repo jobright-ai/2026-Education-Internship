@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698069337f40342e15d93df6?utm_campaign=1057&utm_source=git)** | Headquarters, North Canton, OH, US | On Site | Feb 02 |
+| **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980726749964d25b5e3417a?utm_campaign=1057&utm_source=git)** | Fredericksburg Division, Fredericksburg, OH, US | On Site | Feb 02 |
+| ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980722549964d25b5e34122?utm_campaign=1057&utm_source=git)** | Holmco Division, Winesburg, OH, US | On Site | Feb 02 |
+| ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698069337f40342e15d93df6?utm_campaign=1057&utm_source=git)** | Headquarters, North Canton, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698067c0abff4c399a9f3008?utm_campaign=1057&utm_source=git)** | Healthcare Division, Millersburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698066ccabff4c399a9f2e3c?utm_campaign=1057&utm_source=git)** | Robin Development Center, North Canton, OH, US | On Site | Feb 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698061837f40342e15d93828?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
@@ -82,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdb3ece48107c0543f766?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdac4abff4c399a9e84b0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697fd848ce48107c0543f51d?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 01 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/697fd823abff4c399a9e843c?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 01 |
-| ↳ | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697fd7dfce48107c0543f4fa?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Feb 01 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697fd7dfce48107c0543f4fa?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc7c27f40342e15d86e8f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc510ce48107c0543d114?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc4f6abff4c399a9e5b37?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Feb 01 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f063cabff4c399a9db14f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0581abff4c399a9db0ae?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0565abff4c399a9db091?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL 32082 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04dc7f40342e15d7c181?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04d8abff4c399a9db018?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f04bbce48107c054327ab?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f035d7f40342e15d7bf9e?utm_campaign=1057&utm_source=git)** | Oconomowoc Main Campus, Oconomowoc, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0355abff4c399a9dae2f?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f030cabff4c399a9dadd2?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f02bfce48107c05432209?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
