@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMC Health System](https://www.umchealthsystem.com)** | **[Graduate Nurse (GN)- Emergency Center Internship (7p-7a)](https://jobright.ai/jobs/info/698051e4abff4c399a9f14b3?utm_campaign=1057&utm_source=git)** | UMC Main Campus | On Site | Feb 01 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/697eeed47f40342e15d7aab8?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Feb 01 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant Complex Director (ACD)](https://jobright.ai/jobs/info/69804d00ce48107c054480e4?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 01 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/698037267f40342e15d908aa?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69803368ce48107c054466c1?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698024937f40342e15d8e204?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Services Advisor](https://jobright.ai/jobs/info/697f643fabff4c399a9e13d8?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Feb 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f6436abff4c399a9e13d5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697f5f63abff4c399a9e113e?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 01 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f45c17f40342e15d7fa96?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f023c7f40342e15d7be31?utm_campaign=1057&utm_source=git)** | Nashville Clinic, Nashville, TN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f01e27f40342e15d7bdb8?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01dd7f40342e15d7bdb2?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01837f40342e15d7bd40?utm_campaign=1057&utm_source=git)** | Kenosha Clinic, Kenosha, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0092abff4c399a9daad9?utm_campaign=1057&utm_source=git)** | Sheboygan Clinic, Sheboygan, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
