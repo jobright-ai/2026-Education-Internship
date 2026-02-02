@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Feb 02 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6980364fce48107c05446b42?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Feb 02 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Feb 02 |
 | **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980726749964d25b5e3417a?utm_campaign=1057&utm_source=git)** | Fredericksburg Division, Fredericksburg, OH, US | On Site | Feb 02 |
@@ -84,8 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fde43ce48107c0543f993?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdb3ece48107c0543f766?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdac4abff4c399a9e84b0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/697fd848ce48107c0543f51d?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 01 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/697fd7dfce48107c0543f4fa?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc7c27f40342e15d86e8f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc510ce48107c0543d114?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/697fc4f6abff4c399a9e5b37?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Feb 01 |
@@ -95,13 +94,11 @@ For a complete list, click the following sortable link below:
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Readrise Undergraduate Leadership intern](https://jobright.ai/jobs/info/697fbdb0ce48107c0543c118?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Horticulture Therapy Intern](https://jobright.ai/jobs/info/697fb699ce48107c0543b1b6?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 01 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Intern Grand Rapids Hospitals Class of 2028 or 2029 Students](https://jobright.ai/jobs/info/697fb26d7f40342e15d84c40?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
-| **[City of Urbandale](https://www.urbandale.org)** | **[Summer 2026 Library Youth Services Internship](https://jobright.ai/jobs/info/697f9b907f40342e15d841fa?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/697f8b087f40342e15d84073?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/697f81e9ce48107c05438a96?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Medical Affairs Training & Resources](https://jobright.ai/jobs/info/697f7a5eabff4c399a9e1784?utm_campaign=1057&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697f7771ce48107c05438980?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Services Advisor](https://jobright.ai/jobs/info/697f643fabff4c399a9e13d8?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Feb 01 |
-| ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 01 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f45c17f40342e15d7fa96?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
@@ -123,8 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f3d2eabff4c399a9dea0b?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Feb 01 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Learning and Development Associate](https://jobright.ai/jobs/info/692a14634c474121999cb67b?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 01 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f3bc67f40342e15d7f8cf?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/697f37697f40342e15d7f5ee?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 01 |
-| ↳ | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/697f3703abff4c399a9de6b6?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Feb 01 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Feb 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Feb 01 |
@@ -157,4 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03a5abff4c399a9daea0?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f035d7f40342e15d7bf9e?utm_campaign=1057&utm_source=git)** | Oconomowoc Main Campus, Oconomowoc, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0355abff4c399a9dae2f?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f030cabff4c399a9dadd2?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f02bfce48107c05432209?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f023c7f40342e15d7be31?utm_campaign=1057&utm_source=git)** | Nashville Clinic, Nashville, TN | On Site | Jan 31 |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f01e27f40342e15d7bdb8?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01dd7f40342e15d7bdb2?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
