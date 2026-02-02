@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faith Works Counseling](https://www.faithworks.today)** | **[Clinical Intern](https://jobright.ai/jobs/info/6960212ca112b402660ed8bb?utm_campaign=1057&utm_source=git)** | ABQ-SF Metro Area | On Site | Feb 02 |
+| **[Wellby Financial](https://www.wellbyfinancial.com/)** | **[College Student Internship](https://jobright.ai/jobs/info/6980d72d49964d25b5e39279?utm_campaign=1057&utm_source=git)** | Webster, TX | On Site | Feb 02 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/6980d7047f40342e15d99d9a?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 02 |
+| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - Oakland TSC](https://jobright.ai/jobs/info/6980d685abff4c399a9f926a?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 02 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern](https://jobright.ai/jobs/info/6980d4a9abff4c399a9f91c8?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 02 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Baltimore City) 2026-2027 MSW Fieldwork](https://jobright.ai/jobs/info/69650b9b2cbf4e44756e7e61?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians (volunteer or internship)](https://jobright.ai/jobs/info/6980c5a549964d25b5e386b7?utm_campaign=1057&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern](https://jobright.ai/jobs/info/6980be9949964d25b5e38106?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 02 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/6980be567f40342e15d98b67?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
@@ -80,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant Complex Director (ACD)](https://jobright.ai/jobs/info/69804d00ce48107c054480e4?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 01 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/698037267f40342e15d908aa?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Feb 01 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69803368ce48107c054466c1?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698024937f40342e15d8e204?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69801d5fabff4c399a9ece53?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69801d39abff4c399a9ece40?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69801d0cce48107c05443e45?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f063cabff4c399a9db14f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0581abff4c399a9db0ae?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0565abff4c399a9db091?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL 32082 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04dc7f40342e15d7c181?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04d8abff4c399a9db018?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f04bbce48107c054327ab?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f04a67f40342e15d7c12f?utm_campaign=1057&utm_source=git)** | Fleming Island, FL 32003 | On Site | Jan 31 |
 | ↳ | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0468ce48107c0543273c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32256 | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f043e7f40342e15d7c0ba?utm_campaign=1057&utm_source=git)** | Sheboygan Clinic, Sheboygan, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f042f7f40342e15d7c0a4?utm_campaign=1057&utm_source=git)** | St. Paul Clinic, Woodbury, MN | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f03e5ce48107c0543230f?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03e0abff4c399a9daef5?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03d67f40342e15d7c03d?utm_campaign=1057&utm_source=git)** | Tampa Clinic, Tampa, FL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03a5abff4c399a9daea0?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
