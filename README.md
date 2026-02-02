@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698024937f40342e15d8e204?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 01 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69801d5fabff4c399a9ece53?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Feb 01 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69801d39abff4c399a9ece40?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96568 Workforce Success Coach, Tahlequah](https://jobright.ai/jobs/info/69801d0cce48107c05443e45?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01837f40342e15d7bd40?utm_campaign=1057&utm_source=git)** | Kenosha Clinic, Kenosha, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0092abff4c399a9daad9?utm_campaign=1057&utm_source=git)** | Sheboygan Clinic, Sheboygan, WI | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f00927f40342e15d7bbf6?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0089ce48107c05432020?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
