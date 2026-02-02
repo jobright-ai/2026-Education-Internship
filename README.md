@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Curation Internships - Summer 2026](https://jobright.ai/jobs/info/697ff220abff4c399a9e9bc4?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship – Summer 2026](https://jobright.ai/jobs/info/697fee18abff4c399a9e9809?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697fe6dbabff4c399a9e8fd0?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 01 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fde43ce48107c0543f993?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/697fdb3ece48107c0543f766?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 01 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f6436abff4c399a9e13d5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/697f5f63abff4c399a9e113e?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 01 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/697f58f3ce48107c05437f1b?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 01 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f45c17f40342e15d7fa96?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f063cabff4c399a9db14f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f0581abff4c399a9db0ae?utm_campaign=1057&utm_source=git)** | Denver Clinic, Englewood, CO | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697f0565abff4c399a9db091?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL 32082 | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282f?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Jan 31 |
+| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f051dce48107c0543282e?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04dc7f40342e15d7c181?utm_campaign=1057&utm_source=git)** | Brown Deer Area | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f04d8abff4c399a9db018?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f04bbce48107c054327ab?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697eff9aabff4c399a9da9a9?utm_campaign=1057&utm_source=git)** | St Johns, FL 32259 | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697eff6fce48107c05431efd?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efee0ce48107c05431e7a?utm_campaign=1057&utm_source=git)** | Miami Clinic, Miami, FL | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efea2ce48107c05431e2b?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
