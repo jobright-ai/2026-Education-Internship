@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians (volunteer or internship)](https://jobright.ai/jobs/info/6980c5a549964d25b5e386b7?utm_campaign=1057&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern](https://jobright.ai/jobs/info/6980be9949964d25b5e38106?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 02 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/6980be567f40342e15d98b67?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Crest Vale](crestvale.us)** | **[Trading Associate](https://jobright.ai/jobs/info/6980b4f8abff4c399a9f7e1b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Internship - Master's or Bachelor's Level - Terros Health (Yuma) Boys and Girls Clubs of the Valley partnership (6528)](https://jobright.ai/jobs/info/6980b43f7f40342e15d98745?utm_campaign=1057&utm_source=git)** | Central Avenue                                     - Phoenix, AZ 85012 | On Site | Feb 02 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6980b31949964d25b5e37c8d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6980b01e7f40342e15d98593?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 02 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6980c87549964d25b5e38810?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Feb 02 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Feb 02 |
 | **[City of Spokane](https://my.spokanecity.org/)** | **[Temp Seasonal - Waste Reduction Education and Outreach Internship](https://jobright.ai/jobs/info/6980a24c7f40342e15d97896?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Feb 02 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/694e400f29655e4dd657f7ec?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Feb 02 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Feb 02 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Feb 02 |
 | **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980726749964d25b5e3417a?utm_campaign=1057&utm_source=git)** | Fredericksburg Division, Fredericksburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/6980722549964d25b5e34122?utm_campaign=1057&utm_source=git)** | Holmco Division, Winesburg, OH, US | On Site | Feb 02 |
 | ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698069337f40342e15d93df6?utm_campaign=1057&utm_source=git)** | Headquarters, North Canton, OH, US | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03e0abff4c399a9daef5?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03d67f40342e15d7c03d?utm_campaign=1057&utm_source=git)** | Tampa Clinic, Tampa, FL | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f03a5abff4c399a9daea0?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f035d7f40342e15d7bf9e?utm_campaign=1057&utm_source=git)** | Oconomowoc Main Campus, Oconomowoc, WI | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0355abff4c399a9dae2f?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f030cabff4c399a9dadd2?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
