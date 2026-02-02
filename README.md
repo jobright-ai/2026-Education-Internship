@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698009a1abff4c399a9ec14b?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 01 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Curation Internships - Summer 2026](https://jobright.ai/jobs/info/697ff220abff4c399a9e9bc4?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship – Summer 2026](https://jobright.ai/jobs/info/697fee18abff4c399a9e9809?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/697fe6dbabff4c399a9e8fd0?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697effbaabff4c399a9da9ca?utm_campaign=1057&utm_source=git)** | West Allis Main Campus, West Allis, WI | On Site | Jan 31 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Internship Code Sensei / Camp Counselor](https://jobright.ai/jobs/info/697eff9aabff4c399a9da9a9?utm_campaign=1057&utm_source=git)** | St Johns, FL 32259 | On Site | Jan 31 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697eff6fce48107c05431efd?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697efee0ce48107c05431e7a?utm_campaign=1057&utm_source=git)** | Miami Clinic, Miami, FL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
