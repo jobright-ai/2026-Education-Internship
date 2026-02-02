@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robin Industries, Inc.](https://www.robin-industries.com)** | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698069337f40342e15d93df6?utm_campaign=1057&utm_source=git)** | Headquarters, North Canton, OH, US | On Site | Feb 02 |
+| ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698067c0abff4c399a9f3008?utm_campaign=1057&utm_source=git)** | Healthcare Division, Millersburg, OH, US | On Site | Feb 02 |
+| ↳ | **[Co-op/Intern - Fall 2026](https://jobright.ai/jobs/info/698066ccabff4c399a9f2e3c?utm_campaign=1057&utm_source=git)** | Robin Development Center, North Canton, OH, US | On Site | Feb 02 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698061837f40342e15d93828?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
 | **[UMC Health System](https://www.umchealthsystem.com)** | **[Graduate Nurse (GN)- Emergency Center Internship (7p-7a)](https://jobright.ai/jobs/info/698051e4abff4c399a9f14b3?utm_campaign=1057&utm_source=git)** | UMC Main Campus | On Site | Feb 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/697eeed47f40342e15d7aab8?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Feb 01 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant Complex Director (ACD)](https://jobright.ai/jobs/info/69804d00ce48107c054480e4?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Feb 01 |
@@ -95,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Medical Affairs Training & Resources](https://jobright.ai/jobs/info/697f7a5eabff4c399a9e1784?utm_campaign=1057&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[John Michael Kohler Arts Center](https://jmkac.org)** | **[EDUCATION Summer 2026 Internship](https://jobright.ai/jobs/info/697f7771ce48107c05438980?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Services Advisor](https://jobright.ai/jobs/info/697f643fabff4c399a9e13d8?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Feb 01 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f6436abff4c399a9e13d5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
+| ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/697f63da7f40342e15d821c5?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 01 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f45c17f40342e15d7fa96?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f0355abff4c399a9dae2f?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/697f030cabff4c399a9dadd2?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f02bfce48107c05432209?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Jan 31 |
-| ↳ | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f023c7f40342e15d7be31?utm_campaign=1057&utm_source=git)** | Nashville Clinic, Nashville, TN | On Site | Jan 31 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f01e27f40342e15d7bdb8?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 31 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Fall 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/697f01dd7f40342e15d7bdb2?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
