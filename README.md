@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vinson & Elkins](http://www.velaw.com/)** | **[Student Intern - Washington](https://jobright.ai/jobs/info/698254a60f6f7e7a2cdb7bce?utm_campaign=1057&utm_source=git)** | Washington, United States | On Site | Feb 03 |
+| **[Winter Construction](https://winter-construction.com)** | **[Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/698253fc348f733a5c35227f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 03 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Program Operations, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69824f3b0a9e07331f8d4bca?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Feb 03 |
 | **[Vinson & Elkins](http://www.velaw.com/)** | **[Student Intern - New York](https://jobright.ai/jobs/info/69824de40f6f7e7a2cdb7385?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Feb 03 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69434e2394730b7398765c71?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Feb 03 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[University of MN career fair - Internship & Co-Op Program](https://jobright.ai/jobs/info/698244180f6f7e7a2cdb6d5b?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Feb 03 |
@@ -99,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Strategy, Learning and Evaluation - Data](https://jobright.ai/jobs/info/69659a685ad3a93f8230f643?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 03 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/6981de19c3101f1400c38b89?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 03 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6981dd3aa314e76369053df3?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Feb 03 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/6981c77e49964d25b5e4e149?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 03 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 03 |
 | ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fee370f4e0f657ea4350e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Feb 03 |
 | ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fef7282817106e976f527?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health (Summer/Fall 2026)  #NOW HIRING](https://jobright.ai/jobs/info/69824d1c0f6f7e7a2cdb72d0?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027 Technical Writing Intern-Safety Compliance](https://jobright.ai/jobs/info/6981699c7f40342e15da6dae?utm_campaign=1057&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Feb 02 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Public Program Internship](https://jobright.ai/jobs/info/6981386349964d25b5e41c75?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Feb 02 |
-| **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Periop 101 Internship - New Grads and Experienced RNs](https://jobright.ai/jobs/info/696564afa112b40266133cd2?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Feb 02 |
-| **[Community Health Connections](https://www.chcfhc.org/)** | **[Graduate Level (2nd Year) Day Program Intern](https://jobright.ai/jobs/info/6981355d49964d25b5e417f4?utm_campaign=1057&utm_source=git)** | Leominster, MA | On Site | Feb 02 |
-| **[The GEO Group, Inc.](http://www.geogroup.com)** | **[Mental Health Professional, Intern](https://jobright.ai/jobs/info/698151df49964d25b5e44639?utm_campaign=1057&utm_source=git)** | Milton, FL | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
