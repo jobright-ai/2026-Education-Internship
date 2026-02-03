@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/698210560f6f7e7a2cdb3382?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 03 |
+| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Uptown Dallas, Wynnewood Village, Stonebriar Centre](https://jobright.ai/jobs/info/69820cf20f6f7e7a2cdb31bc?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
+| ↳ | **[Student Café Ambassador (Intern) - Uptown Dallas, Wynnewood Village, Stonebriar Centre](https://jobright.ai/jobs/info/69820b8b0f6f7e7a2cdb30ad?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Feb 03 |
+| **[Los Angeles Times](http://www.latimes.com)** | **[Academic Intern, Spring](https://jobright.ai/jobs/info/698206a0a314e763690567bc?utm_campaign=1057&utm_source=git)** | El Segundo, CA | On Site | Feb 03 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DHS VOCATIONAL TRAINING ASSISTANT - 02032026-74911](https://jobright.ai/jobs/info/69820049c3101f1400c3afc7?utm_campaign=1057&utm_source=git)** | Rutherford County, TN | On Site | Feb 03 |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology PMO](https://jobright.ai/jobs/info/694a1976c6f0e2546cef2155?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Medical Information and Education Intern](https://jobright.ai/jobs/info/6965592b6d52670c5c3e2010?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 03 |
 | **[McAdams](http://mcadamsco.com)** | **[2026 Summer Interns - CLT](https://jobright.ai/jobs/info/696567b6a112b40266134614?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 03 |
@@ -101,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6981578d49964d25b5e44b2c?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Revenue Optimization](https://jobright.ai/jobs/info/698155b17f40342e15da5802?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Feb 02 |
 | ↳ | **[Student Intern - HP Population Health](https://jobright.ai/jobs/info/6981554949964d25b5e44866?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Feb 02 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6981868149964d25b5e48334?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 02 |
 | **[Pacific Clinics](https://www.pacificclinics.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69655e72a112b40266133633?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: US Field Medical Excellence Intern (Remote)](https://jobright.ai/jobs/info/698151d77f40342e15da54e1?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 02 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Adult Competition](https://jobright.ai/jobs/info/6981511b7f40342e15da5480?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Feb 02 |
@@ -138,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/69811f0eabff4c399a9ff1a5?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Feb 02 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69813d09abff4c399aa024ed?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 02 |
 | **[Cristo Rey St. Martin College Prep](http://www.cristoreystmartin.org)** | **[Corporate Work Study and Internship Coordinator](https://jobright.ai/jobs/info/69811d8049964d25b5e3eba7?utm_campaign=1057&utm_source=git)** | Round Lake, IL | On Site | Feb 02 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69814212abff4c399aa0295a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69811cb87f40342e15d9f7e9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[Licensed Professional Counselor Intern](https://jobright.ai/jobs/info/696ea1865fc86241853d6a83?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69811b00abff4c399a9feb4c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 02 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[Summer 2026 - Genentech Community College Internship Program - San Diego](https://jobright.ai/jobs/info/698112f349964d25b5e3e110?utm_campaign=1057&utm_source=git)** | San Diego | On Site | Feb 02 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Intern, DoD Skillbridge Program](https://jobright.ai/jobs/info/698112b249964d25b5e3e0cb?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Feb 02 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Foster Care Internship; Master's Level Columbus Ohio](https://jobright.ai/jobs/info/697d7ceb3f57a33569676636?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern – Performance Nutrition Intern, UFC](https://jobright.ai/jobs/info/6981302eabff4c399aa016d8?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
-| ↳ | **[Intern – Athlete Medical Intern, UFC](https://jobright.ai/jobs/info/69812eb9abff4c399aa012a9?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[College Intern](https://jobright.ai/jobs/info/69812db47f40342e15da18dc?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
-| **[Pulte Mortgage](https://pultemortgage.com)** | **[Mortgage Operations Learning & Development Intern - Summer 2026 (Pulte Mortgage)](https://jobright.ai/jobs/info/69810f6e49964d25b5e3def6?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
-| **[Doner](http://doner.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/695bc08df396ad6ddab17245?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Feb 02 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Part Time](https://jobright.ai/jobs/info/69810ac77f40342e15d9e526?utm_campaign=1057&utm_source=git)** | Mason, OH | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern – Athlete Medical Intern, UFC](https://jobright.ai/jobs/info/69812eb9abff4c399aa012a9?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
