@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology PMO](https://jobright.ai/jobs/info/694a1976c6f0e2546cef2155?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Medical Information and Education Intern](https://jobright.ai/jobs/info/6965592b6d52670c5c3e2010?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 03 |
 | **[McAdams](http://mcadamsco.com)** | **[2026 Summer Interns - CLT](https://jobright.ai/jobs/info/696567b6a112b40266134614?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 03 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacy Intern](https://jobright.ai/jobs/info/6981e861c3101f1400c3915b?utm_campaign=1057&utm_source=git)** | Arizona, United States | Hybrid | Feb 03 |
-| **[SUNY Brockport](http://brockport.edu)** | **[Advisement and Internship Coordinator](https://jobright.ai/jobs/info/6981e607c3101f1400c38fe2?utm_campaign=1057&utm_source=git)** | Brockport, NY | On Site | Feb 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/694a420f31c12007d3b9042b?utm_campaign=1057&utm_source=git)** | Cumberland, RI | On Site | Feb 03 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6981e3650f6f7e7a2cdb05f2?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 03 |
 | **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Strategy, Learning and Evaluation - Data](https://jobright.ai/jobs/info/69659a685ad3a93f8230f643?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[Mortgage Operations Learning & Development Intern - Summer 2026 (Pulte Mortgage)](https://jobright.ai/jobs/info/69810f6e49964d25b5e3def6?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
 | **[Doner](http://doner.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/695bc08df396ad6ddab17245?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Feb 02 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Part Time](https://jobright.ai/jobs/info/69810ac77f40342e15d9e526?utm_campaign=1057&utm_source=git)** | Mason, OH | On Site | Feb 02 |
-| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/698109df7f40342e15d9e3d7?utm_campaign=1057&utm_source=git)** | Juneau, AK | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
