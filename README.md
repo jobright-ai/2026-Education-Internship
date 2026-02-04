@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olin](http://www.olin.com/)** | **[Learning and Development Intern - 2026](https://jobright.ai/jobs/info/6966f9b26f782b4e8d52a3a6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 04 |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966fdcd6f782b4e8d52a78d?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Feb 04 |
+| **[EPRI](http://www.epri.com)** | **[Energy Supply Student Internship: eLearning Developer](https://jobright.ai/jobs/info/692ff8dd4c474121999e36e1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 04 |
+| **[160over90](http://160over90.com/)** | **[Intern, Experiential](https://jobright.ai/jobs/info/6969f30c1703f05405abf97f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Medical Writing](https://jobright.ai/jobs/info/6966f85da135876680843e4e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Experiential](https://jobright.ai/jobs/info/6969f95a639b452fb57ff01d?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Feb 04 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/69671d65f7d5ac1d4827e2bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 04 |
@@ -65,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP)](https://jobright.ai/jobs/info/69831cca0f6f7e7a2cdc95f7?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Forest Economics Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/696667437a34f5392054e90f?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Feb 04 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP)](https://jobright.ai/jobs/info/698315408232105a2d0b96be?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
-| ↳ | **[Internship Supervisor (OMCP)](https://jobright.ai/jobs/info/69831189348f733a5c361fce?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 04 |
+| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergraduate Intern -- Helena, MT](https://jobright.ai/jobs/info/6966fdafa1358766808442bc?utm_campaign=1057&utm_source=git)** | Helena, MT | On Site | Feb 04 |
+| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP)](https://jobright.ai/jobs/info/69831189348f733a5c361fce?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 04 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Feb 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698308e0348f733a5c361b49?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 04 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6982ff85348f733a5c3615eb?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Justice Resource Institute](https://jri.org/)** | **[Clinical Intern](https://jobright.ai/jobs/info/6982423e0f6f7e7a2cdb6b62?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 03 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship HEBCAC](https://jobright.ai/jobs/info/69381f73b95c305f206d654d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 03 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/698221f9c3101f1400c3c578?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| **[Savannah River National Laboratory](https://www.srnl.gov)** | **[LSE Undergraduate Intern - Protocol, Events, and Visits](https://jobright.ai/jobs/info/698221cb0f6f7e7a2cdb3d32?utm_campaign=1057&utm_source=git)** | Aiken, SC, United States | On Site | Feb 03 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698247e8a314e7636905ab9d?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 03 |
-| **[Spindletop Center](http://spindletopcenter.org)** | **[Clinical Intern Coordinator Salary Range: $75,349-$82,336](https://jobright.ai/jobs/info/69821e28a314e763690576bb?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 03 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Waged GED Program Internship HEBCAC (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69381cd4b95c305f206d4f91?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 03 |
-| **[Duetti](https://duetti.co)** | **[Undergraduate Summer Intern](https://jobright.ai/jobs/info/69821a87c3101f1400c3c144?utm_campaign=1057&utm_source=git)** | New York, Los Angeles, Miami | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
