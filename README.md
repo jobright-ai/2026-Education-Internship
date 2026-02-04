@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Medical Writing](https://jobright.ai/jobs/info/6966f85da135876680843e4e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Experiential](https://jobright.ai/jobs/info/6969f95a639b452fb57ff01d?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Feb 04 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/69671d65f7d5ac1d4827e2bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/698327460f6f7e7a2cdc98c2?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/6966cca8a112b4026614d08f?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 04 |
@@ -132,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Department of Human Services](https://www.tn.gov/humanservices.html)** | **[VOCATIONAL REHABILITATION CAREER TRAINING COORDINATOR - 01202026- 74487](https://jobright.ai/jobs/info/6970716351f726477182c446?utm_campaign=1057&utm_source=git)** | Madison County, TN | On Site | Feb 03 |
 | **[EPCOR](http://www.epcor.com)** | **[Learning & Development - Summer Intern](https://jobright.ai/jobs/info/69823bf6c3101f1400c3ecee?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 03 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Immersive Classrooms Summer 2026 Intern - Institute for Research Experiences & Education](https://jobright.ai/jobs/info/6982743d348f733a5c355165?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/698264100a9e07331f8d660e?utm_campaign=1057&utm_source=git)** | Normal, IL, US | On Site | Feb 03 |
-| ↳ | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69825da2348f733a5c352d83?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Feb 03 |
-| **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698265f80f6f7e7a2cdb9086?utm_campaign=1057&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
-| ↳ | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698261da348f733a5c353292?utm_campaign=1057&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
+| **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69825da2348f733a5c352d83?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Feb 03 |
+| ↳ | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/698264100a9e07331f8d660e?utm_campaign=1057&utm_source=git)** | Normal, IL, US | On Site | Feb 03 |
+| **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698261da348f733a5c353292?utm_campaign=1057&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
+| ↳ | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698265f80f6f7e7a2cdb9086?utm_campaign=1057&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
 | **[PRACTICE](https://practicebc.com/)** | **[Hillsborough Student Intern](https://jobright.ai/jobs/info/69825ddf348f733a5c352da7?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Feb 03 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Camp Operations Internship - Summer 2026](https://jobright.ai/jobs/info/698263070f6f7e7a2cdb8c86?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Feb 03 |
 | **[Paducah Police Department](https://www.paducahky.gov/departments/police/police-department)** | **[Recreation Leader Internship](https://jobright.ai/jobs/info/698264a8348f733a5c353633?utm_campaign=1057&utm_source=git)** | Paducah,KY,US | On Site | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spindletop Center](http://spindletopcenter.org)** | **[Clinical Intern Coordinator Salary Range: $75,349-$82,336](https://jobright.ai/jobs/info/69821e28a314e763690576bb?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 03 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Waged GED Program Internship HEBCAC (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69381cd4b95c305f206d4f91?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 03 |
 | **[Duetti](https://duetti.co)** | **[Undergraduate Summer Intern](https://jobright.ai/jobs/info/69821a87c3101f1400c3c144?utm_campaign=1057&utm_source=git)** | New York, Los Angeles, Miami | Hybrid | Feb 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Agentic Programming](https://jobright.ai/jobs/info/69821a80c3101f1400c3c13f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Feb 03 |
-| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/698239960f6f7e7a2cdb62ae?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
