@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6982a4950f6f7e7a2cdbf6c7?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information & Technology Undergraduate Internship](https://jobright.ai/jobs/info/6982a30d348f733a5c359c28?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | Hybrid | Feb 03 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Youth Health Education Internship](https://jobright.ai/jobs/info/6982a1cb0f6f7e7a2cdbf3a3?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Feb 03 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69829fd90f6f7e7a2cdbf18c?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
@@ -69,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6982821e348f733a5c356a1b?utm_campaign=1057&utm_source=git)** | McKinney, Texas | On Site | Feb 03 |
 | **[Hunter Douglas, Inc.](http://www.hunterdouglas.com/)** | **[Internship Program - Summer 2026](https://jobright.ai/jobs/info/69827c20348f733a5c356314?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[International Health Alliance](https://ihahealthcare.com)** | **[Medical Intern abroad](https://jobright.ai/jobs/info/69827b4b0a9e07331f8d91c6?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6982a394348f733a5c359cb9?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 03 |
+| **[AECOM](http://www.aecom.com/)** | **[Science Intern - Networking Event with AECOM - Atlanta, GA](https://jobright.ai/jobs/info/6982aa640f6f7e7a2cdbfc31?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Football Education Summer Intern](https://jobright.ai/jobs/info/698292350a9e07331f8dab70?utm_campaign=1057&utm_source=git)** | Detroit, MI 48226 | On Site | Feb 03 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/698273550f6f7e7a2cdba8d8?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Feb 03 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69826535348f733a5c353710?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 03 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[UL Standards & Engagement](https://ulse.org)** | **[Immersive Classrooms Summer 2026 Intern - Institute for Research Experiences & Education](https://jobright.ai/jobs/info/6982743d348f733a5c355165?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/698264100a9e07331f8d660e?utm_campaign=1057&utm_source=git)** | Normal, IL, US | On Site | Feb 03 |
 | ↳ | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69825da2348f733a5c352d83?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Feb 03 |
-| **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698265f80f6f7e7a2cdb9086?utm_campaign=1057&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
-| ↳ | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698261da348f733a5c353292?utm_campaign=1057&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
+| **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698261da348f733a5c353292?utm_campaign=1057&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
+| ↳ | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698265f80f6f7e7a2cdb9086?utm_campaign=1057&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
 | **[PRACTICE](https://practicebc.com/)** | **[Hillsborough Student Intern](https://jobright.ai/jobs/info/69825ddf348f733a5c352da7?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Feb 03 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Camp Operations Internship - Summer 2026](https://jobright.ai/jobs/info/698263070f6f7e7a2cdb8c86?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Feb 03 |
 | **[Paducah Police Department](https://www.paducahky.gov/departments/police/police-department)** | **[Recreation Leader Internship](https://jobright.ai/jobs/info/698264a8348f733a5c353633?utm_campaign=1057&utm_source=git)** | Paducah,KY,US | On Site | Feb 03 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698226610f6f7e7a2cdb3fb0?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 03 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Anacostia, Chinatown, Georgetown](https://jobright.ai/jobs/info/69821969c3101f1400c3c065?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 03 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology PMO](https://jobright.ai/jobs/info/694a1976c6f0e2546cef2155?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
 | **[YSS](https://www.yss.org/)** | **[Masters Level Treatment Intern (54318)](https://jobright.ai/jobs/info/698219a80f6f7e7a2cdb389f?utm_campaign=1057&utm_source=git)** | Cambridge, IA 50046 | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696feefe0f4e0f657ea4369b?utm_campaign=1057&utm_source=git)** | Scottsbluff, NE | On Site | Feb 03 |
 | ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Feb 03 |
 | ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Feb 03 |
-| ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 03 |
-| ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Feb 03 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Learning & Engagement Intern](https://jobright.ai/jobs/info/69797a220791bc1d7230214d?utm_campaign=1057&utm_source=git)** | LA Metro Area | On Site | Feb 03 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Student Intern - Learning & Development](https://jobright.ai/jobs/info/69659e885ad3a93f8230fbe6?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
