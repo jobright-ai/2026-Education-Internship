@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/6982d68f8232105a2d0b53b3?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 03 |
+| **[Seattle Theatre Group](https://www.stgpresents.org/)** | **[STG Youth Camp Intern](https://jobright.ai/jobs/info/6982f4b70f6f7e7a2cdc6892?utm_campaign=1057&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 03 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student - Intern High School](https://jobright.ai/jobs/info/6982eef20f6f7e7a2cdc6722?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 03 |
+| ↳ | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/6982ee580f6f7e7a2cdc66f9?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 03 |
+| ↳ | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/6982ebb5348f733a5c360d50?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 03 |
+| ↳ | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/6982d68f8232105a2d0b53b3?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 03 |
 | **[California Department of Finance](https://dof.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6982cc3e0f6f7e7a2cdc2dc1?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Feb 03 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[School Based Internship, Newark, Zanesville or Mt. Vernon, Ohio](https://jobright.ai/jobs/info/6982c52e8232105a2d0b23ac?utm_campaign=1057&utm_source=git)** | Newark, OH | On Site | Feb 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Science Intern - Networking Event with AECOM - Atlanta, GA](https://jobright.ai/jobs/info/6982be9b0f6f7e7a2cdc115f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[International Health Alliance](https://ihahealthcare.com)** | **[Medical Intern abroad](https://jobright.ai/jobs/info/69827b4b0a9e07331f8d91c6?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6982a394348f733a5c359cb9?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 03 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[Football Education Summer Intern](https://jobright.ai/jobs/info/698292350a9e07331f8dab70?utm_campaign=1057&utm_source=git)** | Detroit, MI 48226 | On Site | Feb 03 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/698273550f6f7e7a2cdba8d8?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Feb 03 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69826535348f733a5c353710?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 03 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Foster Care Internship: Cleveland, OH](https://jobright.ai/jobs/info/698290800a9e07331f8da9d9?utm_campaign=1057&utm_source=git)** | Lakewood, OH | On Site | Feb 03 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University MBA Intern](https://jobright.ai/jobs/info/698260ca348f733a5c35312b?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 03 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Department of Human Services](https://www.tn.gov/humanservices.html)** | **[VOCATIONAL REHABILITATION CAREER TRAINING COORDINATOR - 01202026- 74487](https://jobright.ai/jobs/info/6970716351f726477182c446?utm_campaign=1057&utm_source=git)** | Madison County, TN | On Site | Feb 03 |
 | **[EPCOR](http://www.epcor.com)** | **[Learning & Development - Summer Intern](https://jobright.ai/jobs/info/69823bf6c3101f1400c3ecee?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 03 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Immersive Classrooms Summer 2026 Intern - Institute for Research Experiences & Education](https://jobright.ai/jobs/info/6982743d348f733a5c355165?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/698264100a9e07331f8d660e?utm_campaign=1057&utm_source=git)** | Normal, IL, US | On Site | Feb 03 |
-| ↳ | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69825da2348f733a5c352d83?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Feb 03 |
+| **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69825da2348f733a5c352d83?utm_campaign=1057&utm_source=git)** | US-IL-Normal | On Site | Feb 03 |
+| ↳ | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/698264100a9e07331f8d660e?utm_campaign=1057&utm_source=git)** | Normal, IL, US | On Site | Feb 03 |
 | **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698265f80f6f7e7a2cdb9086?utm_campaign=1057&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
 | ↳ | **[2026 Property Management Internship](https://jobright.ai/jobs/info/698261da348f733a5c353292?utm_campaign=1057&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
 | **[PRACTICE](https://practicebc.com/)** | **[Hillsborough Student Intern](https://jobright.ai/jobs/info/69825ddf348f733a5c352da7?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Feb 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Anacostia, Chinatown, Georgetown](https://jobright.ai/jobs/info/69821969c3101f1400c3c065?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 03 |
-| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology PMO](https://jobright.ai/jobs/info/694a1976c6f0e2546cef2155?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Feb 03 |
-| **[YSS](https://www.yss.org/)** | **[Masters Level Treatment Intern (54318)](https://jobright.ai/jobs/info/698219a80f6f7e7a2cdb389f?utm_campaign=1057&utm_source=git)** | Cambridge, IA 50046 | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
