@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[ESL Literacy Teaching Assistant Intern](https://jobright.ai/jobs/info/698590f1348f733a5c3a0d37?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Feb 05 |
+| **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/69858f7b8da7a6120460399f?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Feb 05 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Athletics SEA](https://jobright.ai/jobs/info/6985815e0f6f7e7a2ce0525b?utm_campaign=1057&utm_source=git)** | Field House, Sports, Fitness, and Aquatics Center - Waukegan, IL 60085 | On Site | Feb 05 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Henderson Food is Medicine Internship](https://jobright.ai/jobs/info/6969d0bb639b452fb57fd31e?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 05 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Feb 05 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/69857fb10f6f7e7a2ce05063?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 05 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Henderson Food is Medicine Internship](https://jobright.ai/jobs/info/6971b45a51f7264771842694?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 05 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Eden Prairie, MN](https://jobright.ai/jobs/info/698574a3348f733a5c39dea2?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Feb 05 |
+| **[Journey Mental Health Center](https://www.journeymhc.org)** | **[Gateway Community Support Program student intern (unpaid) (2973)](https://jobright.ai/jobs/info/698596db8da7a612046041de?utm_campaign=1057&utm_source=git)** | Madison, WI 53713 | On Site | Feb 05 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Summer Nutrition Graduate - Medical and Scientific Affairs (12 weeks, June 2026 Start)](https://jobright.ai/jobs/info/69684ff2639b452fb57df04c?utm_campaign=1057&utm_source=git)** | New Jersey, United States | On Site | Feb 05 |
 | **[Baker Construction](https://bakerconstruction.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6969b6641703f05405abb163?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | On Site | Feb 05 |
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[Intern - LPCA](https://jobright.ai/jobs/info/698571c40f6f7e7a2ce037c3?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
@@ -80,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/698557e2348f733a5c39aa55?utm_campaign=1057&utm_source=git)** | Rosemont, PA | On Site | Feb 05 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Business Library Intern](https://jobright.ai/jobs/info/698557758da7a612045fd713?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
 | **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[School Social Worker intern](https://jobright.ai/jobs/info/698573750f6f7e7a2ce03a7f?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Feb 05 |
-| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698572ae8da7a61204600daf?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
-| ↳ | **[Master Level Intern](https://jobright.ai/jobs/info/69857143348f733a5c39d9c5?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 05 |
-| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/6985766b0f6f7e7a2ce03ed9?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Feb 05 |
+| **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/69857143348f733a5c39d9c5?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 05 |
+| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698572ae8da7a61204600daf?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698576320f6f7e7a2ce03e8f?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698572a10f6f7e7a2ce03918?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Feb 05 |
+| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/6985766b0f6f7e7a2ce03ed9?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/69857ae18da7a612046018f1?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698571c1348f733a5c39da7e?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/6985716f348f733a5c39d9fc?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Feb 05 |
@@ -118,10 +121,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698547a70f6f7e7a2cdfed87?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/69853b4f8da7a612045fa88a?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Feb 05 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Delaware State University](https://jobright.ai/jobs/info/698551800f6f7e7a2cdffb11?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Hybrid | Feb 05 |
-| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/69853d710f6f7e7a2cdfd9f7?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Feb 05 |
-| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698544428da7a612045fb93b?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Feb 05 |
+| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698544428da7a612045fb93b?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Feb 05 |
+| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/69853d710f6f7e7a2cdfd9f7?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Feb 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/698543eb0f6f7e7a2cdfe749?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 05 |
-| ↳ | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/698530070f6f7e7a2cdfbf56?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 05 |
 | **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[In-Home Therapy Clinical Intern](https://jobright.ai/jobs/info/698511bf8da7a612045f63eb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 05 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 05 |
 | **[Northwest Youth Services](https://www.nwys.org)** | **[Ground Floor Program Internship](https://jobright.ai/jobs/info/69850da40f6f7e7a2cdf872d?utm_campaign=1057&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69850a8c8da7a612045f53e6?utm_campaign=1057&utm_source=git)** | Peru, IL | On Site | Feb 05 |
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69851d580f6f7e7a2cdfa696?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698511b6348f733a5c39340a?utm_campaign=1057&utm_source=git)** | Escanaba, MI | On Site | Feb 05 |
-| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698519720f6f7e7a2cdf9fa9?utm_campaign=1057&utm_source=git)** | Loves Park, IL | On Site | Feb 05 |
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698520710f6f7e7a2cdfaa85?utm_campaign=1057&utm_source=git)** | Oak Lawn, IL | On Site | Feb 05 |
+| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698519720f6f7e7a2cdf9fa9?utm_campaign=1057&utm_source=git)** | Loves Park, IL | On Site | Feb 05 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern – Crew Lead](https://jobright.ai/jobs/info/6984ee1e0f6f7e7a2cdf678f?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Feb 05 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Clinical Sciences Internship](https://jobright.ai/jobs/info/698517d30f6f7e7a2cdf9c09?utm_campaign=1057&utm_source=git)** | Brisbane - CA - US | On Site | Feb 05 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: Middle 5/6-Teacher (Internal Only)](https://jobright.ai/jobs/info/6984edc80f6f7e7a2cdf6732?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: High- ESL LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ec53348f733a5c390955?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Middle-School Counselor (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ec1d0f6f7e7a2cdf6645?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
