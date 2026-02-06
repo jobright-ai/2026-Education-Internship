@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veritas Veterinary Partners](https://www.veritasvetpartners.com)** | **[Rotating Internship- Tustin, CA](https://jobright.ai/jobs/info/69851a988da7a612045f73f1?utm_campaign=1057&utm_source=git)** | Tustin, CA | On Site | Feb 05 |
 | **[Westat](https://www.westat.com)** | **[Education Studies Intern](https://jobright.ai/jobs/info/69695e99f25a38006697f1d0?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Feb 05 |
 | **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[In-Home Therapy Clinical Intern](https://jobright.ai/jobs/info/698511bf8da7a612045f63eb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 05 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 05 |
@@ -66,16 +67,25 @@ For a complete list, click the following sortable link below:
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698509738da7a612045f5220?utm_campaign=1057&utm_source=git)** | Alton, IL | On Site | Feb 05 |
 | **[SUS](http://susdivers.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6985087a8da7a612045f517b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 05 |
 | **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[Behavioral Health Outpatient Clinical Intern](https://jobright.ai/jobs/info/69850388348f733a5c392032?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 05 |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Learning and Development](https://jobright.ai/jobs/info/6969678e639b452fb57f39b1?utm_campaign=1057&utm_source=git)** | Union, NJ | On Site | Feb 05 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/6984fffd348f733a5c391bf6?utm_campaign=1057&utm_source=git)** | Galesburg, IL | On Site | Feb 05 |
-| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/6984f9178da7a612045f40d3?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | Feb 05 |
+| **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern PD Days - Float Pool](https://jobright.ai/jobs/info/697d33b43f57a3356967024b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Feb 05 |
+| **[National Child Traumatic Stress Network (NCTSN)](https://nctsnet.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/698518290f6f7e7a2cdf9cce?utm_campaign=1057&utm_source=git)** | WORCESTER, MA, Worcester, MA, US | On Site | Feb 05 |
+| ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/698521fb8da7a612045f7cd4?utm_campaign=1057&utm_source=git)** | WATERTOWN, MA, Watertown, MA, US | On Site | Feb 05 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/6984f9178da7a612045f40d3?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | Feb 05 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Department of Medicine Clinical Research Unit – Clinical Research Student Intern](https://jobright.ai/jobs/info/69851fa8348f733a5c394cf2?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Feb 05 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Texas A&M - CIAC Career Fair - Summer Internship 2026](https://jobright.ai/jobs/info/6984f5738da7a612045f3cd3?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 05 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Athlete Medical Intern, UFC](https://jobright.ai/jobs/info/69850fb1348f733a5c392fe5?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Behavioral Health (Summer)](https://jobright.ai/jobs/info/6984ef50348f733a5c390bf6?utm_campaign=1057&utm_source=git)** | Redfield, SD | On Site | Feb 05 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High Pre/Post Coordinator (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ee89348f733a5c390b19?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698515a8348f733a5c393bea?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Feb 05 |
+| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69851d580f6f7e7a2cdfa696?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69850a8c8da7a612045f53e6?utm_campaign=1057&utm_source=git)** | Peru, IL | On Site | Feb 05 |
 | ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698511b6348f733a5c39340a?utm_campaign=1057&utm_source=git)** | Escanaba, MI | On Site | Feb 05 |
+| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698519720f6f7e7a2cdf9fa9?utm_campaign=1057&utm_source=git)** | Loves Park, IL | On Site | Feb 05 |
+| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698520710f6f7e7a2cdfaa85?utm_campaign=1057&utm_source=git)** | Oak Lawn, IL | On Site | Feb 05 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern – Crew Lead](https://jobright.ai/jobs/info/6984ee1e0f6f7e7a2cdf678f?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Feb 05 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Clinical Sciences Internship](https://jobright.ai/jobs/info/698517d30f6f7e7a2cdf9c09?utm_campaign=1057&utm_source=git)** | Brisbane - CA - US | On Site | Feb 05 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: Middle 5/6-Teacher (Internal Only)](https://jobright.ai/jobs/info/6984edc80f6f7e7a2cdf6732?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: High- ESL LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ec53348f733a5c390955?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle-School Counselor (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ec1d0f6f7e7a2cdf6645?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
@@ -86,29 +96,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer School: Middle School Pre/Post Coordinator (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984e95e0f6f7e7a2cdf63c4?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | **[Fierce Foundry](https://www.thefiercefoundry.com)** | **[Founder Programs Intern](https://jobright.ai/jobs/info/6984e7738da7a612045f3266?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 05 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Leadership Development Summer Internship Program](https://jobright.ai/jobs/info/6984e3de8da7a612045f2f72?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 05 |
-| ↳ | **[2026 Wellness Summer Internship Program](https://jobright.ai/jobs/info/698501e2348f733a5c391e3f?utm_campaign=1057&utm_source=git)** | Pontiac, MI, US | On Site | Feb 05 |
 | ↳ | **[2026 Wellness Summer Internship Program](https://jobright.ai/jobs/info/6984f9770f6f7e7a2cdf7275?utm_campaign=1057&utm_source=git)** | US-MI-Pontiac | On Site | Feb 05 |
+| ↳ | **[2026 Wellness Summer Internship Program](https://jobright.ai/jobs/info/698501e2348f733a5c391e3f?utm_campaign=1057&utm_source=git)** | Pontiac, MI, US | On Site | Feb 05 |
 | **[Beber Camp](https://www.bebercamp.com)** | **[Development and Alumni Engagement Intern](https://jobright.ai/jobs/info/6984f8c9348f733a5c3914fa?utm_campaign=1057&utm_source=git)** | Mukwonago, WI | Hybrid | Feb 05 |
 | **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[Behavioral Health Outpatient Clinical Intern](https://jobright.ai/jobs/info/6984d3720f6f7e7a2cdf4761?utm_campaign=1057&utm_source=git)** | Roxbury, MA, US | On Site | Feb 05 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: Middle 7/8-Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fb4f8da7a612045f4365?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Elementary-Special Education Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f80a0f6f7e7a2cdf70cb?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Elementary School ESY-Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ef30348f733a5c390be4?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Elementary-School Nurse (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f7e60f6f7e7a2cdf70a5?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Elementary-Special Education Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f80a0f6f7e7a2cdf70cb?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: High-School Nurse (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fcdd8da7a612045f455d?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Elementary-School Nurse (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f7e60f6f7e7a2cdf70a5?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle-Math Coach (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f451348f733a5c390fee?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Elementary-Technology Integration Coach (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f5118da7a612045f3c68?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Elementary-Intervention Teacher (Math)-(INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f6478da7a612045f3dd5?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: High-Content Recovery Facilitator (Math) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ffe88da7a612045f48c9?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: High-LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/698502128da7a612045f4b87?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: High-Content Recovery Facilitator (Social Studies) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f9f78da7a612045f41d0?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle School -Attendance Clerk (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f4b88da7a612045f3bf7?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: High-Content Recovery Facilitator (Social Studies) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f9f78da7a612045f41d0?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Elementary-Intervention Teacher (Math)-(INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f6478da7a612045f3dd5?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: High-LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/698502128da7a612045f4b87?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Elementary-Technology Integration Coach (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f5118da7a612045f3c68?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: High-Content Recovery Facilitator (Math) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ffe88da7a612045f48c9?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle-SPED Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f5e98da7a612045f3d59?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Elementary-LIEP ESL Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f7f78da7a612045f3f87?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle-Reading Coach (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f60a8da7a612045f3d80?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| ↳ | **[Summer School: Middle School ESY-Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fad28da7a612045f42c2?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Elementary-Reading Coach (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f4de0f6f7e7a2cdf6d5c?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: High-Content Recovery Facilitator (English) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fb458da7a612045f435d?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Elementary-Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f00c0f6f7e7a2cdf694c?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Elementary-LIEP ESL Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f7f78da7a612045f3f87?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
+| ↳ | **[Summer School: Middle School ESY-Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fad28da7a612045f42c2?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: High-Content Recovery Facilitator (Science) (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f2e60f6f7e7a2cdf6b26?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle-LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984f2fa0f6f7e7a2cdf6b3c?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
 | ↳ | **[Summer School: Middle- LIEP Resource Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984fa8f8da7a612045f427a?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Technology Development Program Internship - Eden Prairie, MN](https://jobright.ai/jobs/info/69844a9f348f733a5c384891?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Feb 04 |
 | **[RIOS](https://www.rios.com/)** | **[Design Exploration Internship Summer 2026](https://jobright.ai/jobs/info/698434108da7a612045e4428?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/69844bed348f733a5c384a71?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 04 |
-| **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/696883e5f25a38006696f927?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
-| **[Centene Corporation](http://www.centene.com)** | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841d9e348f733a5c37eef6?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841ca4348f733a5c37ed4a?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841c20348f733a5c37ec76?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841c06348f733a5c37ec4a?utm_campaign=1057&utm_source=git)** | Arizona, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841b930f6f7e7a2cde4648?utm_campaign=1057&utm_source=git)** | Caroline County, MD | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841b54348f733a5c37eae7?utm_campaign=1057&utm_source=git)** | Indiana, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841ad2348f733a5c37e9ed?utm_campaign=1057&utm_source=git)** | Utah, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841acd348f733a5c37e9e2?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Feb 04 |
-| ↳ | **[Culture Activation Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69841a9b8da7a612045e0cd2?utm_campaign=1057&utm_source=git)** | Montana, United States | Remote | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
