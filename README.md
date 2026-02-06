@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Wasco State Prison (WSP)](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464adf6?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Feb 06 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696a0aebf25a38006698e2ce?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Feb 06 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6985cc0e8da7a61204608088?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 06 |
+| **[Alfred State College - SUNY College of Technology](http://www.alfredstate.edu)** | **[Fall 2026 Masonry Instructor Internal Search](https://jobright.ai/jobs/info/6985b8958da7a612046066e8?utm_campaign=1057&utm_source=git)** | Wellsville, NY | On Site | Feb 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/6985b39f8ca8121a3a67e4d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 06 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Feb 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6985a5d6348f733a5c3a2960?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 06 |
@@ -88,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Affairs and Admissions Coordinator](https://jobright.ai/jobs/info/698557e2348f733a5c39aa55?utm_campaign=1057&utm_source=git)** | Rosemont, PA | On Site | Feb 05 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Business Library Intern](https://jobright.ai/jobs/info/698557758da7a612045fd713?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
 | **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[School Social Worker intern](https://jobright.ai/jobs/info/698573750f6f7e7a2ce03a7f?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Feb 05 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/69857143348f733a5c39d9c5?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 05 |
-| ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698572ae8da7a61204600daf?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
-| ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698572a10f6f7e7a2ce03918?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Feb 05 |
+| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/698572ae8da7a61204600daf?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
+| ↳ | **[Master Level Intern](https://jobright.ai/jobs/info/69857143348f733a5c39d9c5?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 05 |
 | ↳ | **[Clinical Master Level Intern Summer Semester](https://jobright.ai/jobs/info/6985766b0f6f7e7a2ce03ed9?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Feb 05 |
+| ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698572a10f6f7e7a2ce03918?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698576320f6f7e7a2ce03e8f?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/69857ae18da7a612046018f1?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Feb 05 |
 | ↳ | **[Bachelor Level Intern Summer Semester](https://jobright.ai/jobs/info/698571c1348f733a5c39da7e?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Athlete Medical Intern, UFC](https://jobright.ai/jobs/info/69850fb1348f733a5c392fe5?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Feb 05 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Behavioral Health (Summer)](https://jobright.ai/jobs/info/6984ef50348f733a5c390bf6?utm_campaign=1057&utm_source=git)** | Redfield, SD | On Site | Feb 05 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High Pre/Post Coordinator (INTERNAL ONLY)](https://jobright.ai/jobs/info/6984ee89348f733a5c390b19?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Feb 05 |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698515a8348f733a5c393bea?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Feb 05 |
-| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69851d580f6f7e7a2cdfa696?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Feb 05 |
-| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/69850a8c8da7a612045f53e6?utm_campaign=1057&utm_source=git)** | Peru, IL | On Site | Feb 05 |
-| ↳ | **[Summer Nurse Intern](https://jobright.ai/jobs/info/698511b6348f733a5c39340a?utm_campaign=1057&utm_source=git)** | Escanaba, MI | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
