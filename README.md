@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda85eddc10244dd68295b?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Lincoln Park](https://jobright.ai/jobs/info/698693428ca8121a3a68e215?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/698692d68da7a612046167af?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Laguna Niguel](https://jobright.ai/jobs/info/698692a78ca8121a3a68e164?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Lincoln Square](https://jobright.ai/jobs/info/698691d48ca8121a3a68e054?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
