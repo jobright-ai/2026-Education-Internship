@@ -57,16 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6987b06c8da7a6120462c799?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Feb 07 |
+| **[University of La Verne](http://laverne.edu)** | **[Communications Department - Clerical Student Assistant (25/26) - FWS](https://jobright.ai/jobs/info/6987aa540f6f7e7a2ce2e24b?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Feb 07 |
+| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Feb 07 |
+| **[Maricopa Community Colleges](https://www.maricopa.edu/)** | **[Accounting Faculty (One-Year-Only)](https://jobright.ai/jobs/info/69879eed8ca8121a3a6a23eb?utm_campaign=1057&utm_source=git)** | Paradise Valley, NV | Hybrid | Feb 07 |
+| ↳ | **[Engineering Electronics Faculty (One Year Only)](https://jobright.ai/jobs/info/69879e468ca8121a3a6a2324?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Residential Program & Administration Internship](https://jobright.ai/jobs/info/69879d0d8ca8121a3a6a21b8?utm_campaign=1057&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698797d18da7a6120462a66f?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698793820f6f7e7a2ce2d07a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
-| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698790328ca8121a3a6a161b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698785340f6f7e7a2ce2c886?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698783be8ca8121a3a6a0ffa?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/6987a14d8da7a6120462af96?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
+| ↳ | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
 | **[Horizon Lane](horizonlane.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69877ca98da7a61204629880?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Chicago - West Loop](https://jobright.ai/jobs/info/6986dd230f6f7e7a2ce2191a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Encino/Sherman Oaks](https://jobright.ai/jobs/info/6986dca90f6f7e7a2ce21866?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/6986d8178da7a6120461e192?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/6986d7fd0f6f7e7a2ce20ff5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Wicker Park](https://jobright.ai/jobs/info/6986d7998ca8121a3a695c2e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/6986d7920f6f7e7a2ce20f48?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/6986d76d0f6f7e7a2ce20f1c?utm_campaign=1057&utm_source=git)** | Burien, WA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Madison Valley](https://jobright.ai/jobs/info/6986d70b0f6f7e7a2ce20e7e?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Beverly](https://jobright.ai/jobs/info/6986d6a40f6f7e7a2ce20dc7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
