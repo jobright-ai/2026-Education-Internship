@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Feb 07 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987041e0f6f7e7a2ce23f6c?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 07 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 07 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/6987034b0f6f7e7a2ce23ea8?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Feb 07 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Feb 07 |
+| ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698702180f6f7e7a2ce23d89?utm_campaign=1057&utm_source=git)** | Monticello, KY | On Site | Feb 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/6986fff18da7a61204621033?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6986ff848ca8121a3a69850e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/6986fc050f6f7e7a2ce23728?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA, USA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6986fbc88ca8121a3a69810e?utm_campaign=1057&utm_source=git)** | Daly City, CA, USA | On Site | Feb 07 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6986faa78da7a61204620a94?utm_campaign=1057&utm_source=git)** | South Carolina, United States | On Site | Feb 07 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Newport Beach](https://jobright.ai/jobs/info/6986e2d08ca8121a3a6966e1?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/698703c60f6f7e7a2ce23f19?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/698701038da7a612046210ee?utm_campaign=1057&utm_source=git)** | Rosemead, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/6986e2968ca8121a3a6966d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/6986e2738ca8121a3a6966c5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69868f7f8da7a612046161cd?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Sierra Madre/Arcadia](https://jobright.ai/jobs/info/69868f7b8da7a612046161cc?utm_campaign=1057&utm_source=git)** | Arcadia, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Littleton](https://jobright.ai/jobs/info/69868f318da7a61204616154?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Hyde Park](https://jobright.ai/jobs/info/69868ef08ca8121a3a68dccb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X Los Alamitos](https://jobright.ai/jobs/info/69868ef08ca8121a3a68dccc?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Arlington Heights](https://jobright.ai/jobs/info/6986b7d18ca8121a3a69167b?utm_campaign=1057&utm_source=git)** | Arlington Heights, IL, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Boulder](https://jobright.ai/jobs/info/6986b2538da7a6120461989e?utm_campaign=1057&utm_source=git)** | Boulder, CO, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Carlsbad](https://jobright.ai/jobs/info/6986ae388ca8121a3a690b42?utm_campaign=1057&utm_source=git)** | Carlsbad, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Lincoln Square](https://jobright.ai/jobs/info/6986c5cc8ca8121a3a6939c3?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/6986b2630f6f7e7a2ce1c2bc?utm_campaign=1057&utm_source=git)** | Los Altos, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Westchester/Playa Vista](https://jobright.ai/jobs/info/6986d1890f6f7e7a2ce204cb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/6986ad028ca8121a3a6908ed?utm_campaign=1057&utm_source=git)** | Los angeles, CA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, San Diego](https://jobright.ai/jobs/info/6986b13a0f6f7e7a2ce1c17f?utm_campaign=1057&utm_source=git)** | San Diego, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/6986ade08da7a61204619239?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Madison Valley](https://jobright.ai/jobs/info/6986b5b88ca8121a3a6914ab?utm_campaign=1057&utm_source=git)** | Seattle, WA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Palos Verdes](https://jobright.ai/jobs/info/6986aad68da7a61204618dfc?utm_campaign=1057&utm_source=git)** | Rancho Palos Verdes, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/6986aa418da7a61204618d31?utm_campaign=1057&utm_source=git)** | Placentia, CA, USA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
