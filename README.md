@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Residential Program & Administration Internship](https://jobright.ai/jobs/info/69879d0d8ca8121a3a6a21b8?utm_campaign=1057&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698797d18da7a6120462a66f?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698793820f6f7e7a2ce2d07a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698785340f6f7e7a2ce2c886?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698783be8ca8121a3a6a0ffa?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
 | **[Horizon Lane](horizonlane.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69877ca98da7a61204629880?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/6986d76d0f6f7e7a2ce20f1c?utm_campaign=1057&utm_source=git)** | Burien, WA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Madison Valley](https://jobright.ai/jobs/info/6986d70b0f6f7e7a2ce20e7e?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Beverly](https://jobright.ai/jobs/info/6986d6a40f6f7e7a2ce20dc7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/6986d69f8ca8121a3a695bee?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/6986d6778ca8121a3a695be5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Education Intern (Full-Time) - Summer 2026](https://jobright.ai/jobs/info/6986d24d8da7a6120461d79a?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
