@@ -57,7 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/6986d8178da7a6120461e192?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 06 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Newport Beach](https://jobright.ai/jobs/info/6986e2d08ca8121a3a6966e1?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/6986e2968ca8121a3a6966d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/6986e2738ca8121a3a6966c5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Denver - Park Hill/Central Park](https://jobright.ai/jobs/info/6986e1ce8ca8121a3a696697?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/6986e1c98ca8121a3a696696?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, San Diego Downtown](https://jobright.ai/jobs/info/6986e1bb8ca8121a3a696693?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/6986e1a18ca8121a3a69668c?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Galileo X - Lynwood](https://jobright.ai/jobs/info/6986e0b58ca8121a3a696622?utm_campaign=1057&utm_source=git)** | Lynwood, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Westchester/Playa Vista](https://jobright.ai/jobs/info/6986df9b8da7a6120461ee93?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Orland Park](https://jobright.ai/jobs/info/6986de570f6f7e7a2ce21aac?utm_campaign=1057&utm_source=git)** | Orland Hills, IL | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Denver - Wheat Ridge/Highland](https://jobright.ai/jobs/info/6986de428da7a6120461ec65?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/6986ddfe8da7a6120461ebfc?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Oakland - Glenview](https://jobright.ai/jobs/info/6986ddce8da7a6120461ebd7?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Denver - Lowry](https://jobright.ai/jobs/info/6986ddc18da7a6120461ebd6?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Irvine](https://jobright.ai/jobs/info/6986dd678da7a6120461ebbe?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Chicago - West Loop](https://jobright.ai/jobs/info/6986dd230f6f7e7a2ce2191a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Encino/Sherman Oaks](https://jobright.ai/jobs/info/6986dca90f6f7e7a2ce21866?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/6986d8178da7a6120461e192?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/6986d7fd0f6f7e7a2ce20ff5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Wicker Park](https://jobright.ai/jobs/info/6986d7998ca8121a3a695c2e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/6986d7920f6f7e7a2ce20f48?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Feb 06 |
@@ -100,10 +118,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, North Seattle](https://jobright.ai/jobs/info/698696068ca8121a3a68e5a7?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Winnetka](https://jobright.ai/jobs/info/698695ce8da7a61204616d7c?utm_campaign=1057&utm_source=git)** | Winnetka, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, South Pasadena/San Marino](https://jobright.ai/jobs/info/698695800f6f7e7a2ce19be1?utm_campaign=1057&utm_source=git)** | South Pasadena, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/698695680f6f7e7a2ce19baa?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Burbank](https://jobright.ai/jobs/info/6986953a8da7a61204616c5b?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698695268da7a61204616c43?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/698695268da7a61204616c42?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698695268da7a61204616c43?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, San Mateo](https://jobright.ai/jobs/info/698695098da7a61204616c06?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Feb 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Vice Provost for International Academic Initiatives and Chief Global Engagement Officer](https://jobright.ai/jobs/info/6986b13c8ca8121a3a69108b?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | Feb 06 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/698693498da7a612046168b0?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 06 |
@@ -122,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Denver Platt Park](https://jobright.ai/jobs/info/698690458ca8121a3a68de62?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, North San Jose/Santa Clara](https://jobright.ai/jobs/info/6986903f8da7a612046162fe?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Wicker Park](https://jobright.ai/jobs/info/6986902a8da7a612046162de?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Encino/Sherman Oaks](https://jobright.ai/jobs/info/698690108da7a612046162af?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, La Grange](https://jobright.ai/jobs/info/69868ff18ca8121a3a68ddef?utm_campaign=1057&utm_source=git)** | La Grange, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69868f7f8da7a612046161cd?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Sierra Madre/Arcadia](https://jobright.ai/jobs/info/69868f7b8da7a612046161cc?utm_campaign=1057&utm_source=git)** | Arcadia, CA | On Site | Feb 06 |
@@ -139,22 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, San Diego](https://jobright.ai/jobs/info/6986b13a0f6f7e7a2ce1c17f?utm_campaign=1057&utm_source=git)** | San Diego, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/6986ade08da7a61204619239?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Madison Valley](https://jobright.ai/jobs/info/6986b5b88ca8121a3a6914ab?utm_campaign=1057&utm_source=git)** | Seattle, WA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/6986aa418da7a61204618d31?utm_campaign=1057&utm_source=git)** | Placentia, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Palos Verdes](https://jobright.ai/jobs/info/6986aad68da7a61204618dfc?utm_campaign=1057&utm_source=git)** | Rancho Palos Verdes, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/6986ce1d8da7a6120461c7d7?utm_campaign=1057&utm_source=git)** | Evanston, IL, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Claremont](https://jobright.ai/jobs/info/6986bbc68da7a6120461a785?utm_campaign=1057&utm_source=git)** | Claremont, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/6986b1360f6f7e7a2ce1c177?utm_campaign=1057&utm_source=git)** | Burien, WA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/6986b8ef8da7a6120461a462?utm_campaign=1057&utm_source=git)** | Berkeley, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X San Jose Alum Rock](https://jobright.ai/jobs/info/69868d9a8ca8121a3a68db48?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Kentfield](https://jobright.ai/jobs/info/69868d8c8da7a61204615e46?utm_campaign=1057&utm_source=git)** | Kentfield, CA | On Site | Feb 06 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[2026 Commercial Intern](https://jobright.ai/jobs/info/69868d470f6f7e7a2ce18e8a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Orland Park](https://jobright.ai/jobs/info/69868ca88da7a61204615d8c?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69868c9b8ca8121a3a68da37?utm_campaign=1057&utm_source=git)** | Saratoga, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X Lynwood](https://jobright.ai/jobs/info/69868c7b8da7a61204615d75?utm_campaign=1057&utm_source=git)** | Lynwood, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Glenview](https://jobright.ai/jobs/info/69868bc78ca8121a3a68d93d?utm_campaign=1057&utm_source=git)** | Glenview, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Broomfield](https://jobright.ai/jobs/info/69868b828da7a61204615d0c?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Parker](https://jobright.ai/jobs/info/69868b608ca8121a3a68d8da?utm_campaign=1057&utm_source=git)** | Parker, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Oakland - Glenview](https://jobright.ai/jobs/info/69868a968da7a61204615c99?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/698688020f6f7e7a2ce18932?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 06 |
-| **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/6986bda28ca8121a3a692a62?utm_campaign=1057&utm_source=git)** | Seattle, Washington | Hybrid | Feb 06 |
+| ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/6986aa418da7a61204618d31?utm_campaign=1057&utm_source=git)** | Placentia, CA, USA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
