@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
+| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Feb 07 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Learning & Development Intern](https://jobright.ai/jobs/info/698765d88da7a61204627967?utm_campaign=1057&utm_source=git)** | Round Lake Beach, IL | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696a76165fc8624185397718?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696712196f782b4e8d52c3e3?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6987543d8da7a61204626dbb?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
@@ -70,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Feb 07 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 07 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69875dda8da7a612046275de?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Feb 07 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 07 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
@@ -88,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69873d4c0f6f7e7a2ce2859e?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/698762990f6f7e7a2ce2a45c?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25844?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Events & Programs Intern](https://jobright.ai/jobs/info/6986b7950f6f7e7a2ce1d1b9?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Onsite](https://jobright.ai/jobs/info/6986d2680f6f7e7a2ce205c8?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Feb 06 |
 | **[AutoNation](http://autonation.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/6986b3be8ca8121a3a691213?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 06 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[Community Development Intern](https://jobright.ai/jobs/info/6986ad6d8da7a61204619197?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| **[Spindletop Center](http://spindletopcenter.org)** | **[Clinical Intern Coordinator Salary Range: $75,349-$82,336](https://jobright.ai/jobs/info/6986d0aa0f6f7e7a2ce202a3?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern -  Technical Training](https://jobright.ai/jobs/info/6986a8b80f6f7e7a2ce1b597?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/6986a8a90f6f7e7a2ce1b581?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X San Juan Capistrano](https://jobright.ai/jobs/info/6986a8548da7a61204618a9d?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Bellevue](https://jobright.ai/jobs/info/6986a7c38da7a612046187c9?utm_campaign=1057&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/6986a7738ca8121a3a68fb28?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Pasadena](https://jobright.ai/jobs/info/6986a6d68da7a6120461842c?utm_campaign=1057&utm_source=git)** | Pasadena, CA, USA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
