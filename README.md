@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698793820f6f7e7a2ce2d07a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
+| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698790328ca8121a3a6a161b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 07 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698785340f6f7e7a2ce2c886?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698783be8ca8121a3a6a0ffa?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[Horizon Lane](horizonlane.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69877ca98da7a61204629880?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -87,7 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/698730438da7a61204624211?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/69872fa38da7a61204624194?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/69872f0d8da7a6120462411e?utm_campaign=1057&utm_source=git)** | San Gabriel, CA | On Site | Feb 07 |
-| ↳ | **[Summer Camp Intern, Galileo X - San Jose Alum Rock](https://jobright.ai/jobs/info/69872e0f0f6f7e7a2ce26c58?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
+| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/696f03d39c3c52633455b56b?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Feb 07 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - San Jose Alum Rock](https://jobright.ai/jobs/info/69872e0f0f6f7e7a2ce26c58?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/69872e0a0f6f7e7a2ce26c53?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 07 |
 | **[Gilsbar](http://www.gilsbar.com)** | **[Gilsbar Internship Application](https://jobright.ai/jobs/info/698756870f6f7e7a2ce29c6f?utm_campaign=1057&utm_source=git)** | Hybrid - Covington, LA 70433 | Hybrid | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda85eddc10244dd68295b?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
@@ -97,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69873d4c0f6f7e7a2ce2859e?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/698762990f6f7e7a2ce2a45c?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25844?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/6986d69f8ca8121a3a695bee?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/6986d6778ca8121a3a695be5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Education Intern (Full-Time) - Summer 2026](https://jobright.ai/jobs/info/6986d24d8da7a6120461d79a?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| ↳ | **[Training & Professional Development Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1250f6f7e7a2ce203f2?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| ↳ | **[Sustainability & Youth Programs Intern - Summer 2026](https://jobright.ai/jobs/info/6986cfdb8da7a6120461d1da?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[Heinen's Grocery Store](http://www.heinens.com)** | **[Wellness Consumer Insights Summer Associate (Intern)](https://jobright.ai/jobs/info/6986cad48ca8121a3a6945c3?utm_campaign=1057&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/IINA, Hybrid](https://jobright.ai/jobs/info/6986c9e78da7a6120461bcbc?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Riley Sports Legends Experience (RSLE) Intern - Summer 2026](https://jobright.ai/jobs/info/6986c91a8ca8121a3a694240?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/6986bf888ca8121a3a692d7a?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Events & Programs Intern](https://jobright.ai/jobs/info/6986b7950f6f7e7a2ce1d1b9?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
