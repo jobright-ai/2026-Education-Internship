@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heinen's Grocery Store](http://www.heinens.com)** | **[Wellness Consumer Insights Summer Associate (Intern)](https://jobright.ai/jobs/info/6986cad48ca8121a3a6945c3?utm_campaign=1057&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/IINA, Hybrid](https://jobright.ai/jobs/info/6986c9e78da7a6120461bcbc?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Riley Sports Legends Experience (RSLE) Intern - Summer 2026](https://jobright.ai/jobs/info/6986c91a8ca8121a3a694240?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/6986bf888ca8121a3a692d7a?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Events & Programs Intern](https://jobright.ai/jobs/info/6986b7950f6f7e7a2ce1d1b9?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[AutoNation](http://autonation.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/6986b3be8ca8121a3a691213?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 06 |
@@ -114,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Arlington Heights](https://jobright.ai/jobs/info/6986b7d18ca8121a3a69167b?utm_campaign=1057&utm_source=git)** | Arlington Heights, IL, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Boulder](https://jobright.ai/jobs/info/6986b2538da7a6120461989e?utm_campaign=1057&utm_source=git)** | Boulder, CO, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Carlsbad](https://jobright.ai/jobs/info/6986ae388ca8121a3a690b42?utm_campaign=1057&utm_source=git)** | Carlsbad, CA, USA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Lincoln Square](https://jobright.ai/jobs/info/6986c5cc8ca8121a3a6939c3?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/6986b2630f6f7e7a2ce1c2bc?utm_campaign=1057&utm_source=git)** | Los Altos, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/6986ad028ca8121a3a6908ed?utm_campaign=1057&utm_source=git)** | Los angeles, CA, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, San Diego](https://jobright.ai/jobs/info/6986b13a0f6f7e7a2ce1c17f?utm_campaign=1057&utm_source=git)** | San Diego, CA, USA | On Site | Feb 06 |
@@ -121,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Madison Valley](https://jobright.ai/jobs/info/6986b5b88ca8121a3a6914ab?utm_campaign=1057&utm_source=git)** | Seattle, WA, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/6986aa418da7a61204618d31?utm_campaign=1057&utm_source=git)** | Placentia, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Palos Verdes](https://jobright.ai/jobs/info/6986aad68da7a61204618dfc?utm_campaign=1057&utm_source=git)** | Rancho Palos Verdes, CA, USA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/6986ce1d8da7a6120461c7d7?utm_campaign=1057&utm_source=git)** | Evanston, IL, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Claremont](https://jobright.ai/jobs/info/6986bbc68da7a6120461a785?utm_campaign=1057&utm_source=git)** | Claremont, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/6986b1360f6f7e7a2ce1c177?utm_campaign=1057&utm_source=git)** | Burien, WA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/6986b8ef8da7a6120461a462?utm_campaign=1057&utm_source=git)** | Berkeley, CA, USA | On Site | Feb 06 |
@@ -142,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/6979a2800791bc1d72307230?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Intern Assistant Learning Specialist - Hawkins Center](https://jobright.ai/jobs/info/6986a9298da7a61204618bc9?utm_campaign=1057&utm_source=git)** | Gainesville, Florida, United States | On Site | Feb 06 |
 | **[Avita Health System](https://avitahealth.org/)** | **[PCA - Student Nurse Intern](https://jobright.ai/jobs/info/6986a86c0f6f7e7a2ce1b520?utm_campaign=1057&utm_source=git)** | Avita Health System - Multiple Locations, Galion, OH, US | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern -  Technical Training](https://jobright.ai/jobs/info/6986ba070f6f7e7a2ce1d490?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern -  Technical Training](https://jobright.ai/jobs/info/6986ae148ca8121a3a690b08?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern -  Technical Training](https://jobright.ai/jobs/info/6986ae148ca8121a3a690b08?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern -  Technical Training](https://jobright.ai/jobs/info/6986ba070f6f7e7a2ce1d490?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X San Juan Capistrano](https://jobright.ai/jobs/info/6986ac2e8ca8121a3a690753?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/6986b01a8ca8121a3a690f04?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Mercer Island](https://jobright.ai/jobs/info/6986b1328da7a61204619707?utm_campaign=1057&utm_source=git)** | Mercer Island, WA | On Site | Feb 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everspring](http://everspringpartners.com)** | **[Instructional Designer I](https://jobright.ai/jobs/info/69867b460f6f7e7a2ce17844?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Academic Support Intern](https://jobright.ai/jobs/info/69867a6c8ca8121a3a68c501?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Feb 06 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X Daly City](https://jobright.ai/jobs/info/69869c660f6f7e7a2ce1a7c4?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/698699d90f6f7e7a2ce1a37e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| **[Caltrain](http://www.caltrain.com/)** | **[Summer Internship, Caltrain Planning](https://jobright.ai/jobs/info/69867a4e8ca8121a3a68c4cb?utm_campaign=1057&utm_source=git)** | Millbrae, CA | On Site | Feb 06 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Carlsbad](https://jobright.ai/jobs/info/69869bd30f6f7e7a2ce1a6a8?utm_campaign=1057&utm_source=git)** | Carlsbad, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Oak Park/River Forest](https://jobright.ai/jobs/info/69869c9f0f6f7e7a2ce1a83f?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Beverly](https://jobright.ai/jobs/info/69869bff0f6f7e7a2ce1a702?utm_campaign=1057&utm_source=git)** | Beverly, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
