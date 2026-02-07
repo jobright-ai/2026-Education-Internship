@@ -57,12 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b56a6350cf4380312ba32?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 07 |
+| **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 07 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6987307d0f6f7e7a2ce26e2f?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/698730438da7a61204624211?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/69872fa38da7a61204624194?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/69872f0d8da7a6120462411e?utm_campaign=1057&utm_source=git)** | San Gabriel, CA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - San Jose Alum Rock](https://jobright.ai/jobs/info/69872e0f0f6f7e7a2ce26c58?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
+| ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/69872e0a0f6f7e7a2ce26c53?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda85eddc10244dd68295b?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/69873fc68da7a612046257f0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69873d4c0f6f7e7a2ce2859e?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
+| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25844?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 07 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/696b0cd4350cf43803125018?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Feb 07 |
@@ -115,8 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/6986d69f8ca8121a3a695bee?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/6986d6778ca8121a3a695be5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[StarPoint Summer Camp Education Intern (Full-Time) - Summer 2026](https://jobright.ai/jobs/info/6986d24d8da7a6120461d79a?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/6986d2088ca8121a3a695260?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Training & Professional Development Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1250f6f7e7a2ce203f2?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
+| ↳ | **[Training & Professional Development Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1250f6f7e7a2ce203f2?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | ↳ | **[Sustainability & Youth Programs Intern - Summer 2026](https://jobright.ai/jobs/info/6986cfdb8da7a6120461d1da?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Wellness Consumer Insights Summer Associate (Intern)](https://jobright.ai/jobs/info/6986cad48ca8121a3a6945c3?utm_campaign=1057&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/IINA, Hybrid](https://jobright.ai/jobs/info/6986c9e78da7a6120461bcbc?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696ab373db26b618950defcf?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Fremont](https://jobright.ai/jobs/info/69869d688ca8121a3a68eb1f?utm_campaign=1057&utm_source=git)** | Fremont, CA, USA | On Site | Feb 06 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698699888da7a61204617318?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Pleasanton](https://jobright.ai/jobs/info/6986960d0f6f7e7a2ce19ccf?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, North Seattle](https://jobright.ai/jobs/info/698696068ca8121a3a68e5a7?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Winnetka](https://jobright.ai/jobs/info/698695ce8da7a61204616d7c?utm_campaign=1057&utm_source=git)** | Winnetka, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, South Pasadena/San Marino](https://jobright.ai/jobs/info/698695800f6f7e7a2ce19be1?utm_campaign=1057&utm_source=git)** | South Pasadena, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Burbank](https://jobright.ai/jobs/info/6986953a8da7a61204616c5b?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698695268da7a61204616c43?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/698695268da7a61204616c42?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, San Mateo](https://jobright.ai/jobs/info/698695098da7a61204616c06?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Feb 06 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Vice Provost for International Academic Initiatives and Chief Global Engagement Officer](https://jobright.ai/jobs/info/6986b13c8ca8121a3a69108b?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | Feb 06 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/698693498da7a612046168b0?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Lincoln Park](https://jobright.ai/jobs/info/698693428ca8121a3a68e215?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/698692d68da7a612046167af?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Laguna Niguel](https://jobright.ai/jobs/info/698692a78ca8121a3a68e164?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
