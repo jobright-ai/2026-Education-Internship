@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69877ca98da7a61204629880?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 07 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Riley Sports Legends Experience (RSLE) Intern - Summer 2026](https://jobright.ai/jobs/info/6986c91a8ca8121a3a694240?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/6986bf888ca8121a3a692d7a?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Events & Programs Intern](https://jobright.ai/jobs/info/6986b7950f6f7e7a2ce1d1b9?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 06 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Onsite](https://jobright.ai/jobs/info/6986d2680f6f7e7a2ce205c8?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Feb 06 |
-| **[AutoNation](http://autonation.com/)** | **[Credit Intern](https://jobright.ai/jobs/info/6986b3be8ca8121a3a691213?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
