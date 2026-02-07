@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6987543d8da7a61204626dbb?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/69872f0d8da7a6120462411e?utm_campaign=1057&utm_source=git)** | San Gabriel, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Jose Alum Rock](https://jobright.ai/jobs/info/69872e0f0f6f7e7a2ce26c58?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/69872e0a0f6f7e7a2ce26c53?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 07 |
+| **[Gilsbar](http://www.gilsbar.com)** | **[Gilsbar Internship Application](https://jobright.ai/jobs/info/698756870f6f7e7a2ce29c6f?utm_campaign=1057&utm_source=git)** | Hybrid - Covington, LA 70433 | Hybrid | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda85eddc10244dd68295b?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/69873fc68da7a612046257f0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Bellevue](https://jobright.ai/jobs/info/6986a7c38da7a612046187c9?utm_campaign=1057&utm_source=git)** | Bellevue, WA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/6986a7738ca8121a3a68fb28?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Pasadena](https://jobright.ai/jobs/info/6986a6d68da7a6120461842c?utm_campaign=1057&utm_source=git)** | Pasadena, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/6986a4808da7a612046181eb?utm_campaign=1057&utm_source=git)** | Los Gatos, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Highlands Ranch](https://jobright.ai/jobs/info/6986a4758ca8121a3a68f699?utm_campaign=1057&utm_source=git)** | Highlands Ranch, CO, USA | On Site | Feb 06 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Monitoring Evaluation Accountability and Learning](https://jobright.ai/jobs/info/6986bf228da7a6120461ab34?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Feb 06 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/696f3f400f4e0f657ea3aa51?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Feb 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Success Specialist Intern Spring 2026](https://jobright.ai/jobs/info/69699887f25a380066985301?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
