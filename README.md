@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Medical Education Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7bd8da7a6120462dd3d?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6987db398da7a6120462d805?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 07 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6987cc0d8da7a6120462d6b2?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 07 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6987cbe18da7a6120462d699?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6987cb930f6f7e7a2ce30248?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 07 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Global Leaders Intern](https://jobright.ai/jobs/info/6987cf178da7a6120462d700?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | Hybrid | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Feb 07 |
 | ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698702180f6f7e7a2ce23d89?utm_campaign=1057&utm_source=git)** | Monticello, KY | On Site | Feb 07 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/6986fff18da7a61204621033?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/6986fc050f6f7e7a2ce23728?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA, USA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6986fbc88ca8121a3a69810e?utm_campaign=1057&utm_source=git)** | Daly City, CA, USA | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6986faa78da7a61204620a94?utm_campaign=1057&utm_source=git)** | South Carolina, United States | On Site | Feb 07 |
