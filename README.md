@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6987cc0d8da7a6120462d6b2?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 07 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6987cbe18da7a6120462d699?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6987cb930f6f7e7a2ce30248?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 07 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6987c2540f6f7e7a2ce3005f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 07 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/6987c1dc8da7a6120462d4ed?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 07 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
 | **[University of Tampa](http://www.ut.edu)** | **[Biology Laboratory Coordinator & Lecturer](https://jobright.ai/jobs/info/6987b4068ca8121a3a6a3e57?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6987b06c8da7a6120462c799?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Feb 07 |
 | **[University of La Verne](http://laverne.edu)** | **[Communications Department - Clerical Student Assistant (25/26) - FWS](https://jobright.ai/jobs/info/6987aa540f6f7e7a2ce2e24b?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Feb 07 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Global Leaders Intern](https://jobright.ai/jobs/info/6987cf178da7a6120462d700?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | Hybrid | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
@@ -109,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/69872e0a0f6f7e7a2ce26c53?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA | On Site | Feb 07 |
 | **[Gilsbar](http://www.gilsbar.com)** | **[Gilsbar Internship Application](https://jobright.ai/jobs/info/698756870f6f7e7a2ce29c6f?utm_campaign=1057&utm_source=git)** | Hybrid - Covington, LA 70433 | Hybrid | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda85eddc10244dd68295b?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Feb 07 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/69873fc68da7a612046257f0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Westchester/Playa Vista](https://jobright.ai/jobs/info/6986df9b8da7a6120461ee93?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Orland Park](https://jobright.ai/jobs/info/6986de570f6f7e7a2ce21aac?utm_campaign=1057&utm_source=git)** | Orland Hills, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Denver - Wheat Ridge/Highland](https://jobright.ai/jobs/info/6986de428da7a6120461ec65?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/6986ddfe8da7a6120461ebfc?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Oakland - Glenview](https://jobright.ai/jobs/info/6986ddce8da7a6120461ebd7?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Denver - Lowry](https://jobright.ai/jobs/info/6986ddc18da7a6120461ebd6?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Irvine](https://jobright.ai/jobs/info/6986dd678da7a6120461ebbe?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - West Loop](https://jobright.ai/jobs/info/6986dd230f6f7e7a2ce2191a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Encino/Sherman Oaks](https://jobright.ai/jobs/info/6986dca90f6f7e7a2ce21866?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
