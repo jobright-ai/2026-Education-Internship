@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69882ba20f6f7e7a2ce36c34?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698845328da7a61204636472?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
+| **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/698833118da7a61204634d08?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 07 |
+| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/698830d58ca8121a3a6abdea?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69882ba20f6f7e7a2ce36c34?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/698823598ca8121a3a6ab254?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69881bd10f6f7e7a2ce361e7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698814a90f6f7e7a2ce3458e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
@@ -67,12 +72,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e3d0f6f7e7a2ce34151?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e190f6f7e7a2ce34140?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6987f58e0f6f7e7a2ce32357?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Medical Education Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7bd8da7a6120462dd3d?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6987db398da7a6120462d805?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 07 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6987cc0d8da7a6120462d6b2?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 07 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6987cbe18da7a6120462d699?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6987cb930f6f7e7a2ce30248?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 07 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6987c2540f6f7e7a2ce3005f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 07 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/6987c1dc8da7a6120462d4ed?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
 | **[University of Tampa](http://www.ut.edu)** | **[Biology Laboratory Coordinator & Lecturer](https://jobright.ai/jobs/info/6987b4068ca8121a3a6a3e57?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698790328ca8121a3a6a161b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698785340f6f7e7a2ce2c886?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/698783be8ca8121a3a6a0ffa?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/6987a14d8da7a6120462af96?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
 | ↳ | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
@@ -105,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
 | **[Participate Learning](https://www.participatelearning.com)** | **[Teacher Orientation Support Intern](https://jobright.ai/jobs/info/698829bf8da7a6120463419a?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/695fe4857ebc25398eb5bc80?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/698711028da7a6120462275d?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/698701038da7a612046210ee?utm_campaign=1057&utm_source=git)** | Rosemead, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/6987097d8da7a612046217bb?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
