@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e3d0f6f7e7a2ce34151?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
+| ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e190f6f7e7a2ce34140?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6987f58e0f6f7e7a2ce32357?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Medical Education Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7bd8da7a6120462dd3d?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6987db398da7a6120462d805?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 07 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Teacher Orientation Support Intern](https://jobright.ai/jobs/info/698806aa8da7a61204630fc4?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/6986e1c98ca8121a3a696696?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, San Diego Downtown](https://jobright.ai/jobs/info/6986e1bb8ca8121a3a696693?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/6986e1a18ca8121a3a69668c?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X - Lynwood](https://jobright.ai/jobs/info/6986e0b58ca8121a3a696622?utm_campaign=1057&utm_source=git)** | Lynwood, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Westchester/Playa Vista](https://jobright.ai/jobs/info/6986df9b8da7a6120461ee93?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Orland Park](https://jobright.ai/jobs/info/6986de570f6f7e7a2ce21aac?utm_campaign=1057&utm_source=git)** | Orland Hills, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
