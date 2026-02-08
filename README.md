@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Tampa](http://www.ut.edu)** | **[Biology Laboratory Coordinator & Lecturer](https://jobright.ai/jobs/info/6987b4068ca8121a3a6a3e57?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6987b06c8da7a6120462c799?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Feb 07 |
 | **[University of La Verne](http://laverne.edu)** | **[Communications Department - Clerical Student Assistant (25/26) - FWS](https://jobright.ai/jobs/info/6987aa540f6f7e7a2ce2e24b?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Irvine](https://jobright.ai/jobs/info/6986dd678da7a6120461ebbe?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - West Loop](https://jobright.ai/jobs/info/6986dd230f6f7e7a2ce2191a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Encino/Sherman Oaks](https://jobright.ai/jobs/info/6986dca90f6f7e7a2ce21866?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/6986d8178da7a6120461e192?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
