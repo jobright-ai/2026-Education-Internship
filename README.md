@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6988ce9a0f6f7e7a2ce3fc42?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c8170f6f7e7a2ce3fb0b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
 | ↳ | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c78c8da7a6120463d3b2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/6988c06c8da7a6120463cb5a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/698730438da7a61204624211?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/69872fa38da7a61204624194?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/69872f0d8da7a6120462411e?utm_campaign=1057&utm_source=git)** | San Gabriel, CA | On Site | Feb 07 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/696f03d39c3c52633455b56b?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
