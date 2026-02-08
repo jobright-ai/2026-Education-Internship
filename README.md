@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69886d310f6f7e7a2ce3b595?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
+| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69886cde0f6f7e7a2ce3b575?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 08 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/698865c68da7a612046388c5?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Feb 08 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda96eddc10244dd682b4d?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda870a125e75c422ade41?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda83aa125e75c422addd9?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda57f44d32141e0bf9e00?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Feb 08 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698848810f6f7e7a2ce38f7e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698845328da7a61204636472?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
@@ -140,21 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698714478da7a61204622c31?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Behavioral Health Resources](http://www.bhr.org/)** | **[PACT Community Based Therapist Internship](https://jobright.ai/jobs/info/698711a18ca8121a3a699fcf?utm_campaign=1057&utm_source=git)** | Olympia, WA | Hybrid | Feb 07 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/696acdc4350cf4380311e3d7?utm_campaign=1057&utm_source=git)** | Merritt Island, FL | On Site | Feb 07 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Feb 07 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987041e0f6f7e7a2ce23f6c?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 07 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 07 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/6987034b0f6f7e7a2ce23ea8?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Feb 07 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Feb 07 |
-| ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 07 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698702180f6f7e7a2ce23d89?utm_campaign=1057&utm_source=git)** | Monticello, KY | On Site | Feb 07 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/6986fc050f6f7e7a2ce23728?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA, USA | On Site | Feb 07 |
-| ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6986fbc88ca8121a3a69810e?utm_campaign=1057&utm_source=git)** | Daly City, CA, USA | On Site | Feb 07 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6986faa78da7a61204620a94?utm_campaign=1057&utm_source=git)** | South Carolina, United States | On Site | Feb 07 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Newport Beach](https://jobright.ai/jobs/info/6986e2d08ca8121a3a6966e1?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/698703c60f6f7e7a2ce23f19?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/698708138ca8121a3a698b2b?utm_campaign=1057&utm_source=git)** | San Gabriel, CA, USA | Hybrid | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/698711028da7a6120462275d?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA, United States | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/698701038da7a612046210ee?utm_campaign=1057&utm_source=git)** | Rosemead, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/6987097d8da7a612046217bb?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA, USA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Central California Women's Facility (CCWF)](https://jobright.ai/jobs/info/691d2bd30b7dff7341500820?utm_campaign=1057&utm_source=git)** | Madera, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
