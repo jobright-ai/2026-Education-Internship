@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hotels AI](https://www.linkedin.com/company/4319469)** | **[Operations University Intern](https://jobright.ai/jobs/info/6988f2ef0f6f7e7a2ce40fce?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
+| **[MHMR of Tarrant County](https://www.mhmrtarrant.org/)** | **[2026 Summer Intern- Community Health Services](https://jobright.ai/jobs/info/6988ee638ca8121a3a6b4f2c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/698046d5ce48107c05447893?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Feb 08 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6988ce9a0f6f7e7a2ce3fc42?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c8170f6f7e7a2ce3fb0b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6987307d0f6f7e7a2ce26e2f?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Feb 07 |
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/698730438da7a61204624211?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 07 |
-| ↳ | **[Summer Camp Intern, Galileo X - Santa Cruz](https://jobright.ai/jobs/info/69872fa38da7a61204624194?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Feb 07 |
-| ↳ | **[Summer Camp Intern, Galileo X - San Gabriel](https://jobright.ai/jobs/info/69872f0d8da7a6120462411e?utm_campaign=1057&utm_source=git)** | San Gabriel, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
