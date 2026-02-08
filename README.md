@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/698046d5ce48107c05447893?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Feb 08 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6988ce9a0f6f7e7a2ce3fc42?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c8170f6f7e7a2ce3fb0b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
 | ↳ | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c78c8da7a6120463d3b2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/6987a14d8da7a6120462af96?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
 | ↳ | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
-| **[Horizon Lane](horizonlane.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69877ca98da7a61204629880?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
