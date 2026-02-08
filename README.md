@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1057&utm_source=git)** | Manteno, Illinois | On Site | Feb 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69889afe8da7a6120463b57e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69889a9c8ca8121a3a6b2504?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[House Parent for International Students](https://jobright.ai/jobs/info/6988975f8da7a6120463b43d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda83aa125e75c422addd9?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda57f44d32141e0bf9e00?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Feb 08 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698848810f6f7e7a2ce38f7e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/698833118da7a61204634d08?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 07 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25844?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 07 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/696b0cd4350cf43803125018?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
