@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69882ba20f6f7e7a2ce36c34?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/698823598ca8121a3a6ab254?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69881bd10f6f7e7a2ce361e7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698814a90f6f7e7a2ce3458e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Teacher Orientation Support Intern](https://jobright.ai/jobs/info/698829bf8da7a6120463419a?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698745918ca8121a3a69d7e5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/698701038da7a612046210ee?utm_campaign=1057&utm_source=git)** | Rosemead, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/6987097d8da7a612046217bb?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/6986e2968ca8121a3a6966d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/6986e2738ca8121a3a6966c5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
