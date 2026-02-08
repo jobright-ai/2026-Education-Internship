@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698845328da7a61204636472?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698848810f6f7e7a2ce38f7e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698845328da7a61204636472?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/698833118da7a61204634d08?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 07 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Teacher Orientation Support Intern](https://jobright.ai/jobs/info/698829bf8da7a6120463419a?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Feb 07 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 07 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69875dda8da7a612046275de?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Feb 07 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 07 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Galileo X - San Juan Capistrano](https://jobright.ai/jobs/info/698711028da7a6120462275d?utm_campaign=1057&utm_source=git)** | San Juan Capistrano, CA, United States | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/698701038da7a612046210ee?utm_campaign=1057&utm_source=git)** | Rosemead, CA, USA | On Site | Feb 06 |
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/6987097d8da7a612046217bb?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA, USA | On Site | Feb 06 |
+| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/6986e2a58ca8121a3a6966d5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
