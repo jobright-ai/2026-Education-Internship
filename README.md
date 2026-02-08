@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Feb 08 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6988895f8ca8121a3a6b13a2?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 08 |
 | **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69886d310f6f7e7a2ce3b595?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69886cde0f6f7e7a2ce3b575?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
@@ -88,9 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698810f28da7a612046317ce?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e3d0f6f7e7a2ce34151?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e190f6f7e7a2ce34140?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6987f58e0f6f7e7a2ce32357?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 07 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6987db398da7a6120462d805?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 07 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6987cc0d8da7a6120462d6b2?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 07 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6987cbe18da7a6120462d699?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6987cb930f6f7e7a2ce30248?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 07 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698793820f6f7e7a2ce2d07a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698790328ca8121a3a6a161b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 07 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698785340f6f7e7a2ce2c886?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/6987a14d8da7a6120462af96?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
 | ↳ | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/69879c130f6f7e7a2ce2d8ba?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
@@ -145,8 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Feb 07 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69873d4c0f6f7e7a2ce2859e?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
-| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/698740148da7a6120462585d?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Feb 07 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25844?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Feb 07 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 07 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/696acdc4350cf4380311e3d7?utm_campaign=1057&utm_source=git)** | Merritt Island, FL | On Site | Feb 07 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Central California Women's Facility (CCWF)](https://jobright.ai/jobs/info/691d2bd30b7dff7341500820?utm_campaign=1057&utm_source=git)** | Madera, CA | On Site | Feb 07 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Feb 07 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987041e0f6f7e7a2ce23f6c?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 07 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
