@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f79c0f6f7e7a2ce41296?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
+| **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Education Intern](https://jobright.ai/jobs/info/6988f7830f6f7e7a2ce4128c?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 08 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f7558ca8121a3a6b5852?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Hotels AI](https://www.linkedin.com/company/4319469)** | **[Operations University Intern](https://jobright.ai/jobs/info/6988f2ef0f6f7e7a2ce40fce?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 08 |
 | **[MHMR of Tarrant County](https://www.mhmrtarrant.org/)** | **[2026 Summer Intern- Community Health Services](https://jobright.ai/jobs/info/6988ee638ca8121a3a6b4f2c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Feb 08 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/698046d5ce48107c05447893?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Feb 08 |
@@ -126,8 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Electronics Faculty (One Year Only)](https://jobright.ai/jobs/info/69879e468ca8121a3a6a2324?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Residential Program & Administration Internship](https://jobright.ai/jobs/info/69879d0d8ca8121a3a6a21b8?utm_campaign=1057&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698797d18da7a6120462a66f?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 07 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/698793820f6f7e7a2ce2d07a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Feb 07 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
+| ↳ | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/698793598ca8121a3a6a18fb?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 07 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698790328ca8121a3a6a161b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/698780388ca8121a3a6a0efd?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 07 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Programs Intern](https://jobright.ai/jobs/info/6987a14d8da7a6120462af96?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6987307d0f6f7e7a2ce26e2f?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Feb 07 |
-| ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/698730438da7a61204624211?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
