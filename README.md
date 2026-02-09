@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69897d5a0f6f7e7a2ce4925b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 08 |
+| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69897c3c0f6f7e7a2ce49230?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 08 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/698978820f6f7e7a2ce48e0f?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6989776d8ca8121a3a6bd450?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 08 |
 | **[World Relief](https://worldrelief.org/)** | **[ESL Literacy Teaching Assistant Intern](https://jobright.ai/jobs/info/698590f1348f733a5c3a0d37?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Feb 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69896f1147434001cc67a570?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 08 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Training and Professional Development Intern](https://jobright.ai/jobs/info/698966b60f6f7e7a2ce46f01?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 08 |
@@ -87,8 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69889a9c8ca8121a3a6b2504?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[House Parent for International Students](https://jobright.ai/jobs/info/6988975f8da7a6120463b43d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
 | ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/698897438da7a6120463b41f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/698897008ca8121a3a6b232b?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Feb 08 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[School Psychologist Intern SY 26/27 - Student Services (11792)](https://jobright.ai/jobs/info/698896f78da7a6120463b3c2?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Feb 08 |
+| ↳ | **[School Psychologist Intern SY 26/27 - Student Services (11792)](https://jobright.ai/jobs/info/698896f78da7a6120463b3c2?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Feb 08 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Feb 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director, International Students and Scholar Services](https://jobright.ai/jobs/info/698896a68ca8121a3a6b2313?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 08 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/695fe4857ebc25398eb5bc80?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698742670f6f7e7a2ce28aaf?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Feb 07 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 07 |
-| **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
