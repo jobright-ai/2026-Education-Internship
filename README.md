@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quindar](https://www.quindar.space/)** | **[People Ops Learning & Communications - Summer Intern 2026](https://jobright.ai/jobs/info/6989450f0f6f7e7a2ce448d4?utm_campaign=1057&utm_source=git)** | Arvada, CO | On Site | Feb 08 |
+| **[Monarch Behavioral Health, PLLC - San Antonio Tx](https://monarchbehavioral.net)** | **[Internship - Pre and Post Doctoral](https://jobright.ai/jobs/info/698941be8da7a612046421f9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6989219a0f6f7e7a2ce42671?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 08 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/69890ff38ca8121a3a6b6c31?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
 | ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69890c798da7a6120463fe36?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
@@ -107,9 +109,7 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
 | **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/698830d58ca8121a3a6abdea?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/698823598ca8121a3a6ab254?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69881bd10f6f7e7a2ce361e7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698814a90f6f7e7a2ce3458e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698814758da7a61204631b83?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Feb 07 |
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698810f28da7a612046317ce?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 07 |
