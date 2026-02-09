@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/69890ff38ca8121a3a6b6c31?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
+| ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69890c798da7a6120463fe36?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f79c0f6f7e7a2ce41296?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Education Intern](https://jobright.ai/jobs/info/6988f7830f6f7e7a2ce4128c?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 08 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f7558ca8121a3a6b5852?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6988ce9a0f6f7e7a2ce3fc42?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c8170f6f7e7a2ce3fb0b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
 | ↳ | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c78c8da7a6120463d3b2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
-| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/6988c06c8da7a6120463cb5a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/696259db2cbf4e44756c5b5d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Feb 08 |
@@ -94,8 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69886cde0f6f7e7a2ce3b575?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 08 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/698865c68da7a612046388c5?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Feb 08 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Feb 08 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda96eddc10244dd682b4d?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Feb 08 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/698833118da7a61204634d08?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 07 |
 | ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/698830d58ca8121a3a6abdea?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69882ba20f6f7e7a2ce36c34?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/698823598ca8121a3a6ab254?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69881bd10f6f7e7a2ce361e7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698814a90f6f7e7a2ce3458e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
@@ -124,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6987b06c8da7a6120462c799?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Feb 07 |
 | **[MacNeal Cardiopulmonary Rehab](https://www.loyolamedicine.org/services/heart-and-vascular/heart-vascular-support-services/cardiac)** | **[Cardiopulmonary Rehab Unpaid Internship](https://jobright.ai/jobs/info/698889438ca8121a3a6b1394?utm_campaign=1057&utm_source=git)** | Berwyn, IL | On Site | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/698792ee0f6f7e7a2ce2cfcb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Atlanta, Summer 2026)](https://jobright.ai/jobs/info/6916b29a286ccf0a15138ba4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Feb 07 |
 | **[Maricopa Community Colleges](https://www.maricopa.edu/)** | **[Accounting Faculty (One-Year-Only)](https://jobright.ai/jobs/info/69879eed8ca8121a3a6a23eb?utm_campaign=1057&utm_source=git)** | Paradise Valley, NV | Hybrid | Feb 07 |
 | ↳ | **[Engineering Electronics Faculty (One Year Only)](https://jobright.ai/jobs/info/69879e468ca8121a3a6a2324?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 07 |
