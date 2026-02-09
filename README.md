@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Feb 09 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Community Investment Student Internship/Co-Op](https://jobright.ai/jobs/info/6989c2774db8972cecfefdd1?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 09 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6989bea54db8972cecfefc03?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 09 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4db4f7279451d6a0383d3?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Feb 09 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/6989bc0047434001cc67ebe1?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 09 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Nutrition Dietetic Internship](https://jobright.ai/jobs/info/69179ab415b41563671797df?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/6989a04f47434001cc67c231?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | ↳ | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899fbf47434001cc67c1ad?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Feb 09 |
 | ↳ | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899f3b0f6f7e7a2ce49f2b?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Feb 09 |
@@ -65,8 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899b248ca8121a3a6be5c0?utm_campaign=1057&utm_source=git)** | Norwell, MA | On Site | Feb 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69899abc8ca8121a3a6be588?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[January 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899a528ca8121a3a6be55d?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Feb 09 |
-| **[Ascendis Pharma](http://ascendispharma.com)** | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b9f47434001cc67b7b0?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Feb 08 |
-| ↳ | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b438ca8121a3a6bde20?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
+| **[Ascendis Pharma](http://ascendispharma.com)** | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b438ca8121a3a6bde20?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 08 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69897d5a0f6f7e7a2ce4925b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 08 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69897c3c0f6f7e7a2ce49230?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 08 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Monarch Behavioral Health, PLLC - San Antonio Tx](https://monarchbehavioral.net)** | **[Internship - Pre and Post Doctoral](https://jobright.ai/jobs/info/698941be8da7a612046421f9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6989219a0f6f7e7a2ce42671?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 08 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/69890ff38ca8121a3a6b6c31?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
-| ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69890c798da7a6120463fe36?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f79c0f6f7e7a2ce41296?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[Paid Education Intern](https://jobright.ai/jobs/info/6988f7830f6f7e7a2ce4128c?utm_campaign=1057&utm_source=git)** | Boothbay, ME | On Site | Feb 08 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CHSS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f7558ca8121a3a6b5852?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6988895f8ca8121a3a6b13a2?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 08 |
 | **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69886d310f6f7e7a2ce3b595?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
-| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69886cde0f6f7e7a2ce3b575?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 07 |
-| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Feb 07 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Learning & Development Intern](https://jobright.ai/jobs/info/698765d88da7a61204627967?utm_campaign=1057&utm_source=git)** | Round Lake Beach, IL | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696a76165fc8624185397718?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
