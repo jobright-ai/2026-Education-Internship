@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
+| **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698a3cd00f6f7e7a2ce54dd5?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Conservation Education Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698a3ac64db8972cecff79cf?utm_campaign=1057&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 09 |
+| **[Grafton Integrated Health Network](https://www.grafton.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/698a3a2347434001cc686e7b?utm_campaign=1057&utm_source=git)** | Richmond, Virginia, United States | On Site | Feb 09 |
 | **[Children's Health](https://www.childrens.com/)** | **[Summer 2026 Undergraduate Internship](https://jobright.ai/jobs/info/698a2f0e0f6f7e7a2ce543d5?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
 | **[MAREK](http://marekbros.com)** | **[Building Futures: Internship for Aspiring PM's and Estimators](https://jobright.ai/jobs/info/698a2ead0f6f7e7a2ce543ae?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Feb 09 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelors - Denison University](https://jobright.ai/jobs/info/698a2ce44db8972cecff6fdf?utm_campaign=1057&utm_source=git)** | GRANT MEDICAL CENTER | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/698810f28da7a612046317ce?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e3d0f6f7e7a2ce34151?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69880e190f6f7e7a2ce34140?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6987cbe18da7a6120462d699?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Feb 07 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 07 |
-| **[University of Tampa](http://www.ut.edu)** | **[Biology Laboratory Coordinator & Lecturer](https://jobright.ai/jobs/info/6987b4068ca8121a3a6a3e57?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
-| **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6987b06c8da7a6120462c799?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
