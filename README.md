@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[ESL Literacy Teaching Assistant Intern](https://jobright.ai/jobs/info/698590f1348f733a5c3a0d37?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Feb 08 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69896f1147434001cc67a570?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 08 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Training and Professional Development Intern](https://jobright.ai/jobs/info/698966b60f6f7e7a2ce46f01?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 08 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6989588a47434001cc677a23?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 08 |
 | **[Quindar](https://www.quindar.space/)** | **[People Ops Learning & Communications - Summer Intern 2026](https://jobright.ai/jobs/info/6989450f0f6f7e7a2ce448d4?utm_campaign=1057&utm_source=git)** | Arvada, CO | On Site | Feb 08 |
 | **[Monarch Behavioral Health, PLLC - San Antonio Tx](https://monarchbehavioral.net)** | **[Internship - Pre and Post Doctoral](https://jobright.ai/jobs/info/698941be8da7a612046421f9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda83aa125e75c422addd9?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda57f44d32141e0bf9e00?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Feb 08 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Feb 08 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Summer 2026 Community Health Outreach Internships Cancer Center](https://jobright.ai/jobs/info/698969c50f6f7e7a2ce47408?utm_campaign=1057&utm_source=git)** | Kansas City, KS | On Site | Feb 08 |
 | **[Rowland Hall](https://www.rowlandhall.org/)** | **[Horizons @ Rowland Hall - Intern (Summer 2026)](https://jobright.ai/jobs/info/69883fb88da7a612046361a1?utm_campaign=1057&utm_source=git)** | McCarthey - Lower School - Salt Lake CIty, UT 84108 | On Site | Feb 07 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Perioperative OR Nurse Internship-Summer-Cohort 2026](https://jobright.ai/jobs/info/698838d48ca8121a3a6ac98c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[International Student Adv I](https://jobright.ai/jobs/info/698823598ca8121a3a6ab254?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 07 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Learning & Development Intern](https://jobright.ai/jobs/info/698765d88da7a61204627967?utm_campaign=1057&utm_source=git)** | Round Lake Beach, IL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696a76165fc8624185397718?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696712196f782b4e8d52c3e3?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6987543d8da7a61204626dbb?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b51395fc86241853ab23d?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 07 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 07 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
