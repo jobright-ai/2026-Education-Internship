@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Training Internship](https://jobright.ai/jobs/info/6989d37f4db8972cecff0901?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 09 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Feb 09 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Community Investment Student Internship/Co-Op](https://jobright.ai/jobs/info/6989c2774db8972cecfefdd1?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 09 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/6989bea54db8972cecfefc03?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 09 |
@@ -103,8 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Gotion Inc.](https://www.gotion.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69710a6d333b6343a14d8776?utm_campaign=1057&utm_source=git)** | Manteno, Illinois | On Site | Feb 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69889afe8da7a6120463b57e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69889a9c8ca8121a3a6b2504?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[House Parent for International Students](https://jobright.ai/jobs/info/6988975f8da7a6120463b43d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
-| ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/698897438da7a6120463b41f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/698897438da7a6120463b41f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | ↳ | **[School Psychologist Intern SY 26/27 - Student Services (11792)](https://jobright.ai/jobs/info/698896f78da7a6120463b3c2?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Feb 08 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Feb 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director, International Students and Scholar Services](https://jobright.ai/jobs/info/698896a68ca8121a3a6b2313?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 08 |
@@ -113,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691aaa4615b4156367189b68?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Feb 08 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6988895f8ca8121a3a6b13a2?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 08 |
-| **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
+| **[ATI](https://www.atimaterials.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/68c332ba63829b0a8a500ba7?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[FACULTY DIVERSITY INTERNSHIP PROGRAM - BIOLOGY (ANATOMY AND PHYSIOLOGY)](https://jobright.ai/jobs/info/69886d310f6f7e7a2ce3b595?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 08 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Feb 08 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 08 |
