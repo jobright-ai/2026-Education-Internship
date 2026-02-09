@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendis Pharma](http://ascendispharma.com)** | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b9f47434001cc67b7b0?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Feb 08 |
+| ↳ | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b438ca8121a3a6bde20?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 08 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69897d5a0f6f7e7a2ce4925b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 08 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69897c3c0f6f7e7a2ce49230?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/698978820f6f7e7a2ce48e0f?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/695fe4857ebc25398eb5bc80?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698742670f6f7e7a2ce28aaf?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Feb 07 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
