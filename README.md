@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/6989a04f47434001cc67c231?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 09 |
+| ↳ | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899fbf47434001cc67c1ad?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Feb 09 |
+| ↳ | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899f3b0f6f7e7a2ce49f2b?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Feb 09 |
+| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Commercial Middle Market Banking Intern](https://jobright.ai/jobs/info/69899f1a47434001cc67c130?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Feb 09 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69899b578ca8121a3a6be5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
+| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899b248ca8121a3a6be5c0?utm_campaign=1057&utm_source=git)** | Norwell, MA | On Site | Feb 09 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69899abc8ca8121a3a6be588?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
+| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[January 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69899a528ca8121a3a6be55d?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Feb 09 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b9f47434001cc67b7b0?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Feb 08 |
 | ↳ | **[Medical Content and Scientific Strategy - Summer Intern](https://jobright.ai/jobs/info/69898b438ca8121a3a6bde20?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 08 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 08 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/698046d5ce48107c05447893?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Feb 08 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6988ce9a0f6f7e7a2ce3fc42?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Feb 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c8170f6f7e7a2ce3fb0b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
-| ↳ | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/6988c78c8da7a6120463d3b2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/696259db2cbf4e44756c5b5d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Feb 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Feb 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Feb 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Learning & Development Intern](https://jobright.ai/jobs/info/698765d88da7a61204627967?utm_campaign=1057&utm_source=git)** | Round Lake Beach, IL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696a76165fc8624185397718?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696712196f782b4e8d52c3e3?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 07 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/69874f040f6f7e7a2ce29827?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b5798350cf4380312bbbd?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69844a358da7a612045e6523?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
