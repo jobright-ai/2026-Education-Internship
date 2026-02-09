@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Extensive Support Needs (Moderate/Severe) [INTERN TEACHERS ONLY]](https://jobright.ai/jobs/info/6989219a0f6f7e7a2ce42671?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 08 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/69890ff38ca8121a3a6b6c31?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
 | ↳ | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69890c798da7a6120463fe36?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 08 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/6988f79c0f6f7e7a2ce41296?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Bootcamp Associate](https://jobright.ai/jobs/info/69873d188da7a61204625467?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 07 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b4c635fc86241853aa47c?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Feb 07 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 07 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/6987307d0f6f7e7a2ce26e2f?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
