@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698aee42c5761b521a9a4bd3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 10 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Food Systems Internship: Farm to Early Care and Education](https://jobright.ai/jobs/info/698af915c5761b521a9a572d?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698af21fc5761b521a9a4fce?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 10 |
+| ↳ | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- 12W/12E/11W)](https://jobright.ai/jobs/info/698aee42c5761b521a9a4bd3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 10 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Feb 09 |
 | **[Bluecrest Partners](bluecrestpartners.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/698ade8dc5761b521a9a40cc?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Feb 09 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student - Intern Highschool](https://jobright.ai/jobs/info/698ad33b4db8972cec00524d?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 09 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Pasadena](https://jobright.ai/jobs/info/698a8dd00f6f7e7a2ce5c040?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Feb 09 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, CAMBA Learning to Work (Franklin K Lane Young Adult Borough Center)](https://jobright.ai/jobs/info/698a6a704db8972cecffb812?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Feb 09 |
 | **[Sentara Health](http://www.sentara.com)** | **[Student Nurse Internship Program (S.N.I.P.) - Summer Internship - Sentara Leigh Hospital](https://jobright.ai/jobs/info/698a6920c5761b521a999ed5?utm_campaign=1057&utm_source=git)** | Sentara Leigh Hospital | On Site | Feb 09 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/698a881d0f6f7e7a2ce5baf6?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 09 |
-| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/698a86d44db8972cecffe1dc?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 09 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/698a86d44db8972cecffe1dc?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 09 |
+| ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/698a881d0f6f7e7a2ce5baf6?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 09 |
 | ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/698a87f5c5761b521a99cc95?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 09 |
 | **[VCU Massey Comprehensive Cancer Center](https://www.masseycancercenter.org)** | **[Clinical Trials Office Summer Internship](https://jobright.ai/jobs/info/698a66f7c5761b521a999a04?utm_campaign=1057&utm_source=git)** | Greater Richmond Region | On Site | Feb 09 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69434e2394730b7398765c71?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAREK](http://marekbros.com)** | **[Building Futures: Internship for Aspiring PM's and Estimators](https://jobright.ai/jobs/info/698a24d947434001cc685f60?utm_campaign=1057&utm_source=git)** | TX, United States | On Site | Feb 09 |
 | **[GWL Realty Advisors](http://www.gwlrealtyadvisors.com/)** | **[Development Intern Summer Student 2026](https://jobright.ai/jobs/info/698a3fc74db8972cecff7f25?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | On Site | Feb 09 |
 | **[Grafton Integrated Health Network](https://www.grafton.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/698a45bf4db8972cecff855d?utm_campaign=1057&utm_source=git)** | Winchester, Virginia, United States | On Site | Feb 09 |
-| **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Masters Level Mental Health Intern](https://jobright.ai/jobs/info/698a3eaf0f6f7e7a2ce54fb8?utm_campaign=1057&utm_source=git)** | Hatboro, PA | On Site | Feb 09 |
-| **[MBTA](http://mbta.com)** | **[Workforce Modernization Intern (OPSS) Undergraduate Students](https://jobright.ai/jobs/info/698a1dc247434001cc6856e3?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
