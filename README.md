@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WellPower](https://www.wellpower.org/)** | **[ASL Student Intern](https://jobright.ai/jobs/info/698bac5a06d9b0622495d5c5?utm_campaign=1057&utm_source=git)** | Denver | On Site | Feb 10 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[MSA Summer Graduate Programming Intern](https://jobright.ai/jobs/info/698bac1006d9b0622495d561?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-BPAC-001-Environmental Education Graduate Intern](https://jobright.ai/jobs/info/698b7bf506d9b062249597fd?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Feb 10 |
+| **[Volo Sports](https://www.volosports.com)** | **[Spring 2026: Youth Sports Operations/Coaching Internship](https://jobright.ai/jobs/info/698ba60b0f6f7e7a2ce7203c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 10 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CMSO Global Training & Development Intern (2026 Summer Internship)](https://jobright.ai/jobs/info/698bae530f6f7e7a2ce729f2?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 10 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Sport Development Intern](https://jobright.ai/jobs/info/698b85adc5761b521a9b12f8?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/698b7be6c5761b521a9b01bf?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69434e2394730b7398765c71?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Feb 09 |
 | **[California Polytechnic State University-San Luis Obispo](https://www.calpoly.edu/)** | **[Post-Doctoral Teaching Scholar- Industrial Engineering (AY 26/27)](https://jobright.ai/jobs/info/698a87ee4db8972cecffe260?utm_campaign=1057&utm_source=git)** | SLO Area | On Site | Feb 09 |
 | **[The Hartford](http://www.thehartford.com)** | **[High School Internship Program, Stability Operations Intern](https://jobright.ai/jobs/info/698a62aac5761b521a998ff5?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Feb 09 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Retention](https://jobright.ai/jobs/info/698a62a40f6f7e7a2ce583d4?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Feb 09 |
-| **[UNLV School of Public Health](http://unlv.edu/publichealth)** | **[Internship Specialist, UNLV's School of Public Health](https://jobright.ai/jobs/info/698b39304db8972cec00b2f1?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Feb 09 |
-| **[AcariaHealth](https://www.acariahealth.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/698a584b4db8972cecff9818?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Learning and Development (8 Months)](https://jobright.ai/jobs/info/698a57bc4db8972cecff9761?utm_campaign=1057&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
