@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/6953778b5bb7de448ef68d22?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Feb 10 |
+| **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Nurse Practitioner - General Internal Medicine](https://jobright.ai/jobs/info/698b70660f6f7e7a2ce6da9d?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 10 |
 | **[Boston University](https://www.bu.edu/antiracism-center/)** | **[ASSISTANT DIRECTOR FOR INTERNSHIP PROGRAM, Center for Career Development](https://jobright.ai/jobs/info/698b65d3c5761b521a9adfc0?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - North American Early Careers](https://jobright.ai/jobs/info/6986801d8da7a61204614f31?utm_campaign=1057&utm_source=git)** | Lincolnshire, IL | Hybrid | Feb 10 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/698b5ca50f6f7e7a2ce6bb09?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[High School Internship Program, Customer Experience Enablement Intern](https://jobright.ai/jobs/info/698a72e0c5761b521a99ab4f?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Feb 09 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Psychometry Intern - Summer 2026 Internship (Psychological Consultation Center)](https://jobright.ai/jobs/info/698a6d420f6f7e7a2ce59517?utm_campaign=1057&utm_source=git)** | Byron Center, MI | On Site | Feb 09 |
 | **[AcariaHealth](https://www.acariahealth.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/698a4a074db8972cecff892c?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Feb 09 |
-| **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship](https://jobright.ai/jobs/info/698a6841c5761b521a999cce?utm_campaign=1057&utm_source=git)** | 15000 Ridge Road, Plymouth, MI, 48170, US | On Site | Feb 09 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Resident Activities](https://jobright.ai/jobs/info/698a474247434001cc687d3d?utm_campaign=1057&utm_source=git)** | Carmel, IN | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
