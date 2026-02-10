@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/698ade8dc5761b521a9a40cc?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Feb 09 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student - Intern Highschool](https://jobright.ai/jobs/info/698ad33b4db8972cec00524d?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 09 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Student Nurse Summer Paid Internship](https://jobright.ai/jobs/info/698ab93ac5761b521a9a0ab9?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Feb 09 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Intern: School Garden Nutrition Program](https://jobright.ai/jobs/info/698ab66e4db8972cec001ca2?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Technology & Innovation Intern (T&I, Summer 2026)](https://jobright.ai/jobs/info/698ab2b7c5761b521a9a03b0?utm_campaign=1057&utm_source=git)** | Waltham, MA | Remote | Feb 09 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - Patient and Family Experience](https://jobright.ai/jobs/info/698a93fb0f6f7e7a2ce5c6cc?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 09 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Intern- Material Planning](https://jobright.ai/jobs/info/698a9220c5761b521a99d606?utm_campaign=1057&utm_source=git)** | Renton, WA | On Site | Feb 09 |
 | **[BankSouth](https://banksouth.com)** | **[Savannah Region Intern](https://jobright.ai/jobs/info/698a8b07c5761b521a99cee8?utm_campaign=1057&utm_source=git)** | BankSouth Savannah - Johnson Square - Savannah, GA 31401 | On Site | Feb 09 |
-| **[TSAOG Orthopaedics & Spine](http://tsaog.com)** | **[Physical Therapy Technician - Internship - FULL TIME](https://jobright.ai/jobs/info/698ab96a0f6f7e7a2ce5fabc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 09 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/698a8a3e4db8972cecffe470?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 09 |
 | ↳ | **[Summer Camp Intern, Sierra Madre/Arcadia](https://jobright.ai/jobs/info/698a89adc5761b521a99cd64?utm_campaign=1057&utm_source=git)** | Arcadia, CA | On Site | Feb 09 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Information Sciences, Digital & AI Enablement](https://jobright.ai/jobs/info/698a8987c5761b521a99cd4f?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Feb 09 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[The Frick Collection](http://www.frick.org/)** | **[Ayesha Bulchandani Post-Baccalaureate Education Internship](https://jobright.ai/jobs/info/698aaa69c5761b521a99f173?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Feb 09 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Training and Development Intern](https://jobright.ai/jobs/info/698a76f94db8972cecffca48?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Feb 09 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Tommies Together Student Director Internship / Civic Engagement and Voter Education + Advocacy (CEVEA)](https://jobright.ai/jobs/info/698a93664db8972cecffed94?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Feb 09 |
-| **[Microsoft](https://www.microsoft.com)** | **[Content Program Management Internship Opportunity](https://jobright.ai/jobs/info/698a98dd4db8972cecfff406?utm_campaign=1057&utm_source=git)** | United States, Multiple Locations, Multiple Locations | Remote | Feb 09 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/698a735d4db8972cecffc4b8?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 09 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Clinical Development](https://jobright.ai/jobs/info/69597d049f1b381eb2723d85?utm_campaign=1057&utm_source=git)** | Newton, MA | On Site | Feb 09 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Claremont](https://jobright.ai/jobs/info/698a8d454db8972cecffe7bc?utm_campaign=1057&utm_source=git)** | Claremont, CA | On Site | Feb 09 |
@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Grafton Integrated Health Network](https://www.grafton.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/698a42ba4db8972cecff8247?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Learning and Development (8 Months)](https://jobright.ai/jobs/info/698a6d900f6f7e7a2ce5959d?utm_campaign=1057&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
 | **[Grafton Integrated Health Network](https://www.grafton.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/698a40610f6f7e7a2ce551b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | On Site | Feb 09 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Postgraduate Intern - Postgraduate Intern - Urology PA/NP (Part-time)](https://jobright.ai/jobs/info/698a4e134db8972cecff8cc0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Principal, Nord Anglia International School, New York](https://jobright.ai/jobs/info/698a5e33c5761b521a998609?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 09 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Summer Student Intern](https://jobright.ai/jobs/info/698a3cd00f6f7e7a2ce54dd5?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Engineering](http://american-ea.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6983d1cf01214b4cdacbdde8?utm_campaign=1057&utm_source=git)** | Chesapeake, VA | On Site | Feb 09 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College Federal Work Study Student- Student Activites Intern](https://jobright.ai/jobs/info/698a8c984db8972cecffe6f5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | ↳ | **[Harold Washington College Federal Work Study Student- Workforce Solutions Intern](https://jobright.ai/jobs/info/698a85b1c5761b521a99c4be?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
-| **[American Engineering](http://american-ea.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/697a6573f6fc293b0a2c34e4?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
