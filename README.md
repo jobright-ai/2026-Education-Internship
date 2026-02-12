@@ -62,10 +62,13 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698e1d290f6f7e7a2cea2a84?utm_campaign=1057&utm_source=git)** | Atlanta Support Center | On Site | Feb 12 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- Lafayette](https://jobright.ai/jobs/info/698e1ce3f64d441a16505656?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Feb 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/698e1a90f64d441a165053e2?utm_campaign=1057&utm_source=git)** | Brookline-MA | On Site | Feb 12 |
+| **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Lab Assistant, Computer Science - Spring 2026](https://jobright.ai/jobs/info/698e37bbf64d441a165070c3?utm_campaign=1057&utm_source=git)** | Takoma Park, MD | On Site | Feb 12 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/6984a6a70f6f7e7a2cdf1cbf?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Feb 12 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- Monroe](https://jobright.ai/jobs/info/698e24ec78b4502f12a4ef16?utm_campaign=1057&utm_source=git)** | Monroe, LA | On Site | Feb 12 |
+| ↳ | **[STEM Pathfinder Summer Program Intern- River Region](https://jobright.ai/jobs/info/698e349c0f6f7e7a2cea4231?utm_campaign=1057&utm_source=git)** | Luling, LA | On Site | Feb 12 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Feb 12 |
+| **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- New Orleans](https://jobright.ai/jobs/info/698e30d80f6f7e7a2cea404e?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Feb 12 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, CAMBA Learning to Work (Franklin K Lane Young Adult Borough Center)](https://jobright.ai/jobs/info/698a6a704db8972cecffb812?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Feb 12 |
 | **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/690130b04539ea1f2141daf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 12 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/698df8c4f64d441a1650347c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 12 |
@@ -108,18 +111,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/698d9e2278b4502f12a4561c?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/698db0a6f64d441a164fda39?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Sierra Madre/Arcadia](https://jobright.ai/jobs/info/698daff8f64d441a164fd94a?utm_campaign=1057&utm_source=git)** | Arcadia, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/698da11a78b4502f12a4596a?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/698da90ef64d441a164fd101?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/698da11a78b4502f12a4596a?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/698d96b10f6f7e7a2ce988a8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/698d95980f6f7e7a2ce9875c?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Menlo Park](https://jobright.ai/jobs/info/698d949b0f6f7e7a2ce9864f?utm_campaign=1057&utm_source=git)** | Menlo Park, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698da6f678b4502f12a460a3?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/698d95980f6f7e7a2ce9875c?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Pasadena](https://jobright.ai/jobs/info/698d9ce10f6f7e7a2ce98f92?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/698da2980f6f7e7a2ce993ca?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, San Jose Almaden](https://jobright.ai/jobs/info/698d9f0d0f6f7e7a2ce99186?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, San Mateo](https://jobright.ai/jobs/info/698d9c4b78b4502f12a453b1?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/698d9f1a78b4502f12a45724?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/698da2980f6f7e7a2ce993ca?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/698daa2778b4502f12a46473?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/698d9f1a78b4502f12a45724?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, San Mateo](https://jobright.ai/jobs/info/698d9c4b78b4502f12a453b1?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Feb 11 |
 | **[Packsize](https://www.packsize.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69717a3751f726477183d61d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
 | **[Sonoma County Office of Education](http://www.scoe.org)** | **[Program Coordinator - Be A Teacher Intern Program](https://jobright.ai/jobs/info/698d7475f64d441a164f8a18?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Feb 11 |
 | **[Redwire](https://redwirespace.com)** | **[Program Management SkillBridge Intern](https://jobright.ai/jobs/info/698d51ea78b4502f12a3f92f?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Feb 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metrolina Greenhouses INC](http://www.metrolinagreenhouses.com/our-story)** | **[Horticulture Summer Intern (Huntersville, NC) - June - Aug 2026](https://jobright.ai/jobs/info/698d01d80f6f7e7a2ce8ae04?utm_campaign=1057&utm_source=git)** | Huntersville, NC | On Site | Feb 11 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Education Summer 2026 Intern - Washington, DC](https://jobright.ai/jobs/info/698d1a0af64d441a164f0446?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Training & Process Improvement Intern](https://jobright.ai/jobs/info/698cf6f50f6f7e7a2ce8a3de?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 11 |
-| **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 11 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Training, Communications and Multimedia Design)](https://jobright.ai/jobs/info/698d462f78b4502f12a3e19e?utm_campaign=1057&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 11 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Program Operations Intern - Principled Business](https://jobright.ai/jobs/info/698d12400f6f7e7a2ce8c62f?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
