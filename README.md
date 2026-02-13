@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Asst. Research Professor & Associate Director](https://jobright.ai/jobs/info/6972e84c98522904c697ba9a?utm_campaign=1057&utm_source=git)** | Lawrence, KS | Hybrid | Feb 13 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Intern](https://jobright.ai/jobs/info/698f0fa30cc8ea15f1d963bf?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op](https://jobright.ai/jobs/info/698f20e10cc8ea15f1d9863a?utm_campaign=1057&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Feb 13 |
+| ↳ | **[Commercial Banking Intern / Co-Op](https://jobright.ai/jobs/info/698f25600cc8ea15f1d98eda?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/69537070f1f8465b79eac143?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, United States | On Site | Feb 13 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/698f0d280cc8ea15f1d96090?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 12 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698f248c0f6f7e7a2ceb3413?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 12 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Health & Wellness Summer Intern](https://jobright.ai/jobs/info/69730b8c206da320f49d1031?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Feb 12 |
 | **[Musotic](https://www.musotic.com)** | **[Unpaid Remote Internship Opportunity – Educational Training Program (Music Social Media Platform Focus)](https://jobright.ai/jobs/info/698f17db0cc8ea15f1d9732c?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Behavioral Health Internship](https://jobright.ai/jobs/info/6972d33698522904c697a4f8?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Hybrid | Feb 12 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student - Intern High School](https://jobright.ai/jobs/info/698ec13af64d441a16511180?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Feb 12 |
@@ -99,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Chicago - Beverly](https://jobright.ai/jobs/info/698e9529f64d441a1650e07c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/698e9e1e78b4502f12a57719?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | ↳ | **[Summer Camp Intern, Winnetka](https://jobright.ai/jobs/info/698eade978b4502f12a58500?utm_campaign=1057&utm_source=git)** | Winnetka, IL | On Site | Feb 12 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/698e9cb9f64d441a1650e5d9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | ↳ | **[Summer Camp Intern, Chicago - Wicker Park](https://jobright.ai/jobs/info/698ea397f64d441a1650ec0a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
+| ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/698e9cb9f64d441a1650e5d9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/698e99bd78b4502f12a57364?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Feb 12 |
 | ↳ | **[Summer Camp Intern, Glenview](https://jobright.ai/jobs/info/698eaa04f64d441a1650f1be?utm_campaign=1057&utm_source=git)** | Glenview, IL | On Site | Feb 12 |
 | **[Department of Behavioral Health and Developmental Services](http://www.dbhds.virginia.gov/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/698ea05ff64d441a1650e8f1?utm_campaign=1057&utm_source=git)** | Roanoke County, VA | On Site | Feb 12 |
@@ -125,8 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 12 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Echocardiography](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Feb 12 |
 | **[American Management Association](http://www.amanet.org/)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/698eb30178b4502f12a58d02?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/698e8f37f64d441a1650d918?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 12 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Sonography](https://jobright.ai/jobs/info/6972e5ce1d55d64a2053495d?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/698e88240f6f7e7a2ceaa835?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 12 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Bilingual Finance Intern - Nespresso](https://jobright.ai/jobs/info/69852c260f6f7e7a2cdfb941?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Kennesaw State University - Students)](https://jobright.ai/jobs/info/698e72f9f64d441a1650b68d?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/698e7926f64d441a1650bda9?utm_campaign=1057&utm_source=git)** | Evanston, IL, USA | On Site | Feb 12 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern-Shreveport](https://jobright.ai/jobs/info/698e228978b4502f12a4eded?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Feb 12 |
 | **[Inspire](https://inspirebrands.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698e1d290f6f7e7a2cea2a84?utm_campaign=1057&utm_source=git)** | Atlanta Support Center | On Site | Feb 12 |
-| **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- Lafayette](https://jobright.ai/jobs/info/698e1ce3f64d441a16505656?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Feb 12 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/698e1a90f64d441a165053e2?utm_campaign=1057&utm_source=git)** | Brookline-MA | On Site | Feb 12 |
-| **[National Children's Center (NCC)](https://www.nccinc.org)** | **[Catalyst Internship, Nursing - Summer 2026](https://jobright.ai/jobs/info/698a88bf0f6f7e7a2ce5bb42?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 12 |
-| **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Lab Assistant, Computer Science - Spring 2026](https://jobright.ai/jobs/info/698e37bbf64d441a165070c3?utm_campaign=1057&utm_source=git)** | Takoma Park, MD | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
