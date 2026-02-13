@@ -57,14 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/695fe4857ebc25398eb5bc80?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Feb 12 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6967ed34f25a380066964432?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Feb 12 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Echocardiography](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Feb 12 |
+| ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/694363d250bbaf7650554afb?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Feb 12 |
 | **[Polk Mechanical Company](http://polkmechanical.com)** | **[Polk Internship Program](https://jobright.ai/jobs/info/698e3de378b4502f12a5089a?utm_campaign=1057&utm_source=git)** | Grand Prairie, TX | On Site | Feb 12 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/696712196f782b4e8d52c3e3?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Feb 12 |
+| **[California Ocean Protection Council](http://www.opc.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/698e616178b4502f12a5296b?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Feb 12 |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[GxP Jr. Instructional Designer Intern](https://jobright.ai/jobs/info/6966e967a112b4026614f97b?utm_campaign=1057&utm_source=git)** | Bridgewater, New Jersey, United States | On Site | Feb 12 |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Trading Internship](https://jobright.ai/jobs/info/698e5f6a0f6f7e7a2cea65ba?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 12 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6959f00e9f1b381eb272a85e?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Feb 12 |
+| **[Sioux Falls School District](http://www.sf.k12.sd.us)** | **[CTE Academy Administrator Intern - 1.0 FTE at the Career & Technical Education Academy](https://jobright.ai/jobs/info/698e56c20f6f7e7a2cea5dee?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Feb 12 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern-Shreveport](https://jobright.ai/jobs/info/698e228978b4502f12a4eded?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Feb 12 |
 | **[Inspire](https://inspirebrands.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/698e1d290f6f7e7a2cea2a84?utm_campaign=1057&utm_source=git)** | Atlanta Support Center | On Site | Feb 12 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- Lafayette](https://jobright.ai/jobs/info/698e1ce3f64d441a16505656?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Feb 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/698e1a90f64d441a165053e2?utm_campaign=1057&utm_source=git)** | Brookline-MA | On Site | Feb 12 |
 | **[National Children's Center (NCC)](https://www.nccinc.org)** | **[Catalyst Internship, Nursing - Summer 2026](https://jobright.ai/jobs/info/698a88bf0f6f7e7a2ce5bb42?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 12 |
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Lab Assistant, Computer Science - Spring 2026](https://jobright.ai/jobs/info/698e37bbf64d441a165070c3?utm_campaign=1057&utm_source=git)** | Takoma Park, MD | On Site | Feb 12 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Spencer, IN)](https://jobright.ai/jobs/info/698e533d78b4502f12a51aa2?utm_campaign=1057&utm_source=git)** | Spencer, IN | On Site | Feb 12 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/6984a6a70f6f7e7a2cdf1cbf?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Feb 12 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6956017ef1f8465b79ecf366?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Feb 12 |
@@ -97,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Business Learning & Development College Internship – Airport Access & Business Opportunity - Denver International Airport (6 Months)](https://jobright.ai/jobs/info/698da1b10f6f7e7a2ce9929c?utm_campaign=1057&utm_source=git)** | Denver International Airport | Hybrid | Feb 11 |
 | ↳ | **[Airport Accessibility College Intern- Culture & Strategy: Airport Access & Business Opportunity - Denver International Airport](https://jobright.ai/jobs/info/698daf1a78b4502f12a46d31?utm_campaign=1057&utm_source=git)** | Denver International Airport | Hybrid | Feb 11 |
 | ↳ | **[Business Operations High School Internship – Center of Equity and Excellence in Aviation - Denver International Airport (10 weeks)](https://jobright.ai/jobs/info/698db3ff78b4502f12a472ed?utm_campaign=1057&utm_source=git)** | Denver International Airport | Hybrid | Feb 11 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, North San Jose/Santa Clara](https://jobright.ai/jobs/info/698dc01f78b4502f12a47f91?utm_campaign=1057&utm_source=git)** | Santa Clara, CA, USA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/698dcc5ff64d441a164ffe0e?utm_campaign=1057&utm_source=git)** | Saratoga, CA, USA | On Site | Feb 11 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/698dcc5ff64d441a164ffe0e?utm_campaign=1057&utm_source=git)** | Saratoga, CA, USA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, North San Jose/Santa Clara](https://jobright.ai/jobs/info/698dc01f78b4502f12a47f91?utm_campaign=1057&utm_source=git)** | Santa Clara, CA, USA | On Site | Feb 11 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/698da195f64d441a164fc7b2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, South Pasadena/San Marino](https://jobright.ai/jobs/info/698d9e6378b4502f12a45674?utm_campaign=1057&utm_source=git)** | South Pasadena, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Thousand Oaks/Westlake Village](https://jobright.ai/jobs/info/698da8ca0f6f7e7a2ce99b83?utm_campaign=1057&utm_source=git)** | Thousand Oaks, CA | On Site | Feb 11 |
@@ -114,18 +124,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/698d9e2278b4502f12a4561c?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Los Altos](https://jobright.ai/jobs/info/698db0a6f64d441a164fda39?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Sierra Madre/Arcadia](https://jobright.ai/jobs/info/698daff8f64d441a164fd94a?utm_campaign=1057&utm_source=git)** | Arcadia, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/698da90ef64d441a164fd101?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/698da11a78b4502f12a4596a?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/698da90ef64d441a164fd101?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Menlo Park](https://jobright.ai/jobs/info/698d949b0f6f7e7a2ce9864f?utm_campaign=1057&utm_source=git)** | Menlo Park, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698da6f678b4502f12a460a3?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/698d95980f6f7e7a2ce9875c?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/698d96b10f6f7e7a2ce988a8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Palo Alto](https://jobright.ai/jobs/info/698da6f678b4502f12a460a3?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, Menlo Park](https://jobright.ai/jobs/info/698d949b0f6f7e7a2ce9864f?utm_campaign=1057&utm_source=git)** | Menlo Park, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Pasadena](https://jobright.ai/jobs/info/698d9ce10f6f7e7a2ce98f92?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, San Jose Almaden](https://jobright.ai/jobs/info/698d9f0d0f6f7e7a2ce99186?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/698da2980f6f7e7a2ce993ca?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
-| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/698daa2778b4502f12a46473?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, San Jose Almaden](https://jobright.ai/jobs/info/698d9f0d0f6f7e7a2ce99186?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, San Mateo](https://jobright.ai/jobs/info/698d9c4b78b4502f12a453b1?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Feb 11 |
 | ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/698d9f1a78b4502f12a45724?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
+| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/698daa2778b4502f12a46473?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | Feb 11 |
 | **[Packsize](https://www.packsize.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69717a3751f726477183d61d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
 | **[Sonoma County Office of Education](http://www.scoe.org)** | **[Program Coordinator - Be A Teacher Intern Program](https://jobright.ai/jobs/info/698d7475f64d441a164f8a18?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Feb 11 |
 | **[Redwire](https://redwirespace.com)** | **[Program Management SkillBridge Intern](https://jobright.ai/jobs/info/698d51ea78b4502f12a3f92f?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Feb 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Inventory Management Systems](https://jobright.ai/jobs/info/6971287f587dfa0bb55eb144?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Feb 11 |
 | **[Metrolinx](http://www.metrolinx.com/)** | **[Co-op/Intern Student, Risk Advisory](https://jobright.ai/jobs/info/698d66f80f6f7e7a2ce94227?utm_campaign=1057&utm_source=git)** | Canada | Remote | Feb 11 |
 | **[Liberty County Georgia Government](http://www.libertycountyga.gov)** | **[Summer Youth Intern](https://jobright.ai/jobs/info/698d65730f6f7e7a2ce94122?utm_campaign=1057&utm_source=git)** | Liberty County | On Site | Feb 11 |
-| **[Alternative Wellness Services](https://awsmaine.com)** | **[Outpatient Therapy Internship 2026-2027 - Biddeford & Portland](https://jobright.ai/jobs/info/698d421ef64d441a164f4668?utm_campaign=1057&utm_source=git)** | Biddeford,ME,US | On Site | Feb 11 |
-| ↳ | **[Behavioral Health Homes Internship 2026-2027 - Biddeford & Portland](https://jobright.ai/jobs/info/698d518b0f6f7e7a2ce9294b?utm_campaign=1057&utm_source=git)** | Biddeford,ME,US | On Site | Feb 11 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Intern -  Learning & Technology Adoption (LTA Summer 2026)](https://jobright.ai/jobs/info/698d654a78b4502f12a40957?utm_campaign=1057&utm_source=git)** | US-NY-New York | On Site | Feb 11 |
-| **[Banyan Treatment Centers](https://www.banyantreatmentcenter.com/)** | **[Student Intern](https://jobright.ai/jobs/info/698d3617f64d441a164f3330?utm_campaign=1057&utm_source=git)** | Baldwinville, MA | On Site | Feb 11 |
-| **[University of Tampa](http://www.ut.edu)** | **[Biology Laboratory Coordinator & Lecturer/Instructional Staff (General Biology)](https://jobright.ai/jobs/info/698d0da0f64d441a164eecca?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 11 |
-| **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 11 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Director of Athletics and Student Engagement](https://jobright.ai/jobs/info/698d356b0f6f7e7a2ce8ff7e?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 11 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/698d2c410f6f7e7a2ce8f1b0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 11 |
-| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/698d2aa3f64d441a164f2003?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 11 |
-| **[Nekton Sports Performance](http://nektonsportsperformance.com)** | **[Sports Performance On-site Summer Internship](https://jobright.ai/jobs/info/698d054f78b4502f12a37738?utm_campaign=1057&utm_source=git)** | Hutchinson, MN | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
