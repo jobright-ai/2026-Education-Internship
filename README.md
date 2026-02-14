@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISACA](http://www.isaca.org)** | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/698fd6fe6ea51a7610f23e76?utm_campaign=1057&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/698fd1426ea51a7610f23ad4?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 13 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fd0b10cc8ea15f1da6bc4?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Feb 13 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/698fcc5e0f6f7e7a2cec18b4?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 13 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc9180cc8ea15f1da66b2?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Feb 13 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/698fc7d56ea51a7610f23514?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 13 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/698fc2c56ea51a7610f22f1f?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 13 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc28f6ea51a7610f22ecd?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Feb 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Instructor Services Intern](https://jobright.ai/jobs/info/698fbc540f6f7e7a2cec0834?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 13 |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/698fdbac6ea51a7610f24202?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 13 |
 | **[Johnson Screens, a brand of Aqseptence Group](https://johnsonscreens.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/698fa8ed0cc8ea15f1da43ef?utm_campaign=1057&utm_source=git)** | New Brighton, MN | On Site | Feb 13 |
 | **[Mayhill Hospital](https://mayhillhospital.com)** | **[Fall 2026 Outpatient Internship](https://jobright.ai/jobs/info/698fa6d90f6f7e7a2cebf42d?utm_campaign=1057&utm_source=git)** | Franklin, MA | On Site | Feb 13 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 13 |
@@ -83,8 +87,9 @@ For a complete list, click the following sortable link below:
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelors - Denison University](https://jobright.ai/jobs/info/698faee10f6f7e7a2cebfaa9?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Feb 13 |
 | **[Studio in a School](http://www.studioinaschool.org)** | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fab010cc8ea15f1da45ee?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | Hybrid | Feb 13 |
 | ↳ | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fc75a0f6f7e7a2cec1582?utm_campaign=1057&utm_source=git)** | Boston, MA, US | Hybrid | Feb 13 |
-| ↳ | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fb0416ea51a7610f218c1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | Hybrid | Feb 13 |
 | ↳ | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fb92c0f6f7e7a2cec0509?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | Feb 13 |
+| ↳ | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fd4b50cc8ea15f1da6e6c?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Feb 13 |
+| ↳ | **[Project Coordinator, Bloomberg Arts Internship: College Program](https://jobright.ai/jobs/info/698fb0416ea51a7610f218c1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | Hybrid | Feb 13 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/698fb77e0cc8ea15f1da541d?utm_campaign=1057&utm_source=git)** | Missouri, United States | Remote | Feb 13 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/698fb8fd6ea51a7610f223b8?utm_campaign=1057&utm_source=git)** | Kansas, United States | Remote | Feb 13 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/698fb3650cc8ea15f1da4c76?utm_campaign=1057&utm_source=git)** | Maryland, United States | Remote | Feb 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metrocare Services](https://www.metrocareservices.org)** | **[Intern - LPCA](https://jobright.ai/jobs/info/698571c40f6f7e7a2ce037c3?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Emergency Management Undergraduate Business Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/697295769b83b424830e8c1a?utm_campaign=1057&utm_source=git)** | Mercury, NV | On Site | Feb 12 |
 | **[HOK](http://www.hok.com/)** | **[Student Intern - Sports + Recreation + Entertainment](https://jobright.ai/jobs/info/698ebcfc0f6f7e7a2ceadf20?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Feb 12 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/698eb5f878b4502f12a59505?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Feb 12 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/698ebd2e78b4502f12a59a5b?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 12 |
-| **[Canopy Mental Health & Consulting](https://canopymhc.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/698e890178b4502f12a5602f?utm_campaign=1057&utm_source=git)** | Minneapolis,MN,US | Hybrid | Feb 12 |
-| **[Alfa Laval](http://www.alfalaval.com)** | **[Competency Development Intern (Hygienic Industry)](https://jobright.ai/jobs/info/69729f719b83b424830ea2ae?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Feb 12 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator, The Pride Center (Student Services Professional III)](https://jobright.ai/jobs/info/697003e40f4e0f657ea46182?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
