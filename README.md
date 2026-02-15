@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/699182660f6f7e7a2ceddd02?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699186c06ea51a7610f3ed6c?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/699182660f6f7e7a2ceddd02?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991811a6ea51a7610f3ea16?utm_campaign=1057&utm_source=git)** | North Dakota, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[RailPros](http://railpros.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/699092b46ea51a7610f318e2?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 14 |
 | **[Inspire](https://inspirebrands.com)** | **[Multimedia Intern - Summer 2026](https://jobright.ai/jobs/info/6990907b0f6f7e7a2ced04fa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69908e690cc8ea15f1db5259?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
-| **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/699153b30cc8ea15f1dbf3ae?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
 | **[University of Missouri-Columbia](https://missouri.edu)** | **[Counseling Center Post-Master's Fellowship (INTERN)](https://jobright.ai/jobs/info/69743125206da320f49e52ca?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Feb 14 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Feb 14 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/691fd651a49a885af9a348e4?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 14 |
@@ -135,26 +135,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Semester Fitness Internship (Roseville, CA)](https://jobright.ai/jobs/info/698d1ed10f6f7e7a2ce8db7e?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Feb 13 |
 | ↳ | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc28f6ea51a7610f22ecd?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Feb 13 |
 | **[DCCC](https://dccc.org)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/698ff7656ea51a7610f25a59?utm_campaign=1057&utm_source=git)** | Washington,DC,US | On Site | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ffb140f6f7e7a2cec4100?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698ff12c6ea51a7610f25401?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe5f96ea51a7610f24aa2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698ff37b0cc8ea15f1da8b48?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698fedfc0f6f7e7a2cec32e5?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe9090cc8ea15f1da817d?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698ff37b0cc8ea15f1da8b48?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ffb140f6f7e7a2cec4100?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698ffddc0cc8ea15f1da964f?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698fedfc0f6f7e7a2cec32e5?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fdda90f6f7e7a2cec240b?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe9090cc8ea15f1da817d?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe5f96ea51a7610f24aa2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698ff12c6ea51a7610f25401?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/69901dea0cc8ea15f1dac508?utm_campaign=1057&utm_source=git)** | Washington, Washington, DC, US | Hybrid | Feb 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Instructor Services Intern](https://jobright.ai/jobs/info/698fbc540f6f7e7a2cec0834?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe3120f6f7e7a2cec28ee?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ff0e36ea51a7610f253b4?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ff0e36ea51a7610f253b4?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe3686ea51a7610f24882?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ff9b50cc8ea15f1da91e3?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe3120f6f7e7a2cec28ee?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe7fe0f6f7e7a2cec2d38?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Instructional Design e-Learning Intern](https://jobright.ai/jobs/info/698fdce56ea51a7610f242ec?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ff9b50cc8ea15f1da91e3?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - Advance Analytics Curriculum Development Masters' Intern](https://jobright.ai/jobs/info/698fe3c30cc8ea15f1da7d92?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698fe8840f6f7e7a2cec2d9b?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Instructional Design e-Learning Intern](https://jobright.ai/jobs/info/698fea790cc8ea15f1da82d2?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Instructional Design e-Learning Intern](https://jobright.ai/jobs/info/698fdce56ea51a7610f242ec?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698ffce10f6f7e7a2cec42a2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Instructional Design e-Learning Intern](https://jobright.ai/jobs/info/698fea790cc8ea15f1da82d2?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/698fdbac6ea51a7610f24202?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 13 |
 | ↳ | **[Graduate Intern, Master of Accounting](https://jobright.ai/jobs/info/698fe6b80f6f7e7a2cec2c2a?utm_campaign=1057&utm_source=git)** | North Carolina, US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
