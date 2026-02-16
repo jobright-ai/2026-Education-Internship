@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6992cc4f81476f6176aa667f?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | Feb 15 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Community Therapeutic Recreation Internship](https://jobright.ai/jobs/info/6992c30681476f6176aa6270?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6992c2eece78e77b4fd69764?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 15 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6992b74dce78e77b4fd676b7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 15 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699262bd0cc8ea15f1dcc406?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/6992bfcbe0bddb6acac109f1?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 14 |
 | **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/69929dd7ce78e77b4fd64b4e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Graduate Intern, Master of Accounting](https://jobright.ai/jobs/info/698fe63a0cc8ea15f1da7f6b?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 13 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc9180cc8ea15f1da66b2?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Feb 13 |
 | ↳ | **[Summer Semester Fitness Internship (Roseville, CA)](https://jobright.ai/jobs/info/698d1ed10f6f7e7a2ce8db7e?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Feb 13 |
-| ↳ | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc28f6ea51a7610f22ecd?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
