@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6992dbe181476f6176aa6e9f?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
+| **[ArtsQuest](http://www.artsquest.org/)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6992da59ce78e77b4fd6a285?utm_campaign=1057&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6992d5fa81476f6176aa6bb8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6992d455ce78e77b4fd69f87?utm_campaign=1057&utm_source=git)** | Montana, United States | Remote | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6992cc4f81476f6176aa667f?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | Feb 15 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Community Therapeutic Recreation Internship](https://jobright.ai/jobs/info/6992c30681476f6176aa6270?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6992c2eece78e77b4fd69764?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fd0b10cc8ea15f1da6bc4?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Feb 13 |
 | **[UBH Denton](http://ubhdenton.com)** | **[Intern](https://jobright.ai/jobs/info/698febc60cc8ea15f1da8420?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Feb 13 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Fall 2026 Outpatient Internship](https://jobright.ai/jobs/info/698fedf70f6f7e7a2cec32e1?utm_campaign=1057&utm_source=git)** | Franklin, MA | On Site | Feb 13 |
-| **[Saint Mary-of-the-Woods College](http://www.smwc.edu/)** | **[Graduate Assistant for Student Activities and Organizations](https://jobright.ai/jobs/info/69901acf6ea51a7610f283fc?utm_campaign=1057&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Feb 13 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Graduate Intern, Master of Accounting](https://jobright.ai/jobs/info/698fe63a0cc8ea15f1da7f6b?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 13 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc9180cc8ea15f1da66b2?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Feb 13 |
-| ↳ | **[Summer Semester Fitness Internship (Roseville, CA)](https://jobright.ai/jobs/info/698d1ed10f6f7e7a2ce8db7e?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
