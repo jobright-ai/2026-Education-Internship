@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Community Therapeutic Recreation Internship](https://jobright.ai/jobs/info/6992c30681476f6176aa6270?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 15 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6992c2eece78e77b4fd69764?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 15 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6992b74dce78e77b4fd676b7?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 15 |
+| ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6992b29f81476f6176aa34d3?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 15 |
 | **[Musotic](https://www.musotic.com)** | **[Unpaid Remote Internship Opportunity – Educational Training Program (Music Social Media Platform Focus)](https://jobright.ai/jobs/info/698f17db0cc8ea15f1d9732c?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 15 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6992944781476f6176aa0b7e?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Feb 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69927b750f6f7e7a2cee7a12?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Feb 15 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Open Rank Non-Tenure Track Faculty Positions, Kelley School of Business (International Business)](https://jobright.ai/jobs/info/6991d8f10cc8ea15f1dc696c?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Feb 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6991d8e30cc8ea15f1dc6969?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/6991d8640cc8ea15f1dc6954?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 15 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6991d84a6ea51a7610f4268c?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Feb 15 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 15 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/6973ebb3bc8e722e7b18cbc6?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 15 |
@@ -92,9 +95,10 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699262bd0cc8ea15f1dcc406?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/6992bfcbe0bddb6acac109f1?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 14 |
 | **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/69929dd7ce78e77b4fd64b4e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6991289c6ea51a7610f37ec6?utm_campaign=1057&utm_source=git)** | Kentucky, United States | Remote | Feb 14 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/699123d30f6f7e7a2ced6ccb?utm_campaign=1057&utm_source=git)** | New Hampshire, United States | Remote | Feb 14 |
@@ -129,11 +133,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/69903c630f6f7e7a2cecae44?utm_campaign=1057&utm_source=git)** | Alaska, United States | Remote | Feb 14 |
 | **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Retail Banking](https://jobright.ai/jobs/info/69903b700f6f7e7a2cecad7a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 14 |
+| **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern, Pediatrics - Modave research](https://jobright.ai/jobs/info/6992bbe1ce78e77b4fd68baa?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Feb 13 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/699029156ea51a7610f2a933?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Feb 13 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Education](https://jobright.ai/jobs/info/6990302c6ea51a7610f2b432?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 | ↳ | **[Summer Intern - ADL Incident Response](https://jobright.ai/jobs/info/69902d546ea51a7610f2afb3?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 13 |
 | ↳ | **[Summer Intern - Echoes & Reflections Educator](https://jobright.ai/jobs/info/69902c5a6ea51a7610f2ae2c?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 13 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699298ad81476f6176aa111e?utm_campaign=1057&utm_source=git)** | Tennessee, United States | Remote | Feb 13 |
+| **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Student Intern, Pediatrics - Kay research](https://jobright.ai/jobs/info/6992b11881476f6176aa31ef?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Feb 13 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Business Operations & Commercial Enablement Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69901e7f6ea51a7610f286c1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Remote | Feb 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Factory Training, Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/699011420cc8ea15f1dab918?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | **[Participate Learning](https://www.participatelearning.com)** | **[Arrival Orientation Intern](https://jobright.ai/jobs/info/69929e6d81476f6176aa16cc?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc9180cc8ea15f1da66b2?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Feb 13 |
 | ↳ | **[Summer Semester Fitness Internship (Roseville, CA)](https://jobright.ai/jobs/info/698d1ed10f6f7e7a2ce8db7e?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Feb 13 |
 | ↳ | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc28f6ea51a7610f22ecd?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Feb 13 |
-| **[DCCC](https://dccc.org)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/698ff7656ea51a7610f25a59?utm_campaign=1057&utm_source=git)** | Washington,DC,US | On Site | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698fedfc0f6f7e7a2cec32e5?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe9090cc8ea15f1da817d?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698ff37b0cc8ea15f1da8b48?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ffb140f6f7e7a2cec4100?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe5f96ea51a7610f24aa2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
