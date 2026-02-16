@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Administration](https://jobright.ai/jobs/info/697b036a17b11b1c2e41f882?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 16 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian II, Intern Prg](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Instructional Design](https://jobright.ai/jobs/info/6977232efdeb8243a279f360?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
+| **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6992dbe181476f6176aa6e9f?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
 | **[ArtsQuest](http://www.artsquest.org/)** | **[Community Engagement Internship](https://jobright.ai/jobs/info/6992da59ce78e77b4fd6a285?utm_campaign=1057&utm_source=git)** | Bethlehem, PA | On Site | Feb 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6992d5fa81476f6176aa6bb8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
@@ -75,12 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/699257730f6f7e7a2cee6ff7?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 15 |
 | ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/699256f46ea51a7610f47aae?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 15 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/699255460cc8ea15f1dcc1e2?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 15 |
-| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/6992552d0cc8ea15f1dcc1da?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 15 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/6992538f0f6f7e7a2cee6f90?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 15 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/69922bff6ea51a7610f457d9?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 15 |
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/699229d70f6f7e7a2cee493a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 15 |
 | ↳ | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/6992296a6ea51a7610f454c4?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 15 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6992275c0f6f7e7a2cee4857?utm_campaign=1057&utm_source=git)** | Louisiana, United States | Remote | Feb 15 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69921e626ea51a7610f44f93?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69921db36ea51a7610f44f03?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Feb 15 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/699216550f6f7e7a2cee4010?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/6990127e6ea51a7610f27d90?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/698fd6fe6ea51a7610f23e76?utm_campaign=1057&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fd0b10cc8ea15f1da6bc4?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Feb 13 |
-| **[UBH Denton](http://ubhdenton.com)** | **[Intern](https://jobright.ai/jobs/info/698febc60cc8ea15f1da8420?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Feb 13 |
-| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Fall 2026 Outpatient Internship](https://jobright.ai/jobs/info/698fedf70f6f7e7a2cec32e1?utm_campaign=1057&utm_source=git)** | Franklin, MA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
