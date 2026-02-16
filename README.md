@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Intern - 2026 College Student Summer Internship – Office of Administration](https://jobright.ai/jobs/info/697b036a17b11b1c2e41f882?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/689437374c7e851b90ae407a?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Feb 16 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Intern - Department of Aviation](https://jobright.ai/jobs/info/696585172cbf4e44756f17b4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| ↳ | **[DWM Intern - 2026 College Student Summer Internship – Office of Administration](https://jobright.ai/jobs/info/697b036a17b11b1c2e41f882?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 16 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian II, Intern Prg](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Instructional Design](https://jobright.ai/jobs/info/6977232efdeb8243a279f360?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
@@ -103,10 +105,9 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699262bd0cc8ea15f1dcc406?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/6992bfcbe0bddb6acac109f1?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 14 |
 | **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/69929dd7ce78e77b4fd64b4e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6991289c6ea51a7610f37ec6?utm_campaign=1057&utm_source=git)** | Kentucky, United States | Remote | Feb 14 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/699123d30f6f7e7a2ced6ccb?utm_campaign=1057&utm_source=git)** | New Hampshire, United States | Remote | Feb 14 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[ECU Health](http://www.ECUHealth.org)** | **[Clinical Informatics Education Intern](https://jobright.ai/jobs/info/69043534d64a22104aa98191?utm_campaign=1057&utm_source=git)** | Greenville, NC | Hybrid | Feb 14 |
 | **[RailPros](http://railpros.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/699092b46ea51a7610f318e2?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Feb 14 |
 | **[Inspire](https://inspirebrands.com)** | **[Multimedia Intern - Summer 2026](https://jobright.ai/jobs/info/6990907b0f6f7e7a2ced04fa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
-| **[Brilyant Inc](https://usa.brilyant.com/)** | **[On-The-Job Training Program Participant](https://jobright.ai/jobs/info/6991c6310f6f7e7a2cee0dfd?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Brilyant USA](https://brilyant.us)** | **[On-The-Job Training Program Participant](https://jobright.ai/jobs/info/6991c6310f6f7e7a2cee0dfd?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69908e690cc8ea15f1db5259?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Counseling Center Post-Master's Fellowship (INTERN)](https://jobright.ai/jobs/info/69743125206da320f49e52ca?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Feb 14 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Feb 14 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[KerberRose](http://kerberrose.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69742f41bc8e722e7b1925c5?utm_campaign=1057&utm_source=git)** | Oshkosh, WI | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccadc50bbaf76504ffc26?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Feb 14 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/699079f10cc8ea15f1db3c9e?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
+| **[Superior Greenstone District School Board](http://www.sgdsb.on.ca)** | **[Summer Learning Program Co-operative Education and Alternative Education Virtual Teacher](https://jobright.ai/jobs/info/69930303ce78e77b4fd6d376?utm_campaign=1057&utm_source=git)** | Red Rock, Ontario, Canada | Hybrid | Feb 14 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Feb 14 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/697387c5bc8e722e7b185acb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bellevue School District](https://bsd405.org/)** | **[Administrative Intern(s) 2026-27 (Internal Applicants Only)](https://jobright.ai/jobs/info/69900f990f6f7e7a2cec619c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Accredited Training Programs Intern](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | ↳ | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/6990127e6ea51a7610f27d90?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/698fd6fe6ea51a7610f23e76?utm_campaign=1057&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
