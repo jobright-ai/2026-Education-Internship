@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Musotic](https://www.musotic.com)** | **[Unpaid Remote Internship Opportunity – Educational Training Program (Music Social Media Platform Focus)](https://jobright.ai/jobs/info/698f17db0cc8ea15f1d9732c?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 15 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6992944781476f6176aa0b7e?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Feb 15 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69927b750f6f7e7a2cee7a12?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/69927b020f6f7e7a2cee79c6?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 15 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
-| **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/69929667ce78e77b4fd6447b?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
+| **[Roots Community Health](http://www.RootsClinic.org)** | **[Youth Intern](https://jobright.ai/jobs/info/69929dd7ce78e77b4fd64b4e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Feb 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6991289c6ea51a7610f37ec6?utm_campaign=1057&utm_source=git)** | Kentucky, United States | Remote | Feb 14 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/699123d30f6f7e7a2ced6ccb?utm_campaign=1057&utm_source=git)** | New Hampshire, United States | Remote | Feb 14 |
 | **[Inspirationally Grieving My Baby](https://www.inspirationallygrievingmybaby.org/)** | **[Grief Group Facilitator / Facilitador/a de Grupo de Duelo](https://jobright.ai/jobs/info/6991c3c10f6f7e7a2cee0c53?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Feb 14 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699298ad81476f6176aa111e?utm_campaign=1057&utm_source=git)** | Tennessee, United States | Remote | Feb 13 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Business Operations & Commercial Enablement Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/69901e7f6ea51a7610f286c1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Remote | Feb 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Factory Training, Manufacturing (Summer 2026)](https://jobright.ai/jobs/info/699011420cc8ea15f1dab918?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 13 |
-| **[Participate Learning](https://www.participatelearning.com)** | **[Arrival Orientation Intern](https://jobright.ai/jobs/info/6992938e81476f6176aa09ae?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 13 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Arrival Orientation Intern](https://jobright.ai/jobs/info/69929e6d81476f6176aa16cc?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Feb 13 |
 | **[San Mateo-Foster City School District](http://smfcsd.net)** | **[2026 Summer School Teacher (ELOP) - Internal Candidates only](https://jobright.ai/jobs/info/699014870cc8ea15f1dabc55?utm_campaign=1057&utm_source=git)** | Foster City, MI | On Site | Feb 13 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Administrative Intern(s) 2026-27 (Internal Applicants Only)](https://jobright.ai/jobs/info/69900f990f6f7e7a2cec619c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Accredited Training Programs Intern](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Semester Fitness Internship (Roseville, CA)](https://jobright.ai/jobs/info/698d1ed10f6f7e7a2ce8db7e?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Feb 13 |
 | ↳ | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fc28f6ea51a7610f22ecd?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Feb 13 |
 | **[DCCC](https://dccc.org)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/698ff7656ea51a7610f25a59?utm_campaign=1057&utm_source=git)** | Washington,DC,US | On Site | Feb 13 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe9090cc8ea15f1da817d?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698ff12c6ea51a7610f25401?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe5f96ea51a7610f24aa2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Learning Design & Development Intern](https://jobright.ai/jobs/info/698ffddc0cc8ea15f1da964f?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698fedfc0f6f7e7a2cec32e5?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698fe9090cc8ea15f1da817d?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
 | ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698ff37b0cc8ea15f1da8b48?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 13 |
-| ↳ | **[Summer 2026 - Training Operations Associate's Intern](https://jobright.ai/jobs/info/698fedfc0f6f7e7a2cec32e5?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Master's Intern](https://jobright.ai/jobs/info/698ffb140f6f7e7a2cec4100?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
+| ↳ | **[Summer 2026 - EVAAS Live Training & Education Intern](https://jobright.ai/jobs/info/698fe5f96ea51a7610f24aa2?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
