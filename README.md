@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/6993512c81476f6176aafce0?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[SASSO Intern - Assistant Athletic Academic Counselor](https://jobright.ai/jobs/info/69934fae81476f6176aafba4?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Feb 16 |
+| **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Conservation Education Intern - Austin)](https://jobright.ai/jobs/info/69934e05ce78e77b4fd71a35?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69781c83fdeb8243a27b1031?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Feb 16 |
+| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Colorado Springs Area | On Site | Feb 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/699331a1e0bddb6acac18176?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Feb 16 |
 | **[University of Rhode Island](http://www.uri.edu/)** | **[Assistant Teaching Professor in Finance](https://jobright.ai/jobs/info/6992b458ce78e77b4fd667ab?utm_campaign=1057&utm_source=git)** | Kingston, RI | On Site | Feb 16 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69932db8e0bddb6acac17d71?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/6990127e6ea51a7610f27d90?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/698fd6fe6ea51a7610f23e76?utm_campaign=1057&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/698fd0b10cc8ea15f1da6bc4?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Feb 13 |
-| **[UBH Denton](http://ubhdenton.com)** | **[Intern](https://jobright.ai/jobs/info/698febc60cc8ea15f1da8420?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Feb 13 |
-| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Fall 2026 Outpatient Internship](https://jobright.ai/jobs/info/698fedf70f6f7e7a2cec32e1?utm_campaign=1057&utm_source=git)** | Franklin, MA | On Site | Feb 13 |
-| **[Saint Mary-of-the-Woods College](http://www.smwc.edu/)** | **[Graduate Assistant for Student Activities and Organizations](https://jobright.ai/jobs/info/69901acf6ea51a7610f283fc?utm_campaign=1057&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Feb 13 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Graduate Intern, Master of Accounting](https://jobright.ai/jobs/info/698fe63a0cc8ea15f1da7f6b?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
