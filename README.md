@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699375c7ce78e77b4fd7468b?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Feb 16 |
+| **[STIHL USA](http://www.stihlusa.com)** | **[Learning and Engagement Specialist Intern](https://jobright.ai/jobs/info/6993717ee0bddb6acac1b754?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 16 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/6993674cce78e77b4fd73dec?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 16 |
 | **[Waypoint NH](https://www.waypointnh.org)** | **[Unpaid Internship Child/Family Supports & Services (Concord NH)](https://jobright.ai/jobs/info/69936012e0bddb6acac1a2a6?utm_campaign=1057&utm_source=git)** | Concord, NH, US | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/6993512c81476f6176aafce0?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[SASSO Intern - Assistant Athletic Academic Counselor](https://jobright.ai/jobs/info/69934fae81476f6176aafba4?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Conservation Education Intern - Austin)](https://jobright.ai/jobs/info/69934e05ce78e77b4fd71a35?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Trading Intern](https://jobright.ai/jobs/info/699366a1ce78e77b4fd73c3c?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 16 |
 | **[Marquette University](https://www.marquette.edu/)** | **[EOP PCD College Access Intern summer 202](https://jobright.ai/jobs/info/699365c4ce78e77b4fd73aa3?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69781c83fdeb8243a27b1031?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Feb 16 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Colorado Springs Area | On Site | Feb 16 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[SASSO Intern - Assistant Learning Specialist](https://jobright.ai/jobs/info/699361d181476f6176ab0405?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Feb 16 |
+| **[Edmentum](http://www.edmentum.com)** | **[Research Psychometric Summer Intern](https://jobright.ai/jobs/info/699370d7ce78e77b4fd743bb?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Marquette University](https://www.marquette.edu/)** | **[EOP PCD College Access Intern summer](https://jobright.ai/jobs/info/69935faf81476f6176ab035a?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/699331a1e0bddb6acac18176?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Feb 16 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69932db8e0bddb6acac17d71?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699262bd0cc8ea15f1dcc406?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6991289c6ea51a7610f37ec6?utm_campaign=1057&utm_source=git)** | Kentucky, United States | Remote | Feb 14 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/699123d30f6f7e7a2ced6ccb?utm_campaign=1057&utm_source=git)** | New Hampshire, United States | Remote | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Mateo-Foster City School District](http://smfcsd.net)** | **[2026 Summer School Teacher (ELOP) - Internal Candidates only](https://jobright.ai/jobs/info/699014870cc8ea15f1dabc55?utm_campaign=1057&utm_source=git)** | Foster City, MI | On Site | Feb 13 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Administrative Intern(s) 2026-27 (Internal Applicants Only)](https://jobright.ai/jobs/info/69900f990f6f7e7a2cec619c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Accredited Training Programs Intern](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| ↳ | **[Workforce Advancement Intern](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Africa](https://jobright.ai/jobs/info/6990127e6ea51a7610f27d90?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
