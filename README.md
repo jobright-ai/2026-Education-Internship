@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Education Data Intern/Education Survey Data 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69949ba5e0bddb6acac30d05?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 17 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Part Time Trading Intern](https://jobright.ai/jobs/info/69949a1de0bddb6acac30b71?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 17 |
 | **[NobleProg](http://www.nobleprog.com)** | **[Training Operations Intern](https://jobright.ai/jobs/info/69948be6e0bddb6acac2ff21?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Mercy Joplin Pre-Med Summer Internship 2026](https://jobright.ai/jobs/info/697828f152f3c27ec6445669?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Feb 17 |
 | **[Benco Dental](https://www.benco.com/)** | **[Instructional Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6994854281476f6176ac4a5e?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 17 |
@@ -65,7 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Learning Operations Analytics Intern](https://jobright.ai/jobs/info/6977ad3cfdeb8243a27a9280?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Feb 17 |
 | **[LifeBridge Health](http://www.lifebridgehealth.org/)** | **[STUDENT NURSE INTERN](https://jobright.ai/jobs/info/69947e8ee0bddb6acac2ed23?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 17 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69947cba81476f6176ac3ec2?utm_campaign=1057&utm_source=git)** | Oregon, United States | Remote | Feb 17 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/6994934c81476f6176ac590a?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 17 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Enrollment Coordinator](https://jobright.ai/jobs/info/69949b7b81476f6176ac6059?utm_campaign=1057&utm_source=git)** | Clarendon, TX | On Site | Feb 17 |
+| ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/6994934c81476f6176ac590a?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 17 |
+| ↳ | **[International Student Coordinator](https://jobright.ai/jobs/info/6994971781476f6176ac5c69?utm_campaign=1057&utm_source=git)** | Troy, MI | Hybrid | Feb 17 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern - Extended Fall 2026](https://jobright.ai/jobs/info/695c583caa05c26e7ab5c3dd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 17 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/6940cb24aa598a08c3f06471?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Feb 17 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Copilot Enablement](https://jobright.ai/jobs/info/698a8630c5761b521a99c7c3?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
@@ -107,9 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/6993b2d781476f6176ab4e84?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 16 |
 | **[Lipscomb University](http://www.lipscomb.edu/)** | **[OID Intern Student Worker 2025-26](https://jobright.ai/jobs/info/6993dff8e0bddb6acac22706?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 16 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Student Support Database Manager](https://jobright.ai/jobs/info/6993b11781476f6176ab4c36?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Feb 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Learning and Development](https://jobright.ai/jobs/info/6993eb8b81476f6176ab8b93?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | On Site | Feb 16 |
-| ↳ | **[Intern, Learning and Development](https://jobright.ai/jobs/info/6993f761e0bddb6acac247f0?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 16 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/6993b08fce78e77b4fd784d8?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Learning and Development](https://jobright.ai/jobs/info/6993f761e0bddb6acac247f0?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 16 |
+| ↳ | **[Intern, Learning and Development](https://jobright.ai/jobs/info/6993eb8b81476f6176ab8b93?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | On Site | Feb 16 |
 | **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Counseling Internship - Siloam Springs Therapeutic Day Treatment - Fall 2026](https://jobright.ai/jobs/info/6993cd2b81476f6176ab6900?utm_campaign=1057&utm_source=git)** | Siloam Springs, AR | On Site | Feb 16 |
 | ↳ | **[Counseling Internship - Bentonville Clinic - Fall 2026](https://jobright.ai/jobs/info/6993e3dae0bddb6acac22b57?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Feb 16 |
 | ↳ | **[Counseling Internship - Siloam Springs Clinic - Fall 2026](https://jobright.ai/jobs/info/6993ccebce78e77b4fd7a158?utm_campaign=1057&utm_source=git)** | Siloam Springs, AR | On Site | Feb 16 |
@@ -128,10 +131,10 @@ For a complete list, click the following sortable link below:
 | **[A Rocha USA](http://arocha.us/)** | **[Church & Community Conservation Internship - paid](https://jobright.ai/jobs/info/6993a57981476f6176ab3d4f?utm_campaign=1057&utm_source=git)** | Mancelona, MI | On Site | Feb 16 |
 | **[Oakwood Village](https://www.oakwoodvillage.net/)** | **[Rehabilitation and Therapy Internship](https://jobright.ai/jobs/info/6993afe0e0bddb6acac1f750?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 16 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Temporary BCOE Planting Seeds Intern - FRESH New London](https://jobright.ai/jobs/info/69939d0a81476f6176ab3173?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Feb 16 |
-| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993ae3b81476f6176ab48a8?utm_campaign=1057&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Feb 16 |
-| ↳ | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993ae69e0bddb6acac1f5ac?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Feb 16 |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993a7b0ce78e77b4fd77b5d?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Feb 16 |
 | ↳ | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993c1d0ce78e77b4fd7987f?utm_campaign=1057&utm_source=git)** | Wilmington, Delaware | On Site | Feb 16 |
-| ↳ | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993a7b0ce78e77b4fd77b5d?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Feb 16 |
+| ↳ | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993ae3b81476f6176ab48a8?utm_campaign=1057&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Feb 16 |
+| ↳ | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993ae69e0bddb6acac1f5ac?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6994267981476f6176abe15d?utm_campaign=1057&utm_source=git)** | Vermont, United States | Remote | Feb 16 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6994940dce78e77b4fd8952e?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Prism Center Intern (AY 26-27 902134)](https://jobright.ai/jobs/info/6993aba181476f6176ab45e1?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[SASSO Intern - Assistant Learning Specialist](https://jobright.ai/jobs/info/699361d181476f6176ab0405?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Feb 16 |
 | **[Edmentum](http://www.edmentum.com)** | **[Research Psychometric Summer Intern](https://jobright.ai/jobs/info/699370d7ce78e77b4fd743bb?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Marquette University](https://www.marquette.edu/)** | **[EOP PCD College Access Intern summer](https://jobright.ai/jobs/info/69935faf81476f6176ab035a?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Communication Enablement (Business Excellence)](https://jobright.ai/jobs/info/691de26661dc50590a64b6c9?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 16 |
-| **[Queen Academy, Inc.](https://www.queenacademy.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/6993232fe0bddb6acac1740c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
