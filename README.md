@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Plymouth, MN](https://jobright.ai/jobs/info/69939d0481476f6176ab316e?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Feb 16 |
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6993988ece78e77b4fd76abe?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 16 |
 | **[Ambius](http://www.ambius.com)** | **[Summer 2026 Ambius Training Intern](https://jobright.ai/jobs/info/69938ce5e0bddb6acac1d3ad?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699388efe0bddb6acac1cf75?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Feb 16 |
+| **[Terminix](http://www.terminix.com/)** | **[Summer 2026 Ambius Training Intern](https://jobright.ai/jobs/info/6993a37e81476f6176ab3a75?utm_campaign=1057&utm_source=git)** | Memphis, Tennessee | Remote | Feb 16 |
+| **[A Rocha USA](http://arocha.us/)** | **[Church & Community Conservation Internship - paid](https://jobright.ai/jobs/info/6993a57981476f6176ab3d4f?utm_campaign=1057&utm_source=git)** | Mancelona, MI | On Site | Feb 16 |
+| **[Wesleyan University](http://wesleyan.edu)** | **[Temporary BCOE Planting Seeds Intern - FRESH New London](https://jobright.ai/jobs/info/69939d0a81476f6176ab3173?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Feb 16 |
 | **[National Partnership for Healthcare and Hospice Innovation (NPHI)](https://www.hospiceinnovations.org )** | **[Education & Quality Coordinator (Grant-Funded, Full-Time)](https://jobright.ai/jobs/info/69939acbce78e77b4fd76d56?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 16 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699375c7ce78e77b4fd7468b?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Feb 16 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/6993914ce0bddb6acac1d938?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Intern; BH Center for Schizophrenia](https://jobright.ai/jobs/info/6993830481476f6176ab1a2a?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 16 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69937fbece78e77b4fd750db?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 16 |
 | **[Waypoint NH](https://www.waypointnh.org)** | **[Unpaid Internship Child/Family Supports & Services (Concord NH)](https://jobright.ai/jobs/info/69936012e0bddb6acac1a2a6?utm_campaign=1057&utm_source=git)** | Concord, NH, US | On Site | Feb 16 |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Community Gardens Intern](https://jobright.ai/jobs/info/6993a52581476f6176ab3cd2?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/6993512c81476f6176aafce0?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[SASSO Intern - Assistant Athletic Academic Counselor](https://jobright.ai/jobs/info/69934fae81476f6176aafba4?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Feb 16 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern I - II - III (Conservation Education Intern - Austin)](https://jobright.ai/jobs/info/69934e05ce78e77b4fd71a35?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 16 |
@@ -124,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699181f20f6f7e7a2ceddc8f?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Feb 15 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6991809f6ea51a7610f3e99f?utm_campaign=1057&utm_source=git)** | Hawaii, United States | Remote | Feb 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699262bd0cc8ea15f1dcc406?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 14 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261af0f6f7e7a2cee718b?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Feb 14 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/699261ba0f6f7e7a2cee718c?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916c7b0cc8ea15f1dc173d?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Feb 14 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/6991289c6ea51a7610f37ec6?utm_campaign=1057&utm_source=git)** | Kentucky, United States | Remote | Feb 14 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/699123d30f6f7e7a2ced6ccb?utm_campaign=1057&utm_source=git)** | New Hampshire, United States | Remote | Feb 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/697387c5bc8e722e7b185acb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 14 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Feb 14 |
 | **[Museum of Science](http://www.mos.org)** | **[Exhibit Content Development - Summer Youth Internship Program](https://jobright.ai/jobs/info/699046b56ea51a7610f2d361?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 14 |
-| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[Medical Education Bachelor's Intern](https://jobright.ai/jobs/info/6986bf888ca8121a3a692d7a?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
-| **[Vituity](https://www.vituity.com)** | **[Intern - College - Healthcare and Community Impact - Remote - Nationwide](https://jobright.ai/jobs/info/698d27edf64d441a164f1b5c?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Feb 14 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Feb 14 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69903d6e0cc8ea15f1dafdf5?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Feb 14 |
-| ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/69903c630f6f7e7a2cecae44?utm_campaign=1057&utm_source=git)** | Alaska, United States | Remote | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
