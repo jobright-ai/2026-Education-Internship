@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Internship Covington, GA](https://jobright.ai/jobs/info/697932fa88e2b47213bd5264?utm_campaign=1057&utm_source=git)** | Covington, GA | On Site | Feb 18 |
+| **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
+| **[Jefferson Health](http://JeffersonHealth.org)** | **[Intern- Department of Oral and Maxillofacial Surgery, Jefferson Abington Hospital](https://jobright.ai/jobs/info/695d974dfbd62a0a65664a54?utm_campaign=1057&utm_source=git)** | Abington, PA | On Site | Feb 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6995a0face78e77b4fd9bf20?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 17 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6995a0e981476f6176ad82d4?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 17 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69958bb3e0bddb6acac41fa7?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Feb 17 |
@@ -68,17 +70,17 @@ For a complete list, click the following sortable link below:
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Program and Coaching Internship - Summer](https://jobright.ai/jobs/info/69958452ce78e77b4fd9ae6c?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/69957be0e0bddb6acac41361?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Pleasanton](https://jobright.ai/jobs/info/69957d3bce78e77b4fd9a7b9?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 17 |
-| ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/699578f781476f6176ad678b?utm_campaign=1057&utm_source=git)** | Placentia, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Lafayette](https://jobright.ai/jobs/info/69957705e0bddb6acac40de3?utm_campaign=1057&utm_source=git)** | Lafayette, CA | On Site | Feb 17 |
+| ↳ | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/699578f781476f6176ad678b?utm_campaign=1057&utm_source=git)** | Placentia, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Alameda](https://jobright.ai/jobs/info/699574b1e0bddb6acac409df?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Feb 17 |
-| ↳ | **[Summer Camp Intern, Newport Beach](https://jobright.ai/jobs/info/69957a99ce78e77b4fd9a4aa?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Feb 17 |
-| ↳ | **[Summer Camp Intern, Kentfield](https://jobright.ai/jobs/info/69957e0581476f6176ad6c6d?utm_campaign=1057&utm_source=git)** | Kentfield, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/69958bd881476f6176ad7711?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, San Diego Downtown](https://jobright.ai/jobs/info/69958b56ce78e77b4fd9b308?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
+| ↳ | **[Summer Camp Intern, Kentfield](https://jobright.ai/jobs/info/69957e0581476f6176ad6c6d?utm_campaign=1057&utm_source=git)** | Kentfield, CA | On Site | Feb 17 |
+| ↳ | **[Summer Camp Intern, Newport Beach](https://jobright.ai/jobs/info/69957a99ce78e77b4fd9a4aa?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Oakland - Glenview](https://jobright.ai/jobs/info/69958fb681476f6176ad7a69?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Laguna Niguel](https://jobright.ai/jobs/info/69957ea981476f6176ad6db8?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Feb 17 |
-| ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/69957924e0bddb6acac40f36?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Palos Verdes](https://jobright.ai/jobs/info/69957739ce78e77b4fd9a190?utm_campaign=1057&utm_source=git)** | Rancho Palos Verdes, CA | On Site | Feb 17 |
+| ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/69957924e0bddb6acac40f36?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Carlsbad](https://jobright.ai/jobs/info/699582b9ce78e77b4fd9ac64?utm_campaign=1057&utm_source=git)** | Carlsbad, CA | On Site | Feb 17 |
 | ↳ | **[Summer Camp Intern, Westchester/Playa Vista](https://jobright.ai/jobs/info/69957c1181476f6176ad6abb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69958293ce78e77b4fd9ac49?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 17 |
@@ -108,21 +110,21 @@ For a complete list, click the following sortable link below:
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Internship Program Lead II](https://jobright.ai/jobs/info/699505ede0bddb6acac38d49?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Feb 17 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Instructional Design Intern](https://jobright.ai/jobs/info/6995254481476f6176ad02f5?utm_campaign=1057&utm_source=git)** | Longwood,FL,US | On Site | Feb 17 |
 | ↳ | **[Fall 2026 Instructional Design Intern](https://jobright.ai/jobs/info/69952899e0bddb6acac3b059?utm_campaign=1057&utm_source=git)** | Longwood,FL,US | On Site | Feb 17 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69953b5281476f6176ad1d25?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/69952a53e0bddb6acac3b25a?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/69953caf81476f6176ad1e4c?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69952bc6e0bddb6acac3b386?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
-| ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/69952a53e0bddb6acac3b25a?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/6995437581476f6176ad25ef?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69953b5281476f6176ad1d25?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69950361ce78e77b4fd91974?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 17 |
 | **[Ortonville Area Health Services](https://oahs.us/)** | **[RN Student Nurse Internship](https://jobright.ai/jobs/info/6995361bce78e77b4fd9519e?utm_campaign=1057&utm_source=git)** | Ortonville,MN,US | On Site | Feb 17 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Instructional Design Intern - Summer 2027](https://jobright.ai/jobs/info/699533b0ce78e77b4fd94e56?utm_campaign=1057&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 17 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69953bd2ce78e77b4fd957e6?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69952d47e0bddb6acac3b509?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69952f6281476f6176ad0e2a?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 17 |
-| ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69952d47e0bddb6acac3b509?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69953bd2ce78e77b4fd957e6?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/69953050ce78e77b4fd94972?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
+| ↳ | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/699544bcce78e77b4fd9619c?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/69953d4e81476f6176ad1f1f?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
 | ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/6995441481476f6176ad26ee?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 17 |
-| ↳ | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/699544bcce78e77b4fd9619c?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
-| ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/69953050ce78e77b4fd94972?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 17 |
 | **[Live Action](https://www.liveaction.org/)** | **[Campus Outreach Associate (Intern)](https://jobright.ai/jobs/info/69953282ce78e77b4fd94cbe?utm_campaign=1057&utm_source=git)** | Orange County, CO | Hybrid | Feb 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Summer Pre-Med Internship - Springfield](https://jobright.ai/jobs/info/6995231881476f6176ad00a3?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Feb 17 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Undergraduate](https://jobright.ai/jobs/info/6994fda7ce78e77b4fd9127b?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Feb 17 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Summer Pre-Med Internship - Springfield](https://jobright.ai/jobs/info/6994fbf581476f6176acd66a?utm_campaign=1057&utm_source=git)** | Mercy Hospital Springfield | On Site | Feb 17 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Internship- Health Analytics Research](https://jobright.ai/jobs/info/699512f8e0bddb6acac39cb2?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Cone Health](http://www.conehealth.com)** | **[Food and Nutrition Service Intern](https://jobright.ai/jobs/info/6994d6dce0bddb6acac353a7?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
-| **[Pedalheads](https://pedalheads.com)** | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/69950c65e0bddb6acac39526?utm_campaign=1057&utm_source=git)** | Redmond - King County&apos;s Marymoor Park, Redmond, WA, US | On Site | Feb 17 |
-| ↳ | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/69950500e0bddb6acac38c51?utm_campaign=1057&utm_source=git)** | Kirkland Medina - Northwest University [The Caf], Kirkland, WA, US | On Site | Feb 17 |
-| ↳ | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/69950139e0bddb6acac388b9?utm_campaign=1057&utm_source=git)** | Seward Park - Graham Hill Elementary School , Seattle, WA, US | On Site | Feb 17 |
+| **[Pedalheads](https://pedalheads.com)** | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/6995132cce78e77b4fd92b47?utm_campaign=1057&utm_source=git)** | Mill Creek - Advent Lutheran Church, Mill Creek, WA, US | On Site | Feb 17 |
+| ↳ | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/699501f981476f6176acde85?utm_campaign=1057&utm_source=git)** | West Seattle - Schmitz Park Elementary School, Seattle, WA, US | On Site | Feb 17 |
 | ↳ | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/69950cdbe0bddb6acac395a7?utm_campaign=1057&utm_source=git)** | Bothell  UW Bothell Campus [Discovery Hall], Bothell, WA, US | On Site | Feb 17 |
-| ↳ | **[Summer Internship - Bike Camp Manager](https://jobright.ai/jobs/info/69950f4681476f6176acedea?utm_campaign=1057&utm_source=git)** | Sammamish - Eastside Catholic School, Sammamish, WA, US | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
