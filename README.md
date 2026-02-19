@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Trading Intern](https://jobright.ai/jobs/info/6996f9b2e0bddb6acac59fe6?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Feb 19 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/697b41171423772304eb65e5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Summer Internship in Scientific, Regulatory and Nutrition Affairs](https://jobright.ai/jobs/info/694a26ab7d506e3808f561bb?utm_campaign=1057&utm_source=git)** | Rosemont, IL | Hybrid | Feb 19 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/697a9255f6fc293b0a2c7228?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/695f26a2a1bbea1d9a7a0800?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Feb 19 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/6996dc3a81476f6176aed483?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 19 |
+| **[Kershner Trading Group](https://kershnertrading.com)** | **[Students - Austin Trading Desk Internship Summer 2026](https://jobright.ai/jobs/info/6996f811e0bddb6acac59b95?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Feb 19 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 19 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6996de7ece78e77b4fdb10e1?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 18 |
 | **[University of California Office of the President](https://www.ucop.edu)** | **[INSTRUCTIONAL DESIGN INTERN, UCPATH](https://jobright.ai/jobs/info/6996c001e0bddb6acac5625e?utm_campaign=1057&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
@@ -99,18 +102,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69968dc8ce78e77b4fdaa635?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6964](https://jobright.ai/jobs/info/6996783c81476f6176ae4e53?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Feb 18 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69968de2e0bddb6acac50dba?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69969ac481476f6176ae8232?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/6996800fce78e77b4fda90e5?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69969ac481476f6176ae8232?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/6996882d81476f6176ae6384?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69968c9fce78e77b4fdaa4ac?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69967c0ae0bddb6acac4f5d7?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69968c9fce78e77b4fdaa4ac?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/699699e0ce78e77b4fdabc61?utm_campaign=1057&utm_source=git)** | San Diego California | On Site | Feb 18 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69967c3de0bddb6acac4f626?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Feb 18 |
 | **[US LBM](http://uslbm.com)** | **[US LBM AP Intern](https://jobright.ai/jobs/info/69966a76e0bddb6acac4e153?utm_campaign=1057&utm_source=git)** | Oakdale, MN | On Site | Feb 18 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/69968b38e0bddb6acac509ff?utm_campaign=1057&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Feb 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69966459e0bddb6acac4d8a6?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/6996634881476f6176ae338c?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 18 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69967081e0bddb6acac4e787?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
+| ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69967081e0bddb6acac4e787?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/699679ad81476f6176ae5073?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
 | ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699667bf81476f6176ae37aa?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
 | **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Counselor Intern - Fall 2026 - Pool Posting](https://jobright.ai/jobs/info/69966d21ce78e77b4fda784c?utm_campaign=1057&utm_source=git)** | 4700 S.YOSEMITE ST, GREENWOOD VILLAGE, CO, 80111, US | On Site | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Assistant Simulated Participant](https://jobright.ai/jobs/info/69965453e0bddb6acac4c343?utm_campaign=1057&utm_source=git)** | Anchorage, AK | Hybrid | Feb 18 |
 | ↳ | **[Animal Resource Center- Student Assistant](https://jobright.ai/jobs/info/69963139e0bddb6acac491d2?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | Feb 18 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Psychiatry](https://jobright.ai/jobs/info/69966932e0bddb6acac4df7f?utm_campaign=1057&utm_source=git)** | Cupertino, CA | On Site | Feb 18 |
-| ↳ | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/6996497281476f6176ae0b6b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Feb 18 |
-| ↳ | **[Psychology Doctoral Intern, Adult/Child/AMRS](https://jobright.ai/jobs/info/69967415ce78e77b4fda812e?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
