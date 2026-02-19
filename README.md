@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/697b41171423772304eb65e5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
+| **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Summer Internship in Scientific, Regulatory and Nutrition Affairs](https://jobright.ai/jobs/info/694a26ab7d506e3808f561bb?utm_campaign=1057&utm_source=git)** | Rosemont, IL | Hybrid | Feb 19 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/695f26a2a1bbea1d9a7a0800?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Feb 19 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/6996dc3a81476f6176aed483?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 19 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Feb 19 |
@@ -92,13 +94,13 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Summer 2026- UNPAID)](https://jobright.ai/jobs/info/699691ade0bddb6acac513ed?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Feb 18 |
 | **[Contra Costa Transportation Authority](http://www.ccta.net/)** | **[Professional Student Intern](https://jobright.ai/jobs/info/6996883fe0bddb6acac505f8?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 18 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Retail Banking Intern (Part-Time 20-25 hours)](https://jobright.ai/jobs/info/69968769ce78e77b4fda9c06?utm_campaign=1057&utm_source=git)** | Lincoln, NE, USA | On Site | Feb 18 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69969a0081476f6176ae8137?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69968019e0bddb6acac4fa71?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69968019e0bddb6acac4fa71?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69969a0081476f6176ae8137?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69968dc8ce78e77b4fdaa635?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6964](https://jobright.ai/jobs/info/6996783c81476f6176ae4e53?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Feb 18 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69968de2e0bddb6acac50dba?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
-| ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/6996800fce78e77b4fda90e5?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/69969ac481476f6176ae8232?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
+| ↳ | **[Summer 2026 - Academic Analytics Education Intern](https://jobright.ai/jobs/info/6996800fce78e77b4fda90e5?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/6996882d81476f6176ae6384?utm_campaign=1057&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69968c9fce78e77b4fdaa4ac?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 18 |
 | ↳ | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69967c0ae0bddb6acac4f5d7?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 18 |
@@ -112,8 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/699679ad81476f6176ae5073?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
 | ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699667bf81476f6176ae37aa?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 18 |
 | **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Counselor Intern - Fall 2026 - Pool Posting](https://jobright.ai/jobs/info/69966d21ce78e77b4fda784c?utm_campaign=1057&utm_source=git)** | 4700 S.YOSEMITE ST, GREENWOOD VILLAGE, CO, 80111, US | On Site | Feb 18 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/6996670681476f6176ae373a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 18 |
-| ↳ | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699676cace78e77b4fda8504?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 18 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699676cace78e77b4fda8504?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 18 |
 | **[Legends Global](http://legends.net)** | **[Summer Internship](https://jobright.ai/jobs/info/69967cb181476f6176ae54cb?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 18 |
 | **[Western Museums Association (WMA)](http://westmuse.org)** | **[Graduate Education Intern](https://jobright.ai/jobs/info/6996667fe0bddb6acac4db8e?utm_campaign=1057&utm_source=git)** | Atherton, CA | On Site | Feb 18 |
 | **[Adelphi Research | Global Pharma Market Insight Consultancy](https://adelphiresearch.com/)** | **[2026 Bold Beginners - Research Intern](https://jobright.ai/jobs/info/699659b4e0bddb6acac4c958?utm_campaign=1057&utm_source=git)** | Doylestown, PA | On Site | Feb 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Psychiatry](https://jobright.ai/jobs/info/69966932e0bddb6acac4df7f?utm_campaign=1057&utm_source=git)** | Cupertino, CA | On Site | Feb 18 |
 | ↳ | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/6996497281476f6176ae0b6b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Feb 18 |
 | ↳ | **[Psychology Doctoral Intern, Adult/Child/AMRS](https://jobright.ai/jobs/info/69967415ce78e77b4fda812e?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Feb 18 |
-| ↳ | **[Psychology Doctoral Intern, Mental Health Teen IOP](https://jobright.ai/jobs/info/6996670dce78e77b4fda72bd?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
