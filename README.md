@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Summer High School Research Intern - Computational Biology](https://jobright.ai/jobs/info/6999271281476f6176b1ac62?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Feb 20 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/6999260c81476f6176b1aaaf?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatric and Maternal Nutrition (Part-time)](https://jobright.ai/jobs/info/69992482ce78e77b4fddd14e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 20 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6999228981476f6176b1a3cf?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 20 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6999136c81476f6176b189a6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 20 |
 | **[Dartmouth Hitchcock Medical Center and Clinics](http://www.dartmouth-hitchcock.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/69991180e0bddb6acac8086a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | Feb 20 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/6999083f81476f6176b17d4e?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 20 |
@@ -64,7 +68,9 @@ For a complete list, click the following sortable link below:
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[Intern](https://jobright.ai/jobs/info/699917bdce78e77b4fddb9a1?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Feb 20 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33d?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Feb 20 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[GMAF Summer Intern, Horsham PA](https://jobright.ai/jobs/info/6998f202ce78e77b4fdd84bd?utm_campaign=1057&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Feb 20 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699912e4ce78e77b4fddb099?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/699926c3e0bddb6acac82f0d?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
+| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699912e4ce78e77b4fddb099?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69991da8ce78e77b4fddc49e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69990d90ce78e77b4fdda9e7?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/6998ef1bce78e77b4fdd8084?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Feb 20 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/699918d4ce78e77b4fddbbc3?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Feb 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Feb 20 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 | **[United Educators](https://www.ue.org/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/692f2782ef4b48533d14317a?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Feb 20 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Summer Internship Program - Seasonal](https://jobright.ai/jobs/info/6998f29681476f6176b15caa?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | Feb 20 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Tampa, Summer 2026)](https://jobright.ai/jobs/info/699856dce0bddb6acac75f8c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 20 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/699856bb81476f6176b0c5b6?utm_campaign=1057&utm_source=git)** | Weed, CA | Remote | Feb 20 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (South Bend, Summer 2026)](https://jobright.ai/jobs/info/690a7efa4a1b456627b086f8?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Feb 20 |
-| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/695fdf7a7ebc25398eb5b729?utm_campaign=1057&utm_source=git)** | Westborough, MA | On Site | Feb 20 |
-| **[Legends Global](http://legends.net)** | **[Summer 2026 Graduate Student Internship](https://jobright.ai/jobs/info/6960494fa1bbea1d9a7b2d3e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
