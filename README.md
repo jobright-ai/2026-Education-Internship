@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Feb 21 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Training and Development Intern](https://jobright.ai/jobs/info/697d25eb137a051025662113?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Feb 21 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6999c553e0bddb6acac90754?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 21 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Commercial Sales Training](https://jobright.ai/jobs/info/6999c339e0bddb6acac906b2?utm_campaign=1057&utm_source=git)** | Wilmington, MA | Remote | Feb 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/6999c11b81476f6176b28424?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 21 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/698fff4e0f6f7e7a2cec490b?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Feb 21 |
@@ -91,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Screens, a brand of Aqseptence Group](https://johnsonscreens.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/698fa8ed0cc8ea15f1da43ef?utm_campaign=1057&utm_source=git)** | New Brighton, MN | On Site | Feb 20 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69993f3b81476f6176b1d0d8?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995aba81476f6176b20282?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 20 |
-| ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995ee281476f6176b20ae3?utm_campaign=1057&utm_source=git)** | Cascade, CO | On Site | Feb 20 |
+| ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69995ca2ce78e77b4fde300e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 20 |
 | **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Study Start-Up](https://jobright.ai/jobs/info/6999317fe0bddb6acac83ea9?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Internship - Design & Construction](https://jobright.ai/jobs/info/6994f72ee0bddb6acac37c88?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/6998f57e81476f6176b16153?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Feb 20 |
 | **[Parkview Health](http://www.parkview.com)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6998dc7181476f6176b14492?utm_campaign=1057&utm_source=git)** | Greater Fort Wayne | On Site | Feb 20 |
 | **[Acadia Healthcare](https://www.acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/6998d73ece78e77b4fdd678f?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Feb 20 |
+| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/6999002bce78e77b4fdd9cd9?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
