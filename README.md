@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Study Start-Up](https://jobright.ai/jobs/info/6999317fe0bddb6acac83ea9?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69992bd181476f6176b1b4a7?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
+| ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69992b7ece78e77b4fdde06a?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Summer High School Research Intern - Computational Biology](https://jobright.ai/jobs/info/6999271281476f6176b1ac62?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Feb 20 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/6999260c81476f6176b1aaaf?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatric and Maternal Nutrition (Part-time)](https://jobright.ai/jobs/info/69992482ce78e77b4fddd14e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 20 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth Hitchcock Medical Center and Clinics](http://www.dartmouth-hitchcock.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/69991180e0bddb6acac8086a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | Feb 20 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/6999083f81476f6176b17d4e?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 20 |
 | **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Internship - Summer 2026: Marshfield Ortho-Surgical](https://jobright.ai/jobs/info/699906de81476f6176b17b96?utm_campaign=1057&utm_source=git)** | Marshfield, WI | On Site | Feb 20 |
+| **[City of Hampton](https://hampton.gov/)** | **[*2026 Summer College Internship Program - Business, Finance, Marketing (Economic Development Dept.)](https://jobright.ai/jobs/info/69992c00e0bddb6acac83794?utm_campaign=1057&utm_source=git)** | Hampton, VA | On Site | Feb 20 |
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[Intern](https://jobright.ai/jobs/info/699917bdce78e77b4fddb9a1?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Feb 20 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33d?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Feb 20 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[GMAF Summer Intern, Horsham PA](https://jobright.ai/jobs/info/6998f202ce78e77b4fdd84bd?utm_campaign=1057&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Feb 20 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/699918d4ce78e77b4fddbbc3?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Feb 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69991658e0bddb6acac80ff7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
 | ↳ | **[LEO Lecturer I in International Business - School of Management (Hybrid)](https://jobright.ai/jobs/info/6999148181476f6176b18ba6?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
+| ↳ | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/69992a44e0bddb6acac83514?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
 | **[Boston University](https://www.bu.edu/antiracism-center/)** | **[ASSISTANT DIRECTOR, MASTER OF FINANCE CAREER COACH, Questrom PhD Student Experience](https://jobright.ai/jobs/info/6998e4b681476f6176b14a82?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[GMAF Summer Intern, Horsham PA](https://jobright.ai/jobs/info/69990c9981476f6176b18252?utm_campaign=1057&utm_source=git)** | Horsham, PA | On Site | Feb 20 |
 | ↳ | **[GMAF Summer Intern - Raritan, NJ](https://jobright.ai/jobs/info/69991cb4ce78e77b4fddc2c0?utm_campaign=1057&utm_source=git)** | Raritan, NJ | On Site | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/69988ab1e0bddb6acac78b2b?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Remote | Feb 20 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/6998881ee0bddb6acac7868b?utm_campaign=1057&utm_source=git)** | Tennessee, United States | Remote | Feb 20 |
 | ↳ | **[Service Training Intern](https://jobright.ai/jobs/info/69988a4de0bddb6acac78a8e?utm_campaign=1057&utm_source=git)** | Arkansas, United States | Remote | Feb 20 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/6998824d81476f6176b0f1a0?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Feb 20 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed81b570b66e2345d3ea3d?utm_campaign=1057&utm_source=git)** | Irondale, AL | On Site | Feb 20 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Feb 20 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 20 |
-| **[United Educators](https://www.ue.org/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/692f2782ef4b48533d14317a?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
