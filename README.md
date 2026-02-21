@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699a0d5ae0bddb6acac9319e?utm_campaign=1057&utm_source=git)** | Michigan, United States | Remote | Feb 21 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Collegiate Intern 1 and Intern 2](https://jobright.ai/jobs/info/699a09b5e0bddb6acac92f07?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Feb 21 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6999f3c7ce78e77b4fded1ad?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Parental Health on Child Health Master's Intern](https://jobright.ai/jobs/info/6999f2a8ce78e77b4fded147?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/69994fd6ce78e77b4fde19e4?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Feb 20 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Instructional Design e-Learning Intern](https://jobright.ai/jobs/info/69993392ce78e77b4fddec8a?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 - Education & Training Operations Intern](https://jobright.ai/jobs/info/6999424ee0bddb6acac85d7c?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/6999136c81476f6176b189a6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 20 |
 | **[Dartmouth Hitchcock Medical Center and Clinics](http://www.dartmouth-hitchcock.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/69991180e0bddb6acac8086a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | Feb 20 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/6999083f81476f6176b17d4e?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 20 |
 | **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Internship - Summer 2026: Marshfield Ortho-Surgical](https://jobright.ai/jobs/info/699906de81476f6176b17b96?utm_campaign=1057&utm_source=git)** | Marshfield, WI | On Site | Feb 20 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/6998ef1bce78e77b4fdd8084?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Feb 20 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/699918d4ce78e77b4fddbbc3?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Feb 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69991658e0bddb6acac80ff7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
-| ↳ | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/69992a44e0bddb6acac83514?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
 | **[Boston University](https://www.bumc.bu.edu/busm)** | **[ASSISTANT DIRECTOR, MASTER OF FINANCE CAREER COACH, Questrom PhD Student Experience](https://jobright.ai/jobs/info/6998e4b681476f6176b14a82?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[GMAF Summer Intern, Horsham PA](https://jobright.ai/jobs/info/69990c9981476f6176b18252?utm_campaign=1057&utm_source=git)** | Horsham, PA | On Site | Feb 20 |
 | ↳ | **[GMAF Summer Intern - Raritan, NJ](https://jobright.ai/jobs/info/69991cb4ce78e77b4fddc2c0?utm_campaign=1057&utm_source=git)** | Raritan, NJ | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Halton Region](https://www.halton.ca)** | **[Asset Management Co-op Student](https://jobright.ai/jobs/info/6998ef0681476f6176b1571d?utm_campaign=1057&utm_source=git)** | Oakville, Ontario, Canada | On Site | Feb 20 |
 | **[AECOM](http://www.aecom.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/6998f57e81476f6176b16153?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Feb 20 |
 | **[Parkview Health](http://www.parkview.com)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6998dc7181476f6176b14492?utm_campaign=1057&utm_source=git)** | Greater Fort Wayne | On Site | Feb 20 |
+| **[Acadia Healthcare](https://www.acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/6998d73ece78e77b4fdd678f?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
