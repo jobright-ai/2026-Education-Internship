@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/699a70abe0bddb6acac986bc?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 21 |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/699a971fe0bddb6acac9bda2?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Feb 21 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/699a8e1ce0bddb6acac99cb4?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 21 |
+| ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/699a70abe0bddb6acac986bc?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Conservation Education Intern - Austin)](https://jobright.ai/jobs/info/699a61bf81476f6176b2edd6?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Conservation Education Intern - Austin)](https://jobright.ai/jobs/info/699a60bce0bddb6acac96956?utm_campaign=1057&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699a6056ce78e77b4fdf17ee?utm_campaign=1057&utm_source=git)** | Ohio, United States | Remote | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 20 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Feb 20 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 20 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
-| **[Focus on the Family Canada](http://www.focusonthefamily.ca)** | **[Church Engagement Summer Intern](https://jobright.ai/jobs/info/699911f2e0bddb6acac80943?utm_campaign=1057&utm_source=git)** | Langley, British Columbia, Canada | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
