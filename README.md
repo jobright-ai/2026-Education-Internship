@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a5942ce78e77b4fdf0992?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/699a42dbce78e77b4fdefc6a?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
 | ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/699a401be0bddb6acac952af?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
 | ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699a3fc3ce78e77b4fdefb64?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699a3405e0bddb6acac950fa?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/699a572cce78e77b4fdf06e1?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
+| ↳ | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699a3405e0bddb6acac950fa?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/699a1989ce78e77b4fdedd4e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 21 |
 | **[School District 20, Kootenay-Columbia](http://www.sd20.bc.ca)** | **[26-C-16 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/699a350b81476f6176b2d0e1?utm_campaign=1057&utm_source=git)** | Robson, British Columbia, Canada | On Site | Feb 21 |
 | ↳ | **[26-C-17 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/699a354081476f6176b2d0f3?utm_campaign=1057&utm_source=git)** | Trail, British Columbia, Canada | On Site | Feb 21 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychology Intern](https://jobright.ai/jobs/info/699939d181476f6176b1c6b6?utm_campaign=1057&utm_source=git)** | US-NH-Lebanon | On Site | Feb 20 |
 | **[Institute for Advanced Study](https://www.ias.edu/)** | **[Summer Internship - Facilities - Paint Crew (6 openings)](https://jobright.ai/jobs/info/69994eddce78e77b4fde18df?utm_campaign=1057&utm_source=git)** | Princeton,NJ,US | On Site | Feb 20 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[GMAF Summer Intern, Horsham PA](https://jobright.ai/jobs/info/6998f202ce78e77b4fdd84bd?utm_campaign=1057&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Feb 20 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69991da8ce78e77b4fddc49e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 20 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/6998ef1bce78e77b4fdd8084?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Feb 20 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/699918d4ce78e77b4fddbbc3?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Feb 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/69991658e0bddb6acac80ff7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Workforce Development Program Intern](https://jobright.ai/jobs/info/6998e91181476f6176b14e7a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[PNC](http://www.pnc.com)** | **[PNC Wealth Management Undergraduate Intern - Retail Banking](https://jobright.ai/jobs/info/6998ea56e0bddb6acac7d4e5?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Feb 20 |
 | **[AECOM](http://www.aecom.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/6998e4e0e0bddb6acac7cf03?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Feb 20 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - General/Non-Invasive Cardiology - Chicago-12207](https://jobright.ai/jobs/info/6998dc0481476f6176b14430?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
