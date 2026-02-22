@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b3a9081476f6176b3c230?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699b15e6ce78e77b4fdfd13f?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/699b0e9381476f6176b3a4ad?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
+| ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
+| ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/699b277ee0bddb6acaca277d?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 22 |
+| ↳ | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/699b27a5e0bddb6acaca2783?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/699affc681476f6176b39d3f?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 22 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/699afc7ece78e77b4fdfafb6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 22 |
@@ -68,10 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth CTE- Health Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/699ae14e81476f6176b380ac?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | Feb 22 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Feb 22 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/699adda7ce78e77b4fdfac0b?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Feb 22 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[ACE Mentoring Program Alumni Summer Internship](https://jobright.ai/jobs/info/6970503751f72647718285ad?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Feb 22 |
@@ -101,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
 | ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a676581476f6176b2f9bb?utm_campaign=1057&utm_source=git)** | DW-Airport Commerce Park1340 Airport Commerce Dr | On Site | Feb 21 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/699ab5e5ce78e77b4fdf7e2f?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/699ab8e381476f6176b356f8?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
 | ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699a3fc3ce78e77b4fdefb64?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699a3405e0bddb6acac950fa?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69993f3b81476f6176b1d0d8?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Feb 20 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Feb 20 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69995aba81476f6176b20282?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 20 |
-| ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995ee281476f6176b20ae3?utm_campaign=1057&utm_source=git)** | Cascade, CO | On Site | Feb 20 |
-| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Study Start-Up](https://jobright.ai/jobs/info/6999317fe0bddb6acac83ea9?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
-| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Internship - Design & Construction](https://jobright.ai/jobs/info/6994f72ee0bddb6acac37c88?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Feb 20 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69992bd181476f6176b1b4a7?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69992b7ece78e77b4fdde06a?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Summer High School Research Intern - Computational Biology](https://jobright.ai/jobs/info/6999271281476f6176b1ac62?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Feb 20 |
+| ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
