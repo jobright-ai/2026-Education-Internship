@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699b15e6ce78e77b4fdfd13f?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/699b0e9381476f6176b3a4ad?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/699affc681476f6176b39d3f?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 22 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/699afc7ece78e77b4fdfafb6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 22 |
@@ -94,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699a6056ce78e77b4fdf17ee?utm_campaign=1057&utm_source=git)** | Ohio, United States | Remote | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a604b81476f6176b2eaea?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a5942ce78e77b4fdf0992?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699a7a87ce78e77b4fdf3732?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Program Specialist II- Financial Aid](https://jobright.ai/jobs/info/699ab4a0ce78e77b4fdf7cbd?utm_campaign=1057&utm_source=git)** | Bellingham, WA | Hybrid | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
 | ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69992bd181476f6176b1b4a7?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69992b7ece78e77b4fdde06a?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Summer High School Research Intern - Computational Biology](https://jobright.ai/jobs/info/6999271281476f6176b1ac62?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Feb 20 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Advanced Analytics Curriculum Development Intern (Masters)](https://jobright.ai/jobs/info/6999260c81476f6176b1aaaf?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatric and Maternal Nutrition (Part-time)](https://jobright.ai/jobs/info/69992482ce78e77b4fddd14e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
