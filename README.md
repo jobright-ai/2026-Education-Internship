@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Incompass Human Services](https://www.incompasshs.org)** | **[Internship, Unpaid/College Credit](https://jobright.ai/jobs/info/699b5e0dce78e77b4fdff353?utm_campaign=1057&utm_source=git)** | Chelmsford, MA | On Site | Feb 22 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Fellow - Professor David Shafie](https://jobright.ai/jobs/info/699b4c4ace78e77b4fdfefc4?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Feb 22 |
 | ↳ | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b3a9081476f6176b3c230?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 22 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a604b81476f6176b2eaea?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a5942ce78e77b4fdf0992?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Program Specialist II- Financial Aid](https://jobright.ai/jobs/info/699ab4a0ce78e77b4fdf7cbd?utm_campaign=1057&utm_source=git)** | Bellingham, WA | Hybrid | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
-| ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
+| ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a676581476f6176b2f9bb?utm_campaign=1057&utm_source=git)** | DW-Airport Commerce Park1340 Airport Commerce Dr | On Site | Feb 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699a3fc3ce78e77b4fdefb64?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 21 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/699a1989ce78e77b4fdedd4e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Internship - Design & Construction](https://jobright.ai/jobs/info/6994f72ee0bddb6acac37c88?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Feb 20 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - EVAAS Education Policy Intern (Masters)](https://jobright.ai/jobs/info/69992bd181476f6176b1b4a7?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 - Education Training & Program Support Intern](https://jobright.ai/jobs/info/69992b7ece78e77b4fdde06a?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Summer High School Research Intern - Computational Biology](https://jobright.ai/jobs/info/6999271281476f6176b1ac62?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
