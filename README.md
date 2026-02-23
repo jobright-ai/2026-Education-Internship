@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Intern- PATH Internship Program](https://jobright.ai/jobs/info/699ba49281476f6176b3fba1?utm_campaign=1057&utm_source=git)** | Port St Lucie, FL | On Site | Feb 22 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/699ba1bc81476f6176b3f7c6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 22 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/699b945dce78e77b4fe016ae?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 22 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/699b9014e0bddb6acaca692f?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/699b8d40e0bddb6acaca68d2?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 22 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth CTE- Health Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/699ae14e81476f6176b380ac?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | Feb 22 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69995aba81476f6176b20282?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995ee281476f6176b20ae3?utm_campaign=1057&utm_source=git)** | Cascade, CO | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
-| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Study Start-Up](https://jobright.ai/jobs/info/6999317fe0bddb6acac83ea9?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
