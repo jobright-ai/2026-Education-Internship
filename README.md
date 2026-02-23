@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699bb484ce78e77b4fe035a2?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Intern- PATH Internship Program](https://jobright.ai/jobs/info/699ba49281476f6176b3fba1?utm_campaign=1057&utm_source=git)** | Port St Lucie, FL | On Site | Feb 22 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/699ba1bc81476f6176b3f7c6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 22 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/699b945dce78e77b4fe016ae?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 22 |
@@ -70,10 +71,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b3a9081476f6176b3c230?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699b15e6ce78e77b4fdfd13f?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/699b0e9381476f6176b3a4ad?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
-| ↳ | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
+| ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
 | ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/699b277ee0bddb6acaca277d?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 22 |
 | ↳ | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/699b27a5e0bddb6acaca2783?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
