@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Health Alliance](https://ihahealthcare.com)** | **[Global Health Research Internship Abroad](https://jobright.ai/jobs/info/699bca3181476f6176b41c17?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699bb484ce78e77b4fe035a2?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
 | **[City of Port St. Lucie](http://www.cityofpsl.com/)** | **[Intern- PATH Internship Program](https://jobright.ai/jobs/info/699ba49281476f6176b3fba1?utm_campaign=1057&utm_source=git)** | Port St Lucie, FL | On Site | Feb 22 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/699ba1bc81476f6176b3f7c6?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 22 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a604b81476f6176b2eaea?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a5942ce78e77b4fdf0992?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Program Specialist II- Financial Aid](https://jobright.ai/jobs/info/699ab4a0ce78e77b4fdf7cbd?utm_campaign=1057&utm_source=git)** | Bellingham, WA | Hybrid | Feb 21 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
-| ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a69fee0bddb6acac97e29?utm_campaign=1057&utm_source=git)** | AUSTIN (6100 GUADALUPE ST)6100 GUADALUPE ST BLDG E | On Site | Feb 21 |
+| ↳ | **[DPS - Summer Internship Program (College Students Only) - 0152](https://jobright.ai/jobs/info/699a673cce78e77b4fdf2814?utm_campaign=1057&utm_source=git)** | Texas-Beaumont, Texas-Garland, Texas-Lubbock, Texas-Houston, Texas-Austin, Texas-Weslaco, Texas-El Paso | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Outdoor Education and Outreach Team Intern - Austin)](https://jobright.ai/jobs/info/699a676581476f6176b2f9bb?utm_campaign=1057&utm_source=git)** | DW-Airport Commerce Park1340 Airport Commerce Dr | On Site | Feb 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director for International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/699b8a87ce78e77b4fe015c7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
 | ↳ | **[GRADER II (Student/Work Study) - CSC](https://jobright.ai/jobs/info/699b8997e0bddb6acaca684f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Feb 20 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69995aba81476f6176b20282?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995ee281476f6176b20ae3?utm_campaign=1057&utm_source=git)** | Cascade, CO | On Site | Feb 20 |
-| ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
