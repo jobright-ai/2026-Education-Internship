@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6997e720e0bddb6acac6c6f8?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Feb 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Competitive Sports Professional Intern](https://jobright.ai/jobs/info/699c37e481476f6176b4ab72?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Feb 23 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Resource Management](https://jobright.ai/jobs/info/699c33ef81476f6176b4a49e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Feb 23 |
 | **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Feb 23 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b3a9081476f6176b3c230?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
-| ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
 | ↳ | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
+| ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
 | ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/699b277ee0bddb6acaca277d?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 22 |
 | ↳ | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/699b27a5e0bddb6acaca2783?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
@@ -117,7 +118,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Feb 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Feb 22 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Fire & Emergency Services Skillbridge Intern](https://jobright.ai/jobs/info/68f17904f462172a5a7d8fff?utm_campaign=1057&utm_source=git)** | Cape Canaveral, FL | On Site | Feb 22 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[Extension Intern, Douglas County](https://jobright.ai/jobs/info/699acb2ae0bddb6acac9e39c?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Feb 22 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[Extension Intern, Douglas County](https://jobright.ai/jobs/info/699acb2ae0bddb6acac9e39c?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Feb 22 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/698109df7f40342e15d9e3d7?utm_campaign=1057&utm_source=git)** | Juneau, AK | On Site | Feb 22 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6964](https://jobright.ai/jobs/info/699c28f381476f6176b492e5?utm_campaign=1057&utm_source=git)** | Richmond, IN, US | On Site | Feb 22 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/699a971fe0bddb6acac9bda2?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d5c8d137a051025667c4f?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Feb 21 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Feb 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8121?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Feb 21 |
-| **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
