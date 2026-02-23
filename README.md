@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Competitive Sports Professional Intern](https://jobright.ai/jobs/info/699c37e481476f6176b4ab72?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Feb 23 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Resource Management](https://jobright.ai/jobs/info/699c33ef81476f6176b4a49e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Feb 23 |
+| **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Feb 23 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Feb 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Feb 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Feb 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Feb 23 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Feb 23 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fde43ce48107c0543f993?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Media Mentor Education Internship - Summer 2026](https://jobright.ai/jobs/info/699c1eb3ce78e77b4fe0ae6a?utm_campaign=1057&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM Media Mentor Education Internship - Summer 2026](https://jobright.ai/jobs/info/699c1a83ce78e77b4fe0a7b0?utm_campaign=1057&utm_source=git)** | Springfield, MA | Hybrid | Feb 23 |
 | **[GBH](http://www.wgbh.org/)** | **[Audio Visual Metadata and Training Data Internship - Summer 2026](https://jobright.ai/jobs/info/699c192b81476f6176b4779f?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
@@ -82,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/699b3a9081476f6176b3c230?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Feb 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Feb 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
-| ↳ | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
 | ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
+| ↳ | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
 | ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/699b277ee0bddb6acaca277d?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 22 |
 | ↳ | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/699b27a5e0bddb6acaca2783?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
@@ -110,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Fire & Emergency Services Skillbridge Intern](https://jobright.ai/jobs/info/68f17904f462172a5a7d8fff?utm_campaign=1057&utm_source=git)** | Cape Canaveral, FL | On Site | Feb 22 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Extension Intern, Douglas County](https://jobright.ai/jobs/info/699acb2ae0bddb6acac9e39c?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Feb 22 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Intern - Learning & Development](https://jobright.ai/jobs/info/698109df7f40342e15d9e3d7?utm_campaign=1057&utm_source=git)** | Juneau, AK | On Site | Feb 22 |
+| **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6964](https://jobright.ai/jobs/info/699c28f381476f6176b492e5?utm_campaign=1057&utm_source=git)** | Richmond, IN, US | On Site | Feb 22 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/699a971fe0bddb6acac9bda2?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Feb 21 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/699a8e1ce0bddb6acac99cb4?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 21 |
 | ↳ | **[Psychology Intern](https://jobright.ai/jobs/info/699ad9b9ce78e77b4fdfab54?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Feb 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8121?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Feb 21 |
 | **[Improvix Technologies](https://www.improvixtech.com)** | **[SkillBridge Training Intern](https://jobright.ai/jobs/info/697d3946727747250d5808b7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
-| **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Information Technology Internships - Summer 2026](https://jobright.ai/jobs/info/694475d1dd382f5f566aa0dd?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Feb 21 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697ce654137a05102565d007?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Feb 21 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44734ffc1276de3fd92aa?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
-| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ed913081fdd1626d39d8eb?utm_campaign=1057&utm_source=git)** | Greater Idaho Falls | On Site | Feb 21 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/697d45a03f57a335696713e2?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Feb 21 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Study Coordination](https://jobright.ai/jobs/info/6996858d81476f6176ae5fbb?utm_campaign=1057&utm_source=git)** | Horsham, PA | On Site | Feb 21 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Feb 21 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Training Intern](https://jobright.ai/jobs/info/699ac7b9e0bddb6acac9e10e?utm_campaign=1057&utm_source=git)** | Arkansas, United States | Remote | Feb 21 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/699963a5e0bddb6acac89614?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Feb 20 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69995437ce78e77b4fde2015?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
