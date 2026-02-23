@@ -70,12 +70,11 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/699b18fdce78e77b4fdfd188?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Feb 22 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/699b15e6ce78e77b4fdfd13f?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Feb 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/699b0e9381476f6176b3a4ad?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
-| ↳ | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Padonia International Elementary.Assistant Principal.0810](https://jobright.ai/jobs/info/699b270ce0bddb6acaca2751?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Feb 22 |
+| ↳ | **[2026-27 Lecturer Pool International Education and Global Engagement](https://jobright.ai/jobs/info/699b2884ce78e77b4fdfd2ef?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Feb 22 |
 | ↳ | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/699b277ee0bddb6acaca277d?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Feb 22 |
 | ↳ | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/699b27a5e0bddb6acaca2783?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Feb 22 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/699affc681476f6176b39d3f?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Feb 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69995aba81476f6176b20282?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995ee281476f6176b20ae3?utm_campaign=1057&utm_source=git)** | Cascade, CO | On Site | Feb 20 |
 | ↳ | **[Clinical Internship](https://jobright.ai/jobs/info/69995571e0bddb6acac8804c?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 20 |
+| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Study Start-Up](https://jobright.ai/jobs/info/6999317fe0bddb6acac83ea9?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
