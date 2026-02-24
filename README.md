@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Asst/Assoc Prof of Strategic Management and International Business](https://jobright.ai/jobs/info/699db317ce78e77b4fe2cb62?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Feb 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Venue Nation Rotational Internship - New York](https://jobright.ai/jobs/info/6980ef4449964d25b5e3b9e8?utm_campaign=1057&utm_source=git)** | Wantagh, NY | On Site | Feb 24 |
 | ↳ | **[Venue Nation Rotational Internship - Dallas](https://jobright.ai/jobs/info/6980efda49964d25b5e3ba9a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/694a420f31c12007d3b9042b?utm_campaign=1057&utm_source=git)** | Cumberland, RI | On Site | Feb 24 |
@@ -126,15 +127,15 @@ For a complete list, click the following sortable link below:
 | **[La Clínica de La Raza](https://laclinica.org/)** | **[Eden ROP Internship - Union City](https://jobright.ai/jobs/info/699d1c1781476f6176b5c005?utm_campaign=1057&utm_source=git)** | Union City , CA | On Site | Feb 23 |
 | **[Snowflake](https://www.snowflake.com)** | **[Financial System Intern - Summer 2026](https://jobright.ai/jobs/info/699cf1f7ce78e77b4fe1aa3f?utm_campaign=1057&utm_source=git)** | Dublin, CA | On Site | Feb 23 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/699d0e83e0bddb6acacc2a2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| ↳ | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/699d1243e0bddb6acacc2f1b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 23 |
+| ↳ | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/699d1643ce78e77b4fe1e7ad?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Vice President, Student Engagement](https://jobright.ai/jobs/info/699d55a281476f6176b62ca2?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 | **[City of Oxnard](https://www.oxnard.gov/)** | **[City Corps Student Trainee - Extra Help](https://jobright.ai/jobs/info/699d5312ce78e77b4fe25ab5?utm_campaign=1057&utm_source=git)** | Oxnard, CA | On Site | Feb 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/699cf0d6ce78e77b4fe1a8a8?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 23 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Psychology Intern-MSH-Adolescent Health Center-FT-Days](https://jobright.ai/jobs/info/699d1fe181476f6176b5c560?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Personal Lines Underwriting (Montpelier)](https://jobright.ai/jobs/info/699d286de0bddb6acacc50e4?utm_campaign=1057&utm_source=git)** | Montpelier, Vermont, United States | On Site | Feb 23 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship- Academic Sales & Marketing (remote/hybrid)](https://jobright.ai/jobs/info/699d14cdce78e77b4fe1e597?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 23 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Internship- Academic Sales & Marketing (remote/hybrid)](https://jobright.ai/jobs/info/699d144481476f6176b5b53e?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 23 |
 | ↳ | **[JMP Summer 2026 Internship- Academic Sales & Marketing (remote/hybrid)](https://jobright.ai/jobs/info/699d1779e0bddb6acacc3608?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Feb 23 |
-| ↳ | **[JMP Summer 2026 Internship- Academic Sales & Marketing (remote/hybrid)](https://jobright.ai/jobs/info/699d144481476f6176b5b53e?utm_campaign=1057&utm_source=git)** | North Carolina | Hybrid | Feb 23 |
+| ↳ | **[JMP Summer 2026 Internship- Academic Sales & Marketing (remote/hybrid)](https://jobright.ai/jobs/info/699d14cdce78e77b4fe1e597?utm_campaign=1057&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 23 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: New Hire Orientation & AI-Enabled Learning Experience Intern (Remote)](https://jobright.ai/jobs/info/699ce85a81476f6176b5714d?utm_campaign=1057&utm_source=git)** | Remote (US) | Remote | Feb 23 |
 | **[North Range Behavioral Health](https://northrange.org/)** | **[Intern - Masters Level - Adult Outpatient Program - Fall](https://jobright.ai/jobs/info/699ce772e0bddb6acacbecb8?utm_campaign=1057&utm_source=git)** | Island Grove Center - Greeley, CO 80631 | On Site | Feb 23 |
 | ↳ | **[Intern - Masters Level - Crisis Stabilization Services Summer or Fall](https://jobright.ai/jobs/info/699ce50ace78e77b4fe19b6e?utm_campaign=1057&utm_source=git)** | Merle Evans Center - Greeley, CO 80631 | On Site | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Incite Center LLC](www.theincitecenter.com)** | **[Graduate Counseling Internship](https://jobright.ai/jobs/info/699cf35ace78e77b4fe1ac07?utm_campaign=1057&utm_source=git)** | Lone Tree, CO | On Site | Feb 23 |
 | **[Applewood Centers Inc](https://www.applewoodcenters.org)** | **[School Based Counseling Paid Internship](https://jobright.ai/jobs/info/699cce37e0bddb6acacbda59?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Feb 23 |
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953ec7a5bb7de448ef6e667?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Feb 23 |
-| **[North Range Behavioral Health](https://northrange.org/)** | **[Intern - Masters Level - Frontier House Summer or Fall](https://jobright.ai/jobs/info/699cf1b1ce78e77b4fe1a9d8?utm_campaign=1057&utm_source=git)** | Frontier House - Greeley, CO 80631 | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
