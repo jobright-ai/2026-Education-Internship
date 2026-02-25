@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Educational Activities](https://jobright.ai/jobs/info/699f4f26ce78e77b4fe51cc8?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Feb 25 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Community Health Master's Intern](https://jobright.ai/jobs/info/699f4de494ef206f184e7857?utm_campaign=1057&utm_source=git)** | Oakland, CA | Remote | Feb 25 |
+| **[American College of Radiology](http://www.acr.org)** | **[Intern - Medical Education](https://jobright.ai/jobs/info/699f4c4f94ef206f184e76b2?utm_campaign=1057&utm_source=git)** | Silver Spring, Maryland, United States | Hybrid | Feb 25 |
+| **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Training Content Coordinator Co-Op](https://jobright.ai/jobs/info/699f4bb894ef206f184e762c?utm_campaign=1057&utm_source=git)** | Fairport, NY | On Site | Feb 25 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information & Technology Undergraduate Internship](https://jobright.ai/jobs/info/69994bfbe0bddb6acac86d45?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | Hybrid | Feb 25 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Technical Training Intern Level C (Rochester, NY)](https://jobright.ai/jobs/info/699f47fa94ef206f184e742c?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Feb 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
@@ -116,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/6966cca8a112b4026614d08f?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Medical Writing](https://jobright.ai/jobs/info/6966f85da135876680843e4e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/69671d65f7d5ac1d4827e2bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 25 |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Trading Intern](https://jobright.ai/jobs/info/699efb73ce78e77b4fe4b0d4?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Feb 25 |
 | **[Friends University](http://www.friends.edu/)** | **[Graduate Intern FY26 - Athletic Administration Sports Media Graduate Assistant Intern (6808)](https://jobright.ai/jobs/info/699ecf3194ef206f184dcd71?utm_campaign=1057&utm_source=git)** | 2100 W University Ave - WICHITA, KS 67213 | On Site | Feb 25 |
 | **[EPCOR](http://www.epcor.com)** | **[Learning & Development - Summer Intern](https://jobright.ai/jobs/info/69823bf6c3101f1400c3ecee?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Feb 25 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[2027 Summer Instructional Designer Internship](https://jobright.ai/jobs/info/69996d80ce78e77b4fde50da?utm_campaign=1057&utm_source=git)** | West Mifflin, PA | On Site | Feb 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western Technical College - Company](http://www.westerntc.edu/)** | **[Career Services Student Internship (part-time)](https://jobright.ai/jobs/info/699e5115e0bddb6acacdc236?utm_campaign=1057&utm_source=git)** | La Crosse, WI | On Site | Feb 24 |
 | **[Tech Academy](http://techacademymn.com/)** | **[STEM Summer Instructor/Assistant/Internship (Coding, & Technology)](https://jobright.ai/jobs/info/699e6b13e0bddb6acacdf61d?utm_campaign=1057&utm_source=git)** | Roseville, MN | On Site | Feb 24 |
 | ↳ | **[STEM Summer Instructor / Internship / Assistant (Robotics & Coding)](https://jobright.ai/jobs/info/699e6694e0bddb6acacdec6f?utm_campaign=1057&utm_source=git)** | Blaine, MN | On Site | Feb 24 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Program Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/699e65a1e0bddb6acacdea93?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
-| **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/699ea14681476f6176b7f1f1?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Feb 24 |
-| **[National Center for Youth Law](http://youthlaw.org)** | **[Summer 2026 Youth Justice Undergraduate Internship](https://jobright.ai/jobs/info/699e8263ce78e77b4fe3e15b?utm_campaign=1057&utm_source=git)** | Fully Remote | Remote | Feb 24 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[2026 FC Dallas Youth Club Summer Internship](https://jobright.ai/jobs/info/699e80fb81476f6176b7ac41?utm_campaign=1057&utm_source=git)** | Frisco, Texas | On Site | Feb 24 |
-| ↳ | **[2026 Summer Programs Intern](https://jobright.ai/jobs/info/699e92aa81476f6176b7cf1f?utm_campaign=1057&utm_source=git)** | Frisco, Texas | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
