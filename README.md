@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/696883e5f25a38006696f927?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern- Adult Day](https://jobright.ai/jobs/info/69a067575218a81676718397?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Feb 26 |
 | **[The Insights Partnership, LLC](www.insightspartnership.com)** | **[Part Time Internship Program Manager (Chicago Residents Only)](https://jobright.ai/jobs/info/69a0625a5218a816767179c7?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Feb 26 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69a061995218a81676717833?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Feb 26 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Cobb EMC](https://www.cobbemc.com/)** | **[Education & Community Relations Intern](https://jobright.ai/jobs/info/699f8b2b81476f6176b93100?utm_campaign=1057&utm_source=git)** | Marietta, GA | On Site | Feb 25 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Chicago - Beverly](https://jobright.ai/jobs/info/699fedb3ce78e77b4fe5eaa6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/69a00c0b53d97f23ee65ba31?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/699ff48481476f6176b9d9a0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, Wheaton](https://jobright.ai/jobs/info/699ff18153d97f23ee65860b?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Feb 25 |
+| ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/699ff48481476f6176b9d9a0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/699ff35b81476f6176b9d73e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, La Grange](https://jobright.ai/jobs/info/699fe869ce78e77b4fe5dd90?utm_campaign=1057&utm_source=git)** | La Grange, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/69a0030553d97f23ee65a5e3?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/699f913823374b3b6e6b5ba5?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Feb 25 |
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY TEACHER - PLAYFORD INTERNATIONAL COLLEGE - PHYSICAL EDUCATION / HEALTH EDUCATION](https://jobright.ai/jobs/info/69a01d8281476f6176ba2741?utm_campaign=1057&utm_source=git)** | College, AK | On Site | Feb 25 |
 | **[National Trust for Historic Preservation](https://savingplaces.org/historicrestaurants)** | **[Education and Social History Internship (The Glass House)](https://jobright.ai/jobs/info/699f760623374b3b6e6b48c7?utm_campaign=1057&utm_source=git)** | New Canaan, CT, US | On Site | Feb 25 |
-| **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[In-Home Therapy Clinical Intern](https://jobright.ai/jobs/info/698511bf8da7a612045f63eb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
