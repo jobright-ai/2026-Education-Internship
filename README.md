@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/699f794781476f6176b90b1d?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 25 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Clinical Non-Nursing Intern - Cardiovascular Institute](https://jobright.ai/jobs/info/699f8007ce78e77b4fe54305?utm_campaign=1057&utm_source=git)** | SD, Sioux Falls | On Site | Feb 25 |
 | **[National Trust for Historic Preservation](https://savingplaces.org/historicrestaurants)** | **[Education and Social History Internship (The Glass House)](https://jobright.ai/jobs/info/699f760623374b3b6e6b48c7?utm_campaign=1057&utm_source=git)** | New Canaan, CT, US | On Site | Feb 25 |
-| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Educational Activities](https://jobright.ai/jobs/info/699f4f26ce78e77b4fe51cc8?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Feb 25 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/699f79e481476f6176b90c5b?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Feb 25 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Community Health Master's Intern](https://jobright.ai/jobs/info/699f4de494ef206f184e7857?utm_campaign=1057&utm_source=git)** | Oakland, CA | Remote | Feb 25 |
 | **[American College of Radiology](http://www.acr.org)** | **[Intern - Medical Education](https://jobright.ai/jobs/info/699f4c4f94ef206f184e76b2?utm_campaign=1057&utm_source=git)** | Silver Spring, Maryland, United States | Hybrid | Feb 25 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Training Content Coordinator Co-Op](https://jobright.ai/jobs/info/699f4bb894ef206f184e762c?utm_campaign=1057&utm_source=git)** | Fairport, NY | On Site | Feb 25 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/699f6d1f23374b3b6e6b436a?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Feb 25 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Technical Training Intern Level C (Rochester, NY)](https://jobright.ai/jobs/info/699f47fa94ef206f184e742c?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Feb 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
 | **[Chesterfield College](https://www.chesterfield.ac.uk)** | **[Work Based Tutor/IQA – Electrical installation](https://jobright.ai/jobs/info/699f474981476f6176b8e92b?utm_campaign=1057&utm_source=git)** | Field, British Columbia, Canada | On Site | Feb 25 |
@@ -75,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/699f3e5d94ef206f184e60e0?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Feb 25 |
 | **[WITF, Inc.](http://www.witf.org/)** | **[Elementary Education Intern - Summer 2026](https://jobright.ai/jobs/info/699f71c423374b3b6e6b463c?utm_campaign=1057&utm_source=git)** | Harrisburg,PA,US | On Site | Feb 25 |
 | **[Andersen](http://www.Andersen.com)** | **[Event Planning Intern, Learning & Development](https://jobright.ai/jobs/info/699f3d5681476f6176b8e3a8?utm_campaign=1057&utm_source=git)** | St Charles, IL | On Site | Feb 25 |
-| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/699f5f2fce78e77b4fe52782?utm_campaign=1057&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 25 |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/699f5f3a81476f6176b8f97e?utm_campaign=1057&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 25 |
+| ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/699f5f2fce78e77b4fe52782?utm_campaign=1057&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 25 |
 | ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/699f6bbcce78e77b4fe52f96?utm_campaign=1057&utm_source=git)** | Conshohocken, PA, US | Hybrid | Feb 25 |
-| ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/699f5f3a81476f6176b8f97e?utm_campaign=1057&utm_source=git)** | US-PA-Conshohocken | Hybrid | Feb 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Technology & Intelligence Summer Intern- Hawaii (IT Intern)- 26632](https://jobright.ai/jobs/info/696705d26f782b4e8d52b358?utm_campaign=1057&utm_source=git)** | Honolulu Metro | On Site | Feb 25 |
 | **[Arisa Health](https://www.arisahealth.org)** | **[Counseling Internship - Springdale Adult Outpatient - Summer 2026](https://jobright.ai/jobs/info/699f6a3281476f6176b900ec?utm_campaign=1057&utm_source=git)** | Springdale, Arkansas, United States | On Site | Feb 25 |
 | **[Cobb EMC](https://www.cobbemc.com/)** | **[Education & Community Relations Intern](https://jobright.ai/jobs/info/699f713881476f6176b90629?utm_campaign=1057&utm_source=git)** | Marietta, GA, US | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer STEM Instructor / Internship / Assistant (Coding & Technology)](https://jobright.ai/jobs/info/699e5b0481476f6176b75a11?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Feb 24 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - MaineHealth Research Institute](https://jobright.ai/jobs/info/699e5aeace78e77b4fe38a30?utm_campaign=1057&utm_source=git)** | Scarborough, ME | On Site | Feb 24 |
 | **[Tech Academy](http://techacademymn.com/)** | **[Summer Instructor/Assistant/Internship (Computer Science & Technology)](https://jobright.ai/jobs/info/699e58d5ce78e77b4fe38608?utm_campaign=1057&utm_source=git)** | Forest Lake, MN | On Site | Feb 24 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[College English Major/Minor Internship 2026](https://jobright.ai/jobs/info/699e5752e0bddb6acacdcedc?utm_campaign=1057&utm_source=git)** | New York City, NY | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
