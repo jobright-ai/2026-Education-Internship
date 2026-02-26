@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NV5](http://www.nv5.com)** | **[Survey Student Intern](https://jobright.ai/jobs/info/69a09ffb5218a8167671cde6?utm_campaign=1057&utm_source=git)** | Alachua, FL, US | On Site | Feb 26 |
+| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/69731f001790715e866c1d83?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | Feb 26 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69a0a32c5218a8167671d082?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 26 |
+| **[NV5](http://www.nv5.com)** | **[Survey Student Intern](https://jobright.ai/jobs/info/69a0a2f85218a8167671d053?utm_campaign=1057&utm_source=git)** | Alachua, FL | Hybrid | Feb 26 |
+| ↳ | **[Survey Student Intern](https://jobright.ai/jobs/info/69a09ffb5218a8167671cde6?utm_campaign=1057&utm_source=git)** | Alachua, FL, US | On Site | Feb 26 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Psychology Intern - Edgar Behavioral Health Services - Days/ Evenings](https://jobright.ai/jobs/info/69a09d8a0836fe79d861a1e4?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Feb 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Early Employment & Career development Intern (Unpaid)](https://jobright.ai/jobs/info/69a09d1b81476f6176baedfa?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Summer Education Programs Intern (onsite)](https://jobright.ai/jobs/info/69a09c9a81476f6176baedac?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Feb 26 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[2026 Summer Education Intern - OKC Zoo](https://jobright.ai/jobs/info/69a042395218a81676714eba?utm_campaign=1057&utm_source=git)** | Oklahoma, United States | On Site | Feb 26 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fef390f4e0f657ea43724?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Feb 26 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Resource Coordination, Scheduling and Work Support](https://jobright.ai/jobs/info/69a024ec5218a8167671150b?utm_campaign=1057&utm_source=git)** | Melville 25 Hub Drive | Hybrid | Feb 26 |
-| ↳ | **[Summer 2026 Intern Program: Social Impact and Community Engagement](https://jobright.ai/jobs/info/69a02f005218a81676712f5e?utm_campaign=1057&utm_source=git)** | Waltham 170 Data Dr | On Site | Feb 26 |
 | ↳ | **[Summer 2026 Intern Program: Social Impact and Community Engagement](https://jobright.ai/jobs/info/69a02c710836fe79d860fdf2?utm_campaign=1057&utm_source=git)** | Brooklyn 2 Hanson Place 12th Floor | On Site | Feb 26 |
+| ↳ | **[Summer 2026 Intern Program: Social Impact and Community Engagement](https://jobright.ai/jobs/info/69a02f005218a81676712f5e?utm_campaign=1057&utm_source=git)** | Waltham 170 Data Dr | On Site | Feb 26 |
 | ↳ | **[Summer 2026 Intern Program: New England Absence Management](https://jobright.ai/jobs/info/69a02e835218a81676712e78?utm_campaign=1057&utm_source=git)** | Northboro 55 Bearfoot Road | Hybrid | Feb 26 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696feefe0f4e0f657ea4369b?utm_campaign=1057&utm_source=git)** | Scottsbluff, NE | On Site | Feb 26 |
 | ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fef7282817106e976f527?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 26 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Social Impact and Community Engagement](https://jobright.ai/jobs/info/69a021f90836fe79d860e3a7?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Feb 25 |
 | ↳ | **[Summer 2026 Intern Program: Resource Coordination, Scheduling and Work Support](https://jobright.ai/jobs/info/69a020150836fe79d860debe?utm_campaign=1057&utm_source=git)** | Melville, NY | Hybrid | Feb 25 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 25 |
-| ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Feb 25 |
 | ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 25 |
+| ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Feb 25 |
 | ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979ae6bca92cf0d6a82f92e?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Feb 25 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Associate Program Director for AANHPISI Initiatives (Student Services Professional IV)](https://jobright.ai/jobs/info/69a00a5b81476f6176ba0540?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/699feb3f53d97f23ee657b19?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Feb 25 |
@@ -144,17 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Counseling Internship - Springdale Adult Outpatient - Summer 2026](https://jobright.ai/jobs/info/69a00842ce78e77b4fe62db0?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 25 |
 | ↳ | **[BSW Internship - Springdale School Based - Summer 2026](https://jobright.ai/jobs/info/69a0021753d97f23ee65a424?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 25 |
 | **[Town of Huntersville](https://www.huntersville.org/)** | **[Intern](https://jobright.ai/jobs/info/699fb90c81476f6176b971fa?utm_campaign=1057&utm_source=git)** | Huntersville, NC | On Site | Feb 25 |
-| **[PRACTICE](https://practicebc.com/)** | **[Mathematics - Middle School Intern](https://jobright.ai/jobs/info/69a08e8b5218a8167671b963?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Feb 25 |
-| ↳ | **[Math Intervention Intern – High School](https://jobright.ai/jobs/info/69a0910981476f6176bae0fb?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Feb 25 |
+| **[PRACTICE](https://practicebc.com/)** | **[Math Intervention Intern – High School](https://jobright.ai/jobs/info/69a0910981476f6176bae0fb?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Feb 25 |
+| ↳ | **[Mathematics - Middle School Intern](https://jobright.ai/jobs/info/69a08e8b5218a8167671b963?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Feb 25 |
 | **[PlayCore](http://www.playcore.com/)** | **[CORE Intern - PlayCore](https://jobright.ai/jobs/info/699fd9c381476f6176b99360?utm_campaign=1057&utm_source=git)** | Chattanooga, TN 37402, USA | On Site | Feb 25 |
 | **[Fermilab](http://fnal.gov)** | **[PRISM Internship Supervisor - On Call](https://jobright.ai/jobs/info/699f8ee781476f6176b93991?utm_campaign=1057&utm_source=git)** | Batavia, IL | Hybrid | Feb 25 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Learning and Development - Org/Dev Intern](https://jobright.ai/jobs/info/699f8e0a81476f6176b9379b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Research Assistant Internship – Science and Technology](https://jobright.ai/jobs/info/699fb10181476f6176b96a1b?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID, United States | On Site | Feb 25 |
 | **[Cobb EMC](https://www.cobbemc.com/)** | **[Education & Community Relations Intern](https://jobright.ai/jobs/info/699f8b2b81476f6176b93100?utm_campaign=1057&utm_source=git)** | Marietta, GA | On Site | Feb 25 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Chicago - Beverly](https://jobright.ai/jobs/info/699fedb3ce78e77b4fe5eaa6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Summer Camp Intern, Wheaton](https://jobright.ai/jobs/info/699ff18153d97f23ee65860b?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Feb 25 |
-| ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/699ff48481476f6176b9d9a0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Square](https://jobright.ai/jobs/info/69a00c0b53d97f23ee65ba31?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/699ff35b81476f6176b9d73e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Summer Camp Intern, La Grange](https://jobright.ai/jobs/info/699fe869ce78e77b4fe5dd90?utm_campaign=1057&utm_source=git)** | La Grange, IL | On Site | Feb 25 |
+| ↳ | **[Summer Camp Intern, Chicago - Hyde Park](https://jobright.ai/jobs/info/699ff48481476f6176b9d9a0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
