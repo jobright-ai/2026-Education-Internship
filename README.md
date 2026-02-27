@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Social Impact and Community Engagement](https://jobright.ai/jobs/info/69a021f90836fe79d860e3a7?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Feb 25 |
 | ↳ | **[Summer 2026 Intern Program: Resource Coordination, Scheduling and Work Support](https://jobright.ai/jobs/info/69a020150836fe79d860debe?utm_campaign=1057&utm_source=git)** | Melville, NY | Hybrid | Feb 25 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Feb 25 |
-| ↳ | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Feb 25 |
+| ↳ | **[Whitehall Psychology Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69799ebeca92cf0d6a82dfc0?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
