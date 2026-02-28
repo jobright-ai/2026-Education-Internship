@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a2913a0da45516f16be724?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 27 |
 | **[Illinois Mathematics and Science Academy](https://www.imsa.edu/)** | **[SITE Intern](https://jobright.ai/jobs/info/69a280890da45516f16bd075?utm_campaign=1057&utm_source=git)** | Aurora, IL | Hybrid | Feb 27 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Program Management](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69a26244b600907a9628acda?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Feb 27 |
@@ -73,13 +74,13 @@ For a complete list, click the following sortable link below:
 | **[Trillium Family Services](www.trilliumfamily.org)** | **[Graduate Clinical Internship](https://jobright.ai/jobs/info/69a2585db600907a9628a0aa?utm_campaign=1057&utm_source=git)** | Portland, OR, US | On Site | Feb 27 |
 | ↳ | **[Graduate Clinical Internship](https://jobright.ai/jobs/info/69a25a25359fe034b1cd939a?utm_campaign=1057&utm_source=git)** | Corvallis, OR, US | On Site | Feb 27 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Great Lakes Friendly Restaurant Program Internship Program - Spring 2026](https://jobright.ai/jobs/info/69a2715f0da45516f16bbbcb?utm_campaign=1057&utm_source=git)** | University of Illinois - Chicago (UIC) 412 South Peoria Street, Suite 400 Chicago, Illinois 60607-7067 | Hybrid | Feb 27 |
-| **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-Community Food Systems - Boise](https://jobright.ai/jobs/info/69a26f5a359fe034b1cdb02e?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
-| ↳ | **[Summer Internship-FCS Community Instructor - Boise](https://jobright.ai/jobs/info/69a27255b600907a9628c4a2?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
-| **[Amy's Kitchen](http://www.amys.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
-| ↳ | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69a25b5cb600907a9628a34b?utm_campaign=1057&utm_source=git)** | Pocatello, Idaho, United States | On Site | Feb 27 |
+| **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-FCS Community Instructor - Boise](https://jobright.ai/jobs/info/69a27255b600907a9628c4a2?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
+| ↳ | **[Summer Internship-Community Food Systems - Boise](https://jobright.ai/jobs/info/69a26f5a359fe034b1cdb02e?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
+| **[Amy's Kitchen](http://www.amys.com)** | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69a25b5cb600907a9628a34b?utm_campaign=1057&utm_source=git)** | Pocatello, Idaho, United States | On Site | Feb 27 |
+| ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Youth Summer Internship](https://jobright.ai/jobs/info/69a2791d359fe034b1cdc091?utm_campaign=1057&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a255ffb600907a96289e71?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
-| ↳ | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a2626f0da45516f16ba7ec?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a2626f0da45516f16ba7ec?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| ↳ | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a255ffb600907a96289e71?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | ↳ | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a255770da45516f16b9921?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a255ea359fe034b1cd8f78?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Henderson Food is Medicine Internship](https://jobright.ai/jobs/info/69959744e0bddb6acac4267e?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 27 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - BEP](https://jobright.ai/jobs/info/69a1c5d7b600907a962825ef?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Feb 27 |
 | **[ISEEN: Independent Schools Experiential Education Network](http://www.iseeninfo.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69a1f031b600907a96283f0b?utm_campaign=1057&utm_source=git)** | Potomac, MD | Hybrid | Feb 27 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship- 7 East)](https://jobright.ai/jobs/info/69a1aeb70da45516f16b1072?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Feb 27 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Operations Training](https://jobright.ai/jobs/info/69a1ae21b600907a962813b6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Leadership Development Summer Internship Program](https://jobright.ai/jobs/info/698f04d30cc8ea15f1d95a3c?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Feb 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[School of Medicine - Student Affairs Master's Intern](https://jobright.ai/jobs/info/69a1a8ee0da45516f16b0b09?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Feb 27 |
