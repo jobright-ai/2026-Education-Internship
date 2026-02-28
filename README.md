@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a339450da45516f16c7a24?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d259e3f57a3356966e037?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Feb 28 |
+| **[ITHAKA](http://www.ithaka.org)** | **[Intern, Ithaka S+R (Rural Student Success Network)](https://jobright.ai/jobs/info/697263c64ccbf64f8df25dc3?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 28 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a3275d359fe034b1ce685c?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 28 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/69a3260bb600907a9629745d?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | Feb 28 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Youth Summer Internship](https://jobright.ai/jobs/info/69a3158a0da45516f16c6844?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Feb 28 |
@@ -139,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[City of Leawood, Kansas](http://www.leawood.org)** | **[Recreation Intern (Seasonal)](https://jobright.ai/jobs/info/69a28162b600907a9628d706?utm_campaign=1057&utm_source=git)** | Leawood, KS | On Site | Feb 27 |
 | **[Irregular Hours](www.irregularhours.com)** | **[(NY) Campus Representative Internship SPRING 2026](https://jobright.ai/jobs/info/69a2ea860da45516f16c4818?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Feb 27 |
 | **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/69a22f550da45516f16b77c3?utm_campaign=1057&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Feb 27 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/69a22f51b600907a96287bc6?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Feb 27 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/69a22ac3b600907a9628777e?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Feb 27 |
 | **[Partners In Excellence](http://partnersmn.com)** | **[Behavior Therapist Intern - Arden Hills](https://jobright.ai/jobs/info/69961d8481476f6176add889?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Feb 27 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Internship - Life Company](https://jobright.ai/jobs/info/69a22ac10da45516f16b735c?utm_campaign=1057&utm_source=git)** | Columbia, MO - Corporate Office | On Site | Feb 27 |
 | **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/69a2151b359fe034b1cd535a?utm_campaign=1057&utm_source=git)** | Orange County | On Site | Feb 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a2c7030da45516f16c31da?utm_campaign=1057&utm_source=git)** | Kobuk, AK | On Site | Feb 27 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Psychology Intern - Edgar Behavioral Health Services - Days/ Evenings](https://jobright.ai/jobs/info/69a1f1600da45516f16b3bc8?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Feb 27 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a1ec5c359fe034b1cd2d2b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 27 |
-| **[WellSpan Health](https://www.wellspan.org/)** | **[Psychology Intern - Edgar Behavioral Health Services - Days / Evenings](https://jobright.ai/jobs/info/69a22ac1359fe034b1cd6841?utm_campaign=1057&utm_source=git)** | 3550-3578 Concord Rd, York, PA, 17402, US | On Site | Feb 27 |
-| **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Social Worker Intern - Educational Service Center](https://jobright.ai/jobs/info/69a215b50da45516f16b5f01?utm_campaign=1057&utm_source=git)** | 4610 South Ulster St, Denver, CO, 80237, US | On Site | Feb 27 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Internship - Culture Team](https://jobright.ai/jobs/info/69a1e6ddb600907a9628396c?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Feb 27 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Virtual Reality Training Intern - Summer 2026](https://jobright.ai/jobs/info/69a1e5df359fe034b1cd2a3a?utm_campaign=1057&utm_source=git)** | Tualatin, OR | Hybrid | Feb 27 |
-| **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2, Temporary)](https://jobright.ai/jobs/info/69a1e474b600907a96283831?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
