@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69a35c70b600907a9629924f?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a339450da45516f16c7a24?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d259e3f57a3356966e037?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a2c7030da45516f16c31da?utm_campaign=1057&utm_source=git)** | Kobuk, AK | On Site | Feb 27 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Psychology Intern - Edgar Behavioral Health Services - Days/ Evenings](https://jobright.ai/jobs/info/69a1f1600da45516f16b3bc8?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Feb 27 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a1ec5c359fe034b1cd2d2b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 27 |
-| **[WellSpan Health](https://www.wellspan.org/)** | **[Psychology Intern - Edgar Behavioral Health Services - Days / Evenings](https://jobright.ai/jobs/info/69a22ac1359fe034b1cd6841?utm_campaign=1057&utm_source=git)** | 3550-3578 Concord Rd, York, PA, 17402, US | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
