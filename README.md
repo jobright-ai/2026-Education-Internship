@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a4399c0da45516f16d2ae2?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Mar 01 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Mar 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Mar 01 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Nashville Zoo](https://www.nashvillezoo.org)** | **[Education Internship Summer 2026](https://jobright.ai/jobs/info/69a400f4359fe034b1cef24d?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Mar 01 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[KD Intern](https://jobright.ai/jobs/info/69a3fab50da45516f16cf781?utm_campaign=1057&utm_source=git)** | Doswell, VA | On Site | Mar 01 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69a3fa66b600907a9629fba9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a3f7ddb600907a9629f7d9?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Program Director for AANHPISI Initiatives (Student Services Professional IV)](https://jobright.ai/jobs/info/69a3f7c50da45516f16cf401?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69a3f530b600907a9629f4e9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e58db600907a9629d9de?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 28 |
@@ -109,11 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39dbcb600907a9629ac15?utm_campaign=1057&utm_source=git)** | Norwood, MA, USA | On Site | Feb 28 |
 | **[Huron-Clinton Metroparks](https://www.metroparks.com/)** | **[(Intern) Interpretive Services Intern](https://jobright.ai/jobs/info/69a397b0359fe034b1ce9709?utm_campaign=1057&utm_source=git)** | Ray, MI | On Site | Feb 28 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Summer Intern (Days)](https://jobright.ai/jobs/info/69a3922fb600907a96299d1d?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Feb 28 |
-| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69a38bc60da45516f16c960d?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Feb 28 |
 | **[City of Columbia SC](https://columbiasc.gov/)** | **[CITY OF COLUMBIA SUMMER HIGH SCHOOL INTERN](https://jobright.ai/jobs/info/69a400dc0da45516f16cfd6f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Feb 28 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69a3813ab600907a962999fc?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
-| ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a3813ab600907a962999fd?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
-| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a38127b600907a962999ea?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a3813ab600907a962999fd?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
+| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69a3813ab600907a962999fc?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69a372110da45516f16c9206?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69a35c70b600907a9629924f?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a339450da45516f16c7a24?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/69537070f1f8465b79eac143?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, United States | On Site | Feb 28 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/69a40bb7b600907a962a1969?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | Hybrid | Feb 28 |
 | **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[Nursing Instructor - Graduate Nurse-Internationally Educated Re-entry Program - Competition ID: 4515](https://jobright.ai/jobs/info/69a2a7f20da45516f16c091a?utm_campaign=1057&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Feb 28 |
+| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kiana, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a401b1b600907a962a0325?utm_campaign=1057&utm_source=git)** | Kiana, AK | On Site | Feb 28 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noorvik, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a402d80da45516f16d0067?utm_campaign=1057&utm_source=git)** | Noorvik, AK | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
