@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Mar 01 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Mar 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Mar 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Mar 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/69537070f1f8465b79eac143?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, United States | On Site | Feb 28 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/69a40bb7b600907a962a1969?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | Hybrid | Feb 28 |
 | **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[Nursing Instructor - Graduate Nurse-Internationally Educated Re-entry Program - Competition ID: 4515](https://jobright.ai/jobs/info/69a2a7f20da45516f16c091a?utm_campaign=1057&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Feb 28 |
-| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kiana, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a401b1b600907a962a0325?utm_campaign=1057&utm_source=git)** | Kiana, AK | On Site | Feb 28 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noorvik, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/69a402d80da45516f16d0067?utm_campaign=1057&utm_source=git)** | Noorvik, AK | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
