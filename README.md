@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Education Programs Manager (Volunteer - Unpaid)](https://jobright.ai/jobs/info/69a4036f359fe034b1cef5c9?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[KD Intern](https://jobright.ai/jobs/info/69a3fab50da45516f16cf781?utm_campaign=1057&utm_source=git)** | Doswell, VA | On Site | Mar 01 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Program Director for AANHPISI Initiatives (Student Services Professional IV)](https://jobright.ai/jobs/info/69a3f7c50da45516f16cf401?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e58db600907a9629d9de?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Payment Integrity Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e352b600907a9629d750?utm_campaign=1057&utm_source=git)** | Providence County, RI | On Site | Feb 28 |
 | ↳ | **[Provider Relations Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e32a359fe034b1cec862?utm_campaign=1057&utm_source=git)** | Providence County, RI | Hybrid | Feb 28 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/69a3e0a0359fe034b1cec7fa?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987168f8ca8121a3a69a392?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 28 |
 | **[Everspring](http://everspringpartners.com)** | **[Instructional Designer I](https://jobright.ai/jobs/info/69867b460f6f7e7a2ce17844?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698714478da7a61204622c31?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Feb 28 |
+| ↳ | **[Cobb Summer 2026 Internship - North Carolina and South Carolina](https://jobright.ai/jobs/info/6987152b0f6f7e7a2ce25845?utm_campaign=1057&utm_source=git)** | Joanna, SC | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
