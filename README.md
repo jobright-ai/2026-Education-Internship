@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e58db600907a9629d9de?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 28 |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Payment Integrity Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e352b600907a9629d750?utm_campaign=1057&utm_source=git)** | Providence County, RI | On Site | Feb 28 |
+| ↳ | **[Provider Relations Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e32a359fe034b1cec862?utm_campaign=1057&utm_source=git)** | Providence County, RI | Hybrid | Feb 28 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/69a3e0a0359fe034b1cec7fa?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 28 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69a3e06e359fe034b1cec7d2?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Feb 28 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69a3d5cf0da45516f16cc99a?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Specialty Scheduler - General Surgery](https://jobright.ai/jobs/info/69a3d359359fe034b1cebed2?utm_campaign=1057&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69a3d342b600907a9629cd43?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Feb 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Great Lakes Friendly Restaurant Program Internship Program - Spring 2026](https://jobright.ai/jobs/info/69a2715f0da45516f16bbbcb?utm_campaign=1057&utm_source=git)** | University of Illinois - Chicago (UIC) 412 South Peoria Street, Suite 400 Chicago, Illinois 60607-7067 | Hybrid | Feb 27 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-FCS Community Instructor - Boise](https://jobright.ai/jobs/info/69a27255b600907a9628c4a2?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
 | ↳ | **[Summer Internship-Community Food Systems - Boise](https://jobright.ai/jobs/info/69a26f5a359fe034b1cdb02e?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
-| **[Amy's Kitchen](http://www.amys.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
-| ↳ | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69a25b5cb600907a9628a34b?utm_campaign=1057&utm_source=git)** | Pocatello, Idaho, United States | On Site | Feb 27 |
-| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Youth Summer Internship](https://jobright.ai/jobs/info/69a2791d359fe034b1cdc091?utm_campaign=1057&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
-| ↳ | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a255ffb600907a96289e71?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
