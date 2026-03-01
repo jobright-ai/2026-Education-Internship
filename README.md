@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
+| **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcc1359fe034b1ceaeb9?utm_campaign=1057&utm_source=git)** | Randolph, MA | On Site | Feb 28 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcbb0da45516f16cb8b0?utm_campaign=1057&utm_source=git)** | Wilmington, MA | On Site | Feb 28 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/69a3ad57359fe034b1cea5b5?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Feb 28 |
 | **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3a5710da45516f16ca9d0?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39fb80da45516f16ca8c6?utm_campaign=1057&utm_source=git)** | Wilmington, MA, USA | On Site | Feb 28 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a2913a0da45516f16be724?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 27 |
 | **[Illinois Mathematics and Science Academy](https://www.imsa.edu/)** | **[SITE Intern](https://jobright.ai/jobs/info/69a280890da45516f16bd075?utm_campaign=1057&utm_source=git)** | Aurora, IL | Hybrid | Feb 27 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Program Management](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/69a3be000da45516f16cbb18?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a25b82b600907a9628a361?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | ↳ | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a25b6d0da45516f16b9f8c?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Senior Coordinator, Coordinated Support & Student Success Navigation - SSP IV](https://jobright.ai/jobs/info/69a25b210da45516f16b9f47?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Feb 27 |
@@ -130,13 +134,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Clinical Internship](https://jobright.ai/jobs/info/69a25a25359fe034b1cd939a?utm_campaign=1057&utm_source=git)** | Corvallis, OR, US | On Site | Feb 27 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/69a2ef0a0da45516f16c4af4?utm_campaign=1057&utm_source=git)** | Lake Mary, Florida, United States | On Site | Feb 27 |
 | **[The Surfrider Foundation](http://www.surfrider.org)** | **[Great Lakes Friendly Restaurant Program Internship Program - Spring 2026](https://jobright.ai/jobs/info/69a2715f0da45516f16bbbcb?utm_campaign=1057&utm_source=git)** | University of Illinois - Chicago (UIC) 412 South Peoria Street, Suite 400 Chicago, Illinois 60607-7067 | Hybrid | Feb 27 |
-| **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-FCS Community Instructor - Boise](https://jobright.ai/jobs/info/69a27255b600907a9628c4a2?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
-| ↳ | **[Summer Internship-Community Food Systems - Boise](https://jobright.ai/jobs/info/69a26f5a359fe034b1cdb02e?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
-| **[Amy's Kitchen](http://www.amys.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
-| ↳ | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69a25b5cb600907a9628a34b?utm_campaign=1057&utm_source=git)** | Pocatello, Idaho, United States | On Site | Feb 27 |
+| **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-Community Food Systems - Boise](https://jobright.ai/jobs/info/69a26f5a359fe034b1cdb02e?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
+| ↳ | **[Summer Internship-FCS Community Instructor - Boise](https://jobright.ai/jobs/info/69a27255b600907a9628c4a2?utm_campaign=1057&utm_source=git)** | Off Campus Location - Ada County Extension/Boise | On Site | Feb 27 |
+| **[Amy's Kitchen](http://www.amys.com)** | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69a25b5cb600907a9628a34b?utm_campaign=1057&utm_source=git)** | Pocatello, Idaho, United States | On Site | Feb 27 |
+| ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Youth Summer Internship](https://jobright.ai/jobs/info/69a2791d359fe034b1cdc091?utm_campaign=1057&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
-| ↳ | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a2626f0da45516f16ba7ec?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a2626f0da45516f16ba7ec?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| ↳ | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | ↳ | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a255ffb600907a96289e71?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a255770da45516f16b9921?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69a2550c0da45516f16b98c1?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Accounting: Assistant Professor - Fall 2026](https://jobright.ai/jobs/info/69a22f21b600907a96287b9d?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Feb 27 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[BET Training Intern](https://jobright.ai/jobs/info/69a202820da45516f16b4b6d?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Feb 27 |
 | **[City of Leawood, Kansas](http://www.leawood.org)** | **[Recreation Intern (Seasonal)](https://jobright.ai/jobs/info/69a28162b600907a9628d706?utm_campaign=1057&utm_source=git)** | Leawood, KS | On Site | Feb 27 |
-| **[Irregular Hours](www.irregularhours.com)** | **[(NY) Campus Representative Internship SPRING 2026](https://jobright.ai/jobs/info/69a2ea860da45516f16c4818?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Feb 27 |
-| **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/69a22f550da45516f16b77c3?utm_campaign=1057&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Feb 27 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/69a22b56359fe034b1cd68df?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Feb 27 |
-| **[Partners In Excellence](http://partnersmn.com)** | **[Behavior Therapist Intern - Arden Hills](https://jobright.ai/jobs/info/69961d8481476f6176add889?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
