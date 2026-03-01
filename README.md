@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69a3cbb2b600907a9629c70e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
+| ↳ | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
 | **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcc1359fe034b1ceaeb9?utm_campaign=1057&utm_source=git)** | Randolph, MA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcbb0da45516f16cb8b0?utm_campaign=1057&utm_source=git)** | Wilmington, MA | On Site | Feb 28 |
 | **[Brock, Schechter & Polakoff, LLP](https://www.bspcpa.com/)** | **[Spring Semester Internship](https://jobright.ai/jobs/info/69a3ad57359fe034b1cea5b5?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Feb 28 |
@@ -120,7 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a2913a0da45516f16be724?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 27 |
 | **[Illinois Mathematics and Science Academy](https://www.imsa.edu/)** | **[SITE Intern](https://jobright.ai/jobs/info/69a280890da45516f16bd075?utm_campaign=1057&utm_source=git)** | Aurora, IL | Hybrid | Feb 27 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Program Management](https://jobright.ai/jobs/info/699015dc6ea51a7610f2800d?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 27 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/69a3be000da45516f16cbb18?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 27 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Morehouse College](https://jobright.ai/jobs/info/69a3cf5a0da45516f16cc5bf?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
+| ↳ | **[Campus Chapter Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/69a3be000da45516f16cbb18?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a25b82b600907a9628a361?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | ↳ | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a25b6d0da45516f16b9f8c?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Senior Coordinator, Coordinated Support & Student Success Navigation - SSP IV](https://jobright.ai/jobs/info/69a25b210da45516f16b9f47?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Feb 27 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a257360da45516f16b9af0?utm_campaign=1057&utm_source=git)** | Petaluma, California, United States | On Site | Feb 27 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Refugee Youth Summer Internship](https://jobright.ai/jobs/info/69a2791d359fe034b1cdc091?utm_campaign=1057&utm_source=git)** | Bridgeport,CT,US | On Site | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Institutional Advancement Intern](https://jobright.ai/jobs/info/69a2626f0da45516f16ba7ec?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
-| ↳ | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | ↳ | **[Educational Programming Intern](https://jobright.ai/jobs/info/69a255ffb600907a96289e71?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| ↳ | **[Experiential Learning Intern](https://jobright.ai/jobs/info/69a263070da45516f16ba882?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a255770da45516f16b9921?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69a2550c0da45516f16b98c1?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 27 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69a21ed1359fe034b1cd5c19?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heidelberg University](http://www.heidelberg.edu)** | **[Graduate Assistant/Intern - Swimming](https://jobright.ai/jobs/info/69a232a2b600907a96287f09?utm_campaign=1057&utm_source=git)** | Tiffin, OH | On Site | Feb 27 |
 | ↳ | **[Graduate Assistant/Intern - Sports Information](https://jobright.ai/jobs/info/69a234c50da45516f16b7d42?utm_campaign=1057&utm_source=git)** | Tiffin, OH | On Site | Feb 27 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Accounting: Assistant Professor - Fall 2026](https://jobright.ai/jobs/info/69a22f21b600907a96287b9d?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Feb 27 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[BET Training Intern](https://jobright.ai/jobs/info/69a202820da45516f16b4b6d?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Feb 27 |
-| **[City of Leawood, Kansas](http://www.leawood.org)** | **[Recreation Intern (Seasonal)](https://jobright.ai/jobs/info/69a28162b600907a9628d706?utm_campaign=1057&utm_source=git)** | Leawood, KS | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
