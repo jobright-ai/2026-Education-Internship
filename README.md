@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services TN Only - Remote](https://jobright.ai/jobs/info/69a529c2359fe034b1cfb890?utm_campaign=1057&utm_source=git)** | Brentwood, TN | Remote | Mar 01 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69a4fd23b600907a962aa0f1?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a4f812359fe034b1cf8b48?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69a4ef12b600907a962a89e0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69a4a8c0359fe034b1cf5e1e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 01 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Nursing Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a4a649b600907a962a6a0e?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Mar 01 |
 | **[McDowell Center for Children](http://mcdowellcenterforchildren.com)** | **[STUDENT/INTERN](https://jobright.ai/jobs/info/69a4a645b600907a962a6a0b?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Mar 01 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69a4a05f0da45516f16d6326?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a47add0da45516f16d490b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant- Rapid Fund Faculty-Led Research](https://jobright.ai/jobs/info/69a478040da45516f16d483b?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Mar 01 |
 | ↳ | **[Student Research Assistant- Rapid Fund Faculty-Led Research](https://jobright.ai/jobs/info/69a477dc359fe034b1cf3d7d?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Mar 01 |
