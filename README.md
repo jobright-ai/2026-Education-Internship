@@ -136,7 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
 | **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcc1359fe034b1ceaeb9?utm_campaign=1057&utm_source=git)** | Randolph, MA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcbb0da45516f16cb8b0?utm_campaign=1057&utm_source=git)** | Wilmington, MA | On Site | Feb 28 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a3a5710da45516f16ca9d0?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Feb 28 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a5044bb600907a962aa9dc?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
+| **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3a5710da45516f16ca9d0?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39fb80da45516f16ca8c6?utm_campaign=1057&utm_source=git)** | Wilmington, MA, USA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39e2b0da45516f16ca81e?utm_campaign=1057&utm_source=git)** | Randolph, MA 02368, USA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39dbcb600907a9629ac15?utm_campaign=1057&utm_source=git)** | Norwood, MA, USA | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 28 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69a2ff0c0da45516f16c60a8?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Feb 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 28 |
-| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Saginaw](https://jobright.ai/jobs/info/69a2fe2e359fe034b1ce55e3?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
