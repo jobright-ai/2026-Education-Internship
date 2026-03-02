@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community State Bank - Des Moines, IA](https://www.bankcsb.com/)** | **[Intern Summer 2026](https://jobright.ai/jobs/info/6970118c82817106e9772ccb?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Mar 01 |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69a533e2359fe034b1cfbeb2?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 01 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services TN Only - Remote](https://jobright.ai/jobs/info/69a529c2359fe034b1cfb890?utm_campaign=1057&utm_source=git)** | Brentwood, TN | Remote | Mar 01 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69a4fd23b600907a962aa0f1?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a4f812359fe034b1cf8b48?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/69a4d1b3b600907a962a76c2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Workforce Advancement](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a4c4640da45516f16d72b5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[Ryan Learning Center Summer Internship](https://jobright.ai/jobs/info/69a53752359fe034b1cfc271?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
 | **[Arizona State University](http://www.asu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69a4a8c0359fe034b1cf5e1e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 01 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Nursing Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a4a649b600907a962a6a0e?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Mar 01 |
 | **[McDowell Center for Children](http://mcdowellcenterforchildren.com)** | **[STUDENT/INTERN](https://jobright.ai/jobs/info/69a4a645b600907a962a6a0b?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Mar 01 |
@@ -130,8 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Receptionist Clerk - 8 ICU CST](https://jobright.ai/jobs/info/69a3d285359fe034b1cebe8a?utm_campaign=1057&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | ↳ | **[Summer Internship - Clinical Assistant - Orthopaedics](https://jobright.ai/jobs/info/69a3d284b600907a9629ccf6?utm_campaign=1057&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Provider Relations Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3d26f359fe034b1cebe83?utm_campaign=1057&utm_source=git)** | US RI 500 Exchange | Hybrid | Feb 28 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69a3cbb2b600907a9629c70e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
-| ↳ | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69a3bf67b600907a9629c237?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Feb 28 |
 | **[May Institute](https://www.mayinstitute.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcc1359fe034b1ceaeb9?utm_campaign=1057&utm_source=git)** | Randolph, MA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a3bcbb0da45516f16cb8b0?utm_campaign=1057&utm_source=git)** | Wilmington, MA | On Site | Feb 28 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a5044bb600907a962aa9dc?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
@@ -140,14 +142,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39e2b0da45516f16ca81e?utm_campaign=1057&utm_source=git)** | Randolph, MA 02368, USA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39dbcb600907a9629ac15?utm_campaign=1057&utm_source=git)** | Norwood, MA, USA | On Site | Feb 28 |
 | **[Huron-Clinton Metroparks](https://www.metroparks.com/)** | **[(Intern) Interpretive Services Intern](https://jobright.ai/jobs/info/69a397b0359fe034b1ce9709?utm_campaign=1057&utm_source=git)** | Ray, MI | On Site | Feb 28 |
-| **[City of Columbia SC](https://columbiasc.gov/)** | **[CITY OF COLUMBIA SUMMER HIGH SCHOOL INTERN](https://jobright.ai/jobs/info/69a4a4140da45516f16d667d?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Feb 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69a372110da45516f16c9206?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69a35c70b600907a9629924f?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a339450da45516f16c7a24?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d259e3f57a3356966e037?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Feb 28 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Ithaka S+R (Rural Student Success Network)](https://jobright.ai/jobs/info/697263c64ccbf64f8df25dc3?utm_campaign=1057&utm_source=git)** | United States | Remote | Feb 28 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Faculty, Assistant Professor of Commercial Music](https://jobright.ai/jobs/info/69a34fc0359fe034b1ce81da?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Feb 28 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a3275d359fe034b1ce685c?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 28 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d3bc8727747250d580c2b?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Feb 28 |
