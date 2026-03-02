@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69a4ef12b600907a962a89e0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a4ec740da45516f16d84c6?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 01 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Summer Intern (Days)](https://jobright.ai/jobs/info/69a4e95e0da45516f16d7f62?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Mar 01 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/69a4e179b600907a962a7bad?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | Mar 01 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69a4daceb600907a962a7a84?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 01 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Faculty, Assistant Professor of Commercial Music](https://jobright.ai/jobs/info/69a34fc0359fe034b1ce81da?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Feb 28 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a3275d359fe034b1ce685c?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Feb 28 |
-| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/69a3260bb600907a9629745d?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | Feb 28 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d3bc8727747250d580c2b?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Feb 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Feb 28 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69a2ff0c0da45516f16c60a8?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Saginaw](https://jobright.ai/jobs/info/69a2fe2e359fe034b1ce55e3?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Feb 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Rogers International School: Long-Terrm Substitute Paraeducator SPED](https://jobright.ai/jobs/info/69a2fc99359fe034b1ce543d?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Feb 28 |
 | ↳ | **[Supervisor, Office of Student Affairs (Internal Posting)](https://jobright.ai/jobs/info/69a2fab30da45516f16c5b99?utm_campaign=1057&utm_source=git)** | Perrysburg, OH | On Site | Feb 28 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/699e5c94ce78e77b4fe38d6d?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
