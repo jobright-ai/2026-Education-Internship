@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69a4fd23b600907a962aa0f1?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 01 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a4f812359fe034b1cf8b48?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69a4ef12b600907a962a89e0?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a4ec740da45516f16d84c6?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 01 |
 | **[Tanner Health](http://www.tanner.org/)** | **[Summer Intern (Days)](https://jobright.ai/jobs/info/69a4e95e0da45516f16d7f62?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69a2ff0c0da45516f16c60a8?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Feb 28 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 28 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Saginaw](https://jobright.ai/jobs/info/69a2fe2e359fe034b1ce55e3?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Feb 28 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Rogers International School: Long-Terrm Substitute Paraeducator SPED](https://jobright.ai/jobs/info/69a2fc99359fe034b1ce543d?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Feb 28 |
-| ↳ | **[Supervisor, Office of Student Affairs (Internal Posting)](https://jobright.ai/jobs/info/69a2fab30da45516f16c5b99?utm_campaign=1057&utm_source=git)** | Perrysburg, OH | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
