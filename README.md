@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UFC GYM](http://UFCGYM.com)** | **[Intern – Performance Nutrition Intern, UFC](https://jobright.ai/jobs/info/69a4d1ea359fe034b1cf6a2a?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Mar 01 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/69a4d1b3b600907a962a76c2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Workforce Advancement](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a4c4640da45516f16d72b5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[Ryan Learning Center Summer Internship](https://jobright.ai/jobs/info/69a4083a359fe034b1cefebc?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supervisor, Office of Student Affairs (Internal Posting)](https://jobright.ai/jobs/info/69a2fab30da45516f16c5b99?utm_campaign=1057&utm_source=git)** | Perrysburg, OH | On Site | Feb 28 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/699e5c94ce78e77b4fe38d6d?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Feb 28 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a2f0c3b600907a96295132?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 28 |
-| **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
