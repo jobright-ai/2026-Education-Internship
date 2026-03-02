@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Workforce Advancement](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a4c4640da45516f16d72b5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[Ryan Learning Center Summer Internship](https://jobright.ai/jobs/info/69a4083a359fe034b1cefebc?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Mar 01 |
 | **[Arizona State University](http://www.asu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69a4a8c0359fe034b1cf5e1e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 01 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Nursing Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a4a649b600907a962a6a0e?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Mar 01 |
 | **[McDowell Center for Children](http://mcdowellcenterforchildren.com)** | **[STUDENT/INTERN](https://jobright.ai/jobs/info/69a4a645b600907a962a6a0b?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Mar 01 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69a4a05f0da45516f16d6326?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, QC Training Support](https://jobright.ai/jobs/info/69a4812cb600907a962a502e?utm_campaign=1057&utm_source=git)** | Rochester, MI | On Site | Mar 01 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a47b46b600907a962a4ba6?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a47add0da45516f16d490b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant- Rapid Fund Faculty-Led Research](https://jobright.ai/jobs/info/69a478040da45516f16d483b?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Mar 01 |
 | ↳ | **[Student Research Assistant- Rapid Fund Faculty-Led Research](https://jobright.ai/jobs/info/69a477dc359fe034b1cf3d7d?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Mar 01 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39e2b0da45516f16ca81e?utm_campaign=1057&utm_source=git)** | Randolph, MA 02368, USA | On Site | Feb 28 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69a39dbcb600907a9629ac15?utm_campaign=1057&utm_source=git)** | Norwood, MA, USA | On Site | Feb 28 |
 | **[Huron-Clinton Metroparks](https://www.metroparks.com/)** | **[(Intern) Interpretive Services Intern](https://jobright.ai/jobs/info/69a397b0359fe034b1ce9709?utm_campaign=1057&utm_source=git)** | Ray, MI | On Site | Feb 28 |
-| **[Tanner Health](http://www.tanner.org/)** | **[Summer Intern (Days)](https://jobright.ai/jobs/info/69a3922fb600907a96299d1d?utm_campaign=1057&utm_source=git)** | Carrollton, GA | On Site | Feb 28 |
 | **[City of Columbia SC](https://columbiasc.gov/)** | **[CITY OF COLUMBIA SUMMER HIGH SCHOOL INTERN](https://jobright.ai/jobs/info/69a4a4140da45516f16d667d?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Feb 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a3813ab600907a962999fd?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69a372110da45516f16c9206?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Feb 28 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Feb 28 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Saginaw](https://jobright.ai/jobs/info/69a2fe2e359fe034b1ce55e3?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Feb 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Rogers International School: Long-Terrm Substitute Paraeducator SPED](https://jobright.ai/jobs/info/69a2fc99359fe034b1ce543d?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Feb 28 |
-| ↳ | **[Visiting Assistant Professor, Political Science and International Studies](https://jobright.ai/jobs/info/69a2fc5ab600907a9629618a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 28 |
 | ↳ | **[On-Call Health & Safety Substitute needed for the International School of Portland (OR)](https://jobright.ai/jobs/info/69a2fb87b600907a962960a2?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Feb 28 |
 | ↳ | **[Supervisor, Office of Student Affairs (Internal Posting)](https://jobright.ai/jobs/info/69a2fab30da45516f16c5b99?utm_campaign=1057&utm_source=git)** | Perrysburg, OH | On Site | Feb 28 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Staff Development & Training Intern (Summer 2026)](https://jobright.ai/jobs/info/699e5c94ce78e77b4fe38d6d?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Feb 28 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a2f0c3b600907a96295132?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b52d3db26b618950ee0c4?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 28 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Feb 28 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/698702180f6f7e7a2ce23d89?utm_campaign=1057&utm_source=git)** | Monticello, KY | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
