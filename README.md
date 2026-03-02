@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69a5f09b359fe034b1d0af9b?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 02 |
+| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Summer Research Intern St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69a5ee71359fe034b1d0ac70?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | Mar 02 |
+| **[PlayCore](http://www.playcore.com/)** | **[CORE Intern - PlayCore](https://jobright.ai/jobs/info/699fb35ace78e77b4fe59807?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Mar 02 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69a5e092b600907a962ba52f?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 02 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Training Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5dcbd0da45516f16e9bd9?utm_campaign=1057&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Community Engagement Program](https://jobright.ai/jobs/info/69a5d6350da45516f16e8c9c?utm_campaign=1057&utm_source=git)** | St Paul, MN, US | On Site | Mar 02 |
@@ -72,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Mar 02 |
 | ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | Hybrid | Mar 02 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Student Nurse Internship Program (SNIP) 2026 *** Apply  March 2nd thru 9th Only!  (Per Diem / Pool)](https://jobright.ai/jobs/info/69a5c13d0da45516f16e6b6d?utm_campaign=1057&utm_source=git)** | Florida-Miami-Nicklaus Children's Hospital - Main Hospital Campus | On Site | Mar 02 |
+| **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Internship - Dental](https://jobright.ai/jobs/info/69a5eb9ab600907a962bb672?utm_campaign=1057&utm_source=git)** | Dream Center, Concord, NC, US | On Site | Mar 02 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Graduate - Research Anes - Temporary](https://jobright.ai/jobs/info/69a5ea8db600907a962bb4e2?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Mar 02 |
 | **[California State University Channel Islands](https://www.csuci.edu/)** | **[Senior Coordinator of Student Academic Success Services](https://jobright.ai/jobs/info/69793cec88e2b47213bd69c3?utm_campaign=1057&utm_source=git)** | Oxnard, CA | On Site | Mar 02 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Summer Research Intern St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69a5ba77359fe034b1d058d7?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | Mar 02 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern](https://jobright.ai/jobs/info/69a5ba70359fe034b1d058d5?utm_campaign=1057&utm_source=git)** | Bannockburn, IL | On Site | Mar 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Mar 01 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Student Affairs Master's Intern](https://jobright.ai/jobs/info/699e6c42ce78e77b4fe3ab53?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Mar 01 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, QC Training Support](https://jobright.ai/jobs/info/69a55547b600907a962af5ca?utm_campaign=1057&utm_source=git)** | Rochester, MI | On Site | Mar 01 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/69a46a78b600907a962a46f3?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Mar 01 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[Clinical Nurse Internship Program - St. Joseph's Women's NICU - Nights](https://jobright.ai/jobs/info/69a46a77b600907a962a46f2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
-| ↳ | **[RN - Registered Nurse - Labor & Delivery Internship - SJW](https://jobright.ai/jobs/info/69a46a3ab600907a962a46db?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
-| ↳ | **[Pediatric Cardiac Intensive Care Unit (PCICU) Internship Program](https://jobright.ai/jobs/info/69a46a32359fe034b1cf39dd?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
-| **[Medical City Arlington](https://medicalcityhealthcare.com/locations/medical-city-arlington/)** | **[Internal Medicine GME Chief Resident](https://jobright.ai/jobs/info/69a466e1359fe034b1cf38a1?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
