@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 02 |
+| **[Caldwell Zoo](https://caldwellzoo.org/)** | **[Education and Events Internship](https://jobright.ai/jobs/info/69a5ce380da45516f16e7bbf?utm_campaign=1057&utm_source=git)** | Tyler, TX, US | On Site | Mar 02 |
+| **[Prestage Farms](http://www.prestagefarms.com/prestage-foods-processing-plants/)** | **[2026 High School Summer Internship](https://jobright.ai/jobs/info/69a5c9b5b600907a962b7396?utm_campaign=1057&utm_source=git)** | Clinton, NC | On Site | Mar 02 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Youth & Family Public Programs Intern: Summer](https://jobright.ai/jobs/info/69a5c6970da45516f16e6f66?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Mar 02 |
+| **[Chicken Salad Chick](http://www.chickensaladchick.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a5c5ed0da45516f16e6ef8?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
+| **[Purdue Federal Credit Union](https://www.purduefed.com)** | **[Intern Financial Wellness](https://jobright.ai/jobs/info/69a5c590359fe034b1d05f51?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Mar 02 |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship-CNRVMC Patient Turn Team -Resource Pool](https://jobright.ai/jobs/info/69a5c4a0359fe034b1d05e9e?utm_campaign=1057&utm_source=git)** | Christiansburg, Virginia | On Site | Mar 02 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Mar 02 |
+| ↳ | **[Office of Economic Assistance Economic Mobility Internship (Summer 2026)](https://jobright.ai/jobs/info/696fea8e3ed06875134ad4e7?utm_campaign=1057&utm_source=git)** | Fremont, NE | Hybrid | Mar 02 |
+| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Student Nurse Internship Program (SNIP) 2026 *** Apply  March 2nd thru 9th Only!  (Per Diem / Pool)](https://jobright.ai/jobs/info/69a5c13d0da45516f16e6b6d?utm_campaign=1057&utm_source=git)** | Florida-Miami-Nicklaus Children's Hospital - Main Hospital Campus | On Site | Mar 02 |
+| **[California State University Channel Islands](https://www.csuci.edu/)** | **[Senior Coordinator of Student Academic Success Services](https://jobright.ai/jobs/info/69793cec88e2b47213bd69c3?utm_campaign=1057&utm_source=git)** | Oxnard, CA | On Site | Mar 02 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Summer Research Intern St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69a5ba77359fe034b1d058d7?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | Mar 02 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern](https://jobright.ai/jobs/info/69a5ba70359fe034b1d058d5?utm_campaign=1057&utm_source=git)** | Bannockburn, IL | On Site | Mar 02 |
 | **[John B. Sanfilippo & Son, Inc.](http://jbssinc.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69a5b6ec359fe034b1d056b0?utm_campaign=1057&utm_source=git)** | Selma, TX | On Site | Mar 02 |
@@ -89,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern - RN Students - All Locations](https://jobright.ai/jobs/info/69a5a953359fe034b1d04a35?utm_campaign=1057&utm_source=git)** | Lafayette - Acadiana Region - Louisiana | On Site | Mar 02 |
 | ↳ | **[Nurse Intern - RN Students - All Locations](https://jobright.ai/jobs/info/69a5a93b0da45516f16e591f?utm_campaign=1057&utm_source=git)** | Jennings - Acadiana Region - Louisiana | On Site | Mar 02 |
 | ↳ | **[Nurse Intern - RN Students - All Locations](https://jobright.ai/jobs/info/69a5a8fa359fe034b1d049f1?utm_campaign=1057&utm_source=git)** | Morton - Central Mississippi Region - Mississippi | On Site | Mar 02 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a5a8edb600907a962b5a0e?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 02 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship-Patient Care Tech - 12 West](https://jobright.ai/jobs/info/69a59e7db600907a962b4e87?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Mar 02 |
 | ↳ | **[Summer Internship-Respiratory Care Assistant - Respiratory Services](https://jobright.ai/jobs/info/69a59e4ab600907a962b4e11?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Mar 02 |
 | ↳ | **[Summer Internship - Receptionist Clerk - 8 ICU CST](https://jobright.ai/jobs/info/69a59d75b600907a962b4c98?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Mar 02 |
@@ -121,12 +131,10 @@ For a complete list, click the following sortable link below:
 | **[UnitedHealthcare](http://www.uhc.com)** | **[College Summer Intern Health Services TN Only - Remote](https://jobright.ai/jobs/info/69a529c2359fe034b1cfb890?utm_campaign=1057&utm_source=git)** | Brentwood, TN | Remote | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a4f812359fe034b1cf8b48?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Mar 01 |
-| **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Licensed](https://jobright.ai/jobs/info/69a5a1e3359fe034b1d042de?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Mar 01 |
-| ↳ | **[Internal Only - Summer Programs 2026 - Classified](https://jobright.ai/jobs/info/69a5a2dc0da45516f16e53a4?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Mar 01 |
+| **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Classified](https://jobright.ai/jobs/info/69a5a2dc0da45516f16e53a4?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Mar 01 |
 | **[UFC GYM](http://UFCGYM.com)** | **[Intern – Performance Nutrition Intern, UFC](https://jobright.ai/jobs/info/69a4d1ea359fe034b1cf6a2a?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Mar 01 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/69a4d1b3b600907a962a76c2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Workforce Advancement](https://jobright.ai/jobs/info/69900df20cc8ea15f1dab602?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 01 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69a4c4640da45516f16d72b5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 01 |
 | **[Arizona State University](http://www.asu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69a4a8c0359fe034b1cf5e1e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 01 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Nursing Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a4a649b600907a962a6a0e?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Mar 01 |
 | **[McDowell Center for Children](http://mcdowellcenterforchildren.com)** | **[STUDENT/INTERN](https://jobright.ai/jobs/info/69a4a645b600907a962a6a0b?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Mar 01 |
@@ -140,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Clinical Nurse Internship Program - St. Joseph's Women's NICU - Nights](https://jobright.ai/jobs/info/69a46a77b600907a962a46f2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | ↳ | **[RN - Registered Nurse - Labor & Delivery Internship - SJW](https://jobright.ai/jobs/info/69a46a3ab600907a962a46db?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 01 |
 | ↳ | **[Pediatric Cardiac Intensive Care Unit (PCICU) Internship Program](https://jobright.ai/jobs/info/69a46a32359fe034b1cf39dd?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
-| ↳ | **[Clinical Nurse Internship Program - NICU - Morton Plant - Nights](https://jobright.ai/jobs/info/69a46a2cb600907a962a46d4?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Mar 01 |
 | **[Medical City Arlington](https://medicalcityhealthcare.com/locations/medical-city-arlington/)** | **[Internal Medicine GME Chief Resident](https://jobright.ai/jobs/info/69a466e1359fe034b1cf38a1?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Mar 01 |
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Mar 01 |
 | **[Admiral Insurance Group (a Berkley Company)](https://www.admiralins.com)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/69a4667a359fe034b1cf387c?utm_campaign=1057&utm_source=git)** | Moorestown, NJ | On Site | Mar 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Mar 01 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/696b57b15fc86241853ac44d?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Mar 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Mar 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Mar 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Mar 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda57f44d32141e0bf9e00?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Mar 01 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - UDLA](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Mar 01 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda870a125e75c422ade41?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Mar 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Mar 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
