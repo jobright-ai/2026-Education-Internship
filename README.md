@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Healthcare Internship Fall 2025 – Part Time](https://jobright.ai/jobs/info/69a57ac6359fe034b1d01a95?utm_campaign=1057&utm_source=git)** | Chicago - 550 Van Buren | Remote | Mar 02 |
+| **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Mar 02 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Mar 02 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda96eddc10244dd682b4d?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Mar 02 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP) - Mount Sinai Brooklyn - Full-time - Day](https://jobright.ai/jobs/info/69a5673a0da45516f16e1c4a?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 02 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Encore Electric, Inc.](http://encoreelectric.com)** | **[Intern High School Field - AMPed UP Program](https://jobright.ai/jobs/info/69a560cdb600907a962b1582?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Mar 02 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth CTE- Health Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69a55ca2b600907a962b0981?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | Mar 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69a559b5359fe034b1cff4f6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69a559a2359fe034b1cff4e5?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Green Schools Research Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a557e0b600907a962aff87?utm_campaign=1057&utm_source=git)** | Remote, US | Remote | Mar 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69a5552a0da45516f16df7f7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Green Schools Research Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a554030da45516f16df33e?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Mar 02 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Mar 01 |
 | **[Admiral Insurance Group (a Berkley Company)](https://www.admiralins.com)** | **[Summer Intern, Excess/Surplus Insurance Claims](https://jobright.ai/jobs/info/69a4667a359fe034b1cf387c?utm_campaign=1057&utm_source=git)** | Moorestown, NJ | On Site | Mar 01 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/69a466630da45516f16d436d?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Mar 01 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69a452f6b600907a962a3f3d?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Mar 01 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 01 |
 | **[Daily's Premium Meats](https://www.dailysmeats.com/)** | **[Summer 2026 Internship Daily's Premium Meats](https://jobright.ai/jobs/info/69a43c650da45516f16d2ddf?utm_campaign=1057&utm_source=git)** | St Joseph, MO | On Site | Mar 01 |
