@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State University](http://psu.edu)** | **[Campus Recreation Student Intern](https://jobright.ai/jobs/info/69a86b527ac93962b7083b8f?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Mar 04 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/699fbcc1ce78e77b4fe5a0fe?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/69a84cb62580d3183f005de3?utm_campaign=1057&utm_source=git)** | Mount Pleasant, MI | On Site | Mar 04 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a847f42580d3183f005796?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Intern Clinician](https://jobright.ai/jobs/info/69a8361c2580d3183f003b64?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Mar 04 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69a831937ac93962b707efb3?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a82d712580d3183f002fa0?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
-| ↳ | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a853af7ac93962b70823a8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
+| ↳ | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a857932580d3183f006f59?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
 | **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 04 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Research Facilitator – Summer 2026](https://jobright.ai/jobs/info/69701c8d82817106e9773532?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Mar 04 |
 | **[MathWorks](http://www.mathworks.com)** | **[IT Training Summer Intern](https://jobright.ai/jobs/info/698c0d64e4f6572f0e44071e?utm_campaign=1057&utm_source=git)** | Natick, MA | Hybrid | Mar 04 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026-2027 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a74a852672cb0acb4bb965?utm_campaign=1057&utm_source=git)** | Gaithersburg, Maryland, United States | On Site | Mar 03 |
 | ↳ | **[Internship (Outpatient Mental Health Clinics- Westminster) 2026- 2027 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a751ac76bbe83d3afab269?utm_campaign=1057&utm_source=git)** | Westminster, Maryland, United States | Hybrid | Mar 03 |
 | **[Berkeley Electric Cooperative, Inc.](https://www.berkeleyelectric.coop/)** | **[College Intern - Member Services/Cashiering Assistant JI](https://jobright.ai/jobs/info/69a748fd76bbe83d3afaa665?utm_campaign=1057&utm_source=git)** | Johns Island,SC,US | On Site | Mar 03 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Health & Wellness Intern](https://jobright.ai/jobs/info/69a7556e2672cb0acb4bc7dc?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Mar 03 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Health & Wellness Intern](https://jobright.ai/jobs/info/69a7474e2672cb0acb4bb517?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Mar 03 |
+| ↳ | **[Health & Wellness Intern](https://jobright.ai/jobs/info/69a7556e2672cb0acb4bc7dc?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Mar 03 |
 | ↳ | **[Health & Wellness Intern](https://jobright.ai/jobs/info/69a7496d76bbe83d3afaa6ed?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Mar 03 |
-| ↳ | **[Health & Wellness Intern](https://jobright.ai/jobs/info/69a7474e2672cb0acb4bb517?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Mar 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[NYSA Family Engagement Intern (Unpaid)](https://jobright.ai/jobs/info/69a71e322672cb0acb4b8b23?utm_campaign=1057&utm_source=git)** | New York, NY RAI USA | Hybrid | Mar 03 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/6953778b5bb7de448ef68d22?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
