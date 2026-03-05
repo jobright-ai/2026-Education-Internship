@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69a9a3689ca4e908ec64dda0?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Training, Communications and Multimedia Design)](https://jobright.ai/jobs/info/698d5cd7f64d441a164f6ca3?utm_campaign=1057&utm_source=git)** | Vienna, VA | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Support and Initiatives)](https://jobright.ai/jobs/info/69a99b57f2055e05d171ded8?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Endpoint Development and Strategy](https://jobright.ai/jobs/info/69a9973af2055e05d171dba6?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 05 |
 | ↳ | **[Intern, Endpoint Development and Strategy](https://jobright.ai/jobs/info/69a994f4f2055e05d171d6ee?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Mar 05 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a98a81f6c22f2e36868260?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 05 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a98a3af6c22f2e3686816e?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 05 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and NYC](https://jobright.ai/jobs/info/69a681bc2c0d8b0f5cd09fc0?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
-| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668cf?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
+| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668ce?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
 | ↳ | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/69a9807a7f9271426f885eb2?utm_campaign=1057&utm_source=git)** | US NJ Cape May Court House 1129 South Route 9 | On Site | Mar 05 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Mar 05 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Centre for Deliberative Democracy](https://www.canberra.edu.au/research/centres/cddgg)** | **[Student Wellbeing & International Support Coordinator](https://jobright.ai/jobs/info/69a974caf2055e05d171a10c?utm_campaign=1057&utm_source=git)** | Bruce, MI | On Site | Mar 04 |
 | **[Tacoma Tree Foundation](http://www.tacomatreefoundation.org)** | **[Intern](https://jobright.ai/jobs/info/69a8f88979f3f4037f439933?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Mar 04 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Experiential Learning Programs Intern](https://jobright.ai/jobs/info/69a8ea9379f3f4037f437e2b?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
-| ↳ | **[Invention Convention Worldwide Educational Programming Intern](https://jobright.ai/jobs/info/69a8e1cd7ac93962b708c3cc?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Social Impact Intern](https://jobright.ai/jobs/info/69a8e0522580d3183f010615?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Part Time](https://jobright.ai/jobs/info/69a94bb92615b60842abc96e?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Mar 04 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Sales Education & Professional Development Intern](https://jobright.ai/jobs/info/69a91e787ac93962b7090e8e?utm_campaign=1057&utm_source=git)** | Oakland, NJ | On Site | Mar 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a847f42580d3183f005796?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Mar 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria](https://jobright.ai/jobs/info/69a95cd9f6c22f2e36863d76?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 04 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a988cdf2055e05d171c0ef?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
