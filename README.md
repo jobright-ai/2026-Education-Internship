@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Commonwealth University- College of Humanities and Sciences](http://chs.vcu.edu)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69a9aed29ca4e908ec64e71a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
+| **[Packsize](https://www.packsize.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a97987f6c22f2e368660d3?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Mar 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69a9a3689ca4e908ec64dda0?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Training, Communications and Multimedia Design)](https://jobright.ai/jobs/info/698d5cd7f64d441a164f6ca3?utm_campaign=1057&utm_source=git)** | Vienna, VA | On Site | Mar 05 |
 | **[PBS](http://www.pbs.org)** | **[Intern (Station Services - Support and Initiatives)](https://jobright.ai/jobs/info/69a99b57f2055e05d171ded8?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a98a81f6c22f2e36868260?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 05 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a98a3af6c22f2e3686816e?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 05 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and NYC](https://jobright.ai/jobs/info/69a681bc2c0d8b0f5cd09fc0?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
-| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668ce?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
+| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668cf?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
 | ↳ | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/69a9807a7f9271426f885eb2?utm_campaign=1057&utm_source=git)** | US NJ Cape May Court House 1129 South Route 9 | On Site | Mar 05 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Mar 05 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia United Credit Union](http://gucu.org)** | **[Summer Student Internship Program](https://jobright.ai/jobs/info/69a890717ac93962b7084ed4?utm_campaign=1057&utm_source=git)** | Duluth, GA | On Site | Mar 04 |
 | **[REHAU Window Solutions](https://window.rehau.com/)** | **[Training Support Intern](https://jobright.ai/jobs/info/69a888d82580d3183f008e80?utm_campaign=1057&utm_source=git)** | Leesburg, Virginia, United States | On Site | Mar 04 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Mar 04 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth CTE- Health Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69a8bd2c79f3f4037f432ca8?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | Mar 04 |
 | **[EO](EOco.org)** | **[Intern – Washington County Public Schools - Athletic Director Assistant](https://jobright.ai/jobs/info/69a8a4c92580d3183f00a6c2?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Intern – Smyth County Public Schools - CMS Main Office](https://jobright.ai/jobs/info/69a8a1177ac93962b7085d70?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Intern – Wythe County Public Schools - Automotive Assistant](https://jobright.ai/jobs/info/69a89f567ac93962b7085bba?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/699fbcc1ce78e77b4fe5a0fe?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 04 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a847f42580d3183f005796?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Mar 04 |
-| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - Gulfgate Center and Houston Galleria](https://jobright.ai/jobs/info/69a95cd9f6c22f2e36863d76?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
