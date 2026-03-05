@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69a9129e7ac93962b70904cf?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 04 |
+| **[Tacoma Tree Foundation](http://www.tacomatreefoundation.org)** | **[Intern](https://jobright.ai/jobs/info/69a8f88979f3f4037f439933?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Mar 04 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Experiential Learning Programs Intern](https://jobright.ai/jobs/info/69a8ea9379f3f4037f437e2b?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
-| **[Gateway Rehab](http://www.gatewayrehab.org)** | **[Clinical Internship for 2026](https://jobright.ai/jobs/info/69a8e8b12580d3183f011148?utm_campaign=1057&utm_source=git)** | Aliquippa, PA | On Site | Mar 04 |
-| **[Southwest Behavioral & Health Services](http://sbhservices.org)** | **[Student Internship](https://jobright.ai/jobs/info/69a8e2192580d3183f010962?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Invention Convention Worldwide Educational Programming Intern](https://jobright.ai/jobs/info/69a8e1cd7ac93962b708c3cc?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
+| ↳ | **[Invention Convention Worldwide Educational Programming Intern](https://jobright.ai/jobs/info/69a8e1cd7ac93962b708c3cc?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Social Impact Intern](https://jobright.ai/jobs/info/69a8e0522580d3183f010615?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a907f079f3f4037f43b618?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 04 |
 | **[Exos](http://www.teamexos.com/)** | **[Sports Performance Intern - Summer 2026](https://jobright.ai/jobs/info/69a8d9de79f3f4037f436613?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
+| **[Los Angeles LGBT Center](http://www.lalgbtcenter.org)** | **[Community Engagement Fellow (Student Internship)](https://jobright.ai/jobs/info/69a900332580d3183f01315c?utm_campaign=1057&utm_source=git)** | AMR Campus, Los Angeles, CA, US | Hybrid | Mar 04 |
 | **[Community Partners NH](https://communitypartnersnh.org)** | **[Intern-Behavioral Health](https://jobright.ai/jobs/info/69a8d21e7ac93962b708a8a7?utm_campaign=1057&utm_source=git)** | Dover, NH | On Site | Mar 04 |
 | **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69a8d0402580d3183f00eb55?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 04 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Student Development – Adjunct](https://jobright.ai/jobs/info/69a8cc422580d3183f00e454?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Mar 04 |
@@ -142,10 +144,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69a7ac8876bbe83d3afb148a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69a7f4af76bbe83d3afb6cee?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 03 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69a7a66a637232443f64e832?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 03 |
+| **[TSAOG Orthopaedics & Spine](http://tsaog.com)** | **[Physical Therapy Technician - Internship - PRN](https://jobright.ai/jobs/info/69a8fe9979f3f4037f43a6ca?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Mar 03 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Intern-Fellow, Administrative](https://jobright.ai/jobs/info/69a7f0e276bbe83d3afb69a1?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Mar 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Student Relations](https://jobright.ai/jobs/info/69a79aaf76bbe83d3afafca2?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Mar 03 |
-| ↳ | **[International Compliance & Programs Advisor](https://jobright.ai/jobs/info/69a8275b7ac93962b707e9d3?utm_campaign=1057&utm_source=git)** | Kirksville, MO | On Site | Mar 03 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern - Float Team Per Diem Nights](https://jobright.ai/jobs/info/69a7959c637232443f64d7b6?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 03 |
+| **[Sentara Health](http://www.sentara.com)** | **[Student Nurse Internship Program (S.N.I.P.) - Summer Internship - Sentara Virginia Beach General Hospital](https://jobright.ai/jobs/info/69a8ffe679f3f4037f43aab4?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Mar 03 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Consumer Engagement Student Intern- Summer 2026](https://jobright.ai/jobs/info/69a788012672cb0acb4bff17?utm_campaign=1057&utm_source=git)** | Providence County, RI | Hybrid | Mar 03 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Programme Partner Management Intern](https://jobright.ai/jobs/info/69a81480d010537e7432669f?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern- ED](https://jobright.ai/jobs/info/69a78dcb76bbe83d3afaeef2?utm_campaign=1057&utm_source=git)** | US-MD-Baltimore | On Site | Mar 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Adult Education Intern](https://jobright.ai/jobs/info/699cbc8ace78e77b4fe17e20?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Mar 03 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[International Training and Programs Specialist](https://jobright.ai/jobs/info/69a61a680da45516f16efd6c?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Mar 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Administration](https://jobright.ai/jobs/info/69a856421dfc787e9aa35615?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 03 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/69a84cdf7ac93962b70818e9?utm_campaign=1057&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Mar 03 |
-| **[Montecito Bank & Trust](https://montecito.bank)** | **[Organizational Learning Intern](https://jobright.ai/jobs/info/69a8aff679f3f4037f430668?utm_campaign=1057&utm_source=git)** | Santa Barbara, CA, US | On Site | Mar 03 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 School Enrollment Intern - UNPAID](https://jobright.ai/jobs/info/699e10c281476f6176b6fa21?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
