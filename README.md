@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Global Health Research Nurse, Centre for International Child Health (CICH) - BC Children’s Hospital](https://jobright.ai/jobs/info/69aa6c5e1f59c56275e34589?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/69aa66d91f59c56275e33f7f?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Mar 05 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Nurse Intern/RN Nursing Student - Morton Plant North Bay Hospital](https://jobright.ai/jobs/info/69aa57362ebd316bece21ac9?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Mar 05 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69aa4e452ebd316bece211a8?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[All Surfaces](https://allsurfaces.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/697001ce0f4e0f657ea45f73?utm_campaign=1057&utm_source=git)** | Bloomington, MN | Hybrid | Mar 05 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Summer Pre-Med Internship - Springfield](https://jobright.ai/jobs/info/69a9686f7f9271426f884aa1?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/697125a0587dfa0bb55eae63?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | On Site | Mar 05 |
-| **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Intern](https://jobright.ai/jobs/info/697154a0333b6343a14dde1d?utm_campaign=1057&utm_source=git)** | Apopka, FL | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
