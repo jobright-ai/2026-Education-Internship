@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Health & Wellness Summer Intern](https://jobright.ai/jobs/info/69a55786359fe034b1cff0dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[AAA National](https://careers.aaa.com/NationalOffice)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/69a40bb7b600907a962a1969?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | Hybrid | Mar 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69aa8fb89ca4e908ec65fb40?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 06 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2026-27 Teacher Secondary Special Education-ILS Significant Needs-Wellington Middle/Hi](https://jobright.ai/jobs/info/69aa7f631f59c56275e35358?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a98a3af6c22f2e3686816e?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 05 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and NYC](https://jobright.ai/jobs/info/69a681bc2c0d8b0f5cd09fc0?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Supervisor, Office of Student Affairs (Internal Posting)](https://jobright.ai/jobs/info/69aa8b6a2ebd316bece24918?utm_campaign=1057&utm_source=git)** | Perrysburg, OH | On Site | Mar 05 |
-| ↳ | **[International Compliance & Programs Advisor](https://jobright.ai/jobs/info/69aa8afe1f59c56275e37764?utm_campaign=1057&utm_source=git)** | Kirksville, MO | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
