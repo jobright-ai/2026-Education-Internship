@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precisely](https://www.precisely.com)** | **[Partner Training & Enablement Intern](https://jobright.ai/jobs/info/69ab208e142d5b4265fc58c8?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Digital Engagement](https://jobright.ai/jobs/info/69ab1afa142d5b4265fc53cb?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 06 |
+| ↳ | **[Intern Undergraduate](https://jobright.ai/jobs/info/69ab1a457e1fab39d382a27e?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 06 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Student Corps Program Specialist](https://jobright.ai/jobs/info/69ab180f142d5b4265fc51b1?utm_campaign=1057&utm_source=git)** | Warren, Michigan, United States of America | On Site | Mar 06 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69ab133d7e1fab39d3829dd4?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 06 |
+| **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69ab12887e1fab39d3829d3e?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Mar 06 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Content Intern, Chemistry ($42/hour; 40 hours/week; 8 weeks, Summer 2026)](https://jobright.ai/jobs/info/69ab0ed17e1fab39d3829ab8?utm_campaign=1057&utm_source=git)** | Mountain View, HI | Remote | Mar 06 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Training & Engagement Intern](https://jobright.ai/jobs/info/69ab0e727e1fab39d3829a5b?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 06 |
 | **[City of Sarasota](http://www.sarasotafl.gov)** | **[Summer Intern I - Workday Data](https://jobright.ai/jobs/info/69ab0e64142d5b4265fc4b14?utm_campaign=1057&utm_source=git)** | City Hall Annex | On Site | Mar 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Public Interest Registry](http://pir.org/)** | **[Research Associate - Internship](https://jobright.ai/jobs/info/69aa1e7f1f59c56275e2eda6?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Mar 05 |
 | **[Gillette Children's](https://www.gillettechildrens.org/)** | **[Nursing Summer 2026 Internship Program](https://jobright.ai/jobs/info/69a9e00a1f59c56275e29d0b?utm_campaign=1057&utm_source=git)** | St Paul, Minnesota, United States | On Site | Mar 05 |
 | **[Youth & Family Counseling](https://www.counselingforall.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69a9da8c9ca4e908ec650f9d?utm_campaign=1057&utm_source=git)** | Libertyville, IL | On Site | Mar 05 |
-| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Audio-Visual Learning for Spatial Audio Processing](https://jobright.ai/jobs/info/69aa7cb52ebd316bece23424?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Mar 05 |
-| **[Missouri Botanical Garden](http://www.missouribotanicalgarden.org/)** | **[Intern, Sustainability Education](https://jobright.ai/jobs/info/69a9f7c91f59c56275e2c929?utm_campaign=1057&utm_source=git)** | Missouri Botanical Garden, 2345 Tower Grove Ave., St. Louis, Missouri, United States of America | On Site | Mar 05 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696fef7282817106e976f527?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Mar 05 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d7f92ebd316bece16215?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Administration](https://jobright.ai/jobs/info/69a9d77a9ca4e908ec650889?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 05 |
-| **[Exos](http://www.teamexos.com/)** | **[Performance Nutrition Internship - Summer 2026](https://jobright.ai/jobs/info/69a9d10c2ebd316bece1560a?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
