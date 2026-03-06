@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69aa4e452ebd316bece211a8?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Mar 05 |
 | **[Kidsave](https://www.kidsave.org)** | **[Programs Intern - Weekend Miracles VA](https://jobright.ai/jobs/info/69aa48502ebd316bece209c7?utm_campaign=1057&utm_source=git)** | Central, VA | Hybrid | Mar 05 |
 | **[Pathways](http://www.clarvida.com)** | **[Pre Licensed Intern](https://jobright.ai/jobs/info/69aa44601f59c56275e320a2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 05 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - H2F Project](https://jobright.ai/jobs/info/69aa43062ebd316bece206c4?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Mar 05 |
@@ -146,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69a98a80f6c22f2e3686825f?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 05 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69a98a3af6c22f2e3686816e?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 05 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and NYC](https://jobright.ai/jobs/info/69a681bc2c0d8b0f5cd09fc0?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
-| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668cf?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
+| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Therapist Intern - Master's Level](https://jobright.ai/jobs/info/69a98311f6c22f2e368668ce?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 42 Delsea Drive South - Building A | On Site | Mar 05 |
 | ↳ | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/69a9807a7f9271426f885eb2?utm_campaign=1057&utm_source=git)** | US NJ Cape May Court House 1129 South Route 9 | On Site | Mar 05 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/6979a055ca92cf0d6a82eb99?utm_campaign=1057&utm_source=git)** | Hastings, NE | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/697125a0587dfa0bb55eae63?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | On Site | Mar 05 |
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Intern](https://jobright.ai/jobs/info/697154a0333b6343a14dde1d?utm_campaign=1057&utm_source=git)** | Apopka, FL | On Site | Mar 05 |
 | **[Licking County Chamber of Commerce](http://www.lickingcountychamber.com)** | **[Administrative Assistant to Dean of Students](https://jobright.ai/jobs/info/69a952aa7f9271426f8833e4?utm_campaign=1057&utm_source=git)** | Newark, OH | On Site | Mar 05 |
-| **[Harper College](https://www.harpercollege.edu/index.php)** | **[Student Aide - Job Placement Resource Center](https://jobright.ai/jobs/info/69a94ae479f3f4037f44297b?utm_campaign=1057&utm_source=git)** | Palatine, IL | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
