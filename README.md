@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Youth Mentorship Intern - UNPAID](https://jobright.ai/jobs/info/69a0bd7981476f6176bb09cc?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 06 |
+| **[Landmark Medical Center](https://www.landmarkmedical.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/698eb7a10f6f7e7a2ceada13?utm_campaign=1057&utm_source=git)** | Woonsocket, RI | On Site | Mar 06 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Behavioral Health Internship](https://jobright.ai/jobs/info/6972d33698522904c697a4f8?utm_campaign=1057&utm_source=git)** | Connecticut, United States | On Site | Mar 06 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Communities, Partners, and Impact](https://jobright.ai/jobs/info/696464d4a112b40266124e09?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Nursing Administration Nursing Ed Practice and Standards](https://jobright.ai/jobs/info/698ea7a9f64d441a1650ef94?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Mar 06 |
@@ -92,9 +94,6 @@ For a complete list, click the following sortable link below:
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/69aa1a4d2ebd316bece1d534?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Mar 05 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69aa1a419ca4e908ec656604?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/69aa156a9ca4e908ec65612e?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Mar 05 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69aa137c1f59c56275e2e49d?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 05 |
-| ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69aab9ec7e1fab39d3826609?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 05 |
-| ↳ | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69aab9de142d5b4265fc1654?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 05 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[OR Intern (RN) - Periop 101 - July 2026 Cohort](https://jobright.ai/jobs/info/69aa10319ca4e908ec655d4a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Director for International Safety and Security](https://jobright.ai/jobs/info/69aa0ffe1f59c56275e2e067?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Mar 05 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern](https://jobright.ai/jobs/info/69aa0c9d1f59c56275e2dd5c?utm_campaign=1057&utm_source=git)** | Warren, RI | On Site | Mar 05 |
@@ -133,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Exos](http://www.teamexos.com/)** | **[Performance Nutrition Internship - Summer 2026](https://jobright.ai/jobs/info/69a9d10c2ebd316bece1560a?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Mar 05 |
 | **[Tusk Holdings](https://www.tuskholdings.com/)** | **[Public Policy AI Trainer Internship](https://jobright.ai/jobs/info/69a9d0d99ca4e908ec64fd6d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[Vancouver Airport Authority](http://www.yvr.ca)** | **[Co‑op Student - Learning & Development](https://jobright.ai/jobs/info/69a9d0299ca4e908ec64fc80?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69a9d0269ca4e908ec64fc75?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Risk & Compliance (Pittsburgh, PA)](https://jobright.ai/jobs/info/69a9ef399ca4e908ec65360c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 05 |
 | **[Chesterfield College](https://www.chesterfield.ac.uk)** | **[Apprenticeship Work Based Tutor/IQA – Electrical installation](https://jobright.ai/jobs/info/69a9cb169ca4e908ec64fa3f?utm_campaign=1057&utm_source=git)** | Field, British Columbia, Canada | On Site | Mar 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Northwestern Mutual Summer Internship](https://jobright.ai/jobs/info/69a9cb002ebd316bece1523e?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 05 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern-Alamo TN](https://jobright.ai/jobs/info/6971d081b707bf728a4b5d0a?utm_campaign=1057&utm_source=git)** | Alamo, TN | On Site | Mar 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Orientation Leader for International Student Orientation Programs](https://jobright.ai/jobs/info/69a993337f9271426f886e83?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Mar 05 |
 | **[Texas Housing Conservancy](https://www.austinhousingconservancy.com/)** | **[Summer Impact Fellowship](https://jobright.ai/jobs/info/69a992d87f9271426f886e2f?utm_campaign=1057&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Mar 05 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/697113a8587dfa0bb55ea5a7?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | Mar 05 |
+| **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/698daf94f64d441a164fd8db?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
