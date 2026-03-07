@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 06 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69ab6bf07e1fab39d382f4a7?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 06 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69ab6bc72747003c3d510a29?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 06 |
 | ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69ab6b9a2747003c3d5109a8?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 06 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Asst. Research Professor & Associate Director](https://jobright.ai/jobs/info/6972e84c98522904c697ba9a?utm_campaign=1057&utm_source=git)** | Lawrence, KS | Hybrid | Mar 06 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69aae4497e1fab39d3828279?utm_campaign=1057&utm_source=git)** | Trenton, Ontario, Canada | On Site | Mar 06 |
 | **[California State University, Chico](https://www.csuchico.edu/)** | **[2026-27 Lecturer Pool Department of Child Development](https://jobright.ai/jobs/info/698566050f6f7e7a2ce022bd?utm_campaign=1057&utm_source=git)** | Chico, CA | On Site | Mar 06 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 06 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Mar 06 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Mar 06 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Nursing Work Study Intern](https://jobright.ai/jobs/info/69aad9b72747003c3d508b3b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Youth Mentorship Intern - UNPAID](https://jobright.ai/jobs/info/69a0bd7981476f6176bb09cc?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 06 |
 | **[Landmark Medical Center](https://www.landmarkmedical.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/698eb7a10f6f7e7a2ceada13?utm_campaign=1057&utm_source=git)** | Woonsocket, RI | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69aa4e452ebd316bece211a8?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Mar 05 |
 | **[Kidsave](https://www.kidsave.org)** | **[Programs Intern - Weekend Miracles VA](https://jobright.ai/jobs/info/69aa48502ebd316bece209c7?utm_campaign=1057&utm_source=git)** | Central, VA | Hybrid | Mar 05 |
 | **[Pathways](http://www.clarvida.com)** | **[Pre Licensed Intern](https://jobright.ai/jobs/info/69aa44601f59c56275e320a2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 05 |
-| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - H2F Project](https://jobright.ai/jobs/info/69aa43062ebd316bece206c4?utm_campaign=1057&utm_source=git)** | Bethesda, MD | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
