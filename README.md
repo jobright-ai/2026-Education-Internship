@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Graduate Assistant - CeCE eLearning Testing Center](https://jobright.ai/jobs/info/69ab4ba17e1fab39d382e460?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Mar 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Bryant Student Campus Coordinator - Intern](https://jobright.ai/jobs/info/69ab467c2747003c3d50f529?utm_campaign=1057&utm_source=git)** | Smithfield, RI | On Site | Mar 06 |
 | **[Southbridge Public Schools](http://Southbridge.k12.ma.us)** | **[2026 Extended School Year Summer Program - Educational Assistant INTERNAL APPLICANTS](https://jobright.ai/jobs/info/69ab46662747003c3d50f4dc?utm_campaign=1057&utm_source=git)** | Southbridge, MA | On Site | Mar 06 |
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Undergraduate)](https://jobright.ai/jobs/info/69ab45302747003c3d50f314?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Expeditors](http://www.expeditors.com)** | **[Full Time Summer Internship - 2026](https://jobright.ai/jobs/info/69ab3113142d5b4265fc75a9?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Mar 06 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[undergraduate Psychology Internship](https://jobright.ai/jobs/info/69ab2f752747003c3d50da9e?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Mar 06 |
 | **[BY YOUR SIDE Autism Therapy Services](https://byyoursideac.com/)** | **[ABA Intern](https://jobright.ai/jobs/info/69ab2f6a142d5b4265fc7500?utm_campaign=1057&utm_source=git)** | Crystal Lake, IL | On Site | Mar 06 |
+| **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant (Multiple Vacancies)](https://jobright.ai/jobs/info/69ab4e757e1fab39d382e697?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Mar 06 |
 | **[Gann Academy](https://www.gannacademy.org/)** | **[Gann Alumni Intern -Summer 2026](https://jobright.ai/jobs/info/69ab2c83142d5b4265fc6ef6?utm_campaign=1057&utm_source=git)** | Gann Academy - Waltham, MA 02452 | Hybrid | Mar 06 |
 | **[Ethos Treatment, LLC](https://www.ethostreatment.com)** | **[Internship Program for Multiple Locations](https://jobright.ai/jobs/info/69ab2ae67e1fab39d382b7bd?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Mar 06 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[High School Intern - Summer 2026 - Milwaukee, WI](https://jobright.ai/jobs/info/69ab2a897e1fab39d382b689?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Site Teacher at International Leadership Lancaster](https://jobright.ai/jobs/info/69aa35882ebd316bece1fa0a?utm_campaign=1057&utm_source=git)** | Lancaster, TX | On Site | Mar 05 |
 | **[South Suburban Park and Recreation District](http://www.ssprd.org)** | **[Family Services Intern](https://jobright.ai/jobs/info/69aa2b039ca4e908ec657252?utm_campaign=1057&utm_source=git)** | Centennial, CO | On Site | Mar 05 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Graduate Research Assistant Internship – Science and Technology](https://jobright.ai/jobs/info/69a00340ce78e77b4fe62642?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Mar 05 |
-| **[BY YOUR SIDE Autism Therapy Services](https://byyoursideac.com/)** | **[ABA Intern](https://jobright.ai/jobs/info/69ab35347e1fab39d382cc99?utm_campaign=1057&utm_source=git)** | Crystal Lake, IL | On Site | Mar 05 |
-| ↳ | **[BCBA Intern](https://jobright.ai/jobs/info/69ab351a142d5b4265fc7c2a?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
