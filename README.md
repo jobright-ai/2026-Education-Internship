@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
+| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Batalini](https://jobright.ai/jobs/info/69ad01b82747003c3d5292a8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69ad01a02747003c3d52925e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69acf39d7e1fab39d3846a78?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 07 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69acc4a8142d5b4265fdf9c4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69acbf027e1fab39d3844734?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
-| ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ec?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ea?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
+| ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ec?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69acbeea2747003c3d524e96?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69acbeea2747003c3d524e98?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | **[School District 20, Kootenay-Columbia](http://www.sd20.bc.ca)** | **[26-C-20 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/69ac96da142d5b4265fdd98b?utm_campaign=1057&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Mar 07 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Pediatric ICU & Burn](https://jobright.ai/jobs/info/69ab95d22747003c3d511c78?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for Men's Lacrosse - Athletics Event Operations](https://jobright.ai/jobs/info/69ab95b62747003c3d511be5?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| ↳ | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | **[Missouri Botanical Garden](http://www.missouribotanicalgarden.org/)** | **[Intern, Sustainability](https://jobright.ai/jobs/info/69ab94ce142d5b4265fcb1ee?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's Soccer - Athletics Event Operations](https://jobright.ai/jobs/info/69ab92307e1fab39d382fb86?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Office of Training Affairs](https://jobright.ai/jobs/info/69ab91a92747003c3d51115a?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Mar 06 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Professional Development Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab64b8142d5b4265fc9c84?utm_campaign=1057&utm_source=git)** | New Britain, CT | On Site | Mar 06 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Internship - Business & Community Development](https://jobright.ai/jobs/info/69a68e311a944544ef63349d?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Mar 06 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Providence, RI)](https://jobright.ai/jobs/info/69aba3637e1fab39d3831c87?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Mar 06 |
-| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/69aba3492747003c3d51320d?utm_campaign=1057&utm_source=git)** | New York | On Site | Mar 06 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69aba3497e1fab39d3831bfa?utm_campaign=1057&utm_source=git)** | Long Island Bridgehampton | On Site | Mar 06 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Graduate Assistant - CeCE eLearning Testing Center](https://jobright.ai/jobs/info/69ab4ba17e1fab39d382e460?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Mar 06 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Bryant Student Campus Coordinator - Intern](https://jobright.ai/jobs/info/69ab467c2747003c3d50f529?utm_campaign=1057&utm_source=git)** | Smithfield, RI | On Site | Mar 06 |
+| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/69aba3497e1fab39d3831bfa?utm_campaign=1057&utm_source=git)** | Long Island Bridgehampton | On Site | Mar 06 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69aba3492747003c3d51320d?utm_campaign=1057&utm_source=git)** | New York | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
