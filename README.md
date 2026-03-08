@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Colleges](https://www.seattlecolleges.edu)** | **[Student Internship - Workforce Education Admin Assistant](https://jobright.ai/jobs/info/69ad5ad12747003c3d52e18b?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Mar 08 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Mar 08 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Mar 08 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c026?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
+| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Batalini](https://jobright.ai/jobs/info/69ad01b82747003c3d5292a8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69ad01a02747003c3d52925e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workforce Institute Intern](https://jobright.ai/jobs/info/69ac7c847e1fab39d38403a8?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer 2026 Intern - Insurance](https://jobright.ai/jobs/info/69745483206da320f49e8ea4?utm_campaign=1057&utm_source=git)** | Chesterfield, MO | Hybrid | Mar 07 |
 | **[Miaplaza, Inc.](https://miacademy.co)** | **[2026 Summer Intern: Instructional Design/Curriculum & Instruction](https://jobright.ai/jobs/info/699040ca6ea51a7610f2cba9?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 07 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Technical Training Intern](https://jobright.ai/jobs/info/69ad60af2747003c3d52e2dc?utm_campaign=1057&utm_source=git)** | Butte, MT | On Site | Mar 07 |
 | **[ERMCO-ECI](http://ermco-eci.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68ec5f92ee50895bd70b3a74?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Mar 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Rogers International School: Long-Term Substitute Paraeducator Instructional](https://jobright.ai/jobs/info/69ac46742747003c3d520646?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
 | ↳ | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69ac4638142d5b4265fda26b?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Mar 07 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Intern for Women's Soccer - Equipment Coordinator](https://jobright.ai/jobs/info/69abc3c12747003c3d517d68?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Mar 06 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[undergraduate Psychology Internship](https://jobright.ai/jobs/info/69abc2b9142d5b4265fd2895?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Mar 06 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69abc9d02747003c3d5184b8?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 06 |
-| ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69aba83d2747003c3d5140ab?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 06 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Graduate Intern for Summer Start](https://jobright.ai/jobs/info/69ab9bdb142d5b4265fcbecb?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for New Student & Family Orientation](https://jobright.ai/jobs/info/69ab97757e1fab39d3830b7b?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | **[Northwest Federal Credit Union](https://www.nwfcu.org)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69ab96fb142d5b4265fcba72?utm_campaign=1057&utm_source=git)** | Herndon, VA | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Graduate Student Advising & Events Intern](https://jobright.ai/jobs/info/69abb7ed142d5b4265fd0458?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Mar 06 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69ab69b7142d5b4265fca2b9?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 06 |
 | **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2)](https://jobright.ai/jobs/info/69ab95ad7e1fab39d3830484?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Mar 06 |
-| **[Precisely](https://www.precisely.com)** | **[Partner Training & Enablement Intern](https://jobright.ai/jobs/info/69ab698f142d5b4265fca29b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
