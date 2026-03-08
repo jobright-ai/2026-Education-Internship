@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[International Undergraduate Admissions Counselor- OOGAO - 993009](https://jobright.ai/jobs/info/69ad9c5d7e1fab39d384f829?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Mar 08 |
 | **[UITAC Publishing](https://www.uitac.com)** | **[Social Science Research & Writing Intern (remote)](https://jobright.ai/jobs/info/69ad99b7142d5b4265fea89f?utm_campaign=1057&utm_source=git)** | DFW Metroplex | Remote | Mar 08 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69ad8753142d5b4265fea676?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
 | ↳ | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69ad874f2747003c3d52ffe0?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 06 |
 | **[Mt Juliet Christian Academy](http://www.mjca.org/)** | **[School Office Internship](https://jobright.ai/jobs/info/69abb51d2747003c3d515856?utm_campaign=1057&utm_source=git)** | Mt Juliet, TN 37122 | On Site | Mar 06 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Maple Grove, MN)](https://jobright.ai/jobs/info/69abb4577e1fab39d3833f05?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Mar 06 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Graduate Student Advising & Events Intern](https://jobright.ai/jobs/info/69abb7ed142d5b4265fd0458?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
