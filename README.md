@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c026?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
 | ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69acdf82142d5b4265fe0dbd?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 07 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69acf39d7e1fab39d3846a78?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 07 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69acc4a8142d5b4265fdf9c4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69acbf027e1fab39d3844734?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ec?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ea?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Library Internship, Human Rights Archive, Duke Library](https://jobright.ai/jobs/info/69abdc732747003c3d51b14e?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Mar 07 |
 | **[Lifelong Learning Administration Corporation](https://llac.org/)** | **[Special Education Teacher (Intern)](https://jobright.ai/jobs/info/69abdc562747003c3d51b04c?utm_campaign=1057&utm_source=git)** | Lakeside [091] - Lakeside, CA 92040 | On Site | Mar 07 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Internship - Master's Level - Boys and Girls Clubs of the Valley location(s) (7023)](https://jobright.ai/jobs/info/69abdc542747003c3d51b040?utm_campaign=1057&utm_source=git)** | 27th Avenue                                        - Phoenix, AZ 85017 | On Site | Mar 07 |
+| **[Slate & Associates, Attorneys at Law](http://www.slatelaw.com)** | **[Fire Department Outreach Intern](https://jobright.ai/jobs/info/69ad335d7e1fab39d384b0d7?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Track & Field - Athletics Facilities Operations](https://jobright.ai/jobs/info/69abd5387e1fab39d3838803?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for Track & Field - Athletics Facilities Operations](https://jobright.ai/jobs/info/69abc7fd7e1fab39d3837f59?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for Field Hockey - Athletics Event Operations](https://jobright.ai/jobs/info/69abc7fc7e1fab39d3837f4f?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Mar 06 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP– Appalshop Educational Resource Development Intern](https://jobright.ai/jobs/info/69abb08c7e1fab39d38336f9?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | ↳ | **[Summer INTERNSHIP – Appalshop Student Administrative and Development Intern](https://jobright.ai/jobs/info/69abb0897e1fab39d38336ee?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[BUSINESS ADMINISTRATION FACULTY](https://jobright.ai/jobs/info/69abee462747003c3d51d78f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
-| **[Entegra](https://entegraps.fr/)** | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb5d02747003c3d51590a?utm_campaign=1057&utm_source=git)** | EVANSTON, IL, US | On Site | Mar 06 |
-| ↳ | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb7f0142d5b4265fd04a1?utm_campaign=1057&utm_source=git)** | US-IL-EVANSTON | On Site | Mar 06 |
+| **[Entegra](https://entegraps.fr/)** | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb7f0142d5b4265fd04a1?utm_campaign=1057&utm_source=git)** | US-IL-EVANSTON | On Site | Mar 06 |
+| ↳ | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb5d02747003c3d51590a?utm_campaign=1057&utm_source=git)** | EVANSTON, IL, US | On Site | Mar 06 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 06 |
 | **[Mt Juliet Christian Academy](http://www.mjca.org/)** | **[School Office Internship](https://jobright.ai/jobs/info/69abb51d2747003c3d515856?utm_campaign=1057&utm_source=git)** | Mt Juliet, TN 37122 | On Site | Mar 06 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Maple Grove, MN)](https://jobright.ai/jobs/info/69abb4577e1fab39d3833f05?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Partner Training & Enablement Intern](https://jobright.ai/jobs/info/69ab698f142d5b4265fca29b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Sodexo](http://www.sodexo.com)** | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe78?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 06 |
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Horticulture/Landscape Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ab66a47e1fab39d382ef50?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Mar 06 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty- Student Development](https://jobright.ai/jobs/info/69ab658c2747003c3d510225?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[BHcare](https://bhcare.org)** | **[Clinical Intern- Adult Outpatient](https://jobright.ai/jobs/info/69ab6537142d5b4265fc9ed6?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
