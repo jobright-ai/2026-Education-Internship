@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Youth Conservation Intern](https://jobright.ai/jobs/info/6973cd62206da320f49dc703?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | Mar 08 |
+| **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Mar 08 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c026?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69ab69b7142d5b4265fca2b9?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 06 |
 | **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2)](https://jobright.ai/jobs/info/69ab95ad7e1fab39d3830484?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Partner Training & Enablement Intern](https://jobright.ai/jobs/info/69ab698f142d5b4265fca29b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Sodexo](http://www.sodexo.com)** | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69ab92c67e1fab39d382fe78?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 06 |
-| **[City of Eden Prairie](http://www.edenprairie.org)** | **[Horticulture/Landscape Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ab66a47e1fab39d382ef50?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
