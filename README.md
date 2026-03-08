@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69aca0c3142d5b4265fdedd4?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Mar 07 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69acc4a8142d5b4265fdf9c4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Hindi Teacher & Interns](https://jobright.ai/jobs/info/69acbf027e1fab39d3844734?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
+| ↳ | **[2026/2027 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ec?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
+| ↳ | **[2026/2027 - Deaf and Hard of Hearing Specialist/Teacher & Interns](https://jobright.ai/jobs/info/69acbef8142d5b4265fdf8ea?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
+| **[Poway Unified School District](https://www.powayusd.com/)** | **[Eligibility Pool - 2026-2027 - Education Specialist, Mild/Moderate (MMSN) or Extensive Support Needs (ESN) [INTERN EDUCATION SPECIALISTS ONLY]](https://jobright.ai/jobs/info/69acbeea2747003c3d524e96?utm_campaign=1057&utm_source=git)** | Poway, CA | On Site | Mar 07 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69acbeea2747003c3d524e98?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Mar 07 |
 | **[School District 20, Kootenay-Columbia](http://www.sd20.bc.ca)** | **[26-C-20 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/69ac96da142d5b4265fdd98b?utm_campaign=1057&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Mar 07 |
 | **[Orchard Place](https://www.orchardplace.org)** | **[Bachelor's Summer Enrichment Internship - PACE](https://jobright.ai/jobs/info/69ac8f3b2747003c3d522548?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Mar 07 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/69ac87f92747003c3d521e3b?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Mar 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Undergraduate)](https://jobright.ai/jobs/info/69ab45302747003c3d50f314?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Dallas Arboretum and Botanical Garden](https://www.dallasarboretum.org)** | **[Intern, Education (Summer Camp)](https://jobright.ai/jobs/info/69ab44ff142d5b4265fc8f03?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | Mar 06 |
 | **[Southbridge Public Schools](http://Southbridge.k12.ma.us)** | **[2026 Extended School Year Summer Program - Teacher INTERNAL APPLICANTS](https://jobright.ai/jobs/info/69ab447f142d5b4265fc8e00?utm_campaign=1057&utm_source=git)** | Southbridge, MA | On Site | Mar 06 |
-| **[Fayetteville State University](http://www.uncfsu.edu/)** | **[Graduate Assistant-Career Services Intern](https://jobright.ai/jobs/info/69ab42df2747003c3d50f186?utm_campaign=1057&utm_source=git)** | Fayetteville, NC | On Site | Mar 06 |
-| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Women's Lacrosse - Equipment Coordinator](https://jobright.ai/jobs/info/69aba340142d5b4265fcd12a?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Mar 06 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Student Corps Program Specialist](https://jobright.ai/jobs/info/69ab40c5142d5b4265fc8ae3?utm_campaign=1057&utm_source=git)** | Warren, MI | On Site | Mar 06 |
-| **[BHcare](https://bhcare.org)** | **[Clinical Intern- Adult Outpatient](https://jobright.ai/jobs/info/69aba8052747003c3d513fb2?utm_campaign=1057&utm_source=git)** | Shoreline Adult Services North Branford, CT - North Branford, CT 06471 | On Site | Mar 06 |
-| **[GSK](http://www.gsk.com)** | **[Medical Affairs Associate,  Respiratory (4 Month Student internship)](https://jobright.ai/jobs/info/69ab3c5c142d5b4265fc8535?utm_campaign=1057&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
