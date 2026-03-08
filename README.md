@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Mar 08 |
+| **[Loftware](http://www.loftware.com)** | **[Summer Internship - Learning & Development Team](https://jobright.ai/jobs/info/69adc8477e1fab39d384fe8b?utm_campaign=1057&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/69adb4127e1fab39d384fbc8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 08 |
 | **[Bank Street College of Education](https://www.bankstreet.edu)** | **[Director of Student Support & Learning](https://jobright.ai/jobs/info/69ada1ce2747003c3d53040f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[International Undergraduate Admissions Counselor- OOGAO - 993009](https://jobright.ai/jobs/info/69ad9c5d7e1fab39d384f829?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Mar 08 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Mar 08 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
+| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Batalini](https://jobright.ai/jobs/info/69ad01b82747003c3d5292a8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69ad01a02747003c3d52925e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Library Internship, Teaching and Learning, Duke Library](https://jobright.ai/jobs/info/69abae8e2747003c3d5145a8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 06 |
 | **[Pearland Economic Development Corporation](http://www.pearlandedc.com)** | **[Fire Department Outreach Intern](https://jobright.ai/jobs/info/69ad299d2747003c3d52b873?utm_campaign=1057&utm_source=git)** | Pearland,TX,US | On Site | Mar 06 |
 | **[Metanoia](http://www.metanoiasc.org)** | **[Freedom School Literacy, Leadership & Advocacy Intern](https://jobright.ai/jobs/info/69abc4412747003c3d517f3a?utm_campaign=1057&utm_source=git)** | North Charleston, SC 29405 | On Site | Mar 06 |
+| **[Heartland Credit Union - Kansas](https://www.hcu.coop)** | **[Voluntary Student Internship - Hutchinson High School](https://jobright.ai/jobs/info/69add21b2747003c3d5324f3?utm_campaign=1057&utm_source=git)** | Hutchinson, KS, USA | On Site | Mar 06 |
 | **[PRACTICE](https://practicebc.com/)** | **[Bilingual Spanish Hillsborough Internship](https://jobright.ai/jobs/info/69ac74617e1fab39d383fdef?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Mar 06 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[2026 John Garcia Legacy Summer Internship Program- CAP Program](https://jobright.ai/jobs/info/69abb6692747003c3d515b17?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP– Appalshop Educational Resource Development Intern](https://jobright.ai/jobs/info/69abb08c7e1fab39d38336f9?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | ↳ | **[Summer INTERNSHIP – Appalshop Student Administrative and Development Intern](https://jobright.ai/jobs/info/69abb0897e1fab39d38336ee?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[BUSINESS ADMINISTRATION FACULTY](https://jobright.ai/jobs/info/69abee462747003c3d51d78f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
-| **[Entegra](https://entegraps.fr/)** | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb7f0142d5b4265fd04a1?utm_campaign=1057&utm_source=git)** | US-IL-EVANSTON | On Site | Mar 06 |
-| ↳ | **[BMET Cybersecurity Sodexo Strategic Intern- HTM](https://jobright.ai/jobs/info/69abb5d02747003c3d51590a?utm_campaign=1057&utm_source=git)** | EVANSTON, IL, US | On Site | Mar 06 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/696ff0bc0f4e0f657ea43aab?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
