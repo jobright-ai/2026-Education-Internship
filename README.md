@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/69904c770cc8ea15f1db1324?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Mar 08 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
-| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Batalini](https://jobright.ai/jobs/info/69ad01b82747003c3d5292a8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69ad01a02747003c3d52925e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
