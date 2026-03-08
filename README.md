@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 08 |
 | **[RailPros](http://railpros.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/699092b46ea51a7610f318e2?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 08 |
 | **[Alliance Animal Health](https://allianceanimal.com/)** | **[New Graduate Veterinarian Accelerated ER Internship & Placement Program](https://jobright.ai/jobs/info/6990f3d50cc8ea15f1dba2f0?utm_campaign=1057&utm_source=git)** | Blue Ridge, GA | On Site | Mar 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/689435f54c7e851b90ae3fbc?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Mar 08 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69ad36107e1fab39d384ba63?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69ad2ec32747003c3d52c026?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69ad1a7b2747003c3d52a2b7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 07 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
-| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e6?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 07 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69ad1371142d5b4265fe36e7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Batalini](https://jobright.ai/jobs/info/69ad01b82747003c3d5292a8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 07 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69ad01a02747003c3d52925e?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69ad0158142d5b4265fe2972?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 07 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Pediatric ICU & Burn](https://jobright.ai/jobs/info/69ab95d22747003c3d511c78?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for Men's Lacrosse - Athletics Event Operations](https://jobright.ai/jobs/info/69ab95b62747003c3d511be5?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| ↳ | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | **[Missouri Botanical Garden](http://www.missouribotanicalgarden.org/)** | **[Intern, Sustainability](https://jobright.ai/jobs/info/69ab94ce142d5b4265fcb1ee?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's Soccer - Athletics Event Operations](https://jobright.ai/jobs/info/69ab92307e1fab39d382fb86?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Office of Training Affairs](https://jobright.ai/jobs/info/69ab91a92747003c3d51115a?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mt Juliet Christian Academy](http://www.mjca.org/)** | **[School Office Internship](https://jobright.ai/jobs/info/69abb51d2747003c3d515856?utm_campaign=1057&utm_source=git)** | Mt Juliet, TN 37122 | On Site | Mar 06 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Maple Grove, MN)](https://jobright.ai/jobs/info/69abb4577e1fab39d3833f05?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Mar 06 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Graduate Student Advising & Events Intern](https://jobright.ai/jobs/info/69abb7ed142d5b4265fd0458?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Mar 06 |
-| **[Volga Partners](https://volgapartners.com/)** | **[Paid Internship - English Language Quality Associate (W-2)](https://jobright.ai/jobs/info/69ab95ad7e1fab39d3830484?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
