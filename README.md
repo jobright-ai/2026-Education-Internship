@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twin Lakes Counseling](https://twinlakescounseling.com)** | **[Clinical Mental Health / Family Therapy Internship](https://jobright.ai/jobs/info/69aded367e1fab39d3850ed9?utm_campaign=1057&utm_source=git)** | Federal Way, WA | On Site | Mar 08 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69aded2c7e1fab39d3850ecb?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Mar 08 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Mar 08 |
 | **[Loftware](http://www.loftware.com)** | **[Summer Internship - Learning & Development Team](https://jobright.ai/jobs/info/69adc8477e1fab39d384fe8b?utm_campaign=1057&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Mar 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[GRADUATE STUDENT ASSISTANT](https://jobright.ai/jobs/info/69adb4127e1fab39d384fbc8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 08 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Pediatric ICU & Burn](https://jobright.ai/jobs/info/69ab95d22747003c3d511c78?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | ↳ | **[Graduate Intern for Men's Lacrosse - Athletics Event Operations](https://jobright.ai/jobs/info/69ab95b62747003c3d511be5?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
-| ↳ | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Academic Coordinator (Intern 2026-2027 Academic Year)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
+| ↳ | **[Assistant Learning Specialist (Intern 2026-2027)](https://jobright.ai/jobs/info/69ab95ae2747003c3d511bb5?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 06 |
 | **[Missouri Botanical Garden](http://www.missouribotanicalgarden.org/)** | **[Intern, Sustainability](https://jobright.ai/jobs/info/69ab94ce142d5b4265fcb1ee?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Mar 06 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's Soccer - Athletics Event Operations](https://jobright.ai/jobs/info/69ab92307e1fab39d382fb86?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 06 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Office of Training Affairs](https://jobright.ai/jobs/info/69ab91a92747003c3d51115a?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PRACTICE](https://practicebc.com/)** | **[Bilingual Spanish Hillsborough Internship](https://jobright.ai/jobs/info/69ac74617e1fab39d383fdef?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Mar 06 |
 | **[LatinoJustice PRLDEF](https://www.latinojustice.org/en)** | **[2026 John Garcia Legacy Summer Internship Program- CAP Program](https://jobright.ai/jobs/info/69abb6692747003c3d515b17?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Summer INTERNSHIP– Appalshop Educational Resource Development Intern](https://jobright.ai/jobs/info/69abb08c7e1fab39d38336f9?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
-| ↳ | **[Summer INTERNSHIP – Appalshop Student Administrative and Development Intern](https://jobright.ai/jobs/info/69abb0897e1fab39d38336ee?utm_campaign=1057&utm_source=git)** | Pikeville, Kentucky, United States | Hybrid | Mar 06 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[BUSINESS ADMINISTRATION FACULTY](https://jobright.ai/jobs/info/69abee462747003c3d51d78f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
