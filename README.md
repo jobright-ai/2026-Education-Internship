@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Mobile Mental Health Intern](https://jobright.ai/jobs/info/69af9a14dfaeda6ff597ddc0?utm_campaign=1057&utm_source=git)** | Kingston, NY | On Site | Mar 09 |
+| **[Duke University](http://www.duke.edu)** | **[Library Intern, Josiah Charles Trent History of Medicine , Duke Library](https://jobright.ai/jobs/info/69af9a10dfaeda6ff597ddb1?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 09 |
+| ↳ | **[Library Internship, Outreach and Research, Duke Library](https://jobright.ai/jobs/info/69af98346b21de023e60ebdd?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 09 |
+| ↳ | **[Library Intern Rubenstein Library's University Archives, Duke Library](https://jobright.ai/jobs/info/69af98286b21de023e60eb94?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 09 |
+| **[JPS Health Network](https://jpshealthnet.org)** | **[High School Healthcare Intern (SHINE Program)](https://jobright.ai/jobs/info/69af90b074950064509410e8?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Mar 09 |
+| ↳ | **[Undegrad Healthcare Intern (SHINE Program)](https://jobright.ai/jobs/info/69af90916b21de023e60c7ef?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Mar 09 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69af8dc37495006450940f53?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Mar 09 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69af8365dfaeda6ff597aa2b?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Mar 09 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af81116b21de023e60b843?utm_campaign=1057&utm_source=git)** | Lost Hills, CA, USA | On Site | Mar 09 |
@@ -120,8 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69af1eec6b21de023e603303?utm_campaign=1057&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 09 |
 | **[University of Saskatchewan](http://www.usask.ca)** | **[Fully Funded International Internship – University of Saskatchewan Graduate Students (Currently Enrolled Only)) / Summer 2026](https://jobright.ai/jobs/info/69af1e877495006450938890?utm_campaign=1057&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 09 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/69aa1a4d2ebd316bece1d534?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Mar 09 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69af161e6b21de023e602cdc?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 09 |
-| **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship - Summer 2027](https://jobright.ai/jobs/info/69af83e07495006450940430?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 09 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[IT Credentialed Trainer Intern](https://jobright.ai/jobs/info/69af0e0c7495006450937c11?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Mar 09 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Hospital Billing Staff Intern - FT - Day - Hospital Billing Lawrenceville NJ](https://jobright.ai/jobs/info/69af0c7a7495006450937aa1?utm_campaign=1057&utm_source=git)** | 3131 Princeton Pike | On Site | Mar 09 |
 | **[Maven Securities](https://www.mavensecurities.com)** | **[Trader Summer Internship Chicago 2026](https://jobright.ai/jobs/info/69af06f26b21de023e601d40?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian II, Intern Prg](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 | **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69aea2695224a240f103b58d?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 09 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/69ae9e4bbd1a716b43103f6f?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Mar 09 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6992944781476f6176aa0b7e?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Mar 09 |
-| **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Intern for Junior Volunteer Program](https://jobright.ai/jobs/info/69ae86933de6821aaccde45a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 09 |
-| **[Multnomah County](https://multco.us)** | **[Library - Rockwood Library Makerspace Program Internship](https://jobright.ai/jobs/info/69ae855f7c309707d4afd127?utm_campaign=1057&utm_source=git)** | Gresham, OR | On Site | Mar 09 |
-| ↳ | **[DCM - Organizational Learning Internship](https://jobright.ai/jobs/info/69ae855d7c309707d4afd118?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
