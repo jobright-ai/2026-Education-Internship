@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakwood Village](https://www.oakwoodvillage.net/)** | **[Rehabilitation and Therapy Internship](https://jobright.ai/jobs/info/6993afe0e0bddb6acac1f750?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 10 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Product Training Intern](https://jobright.ai/jobs/info/69b03aed0b2db6275c03c1d7?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[UK Equine Student Relations and Program Outreach Internship Summer and Fall 2026](https://jobright.ai/jobs/info/69b03607dfaeda6ff599aa03?utm_campaign=1057&utm_source=git)** | Greater Lexington Area | On Site | Mar 10 |
 | **[UN Women](http://www.unwomen.org/en)** | **[Programme Partner Management Intern](https://jobright.ai/jobs/info/69a81480d010537e7432669f?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Mar 10 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Student Program: Workforce Development and Sales Operations  Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6997ab6381476f6176afcca5?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Go-To-Market Programs Internship (Summer 2026, GSM)](https://jobright.ai/jobs/info/6997ba21e0bddb6acac677b2?utm_campaign=1057&utm_source=git)** | Livonia, MI | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Demand Generation Internship (Summer 2026, GSM)](https://jobright.ai/jobs/info/6997a5f4e0bddb6acac65c16?utm_campaign=1057&utm_source=git)** | St Louis, MO | Remote | Mar 10 |
-| ↳ | **[Strategic Student Program: Industrial Digital Strategist Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6997aa1de0bddb6acac66288?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Social Intelligence & Activation Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/6997bc74e0bddb6acac67c12?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Mar 10 |
+| ↳ | **[Strategic Student Program: Industrial Digital Strategist Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/6997aa1de0bddb6acac66288?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Mar 10 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69b00014dfaeda6ff5992faa?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Mar 10 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/69a68ce81a944544ef633361?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Mar 10 |
@@ -98,17 +99,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d944?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01adfaeda6ff598d935?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d915?utm_campaign=1057&utm_source=git)** | Wauconda, IL | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2874950064509526cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bb?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b5?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bd?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b7?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526c3?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bb?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b7?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bd?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde137495006450952653?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264d?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde097495006450952616?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Mar 10 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e901?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e8ff?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d6?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8ad?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde1f63f733065b3e8a7?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Mar 10 |
 | **[Tennessee Department of Correction](https://www.tn.gov/correction)** | **[TDOC 2026 REHABILITATIVE SERVICES INTERNSHIP-SUMMER-INTERNSHIP-03102026-75956](https://jobright.ai/jobs/info/69afdc31dfaeda6ff598ceb2?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Mar 10 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69afd88a74950064509518c4?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INB, National Association](https://www.inb.com/)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/69af783f6b21de023e60a99a?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Mar 09 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Video & Content Creation Intern](https://jobright.ai/jobs/info/69af7758dfaeda6ff59798b7?utm_campaign=1057&utm_source=git)** | Orem, UT, US | On Site | Mar 09 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Training and Programs Specialist](https://jobright.ai/jobs/info/69b00c18dfaeda6ff59952c6?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 09 |
-| **[Sparks Village Academy](sparksvillage.com)** | **[Educational Media Intern](https://jobright.ai/jobs/info/69af73f1dfaeda6ff597910b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
