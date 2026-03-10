@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Idara-e-Taleem-o-Aagahi (ITA)](https://itacec.org/)** | **[Kitab Gari Intern – Literacy & Community Engagement](https://jobright.ai/jobs/info/69afb723749500645094b1b4?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Mar 09 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[TDOC 2026 REHABILITATIVE SERVICES INTERNSHIP-SUMMER-INTERNSHIP-03102026-75956](https://jobright.ai/jobs/info/69afb546749500645094ab51?utm_campaign=1057&utm_source=git)** | Davidson County, TN | On Site | Mar 09 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant - Professor Rios-Contreras](https://jobright.ai/jobs/info/69afac61dfaeda6ff5982a2e?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Mar 09 |
 | **[SGMC Health](http://sgmc.org/)** | **[NURSE INTERN, NURSING INTERNSHIP](https://jobright.ai/jobs/info/69afa98df63f733065b34328?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Mar 09 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Mobile Mental Health Intern](https://jobright.ai/jobs/info/69af9a14dfaeda6ff597ddc0?utm_campaign=1057&utm_source=git)** | Kingston, NY | On Site | Mar 09 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Boston Kids Program and Coaching Internship](https://jobright.ai/jobs/info/69af2834749500645093a194?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 09 |
 | **[Volo Sports](https://www.volosports.com)** | **[Boston Kids Program and Coaching Internship](https://jobright.ai/jobs/info/69af2810749500645093a159?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[*INTERNAL ONLY* Associate Program Director – BLSP & BPDP](https://jobright.ai/jobs/info/69af273cdfaeda6ff5973cc7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 09 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[**2026 Grads Only** 2026 Finance Transformation Summer Internship Program](https://jobright.ai/jobs/info/69af269bdfaeda6ff5973a46?utm_campaign=1057&utm_source=git)** | US-MI-Pontiac | On Site | Mar 09 |
-| ↳ | **[**2026 Grads Only** 2026 Finance Transformation Summer Internship Program](https://jobright.ai/jobs/info/69af269b6b21de023e604dde?utm_campaign=1057&utm_source=git)** | Pontiac, MI, US | On Site | Mar 09 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[**2026 Grads Only** 2026 Finance Transformation Summer Internship Program](https://jobright.ai/jobs/info/69af269b6b21de023e604dde?utm_campaign=1057&utm_source=git)** | Pontiac, MI, US | On Site | Mar 09 |
+| ↳ | **[**2026 Grads Only** 2026 Finance Transformation Summer Internship Program](https://jobright.ai/jobs/info/69af269bdfaeda6ff5973a46?utm_campaign=1057&utm_source=git)** | US-MI-Pontiac | On Site | Mar 09 |
 | **[The Partners Group](https://www.thepartnersgroup.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69af243e7495006450939b0b?utm_campaign=1057&utm_source=git)** | Portland,OR,US | On Site | Mar 09 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/69af23e1dfaeda6ff597341b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69af1eec6b21de023e603303?utm_campaign=1057&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VCU Health](https://www.vcuhealth.org)** | **[Child Life Internship](https://jobright.ai/jobs/info/69aeb9d4bd1a716b431048c6?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 09 |
 | **[STEM Coding Lab](https://stemcodinglab.org/)** | **[STEM Program Curriculum Assistant (Intern)](https://jobright.ai/jobs/info/69aeb465bd1a716b431047c1?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 09 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Graduate Assistant Fall 2026/Spring 2027(student employment)](https://jobright.ai/jobs/info/69aeda2e6b21de023e5fe51f?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Mar 09 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/6893eda34c7e851b90ae163b?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 09 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian II, Intern Prg](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
