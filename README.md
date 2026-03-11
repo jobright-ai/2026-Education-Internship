@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Georgia Transmission](http://gatrans.com)** | **[2025 Safety & Technical Training Summer Intern](https://jobright.ai/jobs/info/69b1dc71548f140066e7d02e?utm_campaign=1057&utm_source=git)** | Tucker, GA | On Site | Mar 11 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b1e488548f140066e7eaed?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
+| **[The College of St. Scholastica](https://www.css.edu)** | **[Welcome Week Intern](https://jobright.ai/jobs/info/69b1e45e548f140066e7ea23?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Mar 11 |
+| **[The Dorm](https://thedorm.com/)** | **[Clinical Intern, Summer (DC Office)](https://jobright.ai/jobs/info/69b1dfda548f140066e7da40?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 11 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Program](https://jobright.ai/jobs/info/69b1df7e548f140066e7d97a?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Mar 11 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Learning Commons Student Assistant](https://jobright.ai/jobs/info/69b1d591d04c69566c74350e?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Mar 11 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69b1d0cdd04c69566c74268e?utm_campaign=1057&utm_source=git)** | East Providence, RI | On Site | Mar 11 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's Soccer - Athletics Event Operations](https://jobright.ai/jobs/info/69ab92307e1fab39d382fb86?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 11 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Brown University](https://www.brown.edu)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69b18852548f140066e75fdd?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Mar 11 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b1814ed04c69566c73d372?utm_campaign=1057&utm_source=git)** | Boston | On Site | Mar 11 |
 | ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f8d548f140066e7597d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
-| ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f8b65de58104c708fcd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
 | ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f85548f140066e75965?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Assistant or Associate Professor in Engineering Technology (Software Quality, Mobile Technologies, Edge Computing)](https://jobright.ai/jobs/info/6994d770ce78e77b4fd8e6f3?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/697283ee4ccbf64f8df27615?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
@@ -147,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Trainings Team Intern/Fellow](https://jobright.ai/jobs/info/69b193f3d04c69566c73dfa9?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Mar 10 |
 | **[Beacon Health System](http://beaconhealthsystem.org/)** | **[Student Intern Unpaid (BHS)](https://jobright.ai/jobs/info/69b1c6a965de58104c70d009?utm_campaign=1057&utm_source=git)** | Granger, IN | On Site | Mar 10 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Stu Success Initiat Staff Asst for First-Gen Programs (Student Position)](https://jobright.ai/jobs/info/69b0b51c0b2db6275c051bf6?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Mar 10 |
+| **[Catholic Charities of Ingham, Eaton & Clinton Counties](catholiccharitiesiec.org/)** | **[INTERN - Volunteer Program Specialist](https://jobright.ai/jobs/info/69b1e424548f140066e7e885?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Mar 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Pediatric ICU and Burn](https://jobright.ai/jobs/info/69b105ae7495006450983b12?utm_campaign=1057&utm_source=git)** | Wichita, KS, US | On Site | Mar 10 |
 | ↳ | **[Nurse Intern Pediatric ICU and Burn](https://jobright.ai/jobs/info/69b1072e0b2db6275c0604ae?utm_campaign=1057&utm_source=git)** | US-KS-Wichita | On Site | Mar 10 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Community Engagement](https://jobright.ai/jobs/info/699f32a381476f6176b8cebd?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroll Konstruction LLC](https://www.krollkonstruction.com/)** | **[Superintendent Intern](https://jobright.ai/jobs/info/69b0f6cedfaeda6ff59bd338?utm_campaign=1057&utm_source=git)** | Longwood,FL,US | On Site | Mar 10 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern - Main Comp Med Medical Stepdown - Full Time - Nights](https://jobright.ai/jobs/info/69b0b1e20b2db6275c051775?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Mar 10 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship-Family & Consumer Sciences - Marsing](https://jobright.ai/jobs/info/69b0e488749500645097fcde?utm_campaign=1057&utm_source=git)** | Off Campus Location - Owyhee County Extension/Marsing | On Site | Mar 10 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b101f57495006450983473?utm_campaign=1057&utm_source=git)** | Possible | On Site | Mar 10 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69b0f8bcdfaeda6ff59bd64a?utm_campaign=1057&utm_source=git)** | Colorado | On Site | Mar 10 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Medical Student Summer Internship - Primary Care Strategy & Value Based Care - Remote](https://jobright.ai/jobs/info/69b0afd97495006450977452?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
