@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - CTCH Helping Hand - Medical Surgical](https://jobright.ai/jobs/info/69b2264fd04c69566c74db17?utm_campaign=1057&utm_source=git)** | Tazewell, VA | On Site | Mar 11 |
+| **[International Institute of New England](https://iine.org/)** | **[Internship Program Summer 2026 - ESOL](https://jobright.ai/jobs/info/69b222e8548f140066e85e2e?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
+| ↳ | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications: Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e31?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
+| ↳ | **[Community Services and Resettlement Internship (IINE-Lowell)Youth Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e37?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b20f1f548f140066e83bf7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 11 |
 | **[CrossPurpose](https://www.crosspurpose.org/)** | **[Qualified Behavioral Health Assistant (QBHA) Intern](https://jobright.ai/jobs/info/69b20a4c65de58104c717768?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Mar 11 |
 | **[Garney Construction](http://garney.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69b20752548f140066e83610?utm_campaign=1057&utm_source=git)** | North Kansas City, MO | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69b129cd0b2db6275c06426a?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 11 |
 | **[PBK](https://pbk.com/)** | **[Human Resources Learning Content Development Intern](https://jobright.ai/jobs/info/69a8c38979f3f4037f43398e?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Mar 11 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Mar 11 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69b10846dfaeda6ff59bef09?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 10 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69b102aa7495006450983638?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 10 |
-| **[Lake Region Healthcare](https://www.lrhc.org/)** | **[Unity Wellness Summer Intern - Community Garden (75324)](https://jobright.ai/jobs/info/69b1026a7495006450983559?utm_campaign=1057&utm_source=git)** | Lake Region Healthcare Corporation - FERGUS FALLS, MN 56537 | On Site | Mar 10 |
-| ↳ | **[Unity Wellness Summer Intern (75319)](https://jobright.ai/jobs/info/69b1026b749500645098355d?utm_campaign=1057&utm_source=git)** | Lake Region Healthcare Corporation - FERGUS FALLS, MN 56537 | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
