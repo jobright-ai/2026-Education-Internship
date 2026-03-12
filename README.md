@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/699bc872e0bddb6acaca9191?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 12 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/695f26a2a1bbea1d9a7a0800?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Mar 12 |
 | **[Youth Guidance](https://www.youth-guidance.org/)** | **[Direct Service Internship- Chicago](https://jobright.ai/jobs/info/69968e68e0bddb6acac50eb8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6975a6e0206da320f49fb21e?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Mar 12 |
@@ -77,12 +78,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Student Advisor / DSO](https://jobright.ai/jobs/info/69b22d65548f140066e86ac9?utm_campaign=1057&utm_source=git)** | Buckhannon, WV | On Site | Mar 11 |
 | ↳ | **[Director, International Services Office](https://jobright.ai/jobs/info/69b22d63548f140066e86ac7?utm_campaign=1057&utm_source=git)** | La Jolla, CA | On Site | Mar 11 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - CTCH Helping Hand - Medical Surgical](https://jobright.ai/jobs/info/69b2264fd04c69566c74db17?utm_campaign=1057&utm_source=git)** | Tazewell, VA | On Site | Mar 11 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Lowell)Youth Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e37?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
+| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications: Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e31?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
+| ↳ | **[Community Services and Resettlement Internship (IINE-Lowell)Youth Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e37?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
 | ↳ | **[Internship Program Summer 2026 - ESOL](https://jobright.ai/jobs/info/69b222e8548f140066e85e2e?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
-| ↳ | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications: Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e31?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/69b23e66ae2a534885e93026?utm_campaign=1057&utm_source=git)** | Clarion, PA | On Site | Mar 11 |
-| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83f?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Mar 11 |
 | ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83e?utm_campaign=1057&utm_source=git)** | Haverhill, MA | On Site | Mar 11 |
+| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83f?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Mar 11 |
 | ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f842?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Mar 11 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b20f1f548f140066e83bf7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 11 |
 | **[CrossPurpose](https://www.crosspurpose.org/)** | **[Qualified Behavioral Health Assistant (QBHA) Intern](https://jobright.ai/jobs/info/69b20a4c65de58104c717768?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Mar 11 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Brown University](https://www.brown.edu)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69b18852548f140066e75fdd?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Mar 11 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b1814ed04c69566c73d372?utm_campaign=1057&utm_source=git)** | Boston | On Site | Mar 11 |
 | ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f8d548f140066e7597d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
-| ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f8b65de58104c708fcc?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
+| ↳ | **[Psychology Intern, Psychiatry](https://jobright.ai/jobs/info/69b17f8b65de58104c708fcd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 11 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Assistant or Associate Professor in Engineering Technology (Software Quality, Mobile Technologies, Edge Computing)](https://jobright.ai/jobs/info/6994d770ce78e77b4fd8e6f3?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/697283ee4ccbf64f8df27615?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
