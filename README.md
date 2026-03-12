@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Accessibility Services](https://jobright.ai/jobs/info/69b26d7fa8ac8e70ff664ecc?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 12 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Track & Field - Athletics Facilities Operations](https://jobright.ai/jobs/info/69abd5387e1fab39d3838803?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 12 |
+| ↳ | **[Graduate Intern for Accessibility Services](https://jobright.ai/jobs/info/69b26d7fa8ac8e70ff664ecc?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 12 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69b265c4ad360c0340a7317b?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 12 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Accessibility Services](https://jobright.ai/jobs/info/69b25325ae2a534885e942ea?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Mar 11 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b24d4ead360c0340a707fa?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 11 |
@@ -70,12 +71,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Student Advisor / DSO](https://jobright.ai/jobs/info/69b22d65548f140066e86ac9?utm_campaign=1057&utm_source=git)** | Buckhannon, WV | On Site | Mar 11 |
 | ↳ | **[Director, International Services Office](https://jobright.ai/jobs/info/69b22d63548f140066e86ac7?utm_campaign=1057&utm_source=git)** | La Jolla, CA | On Site | Mar 11 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - CTCH Helping Hand - Medical Surgical](https://jobright.ai/jobs/info/69b2264fd04c69566c74db17?utm_campaign=1057&utm_source=git)** | Tazewell, VA | On Site | Mar 11 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications: Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e31?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
-| ↳ | **[Internship Program Summer 2026 - ESOL](https://jobright.ai/jobs/info/69b222e8548f140066e85e2e?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
+| **[International Institute of New England](https://iine.org/)** | **[Internship Program Summer 2026 - ESOL](https://jobright.ai/jobs/info/69b222e8548f140066e85e2e?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
 | ↳ | **[Community Services and Resettlement Internship (IINE-Lowell)Youth Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e37?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Mar 11 |
+| ↳ | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications: Learning Objectives:](https://jobright.ai/jobs/info/69b222e8548f140066e85e31?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Mar 11 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/69b23e66ae2a534885e93026?utm_campaign=1057&utm_source=git)** | Clarion, PA | On Site | Mar 11 |
-| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83e?utm_campaign=1057&utm_source=git)** | Haverhill, MA | On Site | Mar 11 |
 | ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83f?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Mar 11 |
+| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f83e?utm_campaign=1057&utm_source=git)** | Haverhill, MA | On Site | Mar 11 |
 | ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69b23e6bad360c0340a6f842?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Mar 11 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b20f1f548f140066e83bf7?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 11 |
 | **[CrossPurpose](https://www.crosspurpose.org/)** | **[Qualified Behavioral Health Assistant (QBHA) Intern](https://jobright.ai/jobs/info/69b20a4c65de58104c717768?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed822581fdd1626d39d25f?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Mar 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed825d70b66e2345d3eb54?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Mar 11 |
 | **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer College Intern](https://jobright.ai/jobs/info/69a836c27ac93962b707f7cc?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Mar 11 |
-| **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69b16eea548f140066e73a11?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
