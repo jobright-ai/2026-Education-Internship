@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phillips Exeter Academy](https://www.exeter.edu/)** | **[Innovation Intern](https://jobright.ai/jobs/info/69b3668dae2a534885eac171?utm_campaign=1057&utm_source=git)** | Exeter, New Hampshire, United States | On Site | Mar 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Tutoring Operations Intern - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69b365c1ae2a534885eabffa?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 12 |
+| **[Clarkson University](http://www.clarkson.edu)** | **[Academic Dean (Internal Only)](https://jobright.ai/jobs/info/69b36501ad360c0340a87c7d?utm_campaign=1057&utm_source=git)** | Potsdam, NY | On Site | Mar 12 |
+| **[Macalester College](http://www.macalester.edu/)** | **[Residential Life Summer Intern](https://jobright.ai/jobs/info/69b36316ae2a534885eabe39?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Mar 12 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[RN Operating Room Training Program Intern](https://jobright.ai/jobs/info/69b355eaae2a534885eab833?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 12 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Education Internship - Biloxi, MS](https://jobright.ai/jobs/info/69b3531dae2a534885eab5d6?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | Mar 12 |
 | **[Cybertection LLC](https://cybertection.net)** | **[Cybersecurity Training Center Trainee](https://jobright.ai/jobs/info/69b3524fae2a534885eab49a?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Mar 12 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f6c1a8ac8e70ff671a31?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 12 |
 | **[Versant Health](https://versanthealth.com/)** | **[Graduate Summer Internship – People Development and Quality Audit](https://jobright.ai/jobs/info/69b2f43ead360c0340a804c9?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Mar 12 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f438ad360c0340a804b2?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f42ead360c0340a80490?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f42ead360c0340a8048f?utm_campaign=1057&utm_source=git)** | Indiana County, PA | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f42ead360c0340a80490?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f426ad360c0340a80459?utm_campaign=1057&utm_source=git)** | Mercer County, NJ | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f426ad360c0340a80458?utm_campaign=1057&utm_source=git)** | Berks County, PA | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f406ad360c0340a803d2?utm_campaign=1057&utm_source=git)** | Potter County, TX | On Site | Mar 12 |
@@ -120,41 +124,37 @@ For a complete list, click the following sortable link below:
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2f2d9ae2a534885ea3db0?utm_campaign=1057&utm_source=git)** | Lehigh County, PA | On Site | Mar 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/69b2eda8ae2a534885ea3a4d?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Mar 12 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb5?utm_campaign=1057&utm_source=git)** | Lehigh County | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb8?utm_campaign=1057&utm_source=git)** | Bradford County | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb4?utm_campaign=1057&utm_source=git)** | Berks County | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb6?utm_campaign=1057&utm_source=git)** | Centre County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb7?utm_campaign=1057&utm_source=git)** | Indiana County | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339c?utm_campaign=1057&utm_source=git)** | Adams County | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb6?utm_campaign=1057&utm_source=git)** | Centre County | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb4?utm_campaign=1057&utm_source=git)** | Berks County | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb8?utm_campaign=1057&utm_source=git)** | Bradford County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339b?utm_campaign=1057&utm_source=git)** | Potter County | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339c?utm_campaign=1057&utm_source=git)** | Adams County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e837ae2a534885ea3384?utm_campaign=1057&utm_source=git)** | Mercer County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e836ae2a534885ea3383?utm_campaign=1057&utm_source=git)** | York County | On Site | Mar 12 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cb?utm_campaign=1057&utm_source=git)** | Susquehanna County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cc?utm_campaign=1057&utm_source=git)** | Columbia County | On Site | Mar 12 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cb?utm_campaign=1057&utm_source=git)** | Susquehanna County | On Site | Mar 12 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cd?utm_campaign=1057&utm_source=git)** | Snyder County | On Site | Mar 12 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b2e7e9ad360c0340a7f809?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Generalist (RCH)](https://jobright.ai/jobs/info/69965476ce78e77b4fda5839?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 12 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69b2dfe3ad360c0340a7e265?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Mar 12 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - MFT-T](https://jobright.ai/jobs/info/69b2dfd6a8ac8e70ff66fd36?utm_campaign=1057&utm_source=git)** | Main Campus, Columbus, OH | On Site | Mar 12 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Emergency Hire - Student Services Professional - CLA Advising](https://jobright.ai/jobs/info/69b2de2ca8ac8e70ff66fbf5?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 12 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult](https://jobright.ai/jobs/info/69963a5dce78e77b4fda306e?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 12 |
-| ↳ | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/69963a5cce78e77b4fda306d?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 12 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/69963a5cce78e77b4fda306d?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 12 |
+| ↳ | **[Psychology Doctoral Intern, Adult](https://jobright.ai/jobs/info/69963a5dce78e77b4fda306e?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Adult/Child/AMRS](https://jobright.ai/jobs/info/69967415ce78e77b4fda812e?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Mar 12 |
-| ↳ | **[Psychology Doctoral Intern, Health Psychology Service Peds Primary Care](https://jobright.ai/jobs/info/69966564e0bddb6acac4da20?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Adult Outpatient](https://jobright.ai/jobs/info/69963198e0bddb6acac49257?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Addiction Medicine Recovery Services](https://jobright.ai/jobs/info/6996751be0bddb6acac4edb3?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Psychology Doctoral Intern, Health Psychology Service Peds Primary Care](https://jobright.ai/jobs/info/69966564e0bddb6acac4da20?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 12 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2dbfdad360c0340a7d3b5?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Mar 12 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Mental Health/EDIOP](https://jobright.ai/jobs/info/6996505581476f6176ae16a3?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 12 |
-| ↳ | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/69963f9f81476f6176adfc98?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Mar 12 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Child](https://jobright.ai/jobs/info/69963f9f81476f6176adfc98?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Addiction Medicine](https://jobright.ai/jobs/info/699647fd81476f6176ae0911?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Mar 12 |
+| ↳ | **[Psychology Doctoral Intern, Mental Health/EDIOP](https://jobright.ai/jobs/info/6996505581476f6176ae16a3?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 12 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - MFT-T Office Based](https://jobright.ai/jobs/info/69b2d97fad360c0340a7cc76?utm_campaign=1057&utm_source=git)** | Main Campus, Columbus, OH | On Site | Mar 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Generalist](https://jobright.ai/jobs/info/6996862ae0bddb6acac502db?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Behavioral Medicine Services - Adult](https://jobright.ai/jobs/info/69964b35ce78e77b4fda4965?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Addiction Medicine Recovery Service](https://jobright.ai/jobs/info/6996676ae0bddb6acac4dd0d?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 12 |
-| ↳ | **[Psychology Doctoral Intern, Child & Adolescent Psychiatry](https://jobright.ai/jobs/info/699656b981476f6176ae20b6?utm_campaign=1057&utm_source=git)** | Cupertino, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Adult Services](https://jobright.ai/jobs/info/6996440381476f6176ae030d?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Psychology Doctoral Intern, Child & Adolescent Psychiatry](https://jobright.ai/jobs/info/699656b981476f6176ae20b6?utm_campaign=1057&utm_source=git)** | Cupertino, CA | On Site | Mar 12 |
 | ↳ | **[Psychology Doctoral Intern, Child/Adolescent](https://jobright.ai/jobs/info/699660f9e0bddb6acac4d3be?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| **[Cartwheel](https://www.cartwheelcare.org)** | **[Clinical Intern – Mental Health Therapist (Massachusetts)](https://jobright.ai/jobs/info/69b2d2b8ae2a534885ea0120?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 12 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Generalist](https://jobright.ai/jobs/info/699656b281476f6176ae20a9?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Mar 12 |
-| ↳ | **[Psychology Doctoral Intern, Behavorial Medicine Services - Adult/Child](https://jobright.ai/jobs/info/699652eece78e77b4fda55e6?utm_campaign=1057&utm_source=git)** | Cupertino, CA | On Site | Mar 12 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - MFT-T Office Based](https://jobright.ai/jobs/info/69b2efd5a8ac8e70ff6716d2?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
