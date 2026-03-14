@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Training Camp Intern](https://jobright.ai/jobs/info/69b5c17e3b74eb1e2c8396f4?utm_campaign=1057&utm_source=git)** | Berea, OH | On Site | Mar 14 |
+| **[PRACTICE](https://practicebc.com/)** | **[Spanish Math Academic Intern](https://jobright.ai/jobs/info/69b5be4e56973837413b29ad?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 14 |
+| ↳ | **[Literacy Enrichment Internship](https://jobright.ai/jobs/info/69b5be2f3b74eb1e2c839576?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
+| **[Berkeley Electric Cooperative, Inc.](https://www.berkeleyelectric.coop/)** | **[College Intern - Member Services/Cashiering Assistant JI](https://jobright.ai/jobs/info/69b5b91c06c1ba00c547b58a?utm_campaign=1057&utm_source=git)** | Johns Island, SC | On Site | Mar 14 |
+| **[University of La Verne](http://laverne.edu)** | **[Professional Development Courses Student Assistant](https://jobright.ai/jobs/info/69b5b8e13b74eb1e2c83917f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Buildings University Intern](https://jobright.ai/jobs/info/69b5ae453b74eb1e2c837bef?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69b5a9e13b74eb1e2c837af3?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Mar 14 |
 | **[Marquette University](https://www.marquette.edu/)** | **[Inst. of Practice & Director of AIM](https://jobright.ai/jobs/info/69b5a3f906c1ba00c547988b?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Pharmacy (23757)](https://jobright.ai/jobs/info/69b478d306c1ba00c545ea26?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Quality & Infection Prevention (23757)](https://jobright.ai/jobs/info/69b477ba3b74eb1e2c81c9d7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Employee Occupational Health (23757)](https://jobright.ai/jobs/info/69b477883b74eb1e2c81c97d?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - LTC Recreation Therapy (23757)](https://jobright.ai/jobs/info/69b477713b74eb1e2c81c951?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Rural Systems Co-Op Scholar Internship, Center for Rural Engagement](https://jobright.ai/jobs/info/69b495fb3b74eb1e2c81f410?utm_campaign=1057&utm_source=git)** | Bloomington, IN | Hybrid | Mar 13 |
-| **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69b4764206c1ba00c545e6f6?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Mar 13 |
-| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Nutrition](https://jobright.ai/jobs/info/69b4702506c1ba00c545df64?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Mar 13 |
-| **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69b1f647d04c69566c74954c?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
