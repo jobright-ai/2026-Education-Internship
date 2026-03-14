@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Buildings University Intern](https://jobright.ai/jobs/info/69b5ae453b74eb1e2c837bef?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69b5a9e13b74eb1e2c837af3?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Mar 14 |
 | **[Marquette University](https://www.marquette.edu/)** | **[Inst. of Practice & Director of AIM](https://jobright.ai/jobs/info/69b5a3f906c1ba00c547988b?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health](https://jobright.ai/jobs/info/69b5a3f706c1ba00c5479887?utm_campaign=1057&utm_source=git)** | Waukesha, WI | On Site | Mar 14 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Mar 14 |
@@ -64,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Middle Market Program Summer 2026 INTERN - Costa Mesa](https://jobright.ai/jobs/info/69b59a6006c1ba00c5478e10?utm_campaign=1057&utm_source=git)** | Costa Mesa, CA | On Site | Mar 14 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Instructional Design, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699948cece78e77b4fde0da1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 14 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 14 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b5b28d56973837413b08ca?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 14 |
+| ↳ | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b5b27d3b74eb1e2c83808b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 14 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/699be5e9ce78e77b4fe07d32?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 14 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[Winter Construction](https://winter-construction.com)** | **[Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69b5781056973837413abaee?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
@@ -114,6 +118,8 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Nursing Administration Nursing Ed Practice and Standards](https://jobright.ai/jobs/info/69b4b6285697383741398e5e?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Mar 13 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Professor, Law and Paralegal Studies, UC Clermont College](https://jobright.ai/jobs/info/69b5284c56973837413a53f7?utm_campaign=1057&utm_source=git)** | Batavia, OH | On Site | Mar 13 |
 | **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Counseling Internship - Searcy Residential Summer 2026](https://jobright.ai/jobs/info/69b4b13106c1ba00c54625d2?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Mar 13 |
+| **[PRACTICE](https://practicebc.com/)** | **[Literacy Assistant Internship](https://jobright.ai/jobs/info/69b5afcf06c1ba00c5479eda?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 13 |
+| ↳ | **[Spanish Math Intern](https://jobright.ai/jobs/info/69b5afcd06c1ba00c5479ed8?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4afcb5697383741398bd8?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Mar 13 |
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/69b4cf7f569738374139c5dd?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Mar 13 |
 | **[Girls Inc. of Tarrant County](http://www.girlsinctarrant.org)** | **[Programs/Future Ready Intern](https://jobright.ai/jobs/info/69b4a74c06c1ba00c546214b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Mar 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69b4764206c1ba00c545e6f6?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Mar 13 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Nutrition](https://jobright.ai/jobs/info/69b4702506c1ba00c545df64?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Mar 13 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69b1f647d04c69566c74954c?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Mar 13 |
-| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Physical Therapy](https://jobright.ai/jobs/info/69b46f055697383741394485?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Mar 13 |
-| **[TSAOG Orthopaedics & Spine](http://tsaog.com)** | **[Physical Therapy Technician - Internship Part-Time](https://jobright.ai/jobs/info/69b46e6c56973837413942f7?utm_campaign=1057&utm_source=git)** | New Braunfels,TX,US | On Site | Mar 13 |
-| **[Family Service Center of Wilmette, Glenview, Northbrook, and Kenilworth](https://familyservicecenter.org)** | **[Clinical Mental Health Intern/Extern with Child and Adolescent Focus.](https://jobright.ai/jobs/info/69b46c6b06c1ba00c545d992?utm_campaign=1057&utm_source=git)** | Northfield, IL | On Site | Mar 13 |
-| **[South Dakota Discovery Center](http://www.sd-discovery.com)** | **[STEM Educator Summer Internship](https://jobright.ai/jobs/info/69b46abd5697383741393209?utm_campaign=1057&utm_source=git)** | Pierre, SD | On Site | Mar 13 |
-| **[Dignity Health](https://www.dignityhealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b4690b5697383741392b20?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 13 |
-| **[City of Carrollton](https://www.cityofcarrollton.com/)** | **[Adaptive Intern II- NBPT](https://jobright.ai/jobs/info/69b47fbe3b74eb1e2c81da5f?utm_campaign=1057&utm_source=git)** | 1330 E Rosemeade Pkwy, Carrollton, TX 75007, USA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
