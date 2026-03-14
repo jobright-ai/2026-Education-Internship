@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e7?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Summer 2026)](https://jobright.ai/jobs/info/69b5e22c06c1ba00c547c8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Chinook's Edge School Division](https://www.cesd73.ca/)** | **[Internal Posting-Online Summer School Principal](https://jobright.ai/jobs/info/69b5d43306c1ba00c547bf2e?utm_campaign=1057&utm_source=git)** | Innisfail, Alberta, Canada | Hybrid | Mar 14 |
 | **[School District 20, Kootenay-Columbia](http://www.sd20.bc.ca)** | **[26-C-21 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/69b5d18c3b74eb1e2c839b41?utm_campaign=1057&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Mar 14 |
 | ↳ | **[26-C-22 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/69b5d15506c1ba00c547bd22?utm_campaign=1057&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Mar 14 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth CTE- Health Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69b5c6f656973837413b2c28?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | Mar 14 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69b5c60706c1ba00c547b99b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Training Camp Intern](https://jobright.ai/jobs/info/69b5c17e3b74eb1e2c8396f4?utm_campaign=1057&utm_source=git)** | Berea, OH | On Site | Mar 14 |
+| **[HII](https://hii.com)** | **[X42 PIPEFITTER INSTRUCTOR PRODUCT TRAINER 2 P](https://jobright.ai/jobs/info/69b5d88056973837413b374e?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Mar 14 |
 | **[University of La Verne](http://laverne.edu)** | **[Professional Development Courses Student Assistant](https://jobright.ai/jobs/info/69b5b8e13b74eb1e2c83917f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Buildings University Intern](https://jobright.ai/jobs/info/69b5ae453b74eb1e2c837bef?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69b5a9e13b74eb1e2c837af3?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Mar 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b4795a5697383741395247?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - BHS Nurse Aid (23757)](https://jobright.ai/jobs/info/69b4792206c1ba00c545eacf?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b4792106c1ba00c545eac7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b4791756973837413951c0?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Nursing Education (23757)](https://jobright.ai/jobs/info/69b478f6569738374139515d?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Pharmacy (23757)](https://jobright.ai/jobs/info/69b478d306c1ba00c545ea26?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
