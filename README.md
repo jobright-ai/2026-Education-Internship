@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/69b4f2613b74eb1e2c826e04?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Mar 13 |
 | **[Arisa Health](https://www.arisahealth.org)** | **[Counseling Internship - Searcy Residential Summer 2026](https://jobright.ai/jobs/info/69b4d41d3b74eb1e2c823319?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Mar 13 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Undergraduate)](https://jobright.ai/jobs/info/69b4d25206c1ba00c54652bf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Training Camp - Equipment - 2026](https://jobright.ai/jobs/info/69b4cd743b74eb1e2c822fb6?utm_campaign=1057&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Mar 13 |
@@ -126,14 +127,14 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Medicare Operations Training, Quality & Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69b06d84dfaeda6ff59a3c6a?utm_campaign=1057&utm_source=git)** | Providence County, RI | Hybrid | Mar 13 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Middle Market Program Summer 2026 INTERN - Dallas](https://jobright.ai/jobs/info/69b3afe2a8ac8e70ff67fa64?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b47ad5569738374139571b?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b47aea3b74eb1e2c81d019?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - LTC Recreation Therapy (23757)](https://jobright.ai/jobs/info/69b47ad75697383741395722?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
+| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b47aea3b74eb1e2c81d019?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Employee Occupational Health (23757)](https://jobright.ai/jobs/info/69b47ad75697383741395723?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Quality & Infection Prevention (23757)](https://jobright.ai/jobs/info/69b47b2d06c1ba00c545f081?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Pharmacy (23757)](https://jobright.ai/jobs/info/69b47b2d06c1ba00c545f082?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b47aed3b74eb1e2c81d026?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Health Information Mgmt. (23757)](https://jobright.ai/jobs/info/69b47ad6569738374139571e?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Nursing Education (23757)](https://jobright.ai/jobs/info/69b47ad45697383741395719?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
+| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Health Information Mgmt. (23757)](https://jobright.ai/jobs/info/69b47ad6569738374139571e?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
+| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b47aed3b74eb1e2c81d026?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Adolescent Behavioral Health - Teen Thrive Program (23757)](https://jobright.ai/jobs/info/69b47b3106c1ba00c545f093?utm_campaign=1057&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | **[Girls Inc. of Tarrant County](http://www.girlsinctarrant.org)** | **[Programs/Future Ready Intern](https://jobright.ai/jobs/info/69b470023b74eb1e2c81bf15?utm_campaign=1057&utm_source=git)** | Fort Worth,TX,US | On Site | Mar 13 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern- SOM Student Summer Research Program 2026](https://jobright.ai/jobs/info/69b46ecf56973837413943f1?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/69b43875569738374138da2b?utm_campaign=1057&utm_source=git)** | Gallipolis, OH | On Site | Mar 13 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/69b4386a569738374138d9eb?utm_campaign=1057&utm_source=git)** | Portsmouth, OH | On Site | Mar 13 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/69b4386306c1ba00c5456e33?utm_campaign=1057&utm_source=git)** | Fayetteville, OH | On Site | Mar 13 |
-| **[Detroit Public Schools Community District](https://www.detroitk12.org/)** | **[Program Director - Summer Discovery Full Day (Internal Applicants Only)](https://jobright.ai/jobs/info/69a9e9839ca4e908ec652e70?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
