@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marquette University](https://www.marquette.edu/)** | **[Inst. of Practice & Director of AIM](https://jobright.ai/jobs/info/69b5a3f906c1ba00c547988b?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
+| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health](https://jobright.ai/jobs/info/69b5a3f706c1ba00c5479887?utm_campaign=1057&utm_source=git)** | Waukesha, WI | On Site | Mar 14 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Mar 14 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Workplace Strategy Intern / Summer 2026](https://jobright.ai/jobs/info/6999189681476f6176b192c1?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
+| **[Fifth Third Bank](http://53.com)** | **[Commercial Middle Market Program Summer 2026 INTERN - Costa Mesa](https://jobright.ai/jobs/info/69b59a6006c1ba00c5478e10?utm_campaign=1057&utm_source=git)** | Costa Mesa, CA | On Site | Mar 14 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Instructional Design, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699948cece78e77b4fde0da1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 14 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 14 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/699be5e9ce78e77b4fe07d32?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Dakota Discovery Center](http://www.sd-discovery.com)** | **[STEM Educator Summer Internship](https://jobright.ai/jobs/info/69b46abd5697383741393209?utm_campaign=1057&utm_source=git)** | Pierre, SD | On Site | Mar 13 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/69b4690b5697383741392b20?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 13 |
 | **[City of Carrollton](https://www.cityofcarrollton.com/)** | **[Adaptive Intern II- NBPT](https://jobright.ai/jobs/info/69b47fbe3b74eb1e2c81da5f?utm_campaign=1057&utm_source=git)** | 1330 E Rosemeade Pkwy, Carrollton, TX 75007, USA | On Site | Mar 13 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Studio Programs Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/695df408821f2713684b249b?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Mar 13 |
-| **[Legal Services Corporation](https://www.lsc.gov/)** | **[Instructional Design Intern (Summer 2025)](https://jobright.ai/jobs/info/69b45a4506c1ba00c545ad69?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | Mar 13 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Pediatric Cardiology Intern](https://jobright.ai/jobs/info/69b45a1306c1ba00c545ace1?utm_campaign=1057&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Mar 13 |
-| **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[Youth Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b4802856973837413961cd?utm_campaign=1057&utm_source=git)** | Deerfield, IL, 60015, US | On Site | Mar 13 |
-| **[International Institute of New England](https://iine.org/)** | **[Education Services (ESOL) Internship](https://jobright.ai/jobs/info/69b477a406c1ba00c545e8d7?utm_campaign=1057&utm_source=git)** | Manchester, NH | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
