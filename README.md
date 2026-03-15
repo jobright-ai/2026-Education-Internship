@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/69b66edf06c1ba00c54866b0?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b668ff3b74eb1e2c843ffa?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
+| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fe2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b668c456973837413bc4f6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
+| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b668b706c1ba00c548603d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
+| ↳ | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b668b506c1ba00c5486035?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69b60db106c1ba00c547e53b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e7?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
@@ -84,10 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d5c8d137a051025667c4f?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ae33e13de6821aaccd6fce?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Mar 14 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b594173b74eb1e2c8360f3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
-| ↳ | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b56fd23b74eb1e2c8316b5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b56fd23b74eb1e2c8316b5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b56e9f06c1ba00c547329d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
-| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b56e8306c1ba00c5473223?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | ↳ | **[REGISTERED NURSE: University Hospital (Adult Emergency Services Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b56e4e56973837413a99b5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69b56e2256973837413a98df?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Mar 14 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/69a68659f707784310afdd4c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Youth and Family Advocates](https://www.yfainc.org/)** | **[Intern Community Counseling](https://jobright.ai/jobs/info/69b47c2806c1ba00c545f142?utm_campaign=1057&utm_source=git)** | Brooksville, FL, US | On Site | Mar 13 |
 | ↳ | **[Intern Community Counseling](https://jobright.ai/jobs/info/69b47c275697383741395824?utm_campaign=1057&utm_source=git)** | New Port Richey, FL, US | On Site | Mar 13 |
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69b534d93b74eb1e2c82d442?utm_campaign=1057&utm_source=git)** | Havertown, PA, US | Hybrid | Mar 13 |
-| **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b4795a5697383741395247?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - BHS Nurse Aid (23757)](https://jobright.ai/jobs/info/69b4792206c1ba00c545eacf?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b4792106c1ba00c545eac7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b4791756973837413951c0?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
