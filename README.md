@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b6f3b856973837413c246d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
 | **[Vancouver School Board](http://www.vsb.bc.ca/)** | **[Neighborhood Assistant Support - Fluency in Chinese required (Term School & Student Support A))](https://jobright.ai/jobs/info/69b6cbd906c1ba00c548a0af?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 15 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern- SOM Student Summer Research Program 2026](https://jobright.ai/jobs/info/69b486c506c1ba00c5460580?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 13 |
-| ↳ | **[HSC Student Intern](https://jobright.ai/jobs/info/69b486163b74eb1e2c81e3b1?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
