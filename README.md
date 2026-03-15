@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PRACTICE](https://practicebc.com/)** | **[Bilingual Spanish Literacy Education Intern](https://jobright.ai/jobs/info/69b70f8356973837413c4859?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Mar 15 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b70e2806c1ba00c548dc4a?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Mar 15 |
+| **[Kinsley Steel, Inc.](https://kinsleysteel.com/)** | **[Information Technology Internship-Summer](https://jobright.ai/jobs/info/69b70ba056973837413c478b?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Mar 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b6fc1506c1ba00c548c0f4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 15 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b6f3b856973837413c246d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69b48c6d06c1ba00c5460ba9?utm_campaign=1057&utm_source=git)** | North Syracuse, NY | On Site | Mar 13 |
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
-| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern- SOM Student Summer Research Program 2026](https://jobright.ai/jobs/info/69b486c506c1ba00c5460580?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
