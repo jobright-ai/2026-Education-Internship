@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Sport Club Professional Intern](https://jobright.ai/jobs/info/69b69f4a3b74eb1e2c8459c9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
+| ↳ | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
+| ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/69b66edf06c1ba00c54866b0?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b668ff3b74eb1e2c843ffa?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fe2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Winter Construction](https://winter-construction.com)** | **[Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69b684d656973837413bd93e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ae33e13de6821aaccd6fce?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Mar 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b56fd23b74eb1e2c8316b5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
-| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b56e9f06c1ba00c547329d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69b56e2256973837413a98df?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Mar 14 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/69a68659f707784310afdd4c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Mar 14 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07A-7:30P](https://jobright.ai/jobs/info/699901e181476f6176b1761b?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recreational Program Internship- Paid](https://jobright.ai/jobs/info/69b47c2a3b74eb1e2c81d15a?utm_campaign=1057&utm_source=git)** | Newton, NJ | On Site | Mar 13 |
 | **[Youth and Family Advocates](https://www.yfainc.org/)** | **[Intern Community Counseling](https://jobright.ai/jobs/info/69b47c2806c1ba00c545f142?utm_campaign=1057&utm_source=git)** | Brooksville, FL, US | On Site | Mar 13 |
 | ↳ | **[Intern Community Counseling](https://jobright.ai/jobs/info/69b47c275697383741395824?utm_campaign=1057&utm_source=git)** | New Port Richey, FL, US | On Site | Mar 13 |
-| **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69b534d93b74eb1e2c82d442?utm_campaign=1057&utm_source=git)** | Havertown, PA, US | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
