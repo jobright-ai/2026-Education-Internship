@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b6fc1506c1ba00c548c0f4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 15 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b6f3b856973837413c246d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
 | **[Vancouver School Board](http://www.vsb.bc.ca/)** | **[Neighborhood Assistant Support - Fluency in Chinese required (Term School & Student Support A))](https://jobright.ai/jobs/info/69b6cbd906c1ba00c548a0af?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 15 |
@@ -72,8 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698b86ed0f6f7e7a2ce6fc64?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Mar 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/69b66edf06c1ba00c54866b0?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b668ff3b74eb1e2c843ffa?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
-| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fe2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fe2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b668b506c1ba00c5486035?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69b684d106c1ba00c5486ecf?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69b60db106c1ba00c547e53b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
