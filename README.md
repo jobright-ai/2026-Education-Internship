@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vancouver School Board](http://www.vsb.bc.ca/)** | **[Neighborhood Assistant Support - Fluency in Chinese required (Term School & Student Support A))](https://jobright.ai/jobs/info/69b6cbd906c1ba00c548a0af?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 15 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b6bd933b74eb1e2c847c84?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b6bd8f56973837413c11cd?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b6bd6906c1ba00c5489cc8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b668ff3b74eb1e2c843ffa?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fe2?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b668c456973837413bc4f6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
-| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b668b706c1ba00c548603d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b668b506c1ba00c5486035?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69b684d106c1ba00c5486ecf?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69b60db106c1ba00c547e53b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d5c8d137a051025667c4f?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
 | **[Winter Construction](https://winter-construction.com)** | **[Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69b684d656973837413bd93e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ae33e13de6821aaccd6fce?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Mar 14 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b56fd23b74eb1e2c8316b5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69b56e2256973837413a98df?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Mar 14 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Outpatient Mental Health Therapist Intern](https://jobright.ai/jobs/info/69a68659f707784310afdd4c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Mar 14 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07A-7:30P](https://jobright.ai/jobs/info/699901e181476f6176b1761b?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 14 |
