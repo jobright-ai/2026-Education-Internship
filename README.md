@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b5b27d3b74eb1e2c83808b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 14 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/699be5e9ce78e77b4fe07d32?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 14 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Mar 14 |
-| **[Winter Construction](https://winter-construction.com)** | **[Intern/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69b5781056973837413abaee?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/697d5c8d137a051025667c4f?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Mar 14 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ae33e13de6821aaccd6fce?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Mar 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b594173b74eb1e2c8360f3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69b534d93b74eb1e2c82d442?utm_campaign=1057&utm_source=git)** | Havertown, PA, US | Hybrid | Mar 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b4795a5697383741395247?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - BHS Nurse Aid (23757)](https://jobright.ai/jobs/info/69b4792206c1ba00c545eacf?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
+| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b4792106c1ba00c545eac7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
