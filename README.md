@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69b61b4906c1ba00c547ee1b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Professor- International Business Bay Area](https://jobright.ai/jobs/info/69b60db106c1ba00c547e53b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e7?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b4795a5697383741395247?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - BHS Nurse Aid (23757)](https://jobright.ai/jobs/info/69b4792206c1ba00c545eacf?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b4792106c1ba00c545eac7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
+| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b4791756973837413951c0?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
