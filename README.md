@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e7?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Summer 2026)](https://jobright.ai/jobs/info/69b5e22c06c1ba00c547c8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Chinook's Edge School Division](https://www.cesd73.ca/)** | **[Internal Posting-Online Summer School Principal](https://jobright.ai/jobs/info/69b5d43306c1ba00c547bf2e?utm_campaign=1057&utm_source=git)** | Innisfail, Alberta, Canada | Hybrid | Mar 14 |
@@ -142,7 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69b48c6d06c1ba00c5460ba9?utm_campaign=1057&utm_source=git)** | North Syracuse, NY | On Site | Mar 13 |
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| ↳ | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
+| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern- SOM Student Summer Research Program 2026](https://jobright.ai/jobs/info/69b486c506c1ba00c5460580?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 13 |
 | ↳ | **[HSC Student Intern](https://jobright.ai/jobs/info/69b486163b74eb1e2c81e3b1?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 13 |
 | **[Canadian Institute for Health Information (CIHI)](https://www.cihi.ca/en)** | **[Co-op Student, Indigenous Health - summer 2026](https://jobright.ai/jobs/info/69b481d75697383741396391?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69b534d93b74eb1e2c82d442?utm_campaign=1057&utm_source=git)** | Havertown, PA, US | Hybrid | Mar 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Medical Enterprise - Ambulatory Care (23757)](https://jobright.ai/jobs/info/69b4795a5697383741395247?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 | ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - BHS Nurse Aid (23757)](https://jobright.ai/jobs/info/69b4792206c1ba00c545eacf?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Purchasing & Materials Mgmt. (23757)](https://jobright.ai/jobs/info/69b4792106c1ba00c545eac7?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| ↳ | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Acute Nursing (23757)](https://jobright.ai/jobs/info/69b4791756973837413951c0?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
