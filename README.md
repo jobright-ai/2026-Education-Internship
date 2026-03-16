@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69b763ce06c1ba00c5492077?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Mar 15 |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69b766f506c1ba00c54921ef?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 15 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69b763ce06c1ba00c5492077?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Mar 15 |
 | **[Nekton Sports Performance](http://nektonsportsperformance.com)** | **[Sports Performance On-site Summer Internship](https://jobright.ai/jobs/info/69b7408806c1ba00c548ec84?utm_campaign=1057&utm_source=git)** | Hutchinson, MN | On Site | Mar 15 |
+| **[Nutritious Lifestyles, LLC.](http://nutritiouslifestyles.com/)** | **[Dietetic Technician, Registered - RD Pathway Program with Free Internship & Exam Support](https://jobright.ai/jobs/info/69b3362fad360c0340a85df5?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Mar 15 |
 | **[SANZIE HEALTHCARE SERVICES, INC.](https://www.sanziehealthcareservices.com)** | **[Career and Internship Advisor](https://jobright.ai/jobs/info/69b722963b74eb1e2c84c70e?utm_campaign=1057&utm_source=git)** | Crownpoint, NM | On Site | Mar 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b714913b74eb1e2c84bf51?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 15 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b70e2806c1ba00c548dc4a?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69b48c6d06c1ba00c5460ba9?utm_campaign=1057&utm_source=git)** | North Syracuse, NY | On Site | Mar 13 |
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
-| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
