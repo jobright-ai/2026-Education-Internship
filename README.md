@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69b7e21106c1ba00c549a82d?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 16 |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69b7db2306c1ba00c549a260?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
+| **[Women in Cleantech and Sustainability](http://www.womencleantechsustainability.org/)** | **[PROGRAMS GRADUATE STUDENT INTERN (UNCLASSIFIED) (PART-TIME) – ENERGY DEPARTMENT (SAN JOSE METROPOLITAN AREA, CA)](https://jobright.ai/jobs/info/69b7d81806c1ba00c549a1f2?utm_campaign=1057&utm_source=git)** | LA Metro Area | On Site | Mar 16 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Assistant Director, School Certifying Official](https://jobright.ai/jobs/info/69b1debed04c69566c744d55?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Mar 16 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69b7c49056973837413d0b12?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 16 |
 | **[UC Irvine](http://uci.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69b7c2323b74eb1e2c857594?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Mar 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: University Hospital (Adult Emergency Services Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b7bc1306c1ba00c5498cce?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
@@ -80,7 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Nutritious Lifestyles, LLC.](http://nutritiouslifestyles.com/)** | **[Dietetic Technician, Registered - RD Pathway Program with Free Internship & Exam Support](https://jobright.ai/jobs/info/69b3362fad360c0340a85df5?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Mar 15 |
 | **[SANZIE HEALTHCARE SERVICES, INC.](https://www.sanziehealthcareservices.com)** | **[Career and Internship Advisor](https://jobright.ai/jobs/info/69b722963b74eb1e2c84c70e?utm_campaign=1057&utm_source=git)** | Crownpoint, NM | On Site | Mar 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b714913b74eb1e2c84bf51?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 15 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b70e2806c1ba00c548dc4a?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Mar 15 |
+| **[University of Alaska](http://alaska.edu/)** | **[Student Assistant - Student Activities Office](https://jobright.ai/jobs/info/69b7db9556973837413d1399?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | Mar 15 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b70e2806c1ba00c548dc4a?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Mar 15 |
 | **[Kinsley Steel, Inc.](https://kinsleysteel.com/)** | **[Information Technology Internship-Summer](https://jobright.ai/jobs/info/69b70ba056973837413c478b?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Mar 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b6fc1506c1ba00c548c0f4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
@@ -94,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Wellbeing Professional Intern](https://jobright.ai/jobs/info/697f0d8ece48107c05432c9c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698b86ed0f6f7e7a2ce6fc64?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Mar 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b7dc5706c1ba00c549a27b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/69b66edf06c1ba00c54866b0?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[PRACTICE](https://practicebc.com/)** | **[Spanish Language Literacy Intern](https://jobright.ai/jobs/info/69b6eb173b74eb1e2c848da4?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Mar 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAON, Inc.](https://www.aaon.com)** | **[Environmental Health & Safety College Intern](https://jobright.ai/jobs/info/69b4c30b569738374139b24e?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Mar 13 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b4bb1606c1ba00c5462a70?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 13 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Nursing Administration Nursing Ed Practice and Standards](https://jobright.ai/jobs/info/69b4b6285697383741398e5e?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Mar 13 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Professor, Law and Paralegal Studies, UC Clermont College](https://jobright.ai/jobs/info/69b5284c56973837413a53f7?utm_campaign=1057&utm_source=git)** | Batavia, OH | On Site | Mar 13 |
-| **[Ozark Guidance](https://www.ozarkguidance.org/)** | **[Counseling Internship - Searcy Residential Summer 2026](https://jobright.ai/jobs/info/69b4b13106c1ba00c54625d2?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Mar 13 |
-| **[PRACTICE](https://practicebc.com/)** | **[Literacy Assistant Internship](https://jobright.ai/jobs/info/69b5afcf06c1ba00c5479eda?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 13 |
-| ↳ | **[Spanish Math Intern](https://jobright.ai/jobs/info/69b5afcd06c1ba00c5479ed8?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 13 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4afcb5697383741398bd8?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Mar 13 |
-| **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/69b4cf7f569738374139c5dd?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
