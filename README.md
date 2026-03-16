@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b78e3f56973837413cb1b1?utm_campaign=1057&utm_source=git)** | Richmond, VA, US | On Site | Mar 15 |
+| **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[Technical Training & Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69b785a456973837413cac82?utm_campaign=1057&utm_source=git)** | Germantown, WI | On Site | Mar 15 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69b766f506c1ba00c54921ef?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 15 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69b763ce06c1ba00c5492077?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Mar 15 |
 | **[Nekton Sports Performance](http://nektonsportsperformance.com)** | **[Sports Performance On-site Summer Internship](https://jobright.ai/jobs/info/69b7408806c1ba00c548ec84?utm_campaign=1057&utm_source=git)** | Hutchinson, MN | On Site | Mar 15 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b70e2806c1ba00c548dc4a?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Mar 15 |
 | **[Kinsley Steel, Inc.](https://kinsleysteel.com/)** | **[Information Technology Internship-Summer](https://jobright.ai/jobs/info/69b70ba056973837413c478b?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Mar 15 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Pediatric Case Management,](https://jobright.ai/jobs/info/69b6fc1506c1ba00c548c0f4?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Mar 15 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b6f3b856973837413c246d?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Mar 15 |
 | **[Vancouver School Board](http://www.vsb.bc.ca/)** | **[Neighborhood Assistant Support - Fluency in Chinese required (Term School & Student Support A))](https://jobright.ai/jobs/info/69b6cbd906c1ba00c548a0af?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 15 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[26-C-22 - Education Assistant (Temporary)](https://jobright.ai/jobs/info/69b5d15506c1ba00c547bd22?utm_campaign=1057&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Mar 14 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Coordinator of International Programs - DIS - req13542](https://jobright.ai/jobs/info/69b5c60706c1ba00c547b99b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Training Camp Intern](https://jobright.ai/jobs/info/69b5c17e3b74eb1e2c8396f4?utm_campaign=1057&utm_source=git)** | Berea, OH | On Site | Mar 14 |
-| **[HII](https://hii.com)** | **[X42 PIPEFITTER INSTRUCTOR PRODUCT TRAINER 2 P](https://jobright.ai/jobs/info/69b5d88056973837413b374e?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Mar 14 |
 | **[University of La Verne](http://laverne.edu)** | **[Professional Development Courses Student Assistant](https://jobright.ai/jobs/info/69b5b8e13b74eb1e2c83917f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Mar 14 |
 | **[City of New York](http://www1.nyc.gov)** | **[Buildings University Intern](https://jobright.ai/jobs/info/69b5ae453b74eb1e2c837bef?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69b5a9e13b74eb1e2c837af3?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Mar 14 |
@@ -121,12 +121,10 @@ For a complete list, click the following sortable link below:
 | **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69b53ada06c1ba00c546fd06?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Mar 14 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[GBH](http://www.wgbh.org/)** | **[NEPM Media Mentor Education Internship - Summer 2026](https://jobright.ai/jobs/info/69a6935ef707784310afe7c4?utm_campaign=1057&utm_source=git)** | Springfield, MA | Hybrid | Mar 14 |
-| **[Moss](https://mosscm.com/)** | **[HR Systems Intern](https://jobright.ai/jobs/info/69b456b906c1ba00c545a8cb?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 14 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern - Mays Landing JBRC](https://jobright.ai/jobs/info/69b520e106c1ba00c546e45e?utm_campaign=1057&utm_source=git)** | Mays Landing, NJ | On Site | Mar 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69a9d7f92ebd316bece16215?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 14 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2026-27 Teacher Elementary Special Education-Bauder Elementary School](https://jobright.ai/jobs/info/69b51c523b74eb1e2c82b720?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Mar 14 |
 | **[Deerfield Public Library](https://deerfieldlibrary.org)** | **[Youth Services Intern - Summer 2026](https://jobright.ai/jobs/info/69b518543b74eb1e2c82b166?utm_campaign=1057&utm_source=git)** | Deerfield, IL | On Site | Mar 14 |
-| **[Future Tech Leaders](https://futuretechleader.com)** | **[Program and Event Intern Summer 2026](https://jobright.ai/jobs/info/69b44f6f06c1ba00c545958d?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
 | **[HealthRIGHT 360](https://www.healthright360.org)** | **[Statewide Virtual Training and Apprenticeship Program (SoCal)](https://jobright.ai/jobs/info/69b4f63906c1ba00c54696e1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 13 |
 | **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/69b4f4d93b74eb1e2c827426?utm_campaign=1057&utm_source=git)** | Petersburg, VA | On Site | Mar 13 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/69b4f2613b74eb1e2c826e04?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Mar 13 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69b48c6d06c1ba00c5460ba9?utm_campaign=1057&utm_source=git)** | North Syracuse, NY | On Site | Mar 13 |
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
+| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
