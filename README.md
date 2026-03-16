@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nekton Sports Performance](http://nektonsportsperformance.com)** | **[Sports Performance On-site Summer Internship](https://jobright.ai/jobs/info/69b7408806c1ba00c548ec84?utm_campaign=1057&utm_source=git)** | Hutchinson, MN | On Site | Mar 15 |
 | **[SANZIE HEALTHCARE SERVICES, INC.](https://www.sanziehealthcareservices.com)** | **[Career and Internship Advisor](https://jobright.ai/jobs/info/69b722963b74eb1e2c84c70e?utm_campaign=1057&utm_source=git)** | Crownpoint, NM | On Site | Mar 15 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69b7175f56973837413c4ae4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 15 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69b714913b74eb1e2c84bf51?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 15 |
@@ -77,8 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 15 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/698b86ed0f6f7e7a2ce6fc64?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Mar 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/69b66edf06c1ba00c54866b0?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/69b668b506c1ba00c5486035?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69b684d106c1ba00c5486ecf?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
 | **[PRACTICE](https://practicebc.com/)** | **[Spanish Language Literacy Intern](https://jobright.ai/jobs/info/69b6eb173b74eb1e2c848da4?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b5e22d06c1ba00c547c8e7?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
+| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
