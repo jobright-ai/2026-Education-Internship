@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b7b24956973837413cda6d?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Mar 16 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/69b7b24406c1ba00c5496c14?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
+| **[Alcanza Clinical Research](https://alcanzaclinical.com)** | **[Research Assistant - Intern (Part time) - 30 hours per week or less](https://jobright.ai/jobs/info/69b1a4e565de58104c70aa62?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 16 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69b7a66d3b74eb1e2c853858?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 15 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69b7a54856973837413cc320?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 15 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b78e3f56973837413cb1b1?utm_campaign=1057&utm_source=git)** | Richmond, VA, US | On Site | Mar 15 |
 | **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[Technical Training & Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69b785a456973837413cac82?utm_campaign=1057&utm_source=git)** | Germantown, WI | On Site | Mar 15 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69b766f506c1ba00c54921ef?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Undergraduate)](https://jobright.ai/jobs/info/69b496163b74eb1e2c81f4c8?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Mar 13 |
 | **[ANIME Impulse ™ | アニメ インパルス](https://www.animeimpulse.com)** | **[Hospitality Internship Program](https://jobright.ai/jobs/info/69b4959e3b74eb1e2c81f3aa?utm_campaign=1057&utm_source=git)** | Rosemead, CA | On Site | Mar 13 |
 | **[Lonza](http://www.lonza.com)** | **[Training Intern](https://jobright.ai/jobs/info/69b48fde56973837413975b4?utm_campaign=1057&utm_source=git)** | US - Portsmouth, NH | On Site | Mar 13 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69b48c6d06c1ba00c5460ba9?utm_campaign=1057&utm_source=git)** | North Syracuse, NY | On Site | Mar 13 |
-| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Articulation and NJADI Grant Support Internship](https://jobright.ai/jobs/info/69b48c423b74eb1e2c81eadc?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| ↳ | **[Professional Learning Review (PLR) Internship](https://jobright.ai/jobs/info/69b48c2c06c1ba00c5460b21?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 13 |
-| **[Thomas Edison State University](http://www.tesu.edu/)** | **[Learning Outcomes Internship](https://jobright.ai/jobs/info/69b4891b5697383741396e71?utm_campaign=1057&utm_source=git)** | Trenton, NJ, US | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
