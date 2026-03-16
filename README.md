@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69b815323b74eb1e2c85bc04?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 16 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - ANCC Nursing Programs](https://jobright.ai/jobs/info/69b8134d3b74eb1e2c85b739?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Mar 16 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Design and Development Intern](https://jobright.ai/jobs/info/69b813023b74eb1e2c85b6aa?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Mar 16 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b810263b74eb1e2c85b579?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Department for Education, South Australia](https://www.education.sa.gov.au)** | **[TEMPORARY TEACHER - NORWOOD INTERNATIONAL HS - INCLUSIVE EDUCATION TEACHER](https://jobright.ai/jobs/info/69b7bc0706c1ba00c5498caa?utm_campaign=1057&utm_source=git)** | Midland, TX | On Site | Mar 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69b7b86a06c1ba00c5498424?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
 | ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69b7b86a56973837413cf87d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
-| ↳ | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b7b85f06c1ba00c5498401?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b7b85d56973837413cf85a?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
 | **[Children's Services of Roxbury, Inc.](https://csrox.org)** | **[Behavioral Health Outpatient Clinical Intern](https://jobright.ai/jobs/info/69850388348f733a5c392032?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern - Student Nurse - Trauma Med/Surg - Full-Time - Days - Bayfront Hospital - St. Pete](https://jobright.ai/jobs/info/69b7b4e93b74eb1e2c85603e?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
