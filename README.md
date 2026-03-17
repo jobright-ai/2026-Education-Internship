@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus College of Art & Design](http://www.ccad.edu/)** | **[Youth and Community Learning Summer Program Intern](https://jobright.ai/jobs/info/69b8c04406c1ba00c54aeecc?utm_campaign=1057&utm_source=git)** | Columbus,OH,US | On Site | Mar 16 |
 | **[Heartshare](https://www.heartshare.org/)** | **[Intern](https://jobright.ai/jobs/info/69b89d123b74eb1e2c86743a?utm_campaign=1057&utm_source=git)** | Surfside Grdns,  2923 West 28th Street, Brooklyn, NY, 11224 - Brooklyn, NY 11224 | Hybrid | Mar 16 |
 | **[Utah County Government](https://www.utahcounty.gov)** | **[Utah County Internship – Health Education Intern - No Benefits](https://jobright.ai/jobs/info/69b89b3f3b74eb1e2c8672e3?utm_campaign=1057&utm_source=git)** | Health and Justice Building | On Site | Mar 16 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69b89b3c3b74eb1e2c8672d0?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 16 |
 | ↳ | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69b89a8806c1ba00c54a9588?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 16 |
 | ↳ | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69b89a6d56973837413dfccf?utm_campaign=1057&utm_source=git)** | Riverside, CA | Hybrid | Mar 16 |
 | ↳ | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69b89a6c56973837413dfccd?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | Hybrid | Mar 16 |
+| **[Mount Royal University](http://www.mtroyal.ca/)** | **[Global Student Lounge Intern](https://jobright.ai/jobs/info/69b8bcf406c1ba00c54aed68?utm_campaign=1057&utm_source=git)** | MRU Main Campus - Calgary, AB T3E 6K6 CA (Primary) | On Site | Mar 16 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Testing Assistant (NKU Student Employment)](https://jobright.ai/jobs/info/69b895e93b74eb1e2c866ef1?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Mar 16 |
 | **[International Health Alliance](https://ihahealthcare.com)** | **[Public Health Intern](https://jobright.ai/jobs/info/69b895ab3b74eb1e2c866e49?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 16 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[English Language Arts Curriculum & Instruction Intern](https://jobright.ai/jobs/info/69b893d53b74eb1e2c866949?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Mar 16 |
@@ -141,6 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69b80f5806c1ba00c549d872?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Manager, Admissions & Enrollment](https://jobright.ai/jobs/info/69b80f4306c1ba00c549d843?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Mar 16 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Mar 16 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/69b776ed3b74eb1e2c850a3f?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Mar 16 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 16 |
 | **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69b7e21106c1ba00c549a82d?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 16 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69b7db2306c1ba00c549a260?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern - Student Nurse - Trauma Med/Surg - Full-Time - Days - Bayfront Hospital - St. Pete](https://jobright.ai/jobs/info/69b7b4e93b74eb1e2c85603e?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b7b24406c1ba00c5496c14?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 | **[Alcanza Clinical Research](https://alcanzaclinical.com)** | **[Research Assistant - Intern (Part time) - 30 hours per week or less](https://jobright.ai/jobs/info/69b1a4e565de58104c70aa62?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 16 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69b7a66d3b74eb1e2c853858?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 15 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69b7a54856973837413cc320?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 15 |
-| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b78e3f56973837413cb1b1?utm_campaign=1057&utm_source=git)** | Richmond, VA, US | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
