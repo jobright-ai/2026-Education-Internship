@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM - Intern](https://jobright.ai/jobs/info/69b8759c06c1ba00c54a69a9?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Mar 16 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Tenured: Professor and Department Head of English](https://jobright.ai/jobs/info/69b84c6c3b74eb1e2c85e999?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Mar 16 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[DISD High School Student Internship](https://jobright.ai/jobs/info/69b874d356973837413dceb9?utm_campaign=1057&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 16 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69b84a8456973837413d7054?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 16 |
 | **[Leeward Renewable Energy](http://leewardenergy.com)** | **[LRE Internship Program](https://jobright.ai/jobs/info/69b8741656973837413dcbe9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Supervision, Credit Risk, and Statistics Intern 2026](https://jobright.ai/jobs/info/69b874163b74eb1e2c864258?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 16 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Resource Management](https://jobright.ai/jobs/info/69a694041a944544ef633b19?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Mar 16 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b7b24406c1ba00c5496c14?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 | **[Alcanza Clinical Research](https://alcanzaclinical.com)** | **[Research Assistant - Intern (Part time) - 30 hours per week or less](https://jobright.ai/jobs/info/69b1a4e565de58104c70aa62?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69b7a66d3b74eb1e2c853858?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Mar 15 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69b7a54856973837413cc320?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Mar 15 |
+| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69b78e3f56973837413cb1b1?utm_campaign=1057&utm_source=git)** | Richmond, VA, US | On Site | Mar 15 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69b766f506c1ba00c54921ef?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
