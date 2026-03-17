@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program (Lincoln, NE)](https://jobright.ai/jobs/info/69b9abe63b74eb1e2c878af0?utm_campaign=1057&utm_source=git)** | Lincoln, Nebraska | On Site | Mar 17 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Auburn Hills, MI)](https://jobright.ai/jobs/info/69b9ab1856973837413f1eb3?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI | On Site | Mar 17 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Speech Language Pathologist Internship (Fall 2026) – (MFB Walker Kids - Outpatient Pediatrics)](https://jobright.ai/jobs/info/69b999d806c1ba00c54ba256?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Mar 17 |
 | ↳ | **[Speech Language Pathologist Internship (Fall 2026) – (MFB Holland - Outpatient Pediatrics/Adult)](https://jobright.ai/jobs/info/69b999d606c1ba00c54ba250?utm_campaign=1057&utm_source=git)** | Holland, MI | On Site | Mar 17 |
 | ↳ | **[Speech Language Pathologist Internship (Fall 2026) – (MFB GR - Outpatient Adult)](https://jobright.ai/jobs/info/69b999cf3b74eb1e2c878078?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Mar 17 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[One House at a Time](https://www.ohaat.org/)** | **[Beds for Kids Program Intern (Paid)](https://jobright.ai/jobs/info/69b83bb706c1ba00c549fd8a?utm_campaign=1057&utm_source=git)** | Huntingdon Valley, PA | On Site | Mar 16 |
 | **[Truth Initiative](http://www.truthinitiative.org)** | **[2026 Summer Internship Application](https://jobright.ai/jobs/info/69b82f6e56973837413d5b50?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Museum Education Internship](https://jobright.ai/jobs/info/69a5f26a359fe034b1d0b281?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Mar 16 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Pediatric Pulmonology Internship](https://jobright.ai/jobs/info/69b82a813b74eb1e2c85ccd0?utm_campaign=1057&utm_source=git)** | Charlotte, NC - 1001 Blythe Blvd | On Site | Mar 16 |
 | **[BBB National Programs](https://bbbprograms.org/)** | **[Summer 2026 - Center for Industry Self-Regulation Externship](https://jobright.ai/jobs/info/69b826b906c1ba00c549eab7?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Mar 16 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Youth Health Education Internship](https://jobright.ai/jobs/info/69b8267006c1ba00c549ea8d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 16 |
 | **[Paradise Valley Unified School District](https://www.pvschools.net)** | **[2026-27 Instructional Assistant/Title Classroom Assistant HQ - Hidden Hills ES](https://jobright.ai/jobs/info/69b8232c56973837413d5006?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 16 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69b7db2306c1ba00c549a260?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
 | **[Women in Cleantech and Sustainability](http://www.womencleantechsustainability.org/)** | **[PROGRAMS GRADUATE STUDENT INTERN (UNCLASSIFIED) (PART-TIME) – ENERGY DEPARTMENT (SAN JOSE METROPOLITAN AREA, CA)](https://jobright.ai/jobs/info/69b7d81806c1ba00c549a1f2?utm_campaign=1057&utm_source=git)** | LA Metro Area | On Site | Mar 16 |
-| **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Intern (2027)](https://jobright.ai/jobs/info/69b766f506c1ba00c54921ef?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
