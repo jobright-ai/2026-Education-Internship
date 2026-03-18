@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[(SCHOOL GROUP ROTATIONS ONLY) Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/69ba6e6a56973837413fdf92?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Mar 18 |
+| ↳ | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/6982a80d0f6f7e7a2cdbf996?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Mar 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/696f8da83ed06875134a80cb?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Mar 17 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Technical School Intern](https://jobright.ai/jobs/info/69ba22e256973837413faad4?utm_campaign=1057&utm_source=git)** | Long Beach, CA | On Site | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
-| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/69ba0d6f3b74eb1e2c880b0b?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 17 |
-| ↳ | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/69ba0c8656973837413f9909?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Mar 17 |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/69ba0c8656973837413f9909?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Mar 17 |
+| ↳ | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/69ba0d6f3b74eb1e2c880b0b?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 17 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Technical Training](https://jobright.ai/jobs/info/69b9d9d606c1ba00c54bf96c?utm_campaign=1057&utm_source=git)** | Shafter, CA, USA | On Site | Mar 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69b9d6373b74eb1e2c87d3e7?utm_campaign=1057&utm_source=git)** | Lancaster County | Remote | Mar 17 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69b9ef9756973837413f7970?utm_campaign=1057&utm_source=git)** | Sandy,UT,US | On Site | Mar 17 |
@@ -69,16 +71,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Education & Outreach Intern (Unpaid - Fall 2026)](https://jobright.ai/jobs/info/69b9d07a06c1ba00c54bed05?utm_campaign=1057&utm_source=git)** | Anaheim, CA, US | On Site | Mar 17 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025622](https://jobright.ai/jobs/info/69b44c283b74eb1e2c8182a9?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Mar 17 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0956973837413f4afb?utm_campaign=1057&utm_source=git)** | Morristown - South | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4af1?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4aed?utm_campaign=1057&utm_source=git)** | Atlanta - Lenox | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4aee?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4af1?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd685?utm_campaign=1057&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd68c?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd689?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37d?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b381?utm_campaign=1057&utm_source=git)** | Seattle - Fifth Avenue | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37a?utm_campaign=1057&utm_source=git)** | Boston - High St | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37b?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37a?utm_campaign=1057&utm_source=git)** | Boston - High St | Hybrid | Mar 17 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 7023](https://jobright.ai/jobs/info/69b9d4a606c1ba00c54bf42f?utm_campaign=1057&utm_source=git)** | New Castle, IN | On Site | Mar 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[IDD Clinical Intern](https://jobright.ai/jobs/info/69b9b07d06c1ba00c54bb6ad?utm_campaign=1057&utm_source=git)** | Middletown, NY 10940, USA | On Site | Mar 17 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Bentley University](http://www.bentley.edu/)** | **[Graduate Intern for Center for International Students and Scholars (temporary, part-time)](https://jobright.ai/jobs/info/69b8855156973837413de91a?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Mar 16 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Messina Touring Group](https://jobright.ai/jobs/info/69b882fd56973837413de7d3?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Mar 16 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[English Language Arts Curriculum & Instruction Intern](https://jobright.ai/jobs/info/69b8803656973837413de377?utm_campaign=1057&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Mar 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Flynn Fellowship Oncology Student Nurse Internship - Per Diem](https://jobright.ai/jobs/info/69b87f6556973837413de267?utm_campaign=1057&utm_source=git)** | Greenwich, CT | On Site | Mar 16 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Training and Development](https://jobright.ai/jobs/info/69b87f4156973837413de164?utm_campaign=1057&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Employee Occupational Health (23757)](https://jobright.ai/jobs/info/69b477883b74eb1e2c81c97d?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Mar 16 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[YRTC Therapy Internship - Masters Level (Summer 2026)](https://jobright.ai/jobs/info/69b875c506c1ba00c54a69fd?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Assistant: Inclusive Postsecondary Education (IPSE)](https://jobright.ai/jobs/info/69b8682906c1ba00c54a5738?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Mar 16 |
 | ↳ | **[Elevate Program Manager](https://jobright.ai/jobs/info/69b8681a06c1ba00c54a570b?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Mar 16 |
 | ↳ | **[Assistant Director](https://jobright.ai/jobs/info/69b8681906c1ba00c54a5709?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Mar 16 |
-| **[Decatur-Morgan County Chamber of Commerce](https://www.dcc.org/)** | **[Biology Instructor](https://jobright.ai/jobs/info/69b886ff3b74eb1e2c866069?utm_campaign=1057&utm_source=git)** | Tanner, AL | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
