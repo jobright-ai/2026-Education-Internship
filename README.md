@@ -59,19 +59,20 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, Technical Training](https://jobright.ai/jobs/info/69b9d9d606c1ba00c54bf96c?utm_campaign=1057&utm_source=git)** | Shafter, CA, USA | On Site | Mar 17 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69b9d6373b74eb1e2c87d3e7?utm_campaign=1057&utm_source=git)** | Lancaster County | Remote | Mar 17 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69b9ef9756973837413f7970?utm_campaign=1057&utm_source=git)** | Sandy,UT,US | On Site | Mar 17 |
 | **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Community Education & Outreach Intern (Unpaid - Fall 2026)](https://jobright.ai/jobs/info/69b9d07b3b74eb1e2c87cb74?utm_campaign=1057&utm_source=git)** | US-CA-Anaheim | On Site | Mar 17 |
 | ↳ | **[Community Education & Outreach Intern (Unpaid - Fall 2026)](https://jobright.ai/jobs/info/69b9d07a06c1ba00c54bed05?utm_campaign=1057&utm_source=git)** | Anaheim, CA, US | On Site | Mar 17 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0956973837413f4afb?utm_campaign=1057&utm_source=git)** | Morristown - South | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4af1?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4aee?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4aed?utm_campaign=1057&utm_source=git)** | Atlanta - Lenox | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd685?utm_campaign=1057&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bd0856973837413f4af1?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd68c?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd689?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37b?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bcf306c1ba00c54bd685?utm_campaign=1057&utm_source=git)** | Tampa - N. Rocky Point | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37a?utm_campaign=1057&utm_source=git)** | Boston - High St | Hybrid | Mar 17 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37d?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37b?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Mar 17 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b381?utm_campaign=1057&utm_source=git)** | Seattle - Fifth Avenue | Hybrid | Mar 17 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69b9bc3c3b74eb1e2c87b37d?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th | Hybrid | Mar 17 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 7023](https://jobright.ai/jobs/info/69b9d4a606c1ba00c54bf42f?utm_campaign=1057&utm_source=git)** | New Castle, IN | On Site | Mar 17 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[IDD Clinical Intern](https://jobright.ai/jobs/info/69b9b07d06c1ba00c54bb6ad?utm_campaign=1057&utm_source=git)** | Middletown, NY 10940, USA | On Site | Mar 17 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program (Lincoln, NE)](https://jobright.ai/jobs/info/69b9abe63b74eb1e2c878af0?utm_campaign=1057&utm_source=git)** | Lincoln, Nebraska | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leeward Renewable Energy](http://leewardenergy.com)** | **[LRE Internship Program](https://jobright.ai/jobs/info/69b8741656973837413dcbe9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Supervision, Credit Risk, and Statistics Intern 2026](https://jobright.ai/jobs/info/69b874163b74eb1e2c864258?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 16 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Resource Management](https://jobright.ai/jobs/info/69a694041a944544ef633b19?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Mar 16 |
-| **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Clinical Intern - Masters Level Fall 2026](https://jobright.ai/jobs/info/69b879053b74eb1e2c864d9c?utm_campaign=1057&utm_source=git)** | Fairview Heights,IL,US | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
