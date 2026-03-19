@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69bc1c6c5b89c002acf1290a?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[LTI Summer Intern - School of Computer Science - Sap](https://jobright.ai/jobs/info/69bc19355b89c002acf1185a?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 19 |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/69bc12c24828227293fd3962?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Mar 19 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Academy BCPS AHS Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bc019145e08b3dc1f7e0a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Mar 19 |
 | **[Berklee College of Music](http://berklee.edu)** | **[(Eligible to Boston youth ages 14-18) Cultural Arts Education Administration Internship](https://jobright.ai/jobs/info/69bbfe9445e08b3dc1f7de97?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Enterprise and Customer Training](https://jobright.ai/jobs/info/69bbfdde4828227293fd1396?utm_campaign=1057&utm_source=git)** | Plano, TX | Remote | Mar 19 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/69bbfc8b4828227293fd0f0d?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Mar 19 |
+| **[USA Sport Group](https://usasportgroup.com/)** | **[Sports Education/Training Intern](https://jobright.ai/jobs/info/69bc161e45e08b3dc1f80dff?utm_campaign=1057&utm_source=git)** | Whitehouse Station, NJ | On Site | Mar 19 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (Louisville, Summer 2026)](https://jobright.ai/jobs/info/69bbf3b44828227293fcfed5?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Waged GED Program Internship HEBCAC (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbf09545e08b3dc1f7c146?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Mar 19 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Virtual Group Therapist Intern](https://jobright.ai/jobs/info/69bbefce4828227293fcfb2e?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 19 |
@@ -74,10 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Jewelry Designer)](https://jobright.ai/jobs/info/69bbb3be569738374141c2b0?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 19 |
 | ↳ | **[Volunteer Virtual Classroom Speaker - U.S. Only (Engineer)](https://jobright.ai/jobs/info/69bbb35206c1ba00c54e4693?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 19 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69b83b1206c1ba00c549fcce?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Mar 19 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69bbb0513b74eb1e2c8a2da4?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
-| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bbb03b06c1ba00c54e44cc?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
-| ↳ | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69bbb03a06c1ba00c54e44ca?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
-| ↳ | **[REGISTERED NURSE: University Hospital (Adult Emergency Services Graduate Nurse Internship)](https://jobright.ai/jobs/info/69bbaefa569738374141bfe7?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69bbb03a06c1ba00c54e44ca?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 19 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Clinical Sciences](https://jobright.ai/jobs/info/69bbcc8c78a5df4797fd6f94?utm_campaign=1057&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | On Site | Mar 19 |
 | ↳ | **[Summer Intern/Clinical Sciences](https://jobright.ai/jobs/info/69bbcc8d7ac0602a372c8cb0?utm_campaign=1057&utm_source=git)** | US-Durham NC/Onsite | On Site | Mar 19 |
@@ -128,8 +129,8 @@ US | On Site | Mar 19 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69bb35ad56973837414130b0?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Mar 18 |
 | **[Healthfirst](https://healthfirst.org)** | **[2026 Summer Internship - Nursing Intern](https://jobright.ai/jobs/info/69bb35665697383741413055?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Marist University](https://jobright.ai/jobs/info/699eb0ffe0bddb6acace9e4e?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[DCM - Organizational Learning Internship](https://jobright.ai/jobs/info/69bb26f95697383741412683?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[Health - Prevention and Health Outreach, Promotion, and Education Internship](https://jobright.ai/jobs/info/69bb26b43b74eb1e2c89953d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
+| **[Multnomah County](https://multco.us)** | **[Health - Prevention and Health Outreach, Promotion, and Education Internship](https://jobright.ai/jobs/info/69bb26b43b74eb1e2c89953d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
+| ↳ | **[DCM - Organizational Learning Internship](https://jobright.ai/jobs/info/69bb26f95697383741412683?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[Library - Research, Evaluation, and Technical Writing Internship](https://jobright.ai/jobs/info/69bb26c63b74eb1e2c899571?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[DCM - Equity and Inclusion Internship](https://jobright.ai/jobs/info/69bb26bb3b74eb1e2c899550?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Clinical](https://jobright.ai/jobs/info/69bb0381569738374140d9f2?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Mar 18 |
@@ -140,10 +141,10 @@ US | On Site | Mar 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 18 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern - Float Team Per Diem Days](https://jobright.ai/jobs/info/69bafbea569738374140cf65?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[MBTA](http://mbta.com)** | **[Railroad Operations Intern (Undergraduate Students)](https://jobright.ai/jobs/info/69baf9fd06c1ba00c54d4b3e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 18 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dc?utm_campaign=1057&utm_source=git)** | Brewster, NY | On Site | Mar 18 |
-| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb155d5697383741410a6d?utm_campaign=1057&utm_source=git)** | Purchase, NY | On Site | Mar 18 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb155d5697383741410a6d?utm_campaign=1057&utm_source=git)** | Purchase, NY | On Site | Mar 18 |
 | ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dd?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Mar 18 |
 | ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb19b43b74eb1e2c897d2e?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Mar 18 |
+| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dc?utm_campaign=1057&utm_source=git)** | Brewster, NY | On Site | Mar 18 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Mar 18 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, National Advocacy Institute -Executive Office](https://jobright.ai/jobs/info/69baf0f6569738374140c68c?utm_campaign=1057&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 18 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Technology & Intelligence Summer Intern- Hawaii (IT Intern)- 26632](https://jobright.ai/jobs/info/696705d26f782b4e8d52b358?utm_campaign=1057&utm_source=git)** | Honolulu Metro | On Site | Mar 18 |
@@ -157,5 +158,4 @@ US | On Site | Mar 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/69b4f2613b74eb1e2c826e04?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Mar 18 |
 | **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Culture&Brand/Training&Develop Intern](https://jobright.ai/jobs/info/69bb072806c1ba00c54d627b?utm_campaign=1057&utm_source=git)** | Pittsfield, MA | On Site | Mar 18 |
 | **[Healthfirst](https://healthfirst.org)** | **[2026 Summer Internship - Nursing Intern](https://jobright.ai/jobs/info/69bad47f06c1ba00c54d21c9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 18 |
-| **[People Incorporated Mental Health Services](https://www.peopleincorporated.org)** | **[Mental Health Clinical Intern - Unpaid](https://jobright.ai/jobs/info/69bb033c3b74eb1e2c894ebb?utm_campaign=1057&utm_source=git)** | Coon Rapids, MN | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
