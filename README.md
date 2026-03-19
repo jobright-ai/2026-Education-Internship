@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avenue 360 Health and Wellness](https://avenue360.org/)** | **[Substance Use Disorder Clinician Intern](https://jobright.ai/jobs/info/69bba7d706c1ba00c54e3e68?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 19 |
+| **[Fashion Institute of Technology](http://www.fitnyc.edu/)** | **[Full-Time Career and Internship Counselor (Assistant Professor)](https://jobright.ai/jobs/info/69bba1b23b74eb1e2c8a1e53?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Mar 19 |
+| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Co-op Student, Deeley Research Centre - BC Cancer Victoria](https://jobright.ai/jobs/info/69bba0b3569738374141b0cd?utm_campaign=1057&utm_source=git)** | Victoria, BC | On Site | Mar 19 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Mobile Crisis Intern - Master's Degree Level - Flagstaff, AZ](https://jobright.ai/jobs/info/69bb8efa3b74eb1e2c8a16b5?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Mar 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bb8ef03b74eb1e2c8a1687?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 18 |
 | **[i2G Systems](https://www.i2gsystems.com)** | **[Training Operations Intern](https://jobright.ai/jobs/info/69bb7fcc3b74eb1e2c89ed2d?utm_campaign=1057&utm_source=git)** | Sterling, VA | Hybrid | Mar 18 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Patient-Centered Outcomes Research Institute (PCORI)](http://pcori.org)** | **[Intern - Graduate/Master's Level](https://jobright.ai/jobs/info/69bb24f606c1ba00c54d9ce3?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Mar 18 |
 | ↳ | **[Intern - Undergraduate Level](https://jobright.ai/jobs/info/69bb24f656973837414123b7?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Mar 18 |
 | **[Kenaitze Indian Tribe](http://www.kenaitze.org)** | **[Intern Coordinator](https://jobright.ai/jobs/info/69bb22015697383741411f61?utm_campaign=1057&utm_source=git)** | Kenai,AK,US | On Site | Mar 18 |
-| **[University of Rhode Island](http://www.uri.edu/)** | **[Assistant Professor of Statistics with a focus in Data Science](https://jobright.ai/jobs/info/69bb1ee906c1ba00c54d967a?utm_campaign=1057&utm_source=git)** | Kingston, RI | On Site | Mar 18 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/69bb1be806c1ba00c54d90e6?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Mar 18 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Mobile Crisis Intern - Master's Degree Level - Flagstaff, AZ (7151)](https://jobright.ai/jobs/info/69bb1b505697383741411972?utm_campaign=1057&utm_source=git)** | Woodlands Village Blvd                             - Flagstaff, AZ 86004 | On Site | Mar 18 |
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Population Health](https://jobright.ai/jobs/info/69bb1a6d06c1ba00c54d8f4c?utm_campaign=1057&utm_source=git)** | Washington DC | On Site | Mar 18 |
@@ -102,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69bb35ad56973837414130b0?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Mar 18 |
 | **[Healthfirst](https://healthfirst.org)** | **[2026 Summer Internship - Nursing Intern](https://jobright.ai/jobs/info/69bb35665697383741413055?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Marist University](https://jobright.ai/jobs/info/699eb0ffe0bddb6acace9e4e?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[DCM - Organizational Learning Internship](https://jobright.ai/jobs/info/69bb26f95697383741412683?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
+| **[Multnomah County](https://multco.us)** | **[Health - Prevention and Health Outreach, Promotion, and Education Internship](https://jobright.ai/jobs/info/69bb26b43b74eb1e2c89953d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[Library - Research, Evaluation, and Technical Writing Internship](https://jobright.ai/jobs/info/69bb26c63b74eb1e2c899571?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
-| ↳ | **[Health - Prevention and Health Outreach, Promotion, and Education Internship](https://jobright.ai/jobs/info/69bb26b43b74eb1e2c89953d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
+| ↳ | **[DCM - Organizational Learning Internship](https://jobright.ai/jobs/info/69bb26f95697383741412683?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | ↳ | **[DCM - Equity and Inclusion Internship](https://jobright.ai/jobs/info/69bb26bb3b74eb1e2c899550?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Mar 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Clinical](https://jobright.ai/jobs/info/69bb0381569738374140d9f2?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Mar 18 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Medina Office Clinical Intern (Fall 2026)](https://jobright.ai/jobs/info/69bb233806c1ba00c54d99a0?utm_campaign=1057&utm_source=git)** | Medina, OH | On Site | Mar 18 |
@@ -115,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern - Float Team Per Diem Nights](https://jobright.ai/jobs/info/69bafbf2569738374140cf78?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | ↳ | **[Nurse Intern - Float Team Per Diem Days](https://jobright.ai/jobs/info/69bafbea569738374140cf65?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 18 |
 | **[MBTA](http://mbta.com)** | **[Railroad Operations Intern (Undergraduate Students)](https://jobright.ai/jobs/info/69baf9fd06c1ba00c54d4b3e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 18 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dc?utm_campaign=1057&utm_source=git)** | Brewster, NY | On Site | Mar 18 |
-| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dd?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Mar 18 |
-| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb19b43b74eb1e2c897d2e?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Mar 18 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dd?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Mar 18 |
 | ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb155d5697383741410a6d?utm_campaign=1057&utm_source=git)** | Purchase, NY | On Site | Mar 18 |
+| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb1d3e06c1ba00c54d92dc?utm_campaign=1057&utm_source=git)** | Brewster, NY | On Site | Mar 18 |
+| ↳ | **[Summer Semester Fitness Intern (Armonk, NY)](https://jobright.ai/jobs/info/69bb19b43b74eb1e2c897d2e?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Mar 18 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Mar 18 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, National Advocacy Institute -Executive Office](https://jobright.ai/jobs/info/69baf0f6569738374140c68c?utm_campaign=1057&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 18 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Technology & Intelligence Summer Intern- Hawaii (IT Intern)- 26632](https://jobright.ai/jobs/info/696705d26f782b4e8d52b358?utm_campaign=1057&utm_source=git)** | Honolulu Metro | On Site | Mar 18 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Dane County](http://www.co.dane.wi.us/)** | **[LTE Intern - Zoo Camp Education](https://jobright.ai/jobs/info/69babf78569738374140938b?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 18 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/69babebb06c1ba00c54d0a44?utm_campaign=1057&utm_source=git)** | Mount Pleasant, MI | On Site | Mar 18 |
 | ↳ | **[Coordinator for International Programs](https://jobright.ai/jobs/info/69babeb906c1ba00c54d0a43?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Mar 18 |
-| ↳ | **[Nontenured Faculty Pool - International Affairs (TSIE)](https://jobright.ai/jobs/info/69babeb706c1ba00c54d0a3a?utm_campaign=1057&utm_source=git)** | San Marcos, TX | On Site | Mar 18 |
 | ↳ | **[Open Rank Non-Tenure Track Faculty Positions, Kelley School of Business (International Business)](https://jobright.ai/jobs/info/69babeb706c1ba00c54d0a39?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Mar 18 |
+| ↳ | **[Nontenured Faculty Pool - International Affairs (TSIE)](https://jobright.ai/jobs/info/69babeb706c1ba00c54d0a3a?utm_campaign=1057&utm_source=git)** | San Marcos, TX | On Site | Mar 18 |
 | ↳ | **[Hybrid Visiting Professor of International Business](https://jobright.ai/jobs/info/69babe843b74eb1e2c88f517?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Mar 18 |
-| ↳ | **[Assistant Director, International Students and Scholar Services](https://jobright.ai/jobs/info/69babe813b74eb1e2c88f50f?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Mar 18 |
-| ↳ | **[Assistant Professor of Political Science and International Affairs](https://jobright.ai/jobs/info/69babe743b74eb1e2c88f4f7?utm_campaign=1057&utm_source=git)** | Washington, United States | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
