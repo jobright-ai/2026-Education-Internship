@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Clinical Development Operations-Study Management Intern](https://jobright.ai/jobs/info/69bce499e6a0d97925850f7c?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Mar 19 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Child Care Intern Teacher - Lincoln](https://jobright.ai/jobs/info/69bcc67a4828227293feb368?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Mar 19 |
 | ↳ | **[Child Care Intern Teacher](https://jobright.ai/jobs/info/69bcc6764828227293feb362?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Mar 19 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Succeed in School Intern](https://jobright.ai/jobs/info/69bcc66f4828227293feb35a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 19 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69bc83f24828227293fe6301?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 19 |
 | ↳ | **[Program Manager - ANE-SANE (Hybrid)](https://jobright.ai/jobs/info/69bc83e54828227293fe62d8?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 19 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/69bcc7b1e6a0d9792584cf67?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Mar 19 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Research Administrator Intermediate (Hybrid)](https://jobright.ai/jobs/info/69bc819c45e08b3dc1f93ec3?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 19 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69bc800d4828227293fe61b1?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Mar 19 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Early Childhood Development - Adjunct Instructor](https://jobright.ai/jobs/info/69bc9d6e45e08b3dc1f95bea?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 19 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern, Commercial Insurance - June 2026](https://jobright.ai/jobs/info/69bc77fd4828227293fe597e?utm_campaign=1057&utm_source=git)** | 436 Walnut Street, Philadelphia, PA, 19106, US | On Site | Mar 19 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69bc3b6b4828227293fdd130?utm_campaign=1057&utm_source=git)** | Sandy,UT,US | On Site | Mar 19 |
 | **[Children of America](https://www.childrenofamerica.com/)** | **[Lead Teacher Intern](https://jobright.ai/jobs/info/69bc3b1b4828227293fdcfee?utm_campaign=1057&utm_source=git)** | Fulshear, TX | On Site | Mar 19 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Summer 2026 Safety Management College Internship](https://jobright.ai/jobs/info/69bc5be44828227293fe181b?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Mar 19 |
-| ↳ | **[Summer 2026 Safety Management College Internship](https://jobright.ai/jobs/info/69bc5c165b89c002acf1ef58?utm_campaign=1057&utm_source=git)** | Onsite | On Site | Mar 19 |
 | ↳ | **[Summer 2026 Safety Management College Internship](https://jobright.ai/jobs/info/69bc5bdd45e08b3dc1f8e966?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | On Site | Mar 19 |
+| ↳ | **[Summer 2026 Safety Management College Internship](https://jobright.ai/jobs/info/69bc5c165b89c002acf1ef58?utm_campaign=1057&utm_source=git)** | Onsite | On Site | Mar 19 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/69bc5be84828227293fe1849?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Mar 19 |
 | **[Array Education](https://www.arrayeducation.org/)** | **[Lead Instructor, Internship Programs](https://jobright.ai/jobs/info/69bc391b5b89c002acf18f70?utm_campaign=1057&utm_source=git)** | Camden, NJ | Hybrid | Mar 19 |
 | **[Hope for Youth and Families](hyff.org)** | **[Hope Center for the Arts - Summer Camps 2026 Intern](https://jobright.ai/jobs/info/69bc382245e08b3dc1f88b8c?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Mar 19 |
