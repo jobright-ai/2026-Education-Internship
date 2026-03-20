@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Graduate Program Coordinator - 138861](https://jobright.ai/jobs/info/69bd26a1393a1008f7428a6b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
+| **[Operation Smile](http://www.operationsmile.org)** | **[Museum Education Internship](https://jobright.ai/jobs/info/69a5f26a359fe034b1d0b281?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Mar 20 |
+| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Specialist Senior - Instructional Design](https://jobright.ai/jobs/info/69bd1c6bb1060245628208e0?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
+| ↳ | **[Learning & Talent Development Specialist Senior - Instructional Design](https://jobright.ai/jobs/info/69bd1c6bb1060245628208e1?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 20 |
+| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69a0e45881476f6176bb3a86?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
+| **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Specialist Senior - Instructional Design](https://jobright.ai/jobs/info/69bd1a234828227293ff53d8?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Mar 20 |
 | **[NV5](http://www.nv5.com)** | **[Survey Student Intern](https://jobright.ai/jobs/info/69a0a2f85218a8167671d053?utm_campaign=1057&utm_source=git)** | Alachua, FL | Hybrid | Mar 20 |
 | **[Playworks Minnesota](https://www.playworks.org/minnesota/)** | **[Program Coordinator](https://jobright.ai/jobs/info/69bd0fe0b10602456281f4b5?utm_campaign=1057&utm_source=git)** | Somerville, MA | On Site | Mar 20 |
 | **[PNC](http://www.pnc.com)** | **[Learning & Talent Development Specialist Senior - Instructional Design](https://jobright.ai/jobs/info/69bd0f2645e08b3dc1fa21bc?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Undergraduate College Intern, Office of Information Technology (ETS) / Temporary](https://jobright.ai/jobs/info/69bc4b4a45e08b3dc1f8bdab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 19 |
 | **[Children of America](https://www.childrenofamerica.com/)** | **[School Director Intern](https://jobright.ai/jobs/info/69bc4b4945e08b3dc1f8bda9?utm_campaign=1057&utm_source=git)** | Cinnaminson, NJ | On Site | Mar 19 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Federal Work-Study (FWS) Internship Program: Global Administrative Assistant Internship (Student Wage)](https://jobright.ai/jobs/info/69bc696e5b89c002acf20eb8?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Mar 19 |
-| ↳ | **[Federal Work-Study (FWS) Internship Program: Global Communications Internship (Student Wage)](https://jobright.ai/jobs/info/69bc696e5b89c002acf20ec0?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Mar 19 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern Office-Based CT](https://jobright.ai/jobs/info/69bc696b5b89c002acf20e8f?utm_campaign=1057&utm_source=git)** | Main Campus, Columbus, OH | On Site | Mar 19 |
-| **[Children of America](https://www.childrenofamerica.com/)** | **[School Director Intern](https://jobright.ai/jobs/info/69bc47764828227293fde8b7?utm_campaign=1057&utm_source=git)** | Evesham, NJ | On Site | Mar 19 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Tenured: Professor and Department Head of Engineering Medicine Education](https://jobright.ai/jobs/info/69bc42cb5b89c002acf1af60?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 19 |
-| **[CommuniCare](https://www.communicaresa.org/)** | **[Student Internship (SI4101 - Corporate Campus)](https://jobright.ai/jobs/info/69bc41ad5b89c002acf1abab?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 SAP Enablement Intern](https://jobright.ai/jobs/info/69bc41a445e08b3dc1f8a4f3?utm_campaign=1057&utm_source=git)** | Fairhaven, Massachusetts, United States of America | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
