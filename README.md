@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Learning Experience Specialist](https://jobright.ai/jobs/info/69a2d73cb600907a962940ed?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Mar 21 |
+| **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Henderson Food is Medicine Internship](https://jobright.ai/jobs/info/69bede23b1060245628447f4?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Mar 21 |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d3bc8727747250d580c2b?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Mar 21 |
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Game Designer)](https://jobright.ai/jobs/info/69a2a98c359fe034b1cdffd0?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 21 |
 | **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Assistant Professor Position in Resource and Energy Engineering](https://jobright.ai/jobs/info/6986f0190f6f7e7a2ce22bc3?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Mar 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bebf69393a1008f7449d34?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69bdfaec393a1008f743d6b1?utm_campaign=1057&utm_source=git)** | Sandy, UT | On Site | Mar 20 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Campus Supervisor Credit Recovery, Trabuco Hills High School- 8:00 AM-12:30 PM](https://jobright.ai/jobs/info/69bdfac0482822729300b260?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Mar 20 |
 | **[Sacred Heart Community Service](https://sacredheartcs.org/)** | **[Summer Academy Teacher Internship](https://jobright.ai/jobs/info/69bdfa70482822729300b1f3?utm_campaign=1057&utm_source=git)** | SAN JOSE, CA | On Site | Mar 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
-| ↳ | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
+| ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
 | ↳ | **[Tutoring Operations Intern - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69b365c1ae2a534885eabffa?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf285b106024562835131?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Program Coordinator](https://jobright.ai/jobs/info/69bdf0d84828227293009dd8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 20 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Internship Program Manager](https://jobright.ai/jobs/info/69be0ac5b106024562836dfc?utm_campaign=1057&utm_source=git)** | Knoxville, TN | Remote | Mar 20 |
 | **[Rundle Schools](https://www.rundle.ab.ca)** | **[Teacher Intern(s)](https://jobright.ai/jobs/info/69bde6d2393a1008f743bc49?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Women’s Resilience Center Intern](https://jobright.ai/jobs/info/69bde3e4b106024562834764?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
-| **[Wan Bridge Group](https://wanbridge.com)** | **[Summer Internship – Village School](https://jobright.ai/jobs/info/69bde2deb1060245628345ac?utm_campaign=1057&utm_source=git)** | Houston,TX,US | On Site | Mar 20 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Research Paid Intern – Borad Lab- Temporary](https://jobright.ai/jobs/info/69bdfdd2393a1008f743d8ae?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | On Site | Mar 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Program Manager - ANE-SANE (Hybrid)](https://jobright.ai/jobs/info/69bddfd5b106024562834592?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Program Design Elementary & Older Youth](https://jobright.ai/jobs/info/69bddf28b1060245628344c1?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, US | Hybrid | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant/Associate Professor of Small Animal Internal Medicine – Clinician Educator (CE)](https://jobright.ai/jobs/info/69bab01a56973837414085fd?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Mar 20 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Eye Clinic Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/69bdb2ff393a1008f74316a1?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 20 |
 | **[LifeSource](https://www.life-source.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdcebf393a1008f74377cb?utm_campaign=1057&utm_source=git)** | Minneapolis, MN 55411, USA | Hybrid | Mar 20 |
-| **[ANB Bank](http://anbbank.com)** | **[Corporate Instructional Designer I or II, Circle](https://jobright.ai/jobs/info/69bdabc44828227293ffec36?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Mar 20 |
-| **[Crossroads](https://www.crossroadstreatmentcenters.com)** | **[Clinical Counseling Intern Weekly Stipend (Non-Profit)](https://jobright.ai/jobs/info/69bdab2f4828227293ffea91?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
