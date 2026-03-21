@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Mar 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69be53e1b10602456283d14d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
 | ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69be53dcb10602456283d140?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/69be3619482822729300ef67?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Mar 20 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69bdfaec393a1008f743d6b1?utm_campaign=1057&utm_source=git)** | Sandy, UT | On Site | Mar 20 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Campus Supervisor Credit Recovery, Trabuco Hills High School- 8:00 AM-12:30 PM](https://jobright.ai/jobs/info/69bdfac0482822729300b260?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Mar 20 |
 | **[Sacred Heart Community Service](https://sacredheartcs.org/)** | **[Summer Academy Teacher Internship](https://jobright.ai/jobs/info/69bdfa70482822729300b1f3?utm_campaign=1057&utm_source=git)** | SAN JOSE, CA | On Site | Mar 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
-| ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
+| ↳ | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
 | ↳ | **[Tutoring Operations Intern - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69b365c1ae2a534885eabffa?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf285b106024562835131?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Program Coordinator](https://jobright.ai/jobs/info/69bdf0d84828227293009dd8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cybertection LLC](https://cybertection.net)** | **[Cybersecurity Training Center Trainee](https://jobright.ai/jobs/info/69bd8c2fb106024562827c6f?utm_campaign=1057&utm_source=git)** | Stevensville, MD | Remote | Mar 20 |
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/69bd8925393a1008f742e699?utm_campaign=1057&utm_source=git)** | New Orleans,LA,US | On Site | Mar 20 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Retail Training Intern, Summer](https://jobright.ai/jobs/info/69bdc2eeb10602456282e302?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
