@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69be53e1b10602456283d14d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
+| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69be53dcb10602456283d140?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/69be3619482822729300ef67?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Mar 20 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Performance Nutrition Intern](https://jobright.ai/jobs/info/69be30e8b1060245628399ab?utm_campaign=1057&utm_source=git)** | Papago, AZ | On Site | Mar 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69be2a15482822729300e442?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 20 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Program Design Elementary & Older Youth](https://jobright.ai/jobs/info/69bddf28b1060245628344c1?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, US | Hybrid | Mar 20 |
 | ↳ | **[Intern - Program Design Elementary & Older Youth](https://jobright.ai/jobs/info/69bddf01482822729300938e?utm_campaign=1057&utm_source=git)** | US-CA-Santa Ana | Hybrid | Mar 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69bddd954828227293009135?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 20 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb3?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 20 |
-| ↳ | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb2?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Mar 20 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb2?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Mar 20 |
+| ↳ | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb3?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 20 |
 | **[STAR Financial Bank](https://www.starfinancial.com)** | **[PERSONAL BANKER INTERN - ZIONSVILLE HIGH SCHOOL STUDENT INTERN (Fall 2026)](https://jobright.ai/jobs/info/69bb8a13569738374141936f?utm_campaign=1057&utm_source=git)** | Zionsville, IN | On Site | Mar 20 |
 | **[Studio in a School](http://www.studioinaschool.org)** | **[Summer Arts Institute Intern](https://jobright.ai/jobs/info/69bdd9c6482822729300844c?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | Mar 20 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Health Communication Associate Summer Internship](https://jobright.ai/jobs/info/69bdd8834828227293007d8e?utm_campaign=1057&utm_source=git)** | Any Location / Remote | Remote | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/69bd8925393a1008f742e699?utm_campaign=1057&utm_source=git)** | New Orleans,LA,US | On Site | Mar 20 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Retail Training Intern, Summer](https://jobright.ai/jobs/info/69bdc2eeb10602456282e302?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Mar 20 |
-| **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Intern - Education](https://jobright.ai/jobs/info/69bd85c94828227293ffbce3?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
-| **[Infinite Legacy](infinitelegacy.org)** | **[Intern - Education](https://jobright.ai/jobs/info/69bd8574393a1008f742dd7a?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
