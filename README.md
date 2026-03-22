@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d259e3f57a3356966e037?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[M3 Engineering & Technology Corp.](https://m3eng.com)** | **[STUDENT INTERN Charlotte](https://jobright.ai/jobs/info/69c00c167798f73e35e4cc63?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69bffce62c312363dcd2ac15?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 22 |
@@ -81,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Community Health Improvement - Evaluation and Learning](https://jobright.ai/jobs/info/69bfca9b7798f73e35e4a1b1?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Mar 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69bfabaa7798f73e35e48725?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Testing & Proctoring Office Assistant](https://jobright.ai/jobs/info/69bfa6272c312363dcd26c89?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Mar 22 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bfa4177798f73e35e480d4?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
-| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bfa2772c312363dcd26a2b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bfa2772c312363dcd26a2b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
 | ↳ | **[REGISTERED NURSE- University Hospital-Operating Room Internship](https://jobright.ai/jobs/info/69bfa21979e36d3a847c4aec?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
 | **[Jobster](https://www.jobster.com)** | **[SAP Student Training And Rotation (STAR) Program - Global Marketing [Bellevue] - Studentjob.ch](https://jobright.ai/jobs/info/69bf7de22c312363dcd23590?utm_campaign=1057&utm_source=git)** | Bellevue, WA | Hybrid | Mar 21 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[FT Education Management Trainee - Local Product Team](https://jobright.ai/jobs/info/69bf74ea79e36d3a847c1026?utm_campaign=1057&utm_source=git)** | San Jose, CA | Hybrid | Mar 21 |
