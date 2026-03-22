@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Program Manager - ANE-SANE (Hybrid)](https://jobright.ai/jobs/info/69bf1bee393a1008f744e57e?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
+| **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69bf1b2f482822729301c2e9?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 21 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69bf18a4393a1008f744e4fb?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bf0c0f482822729301b8d1?utm_campaign=1057&utm_source=git)** | Edinburg, TX | On Site | Mar 21 |
 | **[Adagio Health](https://www.adagiohealth.org)** | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/69bf0b6f393a1008f744db4e?utm_campaign=1057&utm_source=git)** | Butler, PA | On Site | Mar 21 |
 | ↳ | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/69bf0b62393a1008f744db3d?utm_campaign=1057&utm_source=git)** | Beaver Falls, PA | On Site | Mar 21 |
@@ -135,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Rundle Schools](https://www.rundle.ab.ca)** | **[Teacher Intern(s)](https://jobright.ai/jobs/info/69bde6d2393a1008f743bc49?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Women’s Resilience Center Intern](https://jobright.ai/jobs/info/69bde3e4b106024562834764?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Research Paid Intern – Borad Lab- Temporary](https://jobright.ai/jobs/info/69bdfdd2393a1008f743d8ae?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | On Site | Mar 20 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Program Manager - ANE-SANE (Hybrid)](https://jobright.ai/jobs/info/69bddfd5b106024562834592?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 20 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Program Design Elementary & Older Youth](https://jobright.ai/jobs/info/69bddf28b1060245628344c1?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, US | Hybrid | Mar 20 |
 | ↳ | **[Intern - Program Design Elementary & Older Youth](https://jobright.ai/jobs/info/69bddf01482822729300938e?utm_campaign=1057&utm_source=git)** | US-CA-Santa Ana | Hybrid | Mar 20 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb2?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wan Bridge Group](https://wanbridge.com)** | **[Summer Internship – Village School](https://jobright.ai/jobs/info/69bef795b1060245628453dd?utm_campaign=1057&utm_source=git)** | Houston,TX,US | On Site | Mar 20 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69bdd07b393a1008f7437f3d?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 20 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdd0084828227293005a25?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Mar 20 |
-| **[LifeSource](https://www.life-source.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69bdcd174828227293004fb7?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Mar 20 |
-| **[DREAM](https://www.wearedream.org/)** | **[[Summer 2026] Elementary Creative Studio Instructor](https://jobright.ai/jobs/info/69bdc7b8b10602456282f857?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
