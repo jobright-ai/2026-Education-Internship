@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston University](http://today.bu.edu)** | **[Clinical Associate Professor; AI in Business, Information Systems, Questrom School of Business](https://jobright.ai/jobs/info/6986430b8da7a6120460f43e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Mar 22 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Mar 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Parental Health on Child Health Master's Intern](https://jobright.ai/jobs/info/69bfd0777798f73e35e4aa17?utm_campaign=1057&utm_source=git)** | California-Pasadena-S. Los Robles Administration | Hybrid | Mar 22 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69bfced479e36d3a847c6ce1?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Mar 22 |
@@ -77,10 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Professor of Mechanical Engineering AI](https://jobright.ai/jobs/info/69bfbbf12c312363dcd28304?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Mar 21 |
 | ↳ | **[Director of Institutional Effectiveness & Research](https://jobright.ai/jobs/info/69bfbc132c312363dcd2831b?utm_campaign=1057&utm_source=git)** | Chambersburg, PA | On Site | Mar 21 |
 | ↳ | **[Assistant Professor of Management, Supply Chain Management (F0069)](https://jobright.ai/jobs/info/69bfbc0b7798f73e35e49896?utm_campaign=1057&utm_source=git)** | Farmville, VA | On Site | Mar 21 |
-| **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Attendance Clerk, Credit Recovery Summer School, THHS-8:00 AM-12:30 PM](https://jobright.ai/jobs/info/69bf2e08b1060245628478a0?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Mar 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Program Manager - ANE-SANE (Hybrid)](https://jobright.ai/jobs/info/69bf1bee393a1008f744e57e?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
 | **[SALT Center](http://www.salt.arizona.edu)** | **[Tutoring Program Coordinator (Student Support Coordinator I)](https://jobright.ai/jobs/info/69bf1b2f482822729301c2e9?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Mar 21 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69bf18a4393a1008f744e4fb?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 21 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bf0c0f482822729301b8d1?utm_campaign=1057&utm_source=git)** | Edinburg, TX | On Site | Mar 21 |
 | **[Adagio Health](https://www.adagiohealth.org)** | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/69bf0b6f393a1008f744db4e?utm_campaign=1057&utm_source=git)** | Butler, PA | On Site | Mar 21 |
 | ↳ | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/69bf0b62393a1008f744db3d?utm_campaign=1057&utm_source=git)** | Beaver Falls, PA | On Site | Mar 21 |
@@ -119,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Legacy Community Health](https://www.legacycommunityhealth.org/)** | **[Health Advocate Student Intern](https://jobright.ai/jobs/info/69bf653879e36d3a847c031c?utm_campaign=1057&utm_source=git)** | Houston, TX, US | On Site | Mar 21 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Mar 21 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Mar 21 |
+| **[Pacvue](https://www.pacvue.com/)** | **[AI Accelerator Program Summer Intern](https://jobright.ai/jobs/info/69bdbec3393a1008f7434258?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Mar 21 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[ESY Clerk II at La Tierra Early Childhood Center-9:45 am-2:15 pm](https://jobright.ai/jobs/info/69bfa1da79e36d3a847c4a3a?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Mar 21 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/69be3619482822729300ef67?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Mar 20 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[Performance Nutrition Intern](https://jobright.ai/jobs/info/69be30e8b1060245628399ab?utm_campaign=1057&utm_source=git)** | Papago, AZ | On Site | Mar 20 |
@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Practice Health, Aledade FIRST](https://jobright.ai/jobs/info/69bdfb10482822729300b356?utm_campaign=1057&utm_source=git)** | Arlington, VA | Remote | Mar 20 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69bdfaec393a1008f743d6b1?utm_campaign=1057&utm_source=git)** | Sandy, UT | On Site | Mar 20 |
 | **[Sacred Heart Community Service](https://sacredheartcs.org/)** | **[Summer Academy Teacher Internship](https://jobright.ai/jobs/info/69bdfa70482822729300b1f3?utm_campaign=1057&utm_source=git)** | SAN JOSE, CA | On Site | Mar 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
-| ↳ | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b0?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Mar 20 |
+| ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf582b1060245628355b3?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Mar 20 |
 | ↳ | **[Tutoring Operations Intern - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69b365c1ae2a534885eabffa?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | ↳ | **[Summer 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69bdf285b106024562835131?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Program Coordinator](https://jobright.ai/jobs/info/69bdf0d84828227293009dd8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 20 |
