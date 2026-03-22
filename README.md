@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  CNS Program Development Specialist Intern (NFWS)](https://jobright.ai/jobs/info/69c04a407798f73e35e4e7de?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Mar 22 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Youth Football Intern](https://jobright.ai/jobs/info/69c048cd2c312363dcd2d16c?utm_campaign=1057&utm_source=git)** | Berea, OH | On Site | Mar 22 |
+| **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Intern Therapist -AMFT/MFT](https://jobright.ai/jobs/info/69c048c42c312363dcd2d15a?utm_campaign=1057&utm_source=git)** | Santa Barbara, CA | Hybrid | Mar 22 |
+| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69c048bd7798f73e35e4e6e9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Mar 22 |
+| **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Intern Therapist -AMFT/MFT](https://jobright.ai/jobs/info/69c048bc2c312363dcd2d14d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 22 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d259e3f57a3356966e037?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[M3 Engineering & Technology Corp.](https://m3eng.com)** | **[STUDENT INTERN Charlotte](https://jobright.ai/jobs/info/69c00c167798f73e35e4cc63?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69bffce62c312363dcd2ac15?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 22 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
-| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae7?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
-| **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69bff94379e36d3a847c82e4?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Mar 22 |
-| ↳ | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69bff94379e36d3a847c82e5?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Mar 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae7?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
+| ↳ | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/69bff9622c312363dcd2aae9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 22 |
+| **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69bff94379e36d3a847c82e5?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Mar 22 |
+| ↳ | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69bff94379e36d3a847c82e4?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Mar 22 |
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69bff94079e36d3a847c82e3?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Mar 22 |
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69bff9367798f73e35e4c04d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 22 |
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69bff92c2c312363dcd2aac7?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Mar 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c8393a1008f743e0b3?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern (External Communications)](https://jobright.ai/jobs/info/69be07a1482822729300bcce?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Mar 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Women’s Resilience Center Intern](https://jobright.ai/jobs/info/69be0790b106024562836ad8?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
-| ↳ | **[Adult Ed Case Manager Intern (Unpaid)](https://jobright.ai/jobs/info/69be0764482822729300bc9e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Assistant Director at International Parkway KinderCare](https://jobright.ai/jobs/info/69bdff99482822729300b684?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Mar 20 |
-| **[Cadence](https://www.cadence.com)** | **[Academic & Training Program Intern](https://jobright.ai/jobs/info/69bdff74393a1008f743d9d1?utm_campaign=1057&utm_source=git)** | HOME UT | Remote | Mar 20 |
-| **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/69bdff2b393a1008f743d935?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Mar 20 |
-| **[American Regent, Inc.](http://www.americanregent.com/)** | **[Training Administrator Intern](https://jobright.ai/jobs/info/69bdff12482822729300b607?utm_campaign=1057&utm_source=git)** | Shirley, NY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
