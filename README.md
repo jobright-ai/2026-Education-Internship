@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Behavioral Health Resources](http://www.bhr.org/)** | **[PACT Community Based Therapist Internship](https://jobright.ai/jobs/info/69c246e22c312363dcd5e11f?utm_campaign=1057&utm_source=git)** | Olympia, WA | Hybrid | Mar 24 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Leadership Development](https://jobright.ai/jobs/info/69b1c31965de58104c70c08f?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Mar 24 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Adult Services Instructor (35 Hour)(Office/On-site)](https://jobright.ai/jobs/info/69c23bb275f7ff1cd810f3f8?utm_campaign=1057&utm_source=git)** | Southbury, CT | On Site | Mar 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Vocare Clinical Surgical Technologist Program Intern](https://jobright.ai/jobs/info/69c212092c312363dcd59e8e?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Mar 23 |
 | **[Pathways](http://www.clarvida.com)** | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c21182c9ad035e829abce5?utm_campaign=1057&utm_source=git)** | Palmdale, CA | On Site | Mar 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NobleProg](http://www.nobleprog.com)** | **[Training Ops Intern](https://jobright.ai/jobs/info/69c186d52c312363dcd4848b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 23 |
 | **[American Management Association](http://www.amanet.org/)** | **[Learning Solutions Intern](https://jobright.ai/jobs/info/69b2c540ae2a534885e9f0c1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69c17c4275f7ff1cd80f8b76?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 23 |
-| **[Deltek](http://www.deltek.com)** | **[Intern Undergraduate](https://jobright.ai/jobs/info/69c17c3e2c312363dcd468ab?utm_campaign=1057&utm_source=git)** | US (Remote) | Remote | Mar 23 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69c17c3e75f7ff1cd80f8b68?utm_campaign=1057&utm_source=git)** | Rumford, RI | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
