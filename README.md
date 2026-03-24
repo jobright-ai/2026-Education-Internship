@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Developmental Services Adult Services Instructor (35 Hour)(Office/On-site)](https://jobright.ai/jobs/info/69c23bb275f7ff1cd810f3f8?utm_campaign=1057&utm_source=git)** | Southbury, CT | On Site | Mar 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Vocare Clinical Surgical Technologist Program Intern](https://jobright.ai/jobs/info/69c212092c312363dcd59e8e?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Mar 23 |
 | **[Pathways](http://www.clarvida.com)** | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c21182c9ad035e829abce5?utm_campaign=1057&utm_source=git)** | Palmdale, CA | On Site | Mar 23 |
 | ↳ | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c21163c9ad035e829abc25?utm_campaign=1057&utm_source=git)** | Lancaster, CA | On Site | Mar 23 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[STARS](https://www.stars.ca)** | **[Peer Support Program Assistant Intern - Edmonton](https://jobright.ai/jobs/info/69c21082c9ad035e829ab639?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Mar 23 |
 | **[TurbineOne](https://turbineone.com/ )** | **[SkillBridge Fellowship](https://jobright.ai/jobs/info/695ec3e0a112b402660d79a7?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Community Mental Health Affiliates, Inc. (CMHA)](http://www.cmhacc.org)** | **[Professional Development Intern - part-time - 1st shift - Mon-Fri](https://jobright.ai/jobs/info/69ab64b8142d5b4265fc9c84?utm_campaign=1057&utm_source=git)** | New Britain, CT | On Site | Mar 23 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c20844c9ad035e829a7841?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 23 |
-| ↳ | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/69c206f875f7ff1cd810812e?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 23 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/69c206f875f7ff1cd810812e?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 23 |
+| ↳ | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c20844c9ad035e829a7841?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 23 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69c1e81175f7ff1cd8104144?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Medicare Operations Training, Quality & Audit Intern - Summer 2026](https://jobright.ai/jobs/info/69b06d84dfaeda6ff59a3c6a?utm_campaign=1057&utm_source=git)** | Providence County, RI | Hybrid | Mar 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Intern (Summer 2026)](https://jobright.ai/jobs/info/69b4afcb5697383741398bd8?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Mar 23 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[EDGE Internship - Hourly - Albany](https://jobright.ai/jobs/info/69c1aea22c312363dcd4d74e?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Mar 23 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Capital Markets](https://jobright.ai/jobs/info/69c1ae3f75f7ff1cd80ffb99?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Mar 23 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern-MSSRP Pharmacology & Neuroscience](https://jobright.ai/jobs/info/69c1aac52c312363dcd4d4a8?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 23 |
-| ↳ | **[HSC Student Intern](https://jobright.ai/jobs/info/69c1aac52c312363dcd4d4a4?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 23 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern](https://jobright.ai/jobs/info/69c1aac52c312363dcd4d4a4?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 23 |
+| ↳ | **[HSC Student Intern-MSSRP Pharmacology & Neuroscience](https://jobright.ai/jobs/info/69c1aac52c312363dcd4d4a8?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Mar 23 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c1aaaf2c312363dcd4d480?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 23 |
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[FoodCORE College Intern - 20013753](https://jobright.ai/jobs/info/69c1a3fe2c312363dcd4c5e7?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Mar 23 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c1a06c2c312363dcd4bb60?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69c17c4275f7ff1cd80f8b76?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Mar 23 |
 | **[Deltek](http://www.deltek.com)** | **[Intern Undergraduate](https://jobright.ai/jobs/info/69c17c3e2c312363dcd468ab?utm_campaign=1057&utm_source=git)** | US (Remote) | Remote | Mar 23 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69c17c3e75f7ff1cd80f8b68?utm_campaign=1057&utm_source=git)** | Rumford, RI | On Site | Mar 23 |
-| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69c17c3e75f7ff1cd80f8b67?utm_campaign=1057&utm_source=git)** | Rumford, RI | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
