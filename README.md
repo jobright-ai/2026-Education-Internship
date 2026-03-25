@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Careers in Finance)](https://jobright.ai/jobs/info/69c3868d753c101b21575f57?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69c35d187a7a0045db891044?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 24 |
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator I](https://jobright.ai/jobs/info/69c3661c94007a2195dfd4e5?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Mar 24 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Learning Design Intern, Extended Reality (XR)](https://jobright.ai/jobs/info/69c364ee94007a2195dfd3ce?utm_campaign=1057&utm_source=git)** | USA - California – Irvine | On Site | Mar 24 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Intern - Rebound PROS](https://jobright.ai/jobs/info/69c311f9753c101b2156915d?utm_campaign=1057&utm_source=git)** | Queens, NY, US | On Site | Mar 24 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Intern, Summer Forum](https://jobright.ai/jobs/info/69c310b7ec22f8310ab121dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Fellowship Recovery LLC](www.fellowshiprecovery.com)** | **[Summer Internship - ADC-T/LADC Track](https://jobright.ai/jobs/info/69c339e6753c101b2156de3f?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Mar 24 |
-| **[Aligned Data Centers](http://www.alignedenergy.com/)** | **[Summer Internship / Corporate Training](https://jobright.ai/jobs/info/69c30b96753c101b2156853d?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Mar 24 |
 | **[VOA Alaska](https://voaak.org)** | **[Clinical Internship/Field Education Practicum](https://jobright.ai/jobs/info/69c30968753c101b21567ae8?utm_campaign=1057&utm_source=git)** | Anchorage, AK, US | On Site | Mar 24 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69c3087c94007a2195df2532?utm_campaign=1057&utm_source=git)** | Rochester, Minnesota, United States | On Site | Mar 24 |
 | **[Dallas College](https://www.dcccd.edu)** | **[SAS Intern-2](https://jobright.ai/jobs/info/69c30820ec22f8310ab10cdd?utm_campaign=1057&utm_source=git)** | El Centro Campus | On Site | Mar 24 |
