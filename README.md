@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69c35d187a7a0045db891044?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 24 |
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator I](https://jobright.ai/jobs/info/69c3661c94007a2195dfd4e5?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Mar 24 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Learning Design Intern, Extended Reality (XR)](https://jobright.ai/jobs/info/69c364ee94007a2195dfd3ce?utm_campaign=1057&utm_source=git)** | USA - California – Irvine | On Site | Mar 24 |
 | **[Chartered Professional Accountants of British Columbia](https://www.bccpa.ca/)** | **[Associate Director, Practice Review (Internal Posting)](https://jobright.ai/jobs/info/69c360797a7a0045db891a66?utm_campaign=1057&utm_source=git)** | Vancouver, BC | Hybrid | Mar 24 |
 | **[The RMC Group of Companies](https://rmcgroup.com )** | **[Administrative Coordinator - Student Opportunity](https://jobright.ai/jobs/info/69c35fbb753c101b215721bf?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Mar 24 |
-| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69c35d187a7a0045db891044?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 24 |
 | **[Natural Lands](https://natlands.org/)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69c34e847a7a0045db88eac3?utm_campaign=1057&utm_source=git)** | Elverson, PA | On Site | Mar 24 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69c34e5d7a7a0045db88ea8b?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Mar 24 |
 | **[Salt Lake County](https://www.slco.org)** | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c34cfa753c101b2156f426?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Mar 24 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Polytainers Inc.](https://www.polytainersinc.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69c2fb20ec22f8310ab10282?utm_campaign=1057&utm_source=git)** | Etobicoke, ON | On Site | Mar 24 |
 | **[University of Oregon](http://oimb.uoregon.edu)** | **[Graduate Intern, Orientation and Transition Programs](https://jobright.ai/jobs/info/69c2fa42753c101b21566e24?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Mar 24 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69c31806753c101b21569bb6?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df1365?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
-| ↳ | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df136a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df136a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
+| ↳ | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df1365?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Learning & Organization Development (L&OD)](https://jobright.ai/jobs/info/69c2f63594007a2195df11cd?utm_campaign=1057&utm_source=git)** | Delano, CA, USA | On Site | Mar 24 |
 | **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b90?utm_campaign=1057&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
 | ↳ | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b8d?utm_campaign=1057&utm_source=git)** | 84101 | On Site | Mar 24 |
