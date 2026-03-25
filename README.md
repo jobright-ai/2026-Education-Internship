@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Kids STEM Instructor: Afterschool, Weekend, & Summer Camp + Internship](https://jobright.ai/jobs/info/69c3c65033eecf310793a4bd?utm_campaign=1057&utm_source=git)** | Shiloh, VA | On Site | Mar 25 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - CHRISTUS Trinity Clinic](https://jobright.ai/jobs/info/69a9339579f3f4037f43fb19?utm_campaign=1057&utm_source=git)** | Tyler, TX | On Site | Mar 25 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Technical Program Management (TPM)](https://jobright.ai/jobs/info/698a96fac5761b521a99dc05?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Mar 25 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Administration](https://jobright.ai/jobs/info/69a856421dfc787e9aa35615?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Mar 25 |
@@ -68,13 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Careers in Finance)](https://jobright.ai/jobs/info/69c3868d753c101b21575f57?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Special Education Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c399177a7a0045db8971aa?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Mar 24 |
 | ↳ | **[Special Education Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3992494007a2195e02d54?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Mar 24 |
-| ↳ | **[Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3993f753c101b215777ea?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Mar 24 |
-| ↳ | **[Special Education Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c39964753c101b21577a6c?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Mar 24 |
 | ↳ | **[Math Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3994f753c101b215778dc?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Mar 24 |
-| ↳ | **[Math Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c399027a7a0045db89709f?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Mar 24 |
-| ↳ | **[Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c399247a7a0045db897202?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Mar 24 |
 | ↳ | **[Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3990c7a7a0045db89711e?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Mar 24 |
 | ↳ | **[Math Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3993a94007a2195e02e6d?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Mar 24 |
+| ↳ | **[Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c3993f753c101b215777ea?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Mar 24 |
+| ↳ | **[Special Education Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c39964753c101b21577a6c?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Mar 24 |
+| ↳ | **[Science Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c399247a7a0045db897202?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Mar 24 |
+| ↳ | **[Math Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69c399027a7a0045db89709f?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Mar 24 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69c35d187a7a0045db891044?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 24 |
 | **[Utah State University](http://www.usu.edu)** | **[Program Coordinator I](https://jobright.ai/jobs/info/69c3661c94007a2195dfd4e5?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Mar 24 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Learning Design Intern, Extended Reality (XR)](https://jobright.ai/jobs/info/69c364ee94007a2195dfd3ce?utm_campaign=1057&utm_source=git)** | USA - California – Irvine | On Site | Mar 24 |
@@ -117,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c2fe6c94007a2195df1cf2?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 24 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2dbfdad360c0340a7d3b5?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Mar 24 |
 | **[Polytainers Inc.](https://www.polytainersinc.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69c2fb20ec22f8310ab10282?utm_campaign=1057&utm_source=git)** | Etobicoke, ON | On Site | Mar 24 |
-| **[University of Oregon](http://oimb.uoregon.edu)** | **[Graduate Intern, Orientation and Transition Programs](https://jobright.ai/jobs/info/69c2fa42753c101b21566e24?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Mar 24 |
+| **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Graduate Intern, Orientation and Transition Programs](https://jobright.ai/jobs/info/69c2fa42753c101b21566e24?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Mar 24 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69c31806753c101b21569bb6?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 24 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df136a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | ↳ | **[Bachelors/Masters - HR Learning Programs Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2f6d994007a2195df1365?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Mar 24 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Learning & Organization Development (L&OD)](https://jobright.ai/jobs/info/69c2f63594007a2195df11cd?utm_campaign=1057&utm_source=git)** | Delano, CA, USA | On Site | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b8d?utm_campaign=1057&utm_source=git)** | 84101 | On Site | Mar 24 |
-| ↳ | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b90?utm_campaign=1057&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b90?utm_campaign=1057&utm_source=git)** | US-UT-SALT LAKE CITY | On Site | Mar 24 |
+| ↳ | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f07a94007a2195df0b8d?utm_campaign=1057&utm_source=git)** | 84101 | On Site | Mar 24 |
 | ↳ | **[Clark Planetarium - Special Projects Intern](https://jobright.ai/jobs/info/69c2f054ec22f8310ab0f446?utm_campaign=1057&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Mar 24 |
 | **[Tech Academy](http://techacademymn.com/)** | **[Summer Educators &  Assistant / Education/Child Development Internship](https://jobright.ai/jobs/info/69c31471ec22f8310ab12ac2?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Mar 24 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Child Care Teacher Summer Intern- LaCrosse](https://jobright.ai/jobs/info/69c2ef5f94007a2195df093e?utm_campaign=1057&utm_source=git)** | La Crosse, WI | On Site | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Volunteer Program Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69c2ccf794007a2195dec318?utm_campaign=1057&utm_source=git)** | Richmond, VA USA | Hybrid | Mar 24 |
 | **[Acenda Integrated Health](https://acendahealth.org/)** | **[Bachelors Intern](https://jobright.ai/jobs/info/69c2cb89ec22f8310ab0b0ce?utm_campaign=1057&utm_source=git)** | US NJ Sicklerville 416 Sicklerville Road A-2 | On Site | Mar 24 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Sessional Instructor: ENGG 517 - Engineering Safety](https://jobright.ai/jobs/info/69c2e8e0753c101b21564f04?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Mar 24 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Open Rank - Director of Clinical Laboratory Science and Clinical Genetic Molecular Biologist Scientist Training Program](https://jobright.ai/jobs/info/68acec92d627244576e49eec?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
