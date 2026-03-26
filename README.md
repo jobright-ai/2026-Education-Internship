@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2027](https://jobright.ai/jobs/info/69a89be97ac93962b7085887?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Mar 26 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69c52f00aa9a29199e80127a?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Mar 26 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Mar 26 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Rinker Materials](http://www.rinkerpipe.com/)** | **[Intern](https://jobright.ai/jobs/info/697154a0333b6343a14dde1d?utm_campaign=1057&utm_source=git)** | Apopka, FL | On Site | Mar 26 |
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker (Wicomico Career Day:Content Creator)](https://jobright.ai/jobs/info/69c4ed2733eecf3107956c6f?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 26 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Summer Research Intern - Missouri Partners in Prevention](https://jobright.ai/jobs/info/69c4e91dd5a1016e98dc5ad1?utm_campaign=1057&utm_source=git)** | Columbia, MO | Remote | Mar 26 |
+| **[Piana IT Solutions Private Limited](http://www.piana.in)** | **[Webinar Anchoring Intern](https://jobright.ai/jobs/info/69c52d3f5a5e774c16b0cffa?utm_campaign=1057&utm_source=git)** | Prescott Valley, AZ | Remote | Mar 26 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69c4e148d5a1016e98dc45e1?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Mar 26 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69c4fea56f4f855eeda7bf32?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Mar 26 |
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker (Wicomico Career Day: AI in Information Technology)](https://jobright.ai/jobs/info/69c4d62c6f4f855eeda782d0?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 25 |
@@ -142,19 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Trauma/Ortho](https://jobright.ai/jobs/info/69c4d1dc6f4f855eeda78050?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Mar 25 |
 | **[Jefferson County Government](https://www.linkedin.com/company/4368417)** | **[Jeffco Emerging Tech Innovation Intern](https://jobright.ai/jobs/info/69c4594933eecf310794a259?utm_campaign=1057&utm_source=git)** | Golden | Hybrid | Mar 25 |
 | **[Improve Life PLLC](www.improvelifepllc.com)** | **[Pre-health intern](https://jobright.ai/jobs/info/69c4324b33eecf310794585a?utm_campaign=1057&utm_source=git)** | Virginia, United States | Hybrid | Mar 25 |
-| **[ASU Gammage](https://www.asugammage.com/)** | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593d6f4f855eeda6ce98?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
+| **[ASU Gammage](https://www.asugammage.com/)** | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593b6f4f855eeda6ce7e?utm_campaign=1057&utm_source=git)** | TECHNOLOGY CENTER | On Site | Mar 25 |
+| ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593d6f4f855eeda6ce98?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
 | ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593833eecf310794a1fd?utm_campaign=1057&utm_source=git)** | UNIVERSITY CENTER | On Site | Mar 25 |
 | ↳ | **[Management Intern - International Student Career Support](https://jobright.ai/jobs/info/69c4593b33eecf310794a21c?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
-| ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593b6f4f855eeda6ce7e?utm_campaign=1057&utm_source=git)** | TECHNOLOGY CENTER | On Site | Mar 25 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - International Student Career Support](https://jobright.ai/jobs/info/69c4593b6f4f855eeda6ce73?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
 | ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593833eecf310794a1fb?utm_campaign=1057&utm_source=git)** | TECHNOLOGY CENTER | On Site | Mar 25 |
-| ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593833eecf310794a1f9?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
 | ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c45938d5a1016e98db8a7e?utm_campaign=1057&utm_source=git)** | UNIVERSITY CENTER | On Site | Mar 25 |
+| ↳ | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c4593833eecf310794a1f9?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | Mar 25 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/69c459396f4f855eeda6ce4a?utm_campaign=1057&utm_source=git)** | Boston | Hybrid | Mar 25 |
 | **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Music Teacher (Internal Only), Heath Middle School (2026-2027 School Year)](https://jobright.ai/jobs/info/69c42fcf6f4f855eeda69379?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Mar 25 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Mar 25 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69c427c66f4f855eeda682d8?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Mar 25 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Summer Pre-Med Internship - Springfield](https://jobright.ai/jobs/info/69c4279d6f4f855eeda6823b?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Mar 25 |
-| **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Health & Safety Internship - Summer 2026](https://jobright.ai/jobs/info/69c45192d5a1016e98db74a1?utm_campaign=1057&utm_source=git)** | Norwell, MA, US | On Site | Mar 25 |
-| ↳ | **[Health & Safety Internship - Summer 2026](https://jobright.ai/jobs/info/69c4518533eecf3107948b25?utm_campaign=1057&utm_source=git)** | US-MA-Norwell | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
