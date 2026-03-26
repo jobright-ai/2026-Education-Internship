@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - Career Connection Intern](https://jobright.ai/jobs/info/69c570e1aa3c2c1995dfeeb1?utm_campaign=1057&utm_source=git)** | Delaware, OH, US | On Site | Mar 26 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Corvallis, OR)](https://jobright.ai/jobs/info/69c570c41818a24cd84b535a?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
+| **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Digital Innovation](https://jobright.ai/jobs/info/69bfffb579e36d3a847c84a7?utm_campaign=1057&utm_source=git)** | Miramar, FL | On Site | Mar 26 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Work Based Learning Intern (High School)](https://jobright.ai/jobs/info/69c1e0f379e36d3a847ef089?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Mar 26 |
 | **[Cleveland Construction, Inc.](http://clevelandconstruction.com)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/69c55f1daa9a29199e803b8c?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Adult ESL Assistant Instructor Intern (Unpaid)](https://jobright.ai/jobs/info/69bc58415b89c002acf1e570?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
@@ -69,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Global Clinical Development Operations-Study Management Intern](https://jobright.ai/jobs/info/69c548faaa3c2c1995dfd29b?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Mar 26 |
 | ↳ | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69c548d41b5ad02887371d38?utm_campaign=1057&utm_source=git)** | Home, KS | Hybrid | Mar 26 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Sales Training Summer Intern](https://jobright.ai/jobs/info/69c548211818a24cd84b3303?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Mar 26 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69c56e6283ea553769fc9f43?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Mar 26 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Mar 26 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Corporate Communications](https://jobright.ai/jobs/info/69a8a18d7ac93962b7085dd9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 26 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Director of Advising, Division of Health Sciences Advising Center, UNLV Student Academic Success [R0150764]](https://jobright.ai/jobs/info/69c55a9d83ea553769fc8ec7?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
 | ↳ | **[Assistant Professor-in-Residence, Department of Computer Science, College of Engineering [R0150748]](https://jobright.ai/jobs/info/69c55a84aa3c2c1995dfdc15?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
 | ↳ | **[Assistant Professor, English [R0149472]](https://jobright.ai/jobs/info/69c55a8aaa9a29199e8037be?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
@@ -97,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer Virtual Classroom Speaker - U.S. Only (Marketing & Sales Industry )](https://jobright.ai/jobs/info/69c4d6206f4f855eeda782c6?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Indiana University Health](http://iuhealth.org)** | **[IU Health Foundation Philanthropy Summer 2026 Internship – Graduate Students Only](https://jobright.ai/jobs/info/69c4d489d5a1016e98dc3152?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69c4d05833eecf3107954061?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
-| **[Pathways](http://www.clarvida.com)** | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c4f0e1d5a1016e98dc60f5?utm_campaign=1057&utm_source=git)** | Lancaster, CA | On Site | Mar 25 |
-| ↳ | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c4f0f1d5a1016e98dc60ff?utm_campaign=1057&utm_source=git)** | Palmdale, CA | On Site | Mar 25 |
+| **[Pathways](http://www.clarvida.com)** | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c4f0f1d5a1016e98dc60ff?utm_campaign=1057&utm_source=git)** | Palmdale, CA | On Site | Mar 25 |
+| ↳ | **[Intern Pre Licensed Therapist](https://jobright.ai/jobs/info/69c4f0e1d5a1016e98dc60f5?utm_campaign=1057&utm_source=git)** | Lancaster, CA | On Site | Mar 25 |
 | **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Program Coordinator, Business Graduate Programs - 500701](https://jobright.ai/jobs/info/69c4c91ad5a1016e98dc20a3?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Mar 25 |
 | **[Indiana University Health](http://iuhealth.org)** | **[IU Health Foundation Philanthropy Summer 2026 Internship – Graduate Students Only](https://jobright.ai/jobs/info/69c4d5f1d5a1016e98dc32f5?utm_campaign=1057&utm_source=git)** | 1633 N Capitol Ave, Indianapolis, IN, 46202, US | On Site | Mar 25 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Graduate, Business Analytics, Health Informatics)](https://jobright.ai/jobs/info/69bdd735b106024562832a44?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 25 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Coordinator - WSP](https://jobright.ai/jobs/info/69c4fa246f4f855eeda7b866?utm_campaign=1057&utm_source=git)** | Walla Walla, WA | On Site | Mar 25 |
 | ↳ | **[Adjunct Faculty, College of Law - Legal Writing Program](https://jobright.ai/jobs/info/69c4fa40d5a1016e98dc6531?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | ↳ | **[Adjunct Faculty, Digital Media & Design](https://jobright.ai/jobs/info/69c4fa4233eecf3107957672?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Mar 25 |
-| **[PRACTICE](https://practicebc.com/)** | **[Bilingual Spanish Intern](https://jobright.ai/jobs/info/69c54db21818a24cd84b3b77?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
-| ↳ | **[High School Science Intern](https://jobright.ai/jobs/info/69c54deee565c26a7000e29a?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 25 |
+| **[PRACTICE](https://practicebc.com/)** | **[High School Science Intern](https://jobright.ai/jobs/info/69c54deee565c26a7000e29a?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 25 |
+| ↳ | **[Bilingual Spanish Intern](https://jobright.ai/jobs/info/69c54db21818a24cd84b3b77?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Youth at Work Internship - Seattle Parks & Recreation](https://jobright.ai/jobs/info/69c481666f4f855eeda71423?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Mar 25 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional Lecturer- BTC1730H - Modern Data Analysis in Structural Biology and Drug Discovery](https://jobright.ai/jobs/info/69c47a41d5a1016e98dbb87a?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | On Site | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69c49fb633eecf3107950442?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[PM Intern](https://jobright.ai/jobs/info/69c46d8e33eecf310794c07e?utm_campaign=1057&utm_source=git)** | Strongsville, OH, US, 44149 | On Site | Mar 25 |
 | **[Campbell University](https://www.campbell.edu/)** | **[Student Engagement and Learning Intern](https://jobright.ai/jobs/info/69c46f57d5a1016e98dbaa63?utm_campaign=1057&utm_source=git)** | Lillington, NC | On Site | Mar 25 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering- 28362](https://jobright.ai/jobs/info/69c440c36f4f855eeda6acb2?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Mar 25 |
-| **[LifeScape](http://www.lifescapesd.org/)** | **[Therapy Intern](https://jobright.ai/jobs/info/69c466d333eecf310794b909?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD 57106, USA | On Site | Mar 25 |
-| ↳ | **[Therapy Intern](https://jobright.ai/jobs/info/69c46773d5a1016e98dba167?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD 57104, USA | On Site | Mar 25 |
-| **[Franciscan Health](https://www.franciscanhealth.org/)** | **[Franciscan Nurse Internship Indianapolis Intensive Neuro Experience](https://jobright.ai/jobs/info/69c462ea33eecf310794ae8b?utm_campaign=1057&utm_source=git)** | IN - Indianapolis | On Site | Mar 25 |
-| **[University of Nebraska at Omaha](http://www.unomaha.edu/)** | **[ACUHO-I Residence Life Intern](https://jobright.ai/jobs/info/69c4627cd5a1016e98db95fa?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Mar 25 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Specialist, Research Assessment](https://jobright.ai/jobs/info/69c43e4fd5a1016e98db5855?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
