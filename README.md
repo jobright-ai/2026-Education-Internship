@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Tech University](https://utahtech.edu)** | **[Title III Program Coordinator](https://jobright.ai/jobs/info/69c638031818a24cd84c1a2c?utm_campaign=1057&utm_source=git)** | St George, UT | On Site | Mar 27 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69c6281eaa3c2c1995e0a43a?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Mar 26 |
 | **[Delaware Public Health District](http://www.delawarehealth.org)** | **[WIC Intern](https://jobright.ai/jobs/info/69c625ff1818a24cd84c0782?utm_campaign=1057&utm_source=git)** | Delaware, OH | On Site | Mar 26 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69c625ffaa9a29199e80fdae?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69c548d41b5ad02887371d38?utm_campaign=1057&utm_source=git)** | Home, KS | Hybrid | Mar 26 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Sales Training Summer Intern](https://jobright.ai/jobs/info/69c548211818a24cd84b3303?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Mar 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69c56e6283ea553769fc9f43?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Mar 26 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
