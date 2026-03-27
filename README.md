@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69c6f086b773006330b743cc?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Mar 27 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant Professor - Information Systems, Operations Management, Supply Chain Management, and Busin](https://jobright.ai/jobs/info/69c6ee39e565c26a7002407e?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 27 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Fall Intern / Sanford Sports Performance](https://jobright.ai/jobs/info/69c6ecb91b5ad02887388489?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Mar 27 |
+| **[University of Southern California](http://www.usc.edu)** | **[Adjunct Professor of John H. Mitchell Business of Entertainment Programs: Producing and Marketing Feature Length Films](https://jobright.ai/jobs/info/69c6ec7ee565c26a70023fe4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69a6690ae567421f425771b3?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Mar 27 |
+| **[Spriggs Excavation, Inc.](https://seicivil.com/)** | **[Student Internship - Summer](https://jobright.ai/jobs/info/69c6e55a83ea553769fde8e9?utm_campaign=1057&utm_source=git)** | Durango, Colorado, United States | On Site | Mar 27 |
+| **[Fort Bend ISD](http://www.fortbendisd.com)** | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e558e565c26a70023c99?utm_campaign=1057&utm_source=git)** | ADMINISTRATION BUILDING16431 LEXINGTON BLVD. | On Site | Mar 27 |
+| ↳ | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e5551b5ad028873880dd?utm_campaign=1057&utm_source=git)** | TEXAS-SUGAR LAND | On Site | Mar 27 |
 | **[Boise State University](https://boisestate.edu)** | **[Lecturer - Poetry, Translation, and Creative Nonfiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e231b773006330b73b02?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Fiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e2281818a24cd84c9552?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Philosophy (Internal)](https://jobright.ai/jobs/info/69c6e2111818a24cd84c9543?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
@@ -103,22 +111,22 @@ For a complete list, click the following sortable link below:
 | **[Hudson Valley Credit Union](https://www.hvcu.org/)** | **[HVCU College Intern - IT Assurance](https://jobright.ai/jobs/info/69aa5fec1f59c56275e33bf0?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | ↳ | **[HVCU College Intern - IT Service Delivery](https://jobright.ai/jobs/info/69aabf31142d5b4265fc191a?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Change Management and Learning Development Intern](https://jobright.ai/jobs/info/69aa22d09ca4e908ec656c55?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Mar 27 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69c66e901818a24cd84c623e?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/69c66e901818a24cd84c623f?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/69c66e901818a24cd84c6240?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/69c66e901818a24cd84c623f?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/69c66e8baa3c2c1995e0fe11?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0c?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0b?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Lafayette](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0d?utm_campaign=1057&utm_source=git)** | Lafayette, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe09?utm_campaign=1057&utm_source=git)** | Rosemead, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0c?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0b?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/69c66e83b773006330b7079a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/69c66e83aa3c2c1995e0fe06?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Alameda](https://jobright.ai/jobs/info/69c66e7c83ea553769fdb15c?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb157?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb159?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb157?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, San Francisco Twin Peaks/Noe Valley](https://jobright.ai/jobs/info/69c66e79b773006330b70792?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/69c66e78b773006330b70791?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Arlington Heights](https://jobright.ai/jobs/info/69c66e7483ea553769fdb150?utm_campaign=1057&utm_source=git)** | Arlington Heights, IL | On Site | Mar 27 |
@@ -130,10 +138,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Denver - Wheat Ridge/Highland](https://jobright.ai/jobs/info/69c66e321b5ad028873848de?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/69c66e311b5ad028873848d9?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Parker](https://jobright.ai/jobs/info/69c66e311b5ad028873848d8?utm_campaign=1057&utm_source=git)** | Parker, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Bellevue](https://jobright.ai/jobs/info/69c66d7de565c26a7002074f?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Irvine - Northwood](https://jobright.ai/jobs/info/69c66d7de565c26a70020751?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Galileo X - San Jose Alum Rock](https://jobright.ai/jobs/info/69c66d7de565c26a7002074e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Irvine - Northwood](https://jobright.ai/jobs/info/69c66d7de565c26a70020751?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Los Gatos](https://jobright.ai/jobs/info/69c66d7de565c26a70020750?utm_campaign=1057&utm_source=git)** | Los Gatos, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Bellevue](https://jobright.ai/jobs/info/69c66d7de565c26a7002074f?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Pleasanton](https://jobright.ai/jobs/info/69c66d7ce565c26a7002074b?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Denver - Lowry](https://jobright.ai/jobs/info/69c66d78e565c26a7002074a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, San Jose Almaden](https://jobright.ai/jobs/info/69c66d6ce565c26a70020743?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/69c654631b5ad02887384244?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Mar 27 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/69c651241818a24cd84c4e4e?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df55?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Mar 27 |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/69c64beb83ea553769fd8ba8?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
-| **[Sevita](https://sevitahealth.com)** | **[Broomall Intern 5](https://jobright.ai/jobs/info/69689e97f25a380066972458?utm_campaign=1057&utm_source=git)** | Broomall, PA | On Site | Mar 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c641621b5ad02887380899?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
-| **[Town of Huntersville](https://www.huntersville.org/)** | **[Intern](https://jobright.ai/jobs/info/69c64145e565c26a7001c579?utm_campaign=1057&utm_source=git)** | Huntersville, NC | On Site | Mar 27 |
-| **[BridgeBio](http://bridgebio.com)** | **[FP&A Summer Internship](https://jobright.ai/jobs/info/69c64127e565c26a7001c555?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Mar 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69c64124aa3c2c1995e0bbe4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
-| **[Berkeley County (SC) Government](http://berkeleycountysc.gov)** | **[Recycling Student Intern](https://jobright.ai/jobs/info/69c63f9f1818a24cd84c203c?utm_campaign=1057&utm_source=git)** | Moncks Corner, SC | On Site | Mar 27 |
-| **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69c63de4e565c26a7001c478?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
