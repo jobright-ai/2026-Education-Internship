@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UC San Diego Academic Jobs](https://apol-recruit.ucsd.edu/apply)** | **[Assistant, Associate, or Full Professor (Ladder/In-Residence) Orthopaedic Surgery Translational Research Faculty](https://jobright.ai/jobs/info/69c604b883ea553769fd23fb?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 26 |
 | **[EL RANCHO UNIFIED SCHOOL DISTRICT](http://erusd.org)** | **[School Secretary Bilingual **Open to all qualified applicants for INSIDE / OUTSIDE the El Rancho Unified School District**](https://jobright.ai/jobs/info/69c60068aa9a29199e80c868?utm_campaign=1057&utm_source=git)** | Pico Rivera, CA | On Site | Mar 26 |
 | **[Gardens of Golden Gate Park](https://gggp.org)** | **[Youth Programs Garden Intern](https://jobright.ai/jobs/info/69c5f311aa3c2c1995e0644e?utm_campaign=1057&utm_source=git)** | San Francisco,CA,US | On Site | Mar 26 |
 | **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, National Membership Engagement](https://jobright.ai/jobs/info/69c5f236aa9a29199e80bd10?utm_campaign=1057&utm_source=git)** | United States | On Site | Mar 26 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69c56e6283ea553769fc9f43?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Mar 26 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Mar 26 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Corporate Communications](https://jobright.ai/jobs/info/69a8a18d7ac93962b7085dd9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Professor-in-Residence, Department of Computer Science, College of Engineering [R0150748]](https://jobright.ai/jobs/info/69c55a84aa3c2c1995dfdc15?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
-| ↳ | **[Director of Advising, Division of Health Sciences Advising Center, UNLV Student Academic Success [R0150764]](https://jobright.ai/jobs/info/69c55a9d83ea553769fc8ec7?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
+| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Director of Advising, Division of Health Sciences Advising Center, UNLV Student Academic Success [R0150764]](https://jobright.ai/jobs/info/69c55a9d83ea553769fc8ec7?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
+| ↳ | **[Assistant Professor-in-Residence, Department of Computer Science, College of Engineering [R0150748]](https://jobright.ai/jobs/info/69c55a84aa3c2c1995dfdc15?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
 | ↳ | **[Assistant Professor, English [R0149472]](https://jobright.ai/jobs/info/69c55a8aaa9a29199e8037be?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Mar 26 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2027](https://jobright.ai/jobs/info/69a89be97ac93962b7085887?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
