@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69c71e3283ea553769fe0d81?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Mar 27 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/69c71e261b5ad0288738a57e?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Mar 27 |
 | **[Arizona State University](http://www.asu.edu)** | **[K-12 Career Education Management Intern](https://jobright.ai/jobs/info/69c71dfe1b5ad0288738a558?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 27 |
+| **[Leland](https://www.joinleland.com)** | **[Growth & Ops Intern: Courses & Events](https://jobright.ai/jobs/info/69c749011818a24cd84cd1dd?utm_campaign=1057&utm_source=git)** | Lehi, UT | Remote | Mar 27 |
 | **[FRP of Florida](https://hipflorida.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7f?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Mar 27 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern - International Student Career Support](https://jobright.ai/jobs/info/69c71b1daa3c2c1995e15842?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Mar 27 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c71af7e565c26a70025da0?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Mar 27 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Spriggs Excavation, Inc.](https://seicivil.com/)** | **[Student Internship - Summer](https://jobright.ai/jobs/info/69c6e55a83ea553769fde8e9?utm_campaign=1057&utm_source=git)** | Durango, Colorado, United States | On Site | Mar 27 |
 | **[Fort Bend ISD](http://www.fortbendisd.com)** | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e558e565c26a70023c99?utm_campaign=1057&utm_source=git)** | ADMINISTRATION BUILDING16431 LEXINGTON BLVD. | On Site | Mar 27 |
 | ↳ | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e5551b5ad028873880dd?utm_campaign=1057&utm_source=git)** | TEXAS-SUGAR LAND | On Site | Mar 27 |
-| **[The New York Foundling](https://www.nyfoundling.org/)** | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c70153b773006330b7511a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Mar 27 |
-| ↳ | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e1467c?utm_campaign=1057&utm_source=git)** | US-NY-New York | Hybrid | Mar 27 |
+| **[The New York Foundling](https://www.nyfoundling.org/)** | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e1467c?utm_campaign=1057&utm_source=git)** | US-NY-New York | Hybrid | Mar 27 |
+| ↳ | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c70153b773006330b7511a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Mar 27 |
 | **[Boise State University](https://boisestate.edu)** | **[Lecturer - Poetry, Translation, and Creative Nonfiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e231b773006330b73b02?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Fiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e2281818a24cd84c9552?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Philosophy (Internal)](https://jobright.ai/jobs/info/69c6e2111818a24cd84c9543?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hudson Valley Credit Union](https://www.hvcu.org/)** | **[HVCU College Intern - IT Assurance](https://jobright.ai/jobs/info/69aa5fec1f59c56275e33bf0?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | ↳ | **[HVCU College Intern - IT Service Delivery](https://jobright.ai/jobs/info/69aabf31142d5b4265fc191a?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Change Management and Learning Development Intern](https://jobright.ai/jobs/info/69aa22d09ca4e908ec656c55?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Mar 27 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/69c66e901818a24cd84c6240?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 27 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69c66e901818a24cd84c623e?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
