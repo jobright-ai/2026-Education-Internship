@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellington Catholic District School Board](https://www.wellingtoncdsb.ca)** | **[International Languages Program - Tigrinya Instructor](https://jobright.ai/jobs/info/69c716b1e565c26a70025ca5?utm_campaign=1057&utm_source=git)** | Guelph, ON | On Site | Mar 27 |
+| ↳ | **[International Languages Program - SUPPLY Tigrinya Instructor](https://jobright.ai/jobs/info/69c716a4e565c26a70025c9a?utm_campaign=1057&utm_source=git)** | Guelph, ON | On Site | Mar 27 |
+| **[Per Scholas](http://www.perscholas.org/)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69c710f71b5ad02887389ce0?utm_campaign=1057&utm_source=git)** | Bronx, NY | Hybrid | Mar 27 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Communications Student Assistantship, Office of Research, Innovation & Economic Development](https://jobright.ai/jobs/info/69c70fe11818a24cd84cb3f8?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Student Intern/Co-op](https://jobright.ai/jobs/info/69c70eadaa3c2c1995e14b37?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | Hybrid | Mar 27 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c70b3bb773006330b7555c?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 27 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c70b3ab773006330b7555a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 27 |
@@ -78,13 +82,13 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Adjunct Professor of John H. Mitchell Business of Entertainment Programs: Producing and Marketing Feature Length Films](https://jobright.ai/jobs/info/69c6ec7ee565c26a70023fe4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69a6690ae567421f425771b3?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Mar 27 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer, Data Science and Analytics/Management Information Systems - Department of Management](https://jobright.ai/jobs/info/69c706411b5ad02887389574?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
-| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c7065c83ea553769fdfd64?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c70643aa3c2c1995e14791?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
+| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c7065c83ea553769fdfd64?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | **[Spriggs Excavation, Inc.](https://seicivil.com/)** | **[Student Internship - Summer](https://jobright.ai/jobs/info/69c6e55a83ea553769fde8e9?utm_campaign=1057&utm_source=git)** | Durango, Colorado, United States | On Site | Mar 27 |
 | **[Fort Bend ISD](http://www.fortbendisd.com)** | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e558e565c26a70023c99?utm_campaign=1057&utm_source=git)** | ADMINISTRATION BUILDING16431 LEXINGTON BLVD. | On Site | Mar 27 |
 | ↳ | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e5551b5ad028873880dd?utm_campaign=1057&utm_source=git)** | TEXAS-SUGAR LAND | On Site | Mar 27 |
-| **[The New York Foundling](https://www.nyfoundling.org/)** | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e1467c?utm_campaign=1057&utm_source=git)** | US-NY-New York | Hybrid | Mar 27 |
-| ↳ | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c70153b773006330b7511a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Mar 27 |
+| **[The New York Foundling](https://www.nyfoundling.org/)** | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c70153b773006330b7511a?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Mar 27 |
+| ↳ | **[HIBH Undergraduate Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e1467c?utm_campaign=1057&utm_source=git)** | US-NY-New York | Hybrid | Mar 27 |
 | **[Boise State University](https://boisestate.edu)** | **[Lecturer - Poetry, Translation, and Creative Nonfiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e231b773006330b73b02?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Fiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c6e2281818a24cd84c9552?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Philosophy (Internal)](https://jobright.ai/jobs/info/69c6e2111818a24cd84c9543?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
@@ -129,32 +133,28 @@ For a complete list, click the following sortable link below:
 | **[Hudson Valley Credit Union](https://www.hvcu.org/)** | **[HVCU College Intern - IT Assurance](https://jobright.ai/jobs/info/69aa5fec1f59c56275e33bf0?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | ↳ | **[HVCU College Intern - IT Service Delivery](https://jobright.ai/jobs/info/69aabf31142d5b4265fc191a?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Mar 27 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Change Management and Learning Development Intern](https://jobright.ai/jobs/info/69aa22d09ca4e908ec656c55?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Mar 27 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/69c66e901818a24cd84c623f?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Galileo X - Daly City](https://jobright.ai/jobs/info/69c66e901818a24cd84c6240?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69c66e901818a24cd84c623e?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/69c66e901818a24cd84c623f?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/69c66e8baa3c2c1995e0fe11?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe09?utm_campaign=1057&utm_source=git)** | Rosemead, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Lafayette](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0d?utm_campaign=1057&utm_source=git)** | Lafayette, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Berkeley](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0c?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0b?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/69c66e83b773006330b7079a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Lafayette](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0d?utm_campaign=1057&utm_source=git)** | Lafayette, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Galileo X - Rosemead](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe09?utm_campaign=1057&utm_source=git)** | Rosemead, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Oakland - Rockridge](https://jobright.ai/jobs/info/69c66e83aa3c2c1995e0fe06?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Brentwood](https://jobright.ai/jobs/info/69c66e83b773006330b7079a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Alameda](https://jobright.ai/jobs/info/69c66e7c83ea553769fdb15c?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb157?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Sunnyvale](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb159?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69c66e7a83ea553769fdb157?utm_campaign=1057&utm_source=git)** | Burlingame, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, San Francisco Twin Peaks/Noe Valley](https://jobright.ai/jobs/info/69c66e79b773006330b70792?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Chicago - Lincoln Park](https://jobright.ai/jobs/info/69c66e78b773006330b70791?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Arlington Heights](https://jobright.ai/jobs/info/69c66e7483ea553769fdb150?utm_campaign=1057&utm_source=git)** | Arlington Heights, IL | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Venice/Mar Vista](https://jobright.ai/jobs/info/69c66e391b5ad028873848e4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Irvine - Loma Ridge](https://jobright.ai/jobs/info/69c66e361b5ad028873848e3?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Thousand Oaks/Westlake Village](https://jobright.ai/jobs/info/69c66e331b5ad028873848e2?utm_campaign=1057&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/69c66e321b5ad028873848df?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Oakland - Glenview](https://jobright.ai/jobs/info/69c66e321b5ad028873848da?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Denver - Wheat Ridge/Highland](https://jobright.ai/jobs/info/69c66e321b5ad028873848de?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Galileo X - Los Alamitos](https://jobright.ai/jobs/info/69c66e311b5ad028873848d9?utm_campaign=1057&utm_source=git)** | Los Alamitos, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Parker](https://jobright.ai/jobs/info/69c66e311b5ad028873848d8?utm_campaign=1057&utm_source=git)** | Parker, CO | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Bellevue](https://jobright.ai/jobs/info/69c66d7de565c26a7002074f?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Mar 27 |
+| ↳ | **[Summer Camp Intern, Westwood](https://jobright.ai/jobs/info/69c66e321b5ad028873848df?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
