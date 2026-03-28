@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07P-7:30A](https://jobright.ai/jobs/info/69c7de8d83ea553769fe7330?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 28 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Program Director for Academic Initiatives and Community Engagement](https://jobright.ai/jobs/info/69c4cf28d5a1016e98dc2d7d?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 28 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69c7db8e83ea553769fe720d?utm_campaign=1057&utm_source=git)** | Bozeman, MT | On Site | Mar 28 |
+| **[Real Property Management Miami Metro](https://www.rpmmiamimetro.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c7d6be1b5ad028873908a3?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 28 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69c7cb4a1b5ad028873901a1?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 28 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69c7c8a91b5ad02887390137?utm_campaign=1057&utm_source=git)** | Bethesda, MD | On Site | Mar 28 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69c616e283ea553769fd3cfb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 28 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c73e0583ea553769fe1ca7?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[BBG Ventures](http://www.bbgventures.com/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69c75d3683ea553769fe2948?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[UAS / SIGINT Instructor (Short-Term International Deployment)](https://jobright.ai/jobs/info/69c75d2f1818a24cd84cd8e3?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
-| ↳ | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c75d3683ea553769fe2947?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 27 |
 | ↳ | **[International Student Advising Specialist](https://jobright.ai/jobs/info/69c75d0faa3c2c1995e175fd?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
+| ↳ | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c75d3683ea553769fe2947?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Knowledge Development](https://jobright.ai/jobs/info/69c75d1fe565c26a70028087?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Leadership and Professional Development Services](https://jobright.ai/jobs/info/69c75d301818a24cd84cd8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69a6690ae567421f425771b3?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Mar 27 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/69c7b5d6aa3c2c1995e1a5c4?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Mar 27 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer, Data Science and Analytics/Management Information Systems - Department of Management](https://jobright.ai/jobs/info/69c706411b5ad02887389574?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
-| ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c70643aa3c2c1995e14791?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c7065c83ea553769fdfd64?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
+| ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c70643aa3c2c1995e14791?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | **[Spriggs Excavation, Inc.](https://seicivil.com/)** | **[Student Internship - Summer](https://jobright.ai/jobs/info/69c6e55a83ea553769fde8e9?utm_campaign=1057&utm_source=git)** | Durango, Colorado, United States | On Site | Mar 27 |
 | **[Fort Bend ISD](http://www.fortbendisd.com)** | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e558e565c26a70023c99?utm_campaign=1057&utm_source=git)** | ADMINISTRATION BUILDING16431 LEXINGTON BLVD. | On Site | Mar 27 |
 | ↳ | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e5551b5ad028873880dd?utm_campaign=1057&utm_source=git)** | TEXAS-SUGAR LAND | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Campus](http://campus.edu)** | **[Finance Teaching Assistant](https://jobright.ai/jobs/info/69c6d6c383ea553769fddd26?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 27 |
 | ↳ | **[IT Teaching Assistant](https://jobright.ai/jobs/info/69c6d6b983ea553769fddd12?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Psychology Intern](https://jobright.ai/jobs/info/69c6d0bc1b5ad0288738730d?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area | On Site | Mar 27 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Training & Outreach Intern (UNPAID)](https://jobright.ai/jobs/info/69c6ca0e83ea553769fdd8e5?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Training & Outreach Intern (UNPAID)](https://jobright.ai/jobs/info/69c6ca021818a24cd84c8932?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Mar 27 |
-| **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Education Intern - IHSMTA (May 2026)](https://jobright.ai/jobs/info/69c6c969aa3c2c1995e12029?utm_campaign=1057&utm_source=git)** | Des Moines, Iowa, United States | On Site | Mar 27 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Tenured: Professor and Department Head of Engineering Medicine Education](https://jobright.ai/jobs/info/69c6e0031818a24cd84c94ae?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
