@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
 | **[Real Property Management Miami Metro](https://www.rpmmiamimetro.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c727c5e565c26a700267bb?utm_campaign=1057&utm_source=git)** | Fairfax, VA | Hybrid | Mar 27 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69c727c1e565c26a700267ab?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Mar 27 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Graduate (Office of the County Executive / Board of Supervisors)](https://jobright.ai/jobs/info/69c727b6e565c26a70026757?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Mar 27 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lecturer - Poetry, Translation, and Creative Nonfiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c707f3aa3c2c1995e1488f?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Fiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c707b5e565c26a7002529c?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Philosophy (Internal)](https://jobright.ai/jobs/info/69c707b0e565c26a70025298?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
+| **[University of New England](http://www.une.edu)** | **[Assistant Director of Graduate & Professional Financial Aid](https://jobright.ai/jobs/info/69c732dcb773006330b76e62?utm_campaign=1057&utm_source=git)** | Cumberland County, ME | On Site | Mar 27 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Education Intern - IHSMTA (May 2026)](https://jobright.ai/jobs/info/69c72202b773006330b764b6?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c702a51818a24cd84ca88e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer/Senior Lecturer in Biomedical Engineering](https://jobright.ai/jobs/info/69c70127aa3c2c1995e144d7?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Mar 27 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Adjunct Professor of John H. Mitchell Business of Entertainment Programs: Producing and Marketing Feature Length Films](https://jobright.ai/jobs/info/69c6ec7ee565c26a70023fe4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69a6690ae567421f425771b3?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Mar 27 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer, Data Science and Analytics/Management Information Systems - Department of Management](https://jobright.ai/jobs/info/69c706411b5ad02887389574?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
-| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c7065c83ea553769fdfd64?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c70643aa3c2c1995e14791?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
+| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c7065c83ea553769fdfd64?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 27 |
 | **[Spriggs Excavation, Inc.](https://seicivil.com/)** | **[Student Internship - Summer](https://jobright.ai/jobs/info/69c6e55a83ea553769fde8e9?utm_campaign=1057&utm_source=git)** | Durango, Colorado, United States | On Site | Mar 27 |
 | **[Fort Bend ISD](http://www.fortbendisd.com)** | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e558e565c26a70023c99?utm_campaign=1057&utm_source=git)** | ADMINISTRATION BUILDING16431 LEXINGTON BLVD. | On Site | Mar 27 |
 | ↳ | **[Student Intern Organizational Development - Part Time](https://jobright.ai/jobs/info/69c6e5551b5ad028873880dd?utm_campaign=1057&utm_source=git)** | TEXAS-SUGAR LAND | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69c66e901818a24cd84c623e?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Manhattan Beach](https://jobright.ai/jobs/info/69c66e901818a24cd84c623f?utm_campaign=1057&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Walnut Creek](https://jobright.ai/jobs/info/69c66e8baa3c2c1995e0fe11?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Evanston](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0b?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, North San Francisco](https://jobright.ai/jobs/info/69c66e88aa3c2c1995e0fe0a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
