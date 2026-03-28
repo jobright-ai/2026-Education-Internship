@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2026-27 Tutor-Bilingual-Irish Bilingual Elementary School](https://jobright.ai/jobs/info/69c7761fb773006330b78e96?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Mar 27 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c77605aa3c2c1995e1858a?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Mar 27 |
 | ↳ | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c775ba83ea553769fe385e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| ↳ | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c7683e83ea553769fe3061?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
+| **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/69c7892083ea553769fe4893?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Mar 27 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c7683e83ea553769fe3061?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Unpaid COH Student Intern](https://jobright.ai/jobs/info/69c76827aa3c2c1995e17d28?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
 | **[San Jose Behavioral Health Hospital](https://www.sanjosebh.com)** | **[MSW Internship / Practicum Opportunity – Inpatient Behavioral Health](https://jobright.ai/jobs/info/69c7817c1818a24cd84cf548?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[The RMC Group of Companies](https://rmcgroup.com )** | **[Administrative Coordinator - Student Opportunity](https://jobright.ai/jobs/info/69c766feb773006330b78609?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Mar 27 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c73e0583ea553769fe1ca7?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[BBG Ventures](http://www.bbgventures.com/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69c75d3683ea553769fe2948?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[UAS / SIGINT Instructor (Short-Term International Deployment)](https://jobright.ai/jobs/info/69c75d2f1818a24cd84cd8e3?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
-| ↳ | **[International Student Advising Specialist](https://jobright.ai/jobs/info/69c75d0faa3c2c1995e175fd?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
 | ↳ | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c75d3683ea553769fe2947?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 27 |
+| ↳ | **[International Student Advising Specialist](https://jobright.ai/jobs/info/69c75d0faa3c2c1995e175fd?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Leadership and Professional Development Services](https://jobright.ai/jobs/info/69c75d301818a24cd84cd8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Knowledge Development](https://jobright.ai/jobs/info/69c75d1fe565c26a70028087?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/69bbac7f3b74eb1e2c8a29e1?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Mar 27 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Learning Specialist - Fall 2026 (Internship)](https://jobright.ai/jobs/info/69c6a59b83ea553769fdc4e5?utm_campaign=1057&utm_source=git)** | Wilton, CT, USA | On Site | Mar 27 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/69be28dd482822729300e340?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | Mar 27 |
-| **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69b83b1206c1ba00c549fcce?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
