@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Construction](https://bakerconstruction.com)** | **[Intern / Internship and Co-op](https://jobright.ai/jobs/info/69c7af2f1b5ad0288738f123?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Mar 28 |
+| **[University of Southern California](http://www.usc.edu)** | **[Hazing Prevention & Leadership Development Coordinator](https://jobright.ai/jobs/info/69ab07747e1fab39d3829660?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Partner Training & Enablement Intern](https://jobright.ai/jobs/info/69ab698f142d5b4265fca29b?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/69ab321d142d5b4265fc77c7?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 28 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Summer Research Intern St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69c79b22aa3c2c1995e19780?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | Mar 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69c7986cb773006330b7a331?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c73e0583ea553769fe1ca7?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 27 |
 | **[BBG Ventures](http://www.bbgventures.com/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69c75d3683ea553769fe2948?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[UAS / SIGINT Instructor (Short-Term International Deployment)](https://jobright.ai/jobs/info/69c75d2f1818a24cd84cd8e3?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
-| ↳ | **[International Student Advising Specialist](https://jobright.ai/jobs/info/69c75d0faa3c2c1995e175fd?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
 | ↳ | **[Associate Provost for International Education & Global Programs](https://jobright.ai/jobs/info/69c75d3683ea553769fe2947?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 27 |
+| ↳ | **[International Student Advising Specialist](https://jobright.ai/jobs/info/69c75d0faa3c2c1995e175fd?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Knowledge Development](https://jobright.ai/jobs/info/69c75d1fe565c26a70028087?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Leadership and Professional Development Services](https://jobright.ai/jobs/info/69c75d301818a24cd84cd8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Communications Student Assistantship, Office of Research, Innovation & Economic Development](https://jobright.ai/jobs/info/69c70fe11818a24cd84cb3f8?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Student Intern/Co-op](https://jobright.ai/jobs/info/69c70eadaa3c2c1995e14b37?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | Hybrid | Mar 27 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c70b3bb773006330b7555c?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 27 |
-| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c70b3ab773006330b7555a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 27 |
 | **[Community Health Network](https://www.ecommunity.com/)** | **[Intern - Marion University Partnership](https://jobright.ai/jobs/info/69c70ad61b5ad028873897d1?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Mar 27 |
 | **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[International Admissions Counselor](https://jobright.ai/jobs/info/69c7290c1b5ad0288738ac74?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Mar 27 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Lecturer - Sociology (Internal)](https://jobright.ai/jobs/info/69c708061818a24cd84cae0f?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Project Coordinator- School of Education, CECH-IT](https://jobright.ai/jobs/info/69c70f34e565c26a70025936?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/69c6e2461b5ad02887387cb9?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Mar 27 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Content Intern, Math ($42/hour; 40 hours/week; 8 weeks, Summer 2026)](https://jobright.ai/jobs/info/69ab09362747003c3d50af1c?utm_campaign=1057&utm_source=git)** | Mountain View, HI | Remote | Mar 27 |
-| **[Wellspring Learning Centers](https://wellspringlearningcenters.com/)** | **[Summer Internship application](https://jobright.ai/jobs/info/69c6b1ca1818a24cd84c7b22?utm_campaign=1057&utm_source=git)** | Nashville | On Site | Mar 27 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69c6dea0e565c26a70023798?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Mar 27 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[SEVIS Records Coordinator & Student Engagement Advisor](https://jobright.ai/jobs/info/6938ea77b95c305f206e2bb9?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
