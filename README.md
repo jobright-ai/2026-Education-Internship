@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/69bbac7f3b74eb1e2c8a29e1?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Mar 27 |
 | **[ASML](https://www.asml.com)** | **[Co-op - Learning Specialist - Fall 2026 (Internship)](https://jobright.ai/jobs/info/69c6a59b83ea553769fdc4e5?utm_campaign=1057&utm_source=git)** | Wilton, CT, USA | On Site | Mar 27 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/69be28dd482822729300e340?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | Mar 27 |
+| **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69b83b1206c1ba00c549fcce?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Mar 27 |
 | **[FIRST](https://firstagency.com/)** | **[Learning & Development Digital Intern](https://jobright.ai/jobs/info/69c695db1b5ad028873854ac?utm_campaign=1057&utm_source=git)** | FIRST - New York | On Site | Mar 27 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025622](https://jobright.ai/jobs/info/69b44c283b74eb1e2c8182a9?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Mar 27 |
 | **[BBG Ventures](http://www.bbgventures.com/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69c6b339e565c26a70021ef8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Change Management and Learning Development Intern](https://jobright.ai/jobs/info/69aa22d09ca4e908ec656c55?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Mar 27 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Denver - Platt Park](https://jobright.ai/jobs/info/69c66e911818a24cd84c6244?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | ↳ | **[Summer Camp Intern, Los Feliz](https://jobright.ai/jobs/info/69c66e911818a24cd84c6245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
-| ↳ | **[Summer Camp Intern, Culver City](https://jobright.ai/jobs/info/69c66e901818a24cd84c623e?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
