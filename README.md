@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Curriculum & Instruction Intern (Unpaid)](https://jobright.ai/jobs/info/69bcce70e6a0d9792584e984?utm_campaign=1057&utm_source=git)** | Elizabeth, NJ | On Site | Mar 29 |
 | **[Taboos](https://taboos.app/quiz)** | **[Taboos Internship](https://jobright.ai/jobs/info/69c89822aa3c2c1995e1f601?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Real Property Management Metro Boston](http://www.rpmMetroBoston.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aed1b5ad02887393a3a?utm_campaign=1057&utm_source=git)** | Fairfax, VA | Hybrid | Mar 28 |
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aea1b5ad02887393a39?utm_campaign=1057&utm_source=git)** | Alexandria, VA | Hybrid | Mar 28 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c851d61b5ad02887392db7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
 | ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c8517d1818a24cd84d4483?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
-| ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Pennsylvania resident](https://jobright.ai/jobs/info/69c81bcf1818a24cd84d35cc?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69c8176b1818a24cd84d34f0?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Mar 28 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Lecturer - Fiction, Creative Writing and First Year Writing (Internal)](https://jobright.ai/jobs/info/69c707b5e565c26a7002529c?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | ↳ | **[Lecturer - Philosophy (Internal)](https://jobright.ai/jobs/info/69c707b0e565c26a70025298?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 27 |
 | **[University of New England](http://www.une.edu)** | **[Assistant Director of Graduate & Professional Financial Aid](https://jobright.ai/jobs/info/69c732dcb773006330b76e62?utm_campaign=1057&utm_source=git)** | Cumberland County, ME | On Site | Mar 27 |
-| **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Education Intern - IHSMTA (May 2026)](https://jobright.ai/jobs/info/69c72202b773006330b764b6?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
