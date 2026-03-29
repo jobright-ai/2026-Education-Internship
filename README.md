@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taboos](https://taboos.app/quiz)** | **[Taboos Internship](https://jobright.ai/jobs/info/69c89822aa3c2c1995e1f601?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Real Property Management Metro Boston](http://www.rpmMetroBoston.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aed1b5ad02887393a3a?utm_campaign=1057&utm_source=git)** | Fairfax, VA | Hybrid | Mar 28 |
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aea1b5ad02887393a39?utm_campaign=1057&utm_source=git)** | Alexandria, VA | Hybrid | Mar 28 |
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c878d51b5ad028873935d5?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 28 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c85426e565c26a7002ec6a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c8529083ea553769fe95e9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c851d61b5ad02887392db7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
+| ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c851d61b5ad02887392db7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
 | ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c8517d1818a24cd84d4483?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
@@ -96,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellows Year Intern, Inpatient Rehab, Part Time 20 Hours](https://jobright.ai/jobs/info/69c7c7661818a24cd84d1816?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Mar 28 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69c08db979e36d3a847cd2ad?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 28 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/69c7c35faa3c2c1995e1ac5f?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Mar 28 |
+| **[Central Vermont Refugee Action Network](www.cvran.org)** | **[Summer Intern: Immigrant Youth Programming](https://jobright.ai/jobs/info/69c8938883ea553769fea5eb?utm_campaign=1057&utm_source=git)** | Burlington, VT | Hybrid | Mar 28 |
 | **[Baker Construction](https://bakerconstruction.com)** | **[Intern / Internship and Co-op](https://jobright.ai/jobs/info/69c7af2f1b5ad0288738f123?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Mar 28 |
 | **[University of Southern California](http://www.usc.edu)** | **[Hazing Prevention & Leadership Development Coordinator](https://jobright.ai/jobs/info/69ab07747e1fab39d3829660?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Education Intern - IHSMTA (May 2026)](https://jobright.ai/jobs/info/69c72202b773006330b764b6?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer/Senior Lecturer in Biomedical Engineering](https://jobright.ai/jobs/info/69c70127aa3c2c1995e144d7?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Mar 27 |
 | **[EmBe](https://www.embe.org)** | **[Womens Program Intern](https://jobright.ai/jobs/info/69c700871b5ad02887389016?utm_campaign=1057&utm_source=git)** | SIOUX FALLS, SD 57104 | On Site | Mar 27 |
-| **[Wright State University](http://www.wright.edu/)** | **[Academic Program Coordinator](https://jobright.ai/jobs/info/69c6fcf6aa3c2c1995e1412f?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
