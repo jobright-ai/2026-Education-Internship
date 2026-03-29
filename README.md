@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c85426e565c26a7002ec6a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c8529083ea553769fe95e9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c851d61b5ad02887392db7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
 | ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c8517d1818a24cd84d4483?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
-| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Pennsylvania resident](https://jobright.ai/jobs/info/69c81bcf1818a24cd84d35cc?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69c8176b1818a24cd84d34f0?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Mar 28 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 28 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer 2026 Intern - Insurance](https://jobright.ai/jobs/info/69745483206da320f49e8ea4?utm_campaign=1057&utm_source=git)** | Chesterfield, MO | Hybrid | Mar 28 |
 | **[Boys & Girls Clubs of the Sioux Empire](https://www.bgcsiouxempire.org/)** | **[Summer Youth Development Specialist](https://jobright.ai/jobs/info/69c828ba83ea553769fe8c25?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Mar 28 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Mar 28 |
-| **[Taboos](https://taboos.app/quiz)** | **[Taboos Internship](https://jobright.ai/jobs/info/69c803f2aa3c2c1995e1c9ad?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Miaplaza, Inc.](https://miacademy.co)** | **[2026 Summer Intern: Instructional Design/Curriculum & Instruction](https://jobright.ai/jobs/info/699040ca6ea51a7610f2cba9?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Content Intern, Social Studies ($42/hour; 40 hours/week; 8 weeks, Summer 2026)](https://jobright.ai/jobs/info/69ab090a2747003c3d50aed8?utm_campaign=1057&utm_source=git)** | Mountain View, HI | Remote | Mar 28 |
 | ↳ | **[Content Intern, ELA ($42/hour; 40 hours/week; 8 weeks, Summer 2026)](https://jobright.ai/jobs/info/69ab0d6e2747003c3d50b195?utm_campaign=1057&utm_source=git)** | Mountain View, HI | Remote | Mar 28 |
