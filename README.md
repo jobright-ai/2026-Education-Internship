@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering- 28362](https://jobright.ai/jobs/info/69c9846fe565c26a700358e4?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Mar 29 |
 | **[Lyons Elementary School District 103](http://www.sd103.com)** | **[Elementary School Secretary](https://jobright.ai/jobs/info/69c961a383ea553769fefd1c?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Mar 29 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/69c95f2783ea553769fefcd7?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Mar 29 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Specialized Faculty (Open Rank, Non-Tenure Track) - Department of Finance](https://jobright.ai/jobs/info/69a66df12c0d8b0f5cd08ccc?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 29 |
@@ -74,14 +75,13 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c9145183ea553769fee788?utm_campaign=1057&utm_source=git)** | Indiana County, PA | On Site | Mar 29 |
 | ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91426aa3c2c1995e2305d?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91426aa3c2c1995e2305c?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | Mar 29 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91406e565c26a70033ac9?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Mar 29 |
 | ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91406e565c26a70033acb?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c62?utm_campaign=1057&utm_source=git)** | Lehigh County, PA | On Site | Mar 29 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c61?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91406e565c26a70033ac9?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c60?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 29 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c61?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c62?utm_campaign=1057&utm_source=git)** | Lehigh County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c913fa1b5ad02887397d4d?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c913f71b5ad02887397d38?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 29 |
-| ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c913f31b5ad02887397d33?utm_campaign=1057&utm_source=git)** | Blair County, PA | On Site | Mar 29 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Mar 29 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69c909cdaa3c2c1995e22c10?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Mar 29 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Mar 29 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c878d51b5ad028873935d5?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 28 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c85426e565c26a7002ec6a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
-| ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
+| ↳ | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Pennsylvania resident](https://jobright.ai/jobs/info/69c81bcf1818a24cd84d35cc?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 28 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Mar 28 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Clinical Informatics Education Intern](https://jobright.ai/jobs/info/69043534d64a22104aa98191?utm_campaign=1057&utm_source=git)** | Greenville, NC | Hybrid | Mar 28 |
