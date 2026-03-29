@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c8529083ea553769fe95e9?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c851d61b5ad02887392db7?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
+| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
+| ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c8517d1818a24cd84d4483?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Pennsylvania resident](https://jobright.ai/jobs/info/69c81bcf1818a24cd84d35cc?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 28 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69c7cb4a1b5ad028873901a1?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Mar 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellows Year Intern, Inpatient Rehab, Part Time 20 Hours](https://jobright.ai/jobs/info/69c7c7661818a24cd84d1816?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Mar 28 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69c08db979e36d3a847cd2ad?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Mar 28 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69c7c5011818a24cd84d12de?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Mar 28 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Kentucky](https://jobright.ai/jobs/info/69c7c35faa3c2c1995e1ac5f?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Mar 28 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69c3684b94007a2195dfd851?utm_campaign=1057&utm_source=git)** | Meridian, ID | On Site | Mar 28 |
 | **[Baker Construction](https://bakerconstruction.com)** | **[Intern / Internship and Co-op](https://jobright.ai/jobs/info/69c7af2f1b5ad0288738f123?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Mar 28 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Product Training Intern](https://jobright.ai/jobs/info/69c7402d1818a24cd84ccd68?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Mar 27 |
 | **[BBG Ventures](http://www.bbgventures.com/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69c75d3683ea553769fe2948?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[UAS / SIGINT Instructor (Short-Term International Deployment)](https://jobright.ai/jobs/info/69c75d2f1818a24cd84cd8e3?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
-| ↳ | **[Summer Intern (PAID), Knowledge Development](https://jobright.ai/jobs/info/69c75d1fe565c26a70028087?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | ↳ | **[Summer Intern (PAID), Leadership and Professional Development Services](https://jobright.ai/jobs/info/69c75d301818a24cd84cd8e5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| ↳ | **[Summer Intern (PAID), Knowledge Development](https://jobright.ai/jobs/info/69c75d1fe565c26a70028087?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[**Registered Nurse Internship Opportunity L&D FT Night**](https://jobright.ai/jobs/info/69c7def51b5ad02887390be3?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 27 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Mar 27 |
 | **[Real Property Management Miami Metro](https://www.rpmmiamimetro.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c727c5e565c26a700267bb?utm_campaign=1057&utm_source=git)** | Fairfax, VA | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Learning & Instructional Design Internship (Summer)](https://jobright.ai/jobs/info/69c6f86f1b5ad02887388d82?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69c6f3b583ea553769fdf379?utm_campaign=1057&utm_source=git)** | Bronx, New York, United States | On Site | Mar 27 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Intern](https://jobright.ai/jobs/info/69c6f2b8e565c26a70024205?utm_campaign=1057&utm_source=git)** | OSU Health Plan | On Site | Mar 27 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant Professor - Information Systems, Operations Management, Supply Chain Management, and Busin](https://jobright.ai/jobs/info/69c6ee39e565c26a7002407e?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 27 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Fall Intern / Sanford Sports Performance](https://jobright.ai/jobs/info/69c6ecb91b5ad02887388489?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Mar 27 |
-| **[University of Southern California](http://www.usc.edu)** | **[Adjunct Professor of John H. Mitchell Business of Entertainment Programs: Producing and Marketing Feature Length Films](https://jobright.ai/jobs/info/69c6ec7ee565c26a70023fe4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
