@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c9a3c4aa3c2c1995e27351?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
+| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c9a29eaa3c2c1995e2733f?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 29 |
+| ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69c9a186e565c26a70037ddc?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 29 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer, Data Science and Analytics/Management Information Systems - Department of Management](https://jobright.ai/jobs/info/69c99663b773006330b87d3e?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 29 |
 | **[Western Illinois University](http://www.wiu.edu/)** | **[Assistant Professor of Supply Chain & Analytics](https://jobright.ai/jobs/info/69c98ef9aa3c2c1995e26e13?utm_campaign=1057&utm_source=git)** | Macomb, IL | On Site | Mar 29 |
 | ↳ | **[Assistant Professor of Supply Chain & Analytics](https://jobright.ai/jobs/info/69c98ea81b5ad0288739ba9d?utm_campaign=1057&utm_source=git)** | Macomb, IL | On Site | Mar 29 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Specialized Faculty (Open Rank, Non-Tenure Track) - Department of Finance](https://jobright.ai/jobs/info/69a66df12c0d8b0f5cd08ccc?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 29 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69c94ff5aa3c2c1995e2423e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 29 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Graduate (Office of the County Executive / Board of Supervisors)](https://jobright.ai/jobs/info/69c9430baa3c2c1995e24064?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Mar 29 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69c94305aa3c2c1995e24046?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Mar 29 |
 | **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69c942ef1b5ad02887398cea?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Mar 29 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69c9406fe565c26a70034c05?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Mar 29 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Admissions Counselor](https://jobright.ai/jobs/info/69c9324baa3c2c1995e23ae2?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Mar 29 |
@@ -76,13 +78,12 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Speech Clinical Fellows Year Intern, Inpatient Rehab, Part Time 20 Hours](https://jobright.ai/jobs/info/69c93af1b773006330b84899?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Mar 29 |
 | **[Evidence Action](https://www.evidenceaction.org/)** | **[Graduate Student Intern, New Program Development](https://jobright.ai/jobs/info/69c4e5496f4f855eeda7a088?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Mar 29 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c9145183ea553769fee788?utm_campaign=1057&utm_source=git)** | Indiana County, PA | On Site | Mar 29 |
-| ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91426aa3c2c1995e2305d?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91426aa3c2c1995e2305c?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | Mar 29 |
-| ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91406e565c26a70033acb?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91406e565c26a70033ac9?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Mar 29 |
+| ↳ | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91406e565c26a70033acb?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c60?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c62?utm_campaign=1057&utm_source=git)** | Lehigh County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c61?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c60?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c913fa1b5ad02887397d4d?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c913f71b5ad02887397d38?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Mar 29 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Mar 29 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Real Property Management Metro Boston](http://www.rpmMetroBoston.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aed1b5ad02887393a3a?utm_campaign=1057&utm_source=git)** | Fairfax, VA | Hybrid | Mar 28 |
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c87aea1b5ad02887393a39?utm_campaign=1057&utm_source=git)** | Alexandria, VA | Hybrid | Mar 28 |
 | ↳ | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c878d51b5ad028873935d5?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 28 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c85426e565c26a7002ec6a?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 28 |
-| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c8518883ea553769fe95e3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 28 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Mar 28 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c89?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | ↳ | **[Lecturer - Department of Marketing](https://jobright.ai/jobs/info/69c8303b1818a24cd84d3c8a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Mar 28 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Pennsylvania resident](https://jobright.ai/jobs/info/69c81bcf1818a24cd84d35cc?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c7683e83ea553769fe3061?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
 | **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Unpaid COH Student Intern](https://jobright.ai/jobs/info/69c76827aa3c2c1995e17d28?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
 | **[San Jose Behavioral Health Hospital](https://www.sanjosebh.com)** | **[MSW Internship / Practicum Opportunity – Inpatient Behavioral Health](https://jobright.ai/jobs/info/69c7817c1818a24cd84cf548?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
-| **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Secondary Math Intervention Data Specialist 2026-2027 School Year (4515)](https://jobright.ai/jobs/info/69c8a731b773006330b8079f?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
