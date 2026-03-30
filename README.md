@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Infection Prevention Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69ca6cbeaa3c2c1995e2cca4?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Mar 30 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69ca5833aa3c2c1995e2c350?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 30 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Mar 30 |
 | **[AAIDD](http://aaidd.org/)** | **[Postdoctoral Researcher (KUCD)](https://jobright.ai/jobs/info/69ca4998e565c26a7003caed?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Mar 30 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Graduate - Education Research](https://jobright.ai/jobs/info/69ca393cb773006330b8c07b?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Remote | Mar 29 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Adult Education Internship - Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69bc86784828227293fe64e7?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Mar 29 |
 | **[Real Property Management Miami Metro](https://www.rpmmiamimetro.com)** | **[Assistant Property Readiness Coordinator (Entry Level)](https://jobright.ai/jobs/info/69c9ca591b5ad0288739c838?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Mar 29 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[College Advisor, College of Health and Human Development (Student Services Professional II)](https://jobright.ai/jobs/info/69ca6e291b5ad028873a17ba?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Mar 29 |
+| ↳ | **[Part - Time Instructor for Specialize Training, Business Development - DWED - FY 2026](https://jobright.ai/jobs/info/69ca6e90e565c26a7003d724?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Mar 29 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69c9b056b773006330b884da?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
 | ↳ | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69c9a3c4aa3c2c1995e27351?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Mar 29 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69c9a29eaa3c2c1995e2733f?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Mar 29 |
@@ -90,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance Animal Health](https://allianceanimal.com/)** | **[New Graduate Veterinarian Accelerated ER Internship & Placement Program](https://jobright.ai/jobs/info/6990f3d50cc8ea15f1dba2f0?utm_campaign=1057&utm_source=git)** | Blue Ridge, GA | On Site | Mar 29 |
 | **[Evidence Action](https://www.evidenceaction.org/)** | **[Graduate Student Intern, New Program Development](https://jobright.ai/jobs/info/69c4e5496f4f855eeda7a088?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Mar 29 |
 | **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Internship](https://jobright.ai/jobs/info/68cbc4029e3a822f5d24b943?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 29 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Extension Dairy Team Summer 2026 Intern](https://jobright.ai/jobs/info/69c91406e565c26a70033acb?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | Mar 29 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c60?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 29 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c91405b773006330b83c60?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Mar 29 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69c913fa1b5ad02887397d4d?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Mar 29 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69ca2c781818a24cd84e12af?utm_campaign=1057&utm_source=git)** | Pocatello, ID | On Site | Mar 29 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69ca21431b5ad0288739ebfa?utm_campaign=1057&utm_source=git)** | Hyattsville, MD | On Site | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/69c7892083ea553769fe4893?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Mar 27 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69a9e64e9ca4e908ec652a92?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern (HUB Internship Program)](https://jobright.ai/jobs/info/69c7683e83ea553769fe3061?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
-| **[City of Huntsville, AL](https://www.huntsvilleal.gov/)** | **[Unpaid COH Student Intern](https://jobright.ai/jobs/info/69c76827aa3c2c1995e17d28?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
-| **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Elementary Math Intervention/Data Specialist 2026-2027 School Year (8103)](https://jobright.ai/jobs/info/69ca077c83ea553769ff4a91?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
