@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sarasota County Sheriff's Office](www.SarasotaSheriff.org)** | **[Student Internship - Summer 2026](https://jobright.ai/jobs/info/69cb438d466f1e133aacc56f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Mar 30 |
 | **[CBRE](https://www.cbre.com)** | **[GWS - PJM - Training Program Intern](https://jobright.ai/jobs/info/69cb3b878fc6090c5d45622d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advising Lead](https://jobright.ai/jobs/info/69cb3a88aa3c2c1995e3533e?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Mar 30 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Mar 30 |
@@ -156,6 +157,5 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Mar 30 |
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Physician - Internal Medicine - Nephrology - Chicago](https://jobright.ai/jobs/info/69ca323d1818a24cd84e1841?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69ca2cf01b5ad0288739f9ba?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Mar 30 |
 | **[FIRST](https://firstagency.com/)** | **[Learning & Development Design Intern](https://jobright.ai/jobs/info/69ca2463aa3c2c1995e2a326?utm_campaign=1057&utm_source=git)** | FIRST - New York | On Site | Mar 30 |
-| **[The Emerge Center](https://emergela.org/)** | **[Camp Counselor (Summer Intern)](https://jobright.ai/jobs/info/69ca9d58a8c1822476e1e37d?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Mar 29 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern-Graduate - Education Research](https://jobright.ai/jobs/info/69ca393d1818a24cd84e1a1e?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Remote | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
