@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Mar 31 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Mar 31 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2026-27 Tutor-Riffenburgh Elementary School](https://jobright.ai/jobs/info/69cb835ee565c26a70048baa?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Mar 31 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Research Intern](https://jobright.ai/jobs/info/699689b481476f6176ae6697?utm_campaign=1057&utm_source=git)** | Doylestown, PA | On Site | Mar 31 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Internship and Education Programs, One Summer Chicago Cohort Conductor Intern](https://jobright.ai/jobs/info/69cb7dc2466f1e133aaced09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
@@ -156,6 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Mar 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Hybrid Visiting Professor of International Business](https://jobright.ai/jobs/info/69ca842eaa3c2c1995e2d65f?utm_campaign=1057&utm_source=git)** | San Jose, CA | Hybrid | Mar 30 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Director, Reichard Real Estate Academy](https://jobright.ai/jobs/info/69b22cf065de58104c71a181?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Orientation Leader for International Student Orientation Programs](https://jobright.ai/jobs/info/69ca841ce565c26a7003e04c?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Mar 30 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[The Grainger College of Engineering: Teaching Faculty (Open Rank) - Bioengineering](https://jobright.ai/jobs/info/69b26ffea8ac8e70ff665654?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 30 |
-| ↳ | **[Specialized Faculty (Open Rank, Non-Tenure Track) - Department of Finance - Real Estate](https://jobright.ai/jobs/info/69b7772706c1ba00c5492ba2?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
