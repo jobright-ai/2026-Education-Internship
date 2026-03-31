@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69caee1ba8c1822476e21d41?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Mar 30 |
 | **[Healthfirst](https://healthfirst.org)** | **[2026 Summer Internship - Nursing Intern](https://jobright.ai/jobs/info/69bb35665697383741413055?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 30 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69cae77b8fc6090c5d452996?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Mar 30 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69cae74eaa3c2c1995e31b66?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Mar 30 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 30 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Mar 30 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Mar 30 |
@@ -158,4 +157,5 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Mar 30 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69ca2cf01b5ad0288739f9ba?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Mar 30 |
 | **[FIRST](https://firstagency.com/)** | **[Learning & Development Design Intern](https://jobright.ai/jobs/info/69ca2463aa3c2c1995e2a326?utm_campaign=1057&utm_source=git)** | FIRST - New York | On Site | Mar 30 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern-Graduate - Education Research](https://jobright.ai/jobs/info/69ca393d1818a24cd84e1a1e?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Remote | Mar 29 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Graduate - Education Research](https://jobright.ai/jobs/info/69ca393cb773006330b8c07b?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Remote | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
