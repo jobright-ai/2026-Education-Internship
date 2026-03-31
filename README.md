@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Bank & Trust](http://www.ubt.com)** | **[529 Training-Internship Program Mgr-Officer](https://jobright.ai/jobs/info/69cb29568fc6090c5d455755?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Mar 30 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69be07c8393a1008f743e0b3?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Playground Assistant - Glen Yermo Elementary, 10:20 AM-1:49 PM](https://jobright.ai/jobs/info/69cb23ad466f1e133aacb4a2?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Mar 30 |
 | **[WSRE](https://www.wsre.org)** | **[Academic Administrative Assistant, Natural Sciences](https://jobright.ai/jobs/info/69cb21eaa8c1822476e2454a?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Mar 30 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 30 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimedia Specialist- EN](https://jobright.ai/jobs/info/69cb1f06aa3c2c1995e34325?utm_campaign=1057&utm_source=git)** | Montreal, QC | On Site | Mar 30 |
@@ -155,7 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Mar 30 |
 | **[PRACTICE](https://practicebc.com/)** | **[High School Science Intern](https://jobright.ai/jobs/info/69cabdbdaa3c2c1995e2fc16?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Mar 29 |
 | ↳ | **[Bilingual Spanish Instructional Intern](https://jobright.ai/jobs/info/69cab979aa3c2c1995e2f86b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Mar 29 |
 | **[Virginia Beach City Public Schools](https://www.vbschools.com)** | **[School Administrative Associate I](https://jobright.ai/jobs/info/69caecdb466f1e133aac8bb9?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Mar 29 |
-| **[California Franchise Tax Board](https://www.ftb.ca.gov)** | **[Student Assistant of Database Support Unit C](https://jobright.ai/jobs/info/69cb07e3e565c26a70043f7b?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
-| **[North Carolina Agricultural and Technical State University](http://www.ncat.edu)** | **[Associate Dean for Research and Academic Operations](https://jobright.ai/jobs/info/69cb156e466f1e133aacac24?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Mar 29 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[College Advisor, College of Health and Human Development (Student Services Professional II)](https://jobright.ai/jobs/info/69ca6e291b5ad028873a17ba?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
