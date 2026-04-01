@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Bilingual Clinical Intern - Summer 2026](https://jobright.ai/jobs/info/69cce92f366bb95ba54f80f7?utm_campaign=1057&utm_source=git)** | Fairview Heights, IL | On Site | Apr 01 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69ccdff5891d7b11cfcb4eea?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69ccdec4cdb525785fb83d5f?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Apr 01 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/69ccdb3b366bb95ba54f7b50?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 01 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69ccd8d6398fb071abf70deb?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Graduate Pharmacy Intern](https://jobright.ai/jobs/info/69ccd10154f00230c6cea688?utm_campaign=1057&utm_source=git)** | Puyallup, Washington | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69cc08b8366bb95ba54ed2ca?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | On Site | Mar 31 |
 | **[Butler University - Doctor of Medical Science (DMS) programs](www.butler.edu/dms)** | **[Doctoral Psychology Intern](https://jobright.ai/jobs/info/69cc089a8130af1ac83362bb?utm_campaign=1057&utm_source=git)** | 530 W 49th St, Indianapolis, IN, 46208, US | On Site | Mar 31 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student/Intern/Co-op – Medical & Practice Assistant](https://jobright.ai/jobs/info/69cc088ccfdc6132f9409f0c?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Mar 31 |
-| **[Tennessee Department of Correction](https://www.tn.gov/correction)** | **[TDOC 2026 REHABILITATIVE SERVICES INTERNSHIP-SUMMER-INTERNSHIP-03102026-75956](https://jobright.ai/jobs/info/69cc6f2d8130af1ac83386e8?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Mar 31 |
-| **[Penn State University](http://psu.edu)** | **[Marketing Educator Summer Intern](https://jobright.ai/jobs/info/69cc53aecfdc6132f940baa6?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Mar 31 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant/Associate Professor in User Experience and User Interface Design (Tenure-Track)](https://jobright.ai/jobs/info/69b4fbff06c1ba00c5469a4f?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
