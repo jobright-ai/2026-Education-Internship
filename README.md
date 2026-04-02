@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.Law](https://d.law)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69ce3787366bb95ba55090e6?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Apr 02 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Outdoor Pursuits Program Manager](https://jobright.ai/jobs/info/69ce2fd3891d7b11cfcc5e44?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 02 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69ce23cfcfdc6132f9424f6a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Apr 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e5ca79e36d3a847ef36b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69cdf7e4cfdc6132f94232c4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[District School Board Ontario North East](https://www.dsb1.ca)** | **[Elementary School Secretary (1.0 FTE - Temporary)](https://jobright.ai/jobs/info/69cdb570891d7b11cfcbf09e?utm_campaign=1057&utm_source=git)** | Timmins, ON | On Site | Apr 01 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdec82366bb95ba55047fd?utm_campaign=1057&utm_source=git)** | Greater Houston | Remote | Apr 01 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Financial Services Intern (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/69cdfbc5398fb071abf80293?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 01 |
+| **[Walden Security](http://www.waldensecurity.com)** | **[Training Intern - Federal Services Division (FSD): Chattanooga, TN](https://jobright.ai/jobs/info/69ce350acdb525785fb95011?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Product Training Intern](https://jobright.ai/jobs/info/69cdb0c3398fb071abf7b531?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Replication Program Intern](https://jobright.ai/jobs/info/69cdf55e891d7b11cfcc31b0?utm_campaign=1057&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Volunteer Programs Summer Intern - FTE .5 - SEOP](https://jobright.ai/jobs/info/69cdead0cfdc6132f9421179?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 01 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69cdd602398fb071abf7cd2b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 01 |
 | **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdf?utm_campaign=1057&utm_source=git)** | Franklin, TN, US | On Site | Apr 01 |
 | ↳ | **[Therapist Intern](https://jobright.ai/jobs/info/69cda2fe366bb95ba5501438?utm_campaign=1057&utm_source=git)** | US-TN-Franklin | On Site | Apr 01 |
+| **[theCoderSchool](https://www.thecoderschool.com/)** | **[Coding Tutor (College Internship)](https://jobright.ai/jobs/info/69ce324b54f00230c6cfcbbc?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Apr 01 |
 | **[American Global](https://www.americanglobal.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cda26854f00230c6cf4bea?utm_campaign=1057&utm_source=git)** | Jericho, NY | On Site | Apr 01 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Digital Inclusion Intern](https://jobright.ai/jobs/info/69cda227cdb525785fb8cf4b?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT USA | On Site | Apr 01 |
 | ↳ | **[College & Career Readiness Intern](https://jobright.ai/jobs/info/69cda224398fb071abf7a7b1?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT USA | On Site | Apr 01 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Seasons Psychotherapy Associates](http://seasonspsychotherapy.com)** | **[Registered Intern Therapist (RMHCI, RCSWI, RMFTI) – Broward County Outpatient Group Practice / Free Supervision + Stable Referrals / Hybrid](https://jobright.ai/jobs/info/69cd8d2e398fb071abf79799?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | Hybrid | Apr 01 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Summer Intern IPP](https://jobright.ai/jobs/info/69cd8cf7366bb95ba5500437?utm_campaign=1057&utm_source=git)** | US- | Remote | Apr 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/69cd8c27366bb95ba5500037?utm_campaign=1057&utm_source=git)** | Chicago | On Site | Apr 01 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69cdef24cfdc6132f94227e1?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Nashoba Brooks School](https://www.nashobabrooks.org)** | **[Auxiliary Programs Intern](https://jobright.ai/jobs/info/69cdd67d891d7b11cfcc063e?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | Apr 01 |
 | **[Alabama Baptist State Board of Missions](https://alsbom.org)** | **[Summer Camp Recreation Intern](https://jobright.ai/jobs/info/69cded2f398fb071abf7e300?utm_campaign=1057&utm_source=git)** | Elberta, AL | On Site | Apr 01 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care](https://jobright.ai/jobs/info/69cd85f3cdb525785fb8a8b9?utm_campaign=1057&utm_source=git)** | 4646 38th Ave, Moline, IL 61265, USA | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tampa International Forest Products, LLC](http://tifp.com)** | **[Summer Internship - Commodity Trading](https://jobright.ai/jobs/info/69cd4233cfdc6132f9416c15?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
 | **[D.A. Blodgett - St. John's](https://dabsj.org/)** | **[ILP Coach Intern](https://jobright.ai/jobs/info/69cdb533891d7b11cfcbef16?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Apr 01 |
 | **[Summit BHC](http://summitbhc.com/)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69cd4046891d7b11cfcb6e9c?utm_campaign=1057&utm_source=git)** | Willow Creek Behavioral Health | On Site | Apr 01 |
-| **[Arrow Child & Family Ministries](https://www.arrow.org/)** | **[Student Intern - MD](https://jobright.ai/jobs/info/69cdc0ea891d7b11cfcbf964?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Apr 01 |
-| **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Apr 01 |
-| **[Saint Mary's College](http://www.saintmarys.edu/)** | **[2026 Summer Sustainable Farm Internship](https://jobright.ai/jobs/info/69cd360acfdc6132f941685a?utm_campaign=1057&utm_source=git)** | 149 Le Mans Hall, Notre Dame, IN, 46556, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
