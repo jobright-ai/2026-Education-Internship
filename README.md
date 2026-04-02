@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Facilities (Onsite: CA & NY): ](https://jobright.ai/jobs/info/69cc7fa5891d7b11cfcad278?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[Radius Packaging](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69ce4bb0cfdc6132f94273fc?utm_campaign=1057&utm_source=git)** | New Berlin - New Berlin, WI 53151 | On Site | Apr 02 |
+| **[4C Health #4DayWorkWeekEmployer](https://fourcounty.org)** | **[Associate or Bachelor Level Practicum/Internship](https://jobright.ai/jobs/info/69ce4bab366bb95ba550a6fc?utm_campaign=1057&utm_source=git)** | Howard Co - Kokomo, IN 46902 | On Site | Apr 02 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian, Intern Prg](https://jobright.ai/jobs/info/69b22e9a65de58104c71a46b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Cooperative Extension 4-H Youth Development Advisor for College and Career Readiness Serving Mendocino and Lake Counties (25-23)](https://jobright.ai/jobs/info/69ce4165366bb95ba55099ac?utm_campaign=1057&utm_source=git)** | Ukiah, CA | On Site | Apr 02 |
 | ↳ | **[Program Manager for PUENTE and First Gen Programs](https://jobright.ai/jobs/info/69ce4156398fb071abf8338c?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | ↳ | **[Part - Time Instructor, Accounting - FY 2026](https://jobright.ai/jobs/info/69ce406154f00230c6cfd673?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 02 |
@@ -97,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Public Health-Summer Intern Program](https://jobright.ai/jobs/info/69cdac88cdb525785fb8d979?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
 | **[Trillium Family Services](www.trilliumfamily.org)** | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac64366bb95ba550170b?utm_campaign=1057&utm_source=git)** | Corvallis, OR, US | On Site | Apr 01 |
 | ↳ | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac61cdb525785fb8d828?utm_campaign=1057&utm_source=git)** | Portland, OR, US | On Site | Apr 01 |
+| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Summer Intern IPP](https://jobright.ai/jobs/info/69ce4a62366bb95ba550a2bb?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69cda815cdb525785fb8d72d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[Lakeland Regional Health-Florida](http://mylrh.org/)** | **[Nurse Intern I (PRN) - Pedi ED](https://jobright.ai/jobs/info/69ce18e1cdb525785fb93eab?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Apr 01 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69cdd602398fb071abf7cd2b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BBYO](https://www.bbyo.org)** | **[BBYO Western NY Chapter Development Specialist](https://jobright.ai/jobs/info/69cd550154f00230c6cee780?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Apr 01 |
 | **[D.Law](https://d.law)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69cd54ee891d7b11cfcb7e4a?utm_campaign=1057&utm_source=git)** | Pasadena,CA,US | On Site | Apr 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Volunteer Programs Summer Intern - FTE .5 - SEOP](https://jobright.ai/jobs/info/69cd54de366bb95ba54fad51?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 01 |
-| **[Firelands Health](https://www.firelands.com)** | **[Intern Therapist: PRN](https://jobright.ai/jobs/info/69cd54cf398fb071abf74227?utm_campaign=1057&utm_source=git)** | Sandusky, Ohio, United States | On Site | Apr 01 |
-| **[State of Oregon](https://www.oregon.gov)** | **[Financial Services Intern (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/69cd54bd891d7b11cfcb7d2c?utm_campaign=1057&utm_source=git)** | Salem | DCBS | Labor & Industries Building | On Site | Apr 01 |
-| **[TalentBase](https://www.talentbaseusa.com)** | **[Veterans CareerBridge – Professional Development & Paid Internship Pathway](https://jobright.ai/jobs/info/69cdc214cfdc6132f941f4c3?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 01 |
-| **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1057&utm_source=git)** | Mississippi, United States | Hybrid | Apr 01 |
-| **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Special Education Analyst](https://jobright.ai/jobs/info/69cd4c98891d7b11cfcb7848?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Program](https://jobright.ai/jobs/info/69b1df7e548f140066e7d97a?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
