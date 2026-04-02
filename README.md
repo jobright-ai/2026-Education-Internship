@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69cdf7e4cfdc6132f94232c4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
+| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69cdf567cfdc6132f9422b14?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 01 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Communications Master's Intern](https://jobright.ai/jobs/info/69cdeede366bb95ba55048cf?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Apr 01 |
 | **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69cdeb0bcdb525785fb9053f?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Product Training Intern](https://jobright.ai/jobs/info/69cdeaf8366bb95ba55044f0?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
@@ -64,6 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Chicago Sky WNBA](http://chicagosky.net)** | **[Game Operations Intern (Seasonal) - (Unpaid, For Educational Credit)](https://jobright.ai/jobs/info/69cdf1a054f00230c6cf962a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Dean of Graduate Student Services, Graduate College [R0151115]](https://jobright.ai/jobs/info/69cded11398fb071abf7e2c8?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 01 |
 | ↳ | **[Teaching Laboratory Manager, College of Engineering [R0151172]](https://jobright.ai/jobs/info/69cded2dcdb525785fb9091a?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 01 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[College & Career Readiness Intern](https://jobright.ai/jobs/info/69cdfb8a891d7b11cfcc3c91?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 01 |
+| ↳ | **[Vocational ESL Intern](https://jobright.ai/jobs/info/69cdfbdc398fb071abf802c0?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 01 |
 | **[Nuclear Care Partners](https://www.nuclearcarepartners.com)** | **[RN / LPN – New Grads Welcome (Clinical Growth Path)](https://jobright.ai/jobs/info/69cdeafc398fb071abf7dec7?utm_campaign=1057&utm_source=git)** | Aiken, SC | On Site | Apr 01 |
 | **[Florida Power & Light](https://www.fpl.com/)** | **[Power Delivery College Summer Internship](https://jobright.ai/jobs/info/69cdc5de398fb071abf7c193?utm_campaign=1057&utm_source=git)** | North Miami Beach, FL | On Site | Apr 01 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Elementary Math Intervention/Data Specialist 2026-2027 School Year (7295)](https://jobright.ai/jobs/info/69cddebccfdc6132f9420972?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 01 |
@@ -74,7 +78,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb572cdb525785fb8dfa9?utm_campaign=1057&utm_source=git)** | Madison, AL | Remote | Apr 01 |
 | **[District School Board Ontario North East](https://www.dsb1.ca)** | **[Elementary School Secretary (1.0 FTE - Temporary)](https://jobright.ai/jobs/info/69cdb570891d7b11cfcbf09e?utm_campaign=1057&utm_source=git)** | Timmins, ON | On Site | Apr 01 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdec82366bb95ba55047fd?utm_campaign=1057&utm_source=git)** | Greater Houston | Remote | Apr 01 |
+| **[State of Oregon](https://www.oregon.gov)** | **[Financial Services Intern (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/69cdfbc5398fb071abf80293?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Product Training Intern](https://jobright.ai/jobs/info/69cdb0c3398fb071abf7b531?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
+| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Replication Program Intern](https://jobright.ai/jobs/info/69cdf55e891d7b11cfcc31b0?utm_campaign=1057&utm_source=git)** | 9116 Hog Eye Road, Austin, TX, USA | On Site | Apr 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Volunteer Programs Summer Intern - FTE .5 - SEOP](https://jobright.ai/jobs/info/69cdead0cfdc6132f9421179?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 01 |
 | **[Jamestown Regional Medical Center](https://jrmcnd.com)** | **[Intern - Rehab](https://jobright.ai/jobs/info/69cdacd554f00230c6cf5575?utm_campaign=1057&utm_source=git)** | Jamestown,ND,US | On Site | Apr 01 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Public Health-Summer Intern Program](https://jobright.ai/jobs/info/69cdac88cdb525785fb8d979?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern - Extended Fall 2026](https://jobright.ai/jobs/info/695c3f9bf1f8465b79f247f6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[Prelude](http://joinprelude.org)** | **[Lead Instructor, Internship Programs](https://jobright.ai/jobs/info/69cdead9366bb95ba5504488?utm_campaign=1057&utm_source=git)** | Camden, NJ | Hybrid | Apr 01 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69cd4fc0891d7b11cfcb7b7d?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 01 |
-| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Finance)](https://jobright.ai/jobs/info/69b12a0edfaeda6ff59c26de?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Black Belt](https://jobright.ai/jobs/info/69cd2a63cdb525785fb85567?utm_campaign=1057&utm_source=git)** | Michigan, United States | Remote | Apr 01 |
-| **[Funston Company Inc](www.funstoncompany.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cdd63a891d7b11cfcc0554?utm_campaign=1057&utm_source=git)** | Leland, NC | On Site | Apr 01 |
-| **[Pennsylvania College of Technology](http://www.pct.edu/)** | **[Orientation Intern](https://jobright.ai/jobs/info/69cd1488cfdc6132f9415c6d?utm_campaign=1057&utm_source=git)** | Williamsport, PA, US | On Site | Apr 01 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinic- Case Management Gaithersburg) 2026-2027 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69b0b88e0b2db6275c052266?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 01 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Arkansas](https://jobright.ai/jobs/info/69b01271dfaeda6ff5995d74?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
