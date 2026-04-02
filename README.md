@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida Power & Light](https://www.fpl.com/)** | **[Power Delivery College Summer Internship](https://jobright.ai/jobs/info/69cdc5de398fb071abf7c193?utm_campaign=1057&utm_source=git)** | North Miami Beach, FL | On Site | Apr 01 |
 | **[University of Tampa](http://www.ut.edu)** | **[Assistant Teaching Professor/Instructor Of Accounting](https://jobright.ai/jobs/info/69cdb5a254f00230c6cf5a2d?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
 | **[School District #8 (Kootenay Lake)](https://www.sd8.bc.ca/)** | **[SD8 School Leader Development Program](https://jobright.ai/jobs/info/69cdb57acfdc6132f941ec09?utm_campaign=1057&utm_source=git)** | Nelson, BC | On Site | Apr 01 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb573891d7b11cfcbf0ae?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Apr 01 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Trillium Family Services](www.trilliumfamily.org)** | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac64366bb95ba550170b?utm_campaign=1057&utm_source=git)** | Corvallis, OR, US | On Site | Apr 01 |
 | ↳ | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac61cdb525785fb8d828?utm_campaign=1057&utm_source=git)** | Portland, OR, US | On Site | Apr 01 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69cda815cdb525785fb8d72d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 01 |
-| **[Coty](https://www.coty.com/)** | **[Intern, Retail Excellence](https://jobright.ai/jobs/info/69cda6e654f00230c6cf50ff?utm_campaign=1057&utm_source=git)** | Morris Plains | Hybrid | Apr 01 |
 | **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdf?utm_campaign=1057&utm_source=git)** | Franklin, TN, US | On Site | Apr 01 |
 | ↳ | **[Therapist Intern](https://jobright.ai/jobs/info/69cda2fe366bb95ba5501438?utm_campaign=1057&utm_source=git)** | US-TN-Franklin | On Site | Apr 01 |
 | **[American Global](https://www.americanglobal.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cda26854f00230c6cf4bea?utm_campaign=1057&utm_source=git)** | Jericho, NY | On Site | Apr 01 |
@@ -111,12 +111,14 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Volunteer Programs Summer Intern - FTE .5 - SEOP](https://jobright.ai/jobs/info/69cd54de366bb95ba54fad51?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 01 |
 | **[Firelands Health](https://www.firelands.com)** | **[Intern Therapist: PRN](https://jobright.ai/jobs/info/69cd54cf398fb071abf74227?utm_campaign=1057&utm_source=git)** | Sandusky, Ohio, United States | On Site | Apr 01 |
 | **[State of Oregon](https://www.oregon.gov)** | **[Financial Services Intern (Student Professional/Technical Worker)](https://jobright.ai/jobs/info/69cd54bd891d7b11cfcb7d2c?utm_campaign=1057&utm_source=git)** | Salem | DCBS | Labor & Industries Building | On Site | Apr 01 |
+| **[TalentBase](https://www.talentbaseusa.com)** | **[Veterans CareerBridge – Professional Development & Paid Internship Pathway](https://jobright.ai/jobs/info/69cdc214cfdc6132f941f4c3?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 01 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1057&utm_source=git)** | Mississippi, United States | Hybrid | Apr 01 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Special Education Analyst](https://jobright.ai/jobs/info/69cd4c98891d7b11cfcb7848?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Program](https://jobright.ai/jobs/info/69b1df7e548f140066e7d97a?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 01 |
 | **[Tampa International Forest Products, LLC](http://tifp.com)** | **[Summer Internship - Commodity Trading](https://jobright.ai/jobs/info/69cd4233cfdc6132f9416c15?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
 | **[D.A. Blodgett - St. John's](https://dabsj.org/)** | **[ILP Coach Intern](https://jobright.ai/jobs/info/69cdb533891d7b11cfcbef16?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Apr 01 |
 | **[Summit BHC](http://summitbhc.com/)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69cd4046891d7b11cfcb6e9c?utm_campaign=1057&utm_source=git)** | Willow Creek Behavioral Health | On Site | Apr 01 |
+| **[Arrow Child & Family Ministries](https://www.arrow.org/)** | **[Student Intern - MD](https://jobright.ai/jobs/info/69cdc0ea891d7b11cfcbf964?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Apr 01 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Apr 01 |
 | **[Saint Mary's College](http://www.saintmarys.edu/)** | **[2026 Summer Sustainable Farm Internship](https://jobright.ai/jobs/info/69cd360acfdc6132f941685a?utm_campaign=1057&utm_source=git)** | 149 Le Mans Hall, Notre Dame, IN, 46556, US | On Site | Apr 01 |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Public & Community Engagement Intern](https://jobright.ai/jobs/info/69b0855b0b2db6275c049ec7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program  - Medical Unit](https://jobright.ai/jobs/info/69ccef91398fb071abf716b1?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Mar 31 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Community and Engagement Intern](https://jobright.ai/jobs/info/69cca9f4e1921223acc7b860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69cca384cdb525785fb80b04?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Mar 31 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69cca35d8130af1ac833d85f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69cca35d8130af1ac833d85e?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
