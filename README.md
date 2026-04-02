@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[D.Law](https://d.law)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69ce3787366bb95ba55090e6?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Apr 02 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Cooperative Extension 4-H Youth Development Advisor for College and Career Readiness Serving Mendocino and Lake Counties (25-23)](https://jobright.ai/jobs/info/69ce4165366bb95ba55099ac?utm_campaign=1057&utm_source=git)** | Ukiah, CA | On Site | Apr 02 |
+| ↳ | **[Program Manager for PUENTE and First Gen Programs](https://jobright.ai/jobs/info/69ce4156398fb071abf8338c?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 02 |
+| ↳ | **[Part - Time Instructor, Accounting - FY 2026](https://jobright.ai/jobs/info/69ce406154f00230c6cfd673?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 02 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Outdoor Pursuits Program Manager](https://jobright.ai/jobs/info/69ce2fd3891d7b11cfcc5e44?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 02 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69ce23cfcfdc6132f9424f6a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Apr 02 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Counselor, Financial Aid/General](https://jobright.ai/jobs/info/69ce404acdb525785fb9584d?utm_campaign=1057&utm_source=git)** | Los Altos Hills, CA | On Site | Apr 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e5ca79e36d3a847ef36b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69cdf7e4cfdc6132f94232c4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69cdf567cfdc6132f9422b14?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/69cd4dcb398fb071abf73e6f?utm_campaign=1057&utm_source=git)** | Mississippi, United States | Hybrid | Apr 01 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Special Education Analyst](https://jobright.ai/jobs/info/69cd4c98891d7b11cfcb7848?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Program](https://jobright.ai/jobs/info/69b1df7e548f140066e7d97a?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 01 |
-| **[Tampa International Forest Products, LLC](http://tifp.com)** | **[Summer Internship - Commodity Trading](https://jobright.ai/jobs/info/69cd4233cfdc6132f9416c15?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
-| **[D.A. Blodgett - St. John's](https://dabsj.org/)** | **[ILP Coach Intern](https://jobright.ai/jobs/info/69cdb533891d7b11cfcbef16?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Apr 01 |
-| **[Summit BHC](http://summitbhc.com/)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69cd4046891d7b11cfcb6e9c?utm_campaign=1057&utm_source=git)** | Willow Creek Behavioral Health | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
