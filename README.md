@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Rheumatology Clinician Researcher](https://jobright.ai/jobs/info/69421bb314ee092a6900444b?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Apr 02 |
+| **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[2026 Summer Y / SIA [OMS] [K] / RSM EDT May 1, 2026 - Apr 30, 2027 / Exec. Diagnostic Test (EDT)](https://jobright.ai/jobs/info/69ce5ff8366bb95ba550adad?utm_campaign=1057&utm_source=git)** | Greater St. George Area | On Site | Apr 02 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Facilities (Onsite: CA & NY): ](https://jobright.ai/jobs/info/69cc7fa5891d7b11cfcad278?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Radius Packaging](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69ce4bb0cfdc6132f94273fc?utm_campaign=1057&utm_source=git)** | New Berlin - New Berlin, WI 53151 | On Site | Apr 02 |
 | **[4C Health #4DayWorkWeekEmployer](https://fourcounty.org)** | **[Associate or Bachelor Level Practicum/Internship](https://jobright.ai/jobs/info/69ce4bab366bb95ba550a6fc?utm_campaign=1057&utm_source=git)** | Howard Co - Kokomo, IN 46902 | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Academic Advisor - Siebel School of Computing and Data Science](https://jobright.ai/jobs/info/69cd5a90366bb95ba54fb125?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 01 |
 | **[Excel Academy Charter Schools](https://www.excelacademy.org/)** | **[XLEB School Counseling Intern](https://jobright.ai/jobs/info/69cd5512398fb071abf743c2?utm_campaign=1057&utm_source=git)** | East Boston Campus, East Boston, MA | On Site | Apr 01 |
 | **[BBYO](https://www.bbyo.org)** | **[BBYO Western NY Chapter Development Specialist](https://jobright.ai/jobs/info/69cd550154f00230c6cee780?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Apr 01 |
-| **[D.Law](https://d.law)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69cd54ee891d7b11cfcb7e4a?utm_campaign=1057&utm_source=git)** | Pasadena,CA,US | On Site | Apr 01 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Volunteer Programs Summer Intern - FTE .5 - SEOP](https://jobright.ai/jobs/info/69cd54de366bb95ba54fad51?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
