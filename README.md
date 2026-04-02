@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69ce23cfcfdc6132f9424f6a?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Apr 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e5ca79e36d3a847ef36b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69cdf7e4cfdc6132f94232c4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69cdf567cfdc6132f9422b14?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arrow Child & Family Ministries](https://www.arrow.org/)** | **[Student Intern - MD](https://jobright.ai/jobs/info/69cdc0ea891d7b11cfcbf964?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Apr 01 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Apr 01 |
 | **[Saint Mary's College](http://www.saintmarys.edu/)** | **[2026 Summer Sustainable Farm Internship](https://jobright.ai/jobs/info/69cd360acfdc6132f941685a?utm_campaign=1057&utm_source=git)** | 149 Le Mans Hall, Notre Dame, IN, 46556, US | On Site | Apr 01 |
-| **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Public & Community Engagement Intern](https://jobright.ai/jobs/info/69b0855b0b2db6275c049ec7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
