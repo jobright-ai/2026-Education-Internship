@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e5ca79e36d3a847ef36b?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69cdf7e4cfdc6132f94232c4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69cdf567cfdc6132f9422b14?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC | On Site | Apr 01 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Communications Master's Intern](https://jobright.ai/jobs/info/69cdeede366bb95ba55048cf?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Apr 01 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Trillium Family Services](www.trilliumfamily.org)** | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac64366bb95ba550170b?utm_campaign=1057&utm_source=git)** | Corvallis, OR, US | On Site | Apr 01 |
 | ↳ | **[Undergraduate Internship](https://jobright.ai/jobs/info/69cdac61cdb525785fb8d828?utm_campaign=1057&utm_source=git)** | Portland, OR, US | On Site | Apr 01 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69cda815cdb525785fb8d72d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 01 |
+| **[Lakeland Regional Health-Florida](http://mylrh.org/)** | **[Nurse Intern I (PRN) - Pedi ED](https://jobright.ai/jobs/info/69ce18e1cdb525785fb93eab?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Apr 01 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69cdd602398fb071abf7cd2b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 01 |
 | **[Acadiana Treatment Center](https://www.acadianatreatmentcenter.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdf?utm_campaign=1057&utm_source=git)** | Franklin, TN, US | On Site | Apr 01 |
 | ↳ | **[Therapist Intern](https://jobright.ai/jobs/info/69cda2fe366bb95ba5501438?utm_campaign=1057&utm_source=git)** | US-TN-Franklin | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Apr 01 |
 | **[Saint Mary's College](http://www.saintmarys.edu/)** | **[2026 Summer Sustainable Farm Internship](https://jobright.ai/jobs/info/69cd360acfdc6132f941685a?utm_campaign=1057&utm_source=git)** | 149 Le Mans Hall, Notre Dame, IN, 46556, US | On Site | Apr 01 |
 | **[The Huntington](http://www.huntington.org/)** | **[Getty Marrow Public & Community Engagement Intern](https://jobright.ai/jobs/info/69b0855b0b2db6275c049ec7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Student Public Health-Summer Intern Program](https://jobright.ai/jobs/info/69cd309c891d7b11cfcb6a7b?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Apr 01 |
-| **[ACT](http://www.act.org/aboutact/index.html)** | **[Summer Internship - Measurement, Research and Development - Academic Measurement](https://jobright.ai/jobs/info/6994ce5f81476f6176ac9f53?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
