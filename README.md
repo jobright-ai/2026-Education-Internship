@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Soqquadro Italiano](http://www.soqquadroitaliano.it)** | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cffa3ecdb525785fba65a0?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 03 |
+| **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN, Programs (Higher Education)](https://jobright.ai/jobs/info/69d001b5366bb95ba551a7db?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | Apr 03 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 03 |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[Children’s Wellness and Safety Instructor Intern](https://jobright.ai/jobs/info/69cffdc4891d7b11cfcd7a21?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Apr 03 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/69cff8a5cdb525785fba6518?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Apr 03 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Covenant House Florida](https://www.covenanthousefl.org/)** | **[Youth Engagement Intern Part Time](https://jobright.ai/jobs/info/69cff81d366bb95ba551a3e6?utm_campaign=1057&utm_source=git)** | Ft Lauderdale, FL, US | On Site | Apr 03 |
@@ -138,8 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GVSU Clinical Internship-7](https://jobright.ai/jobs/info/69ceeaea398fb071abf8aaf1?utm_campaign=1057&utm_source=git)** | Battle Creek, MI | On Site | Apr 02 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Instructional Assistant Professor and Internship Coordinator](https://jobright.ai/jobs/info/69cee71e891d7b11cfcce362?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Apr 02 |
 | **[UNT Health Fort Worth](http://unthsc.edu/)** | **[Director, Educational Development](https://jobright.ai/jobs/info/69cee71754f00230c6d04bd0?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 02 |
-| **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[GVSU Clinical Internship-8](https://jobright.ai/jobs/info/69cee597891d7b11cfccdf98?utm_campaign=1057&utm_source=git)** | Bronson Battle Creek | On Site | Apr 02 |
-| ↳ | **[GVSU Clinical Internship-7](https://jobright.ai/jobs/info/69cee43ccdb525785fb9cba9?utm_campaign=1057&utm_source=git)** | Bronson Battle Creek | On Site | Apr 02 |
+| **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[GVSU Clinical Internship-7](https://jobright.ai/jobs/info/69cee43ccdb525785fb9cba9?utm_campaign=1057&utm_source=git)** | Bronson Battle Creek | On Site | Apr 02 |
 | ↳ | **[GVSU Clinical Internship-3](https://jobright.ai/jobs/info/69cee42bcfdc6132f942d9aa?utm_campaign=1057&utm_source=git)** | Bronson Battle Creek | On Site | Apr 02 |
 | ↳ | **[GVSU Clinical Internship-5](https://jobright.ai/jobs/info/69cee42acfdc6132f942d9a9?utm_campaign=1057&utm_source=git)** | Bronson Battle Creek | On Site | Apr 02 |
 | **[Gilbert CPAs](http://gilbertcpa.com)** | **[Summer Sprint Internship Program](https://jobright.ai/jobs/info/69cee15d54f00230c6d044d8?utm_campaign=1057&utm_source=git)** | Sacramento, California, United States | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Corporate Training and Development Intern](https://jobright.ai/jobs/info/69ced8b3cdb525785fb9c353?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Emerging Technologies Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fc2c312363dcd51b2c?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 02 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program:  Western MD Hospital](https://jobright.ai/jobs/info/69ced7e854f00230c6d03c8d?utm_campaign=1057&utm_source=git)** | Cumberland, MD | On Site | Apr 02 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69ced755cfdc6132f942cb5c?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
