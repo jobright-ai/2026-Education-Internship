@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/695f26a2a1bbea1d9a7a0800?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Apr 03 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69cf861d398fb071abf90f53?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 03 |
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Programming and Software Development)](https://jobright.ai/jobs/info/69cf8614398fb071abf90f4a?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering- 28362](https://jobright.ai/jobs/info/69cf85e4366bb95ba551758e?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Intern/Co-Op Student -  Capital Project Sytems and Strategy - 40 Hours - Days](https://jobright.ai/jobs/info/69cebb04cdb525785fb9ae21?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Apr 02 |
 | ↳ | **[Intern/Co-Op Student - Capital Project Sytems and Strategy - 40 Hours - Days](https://jobright.ai/jobs/info/69ceba7e366bb95ba550eac0?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - QUALITY & TLC](https://jobright.ai/jobs/info/69ceba77366bb95ba550eab0?utm_campaign=1057&utm_source=git)** | Uniondale, NY | On Site | Apr 02 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant III(PhD) - BRI](https://jobright.ai/jobs/info/69ceba25398fb071abf882ed?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
