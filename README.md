@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medical City Arlington](https://medicalcityhealthcare.com/locations/medical-city-arlington/)** | **[Internal Medicine GME Chief Resident](https://jobright.ai/jobs/info/69cfe5d3cfdc6132f9436634?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 03 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Intern for Student Staff Development – Cohon University Center - Division of Student Affairs](https://jobright.ai/jobs/info/69cfe45f366bb95ba5519608?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 03 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Wesley Chapel](https://jobright.ai/jobs/info/69c0af407798f73e35e52d92?utm_campaign=1057&utm_source=git)** | Wesley Chapel, FL | Hybrid | Apr 03 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern](https://jobright.ai/jobs/info/69cfdca0cfdc6132f94363b2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 | **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
@@ -76,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Student Respiratory Care Practitioner Intern](https://jobright.ai/jobs/info/69cfd4cf891d7b11cfcd60e9?utm_campaign=1057&utm_source=git)** | Antioch, CA | On Site | Apr 03 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Associate Dean, College of Arts & Sciences (internal only)](https://jobright.ai/jobs/info/69cfb393cdb525785fba43bc?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Apr 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult/Child/AMRS](https://jobright.ai/jobs/info/69cfb295cfdc6132f9435161?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Apr 03 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[P & C Intern](https://jobright.ai/jobs/info/69cfafbccfdc6132f943510d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| ↳ | **[P & C Intern](https://jobright.ai/jobs/info/69cfafa1366bb95ba55181e5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[P & C Intern](https://jobright.ai/jobs/info/69cfafa1366bb95ba55181e5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Athletics Academic Services Intern](https://jobright.ai/jobs/info/69cfaf62cdb525785fba425d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (TPA)](https://jobright.ai/jobs/info/69b3c66aae2a534885eb2b83?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Clinical Research Coordinator - OBGYN](https://jobright.ai/jobs/info/69b32770ae2a534885ea8831?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 03 |
@@ -103,8 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cf27fa398fb071abf8ca89?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[SUMMER STUDENT WORKER (Unpaid) Environmental Education Intern](https://jobright.ai/jobs/info/69cf266a398fb071abf8ca19?utm_campaign=1057&utm_source=git)** | Maryland, United States | On Site | Apr 02 |
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[High School Intern](https://jobright.ai/jobs/info/69cf199b398fb071abf8c4c5?utm_campaign=1057&utm_source=git)** | Salina, KS | On Site | Apr 02 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Communications](https://jobright.ai/jobs/info/69cf1800cfdc6132f942f868?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 02 |
-| ↳ | **[Student Intern - Administration](https://jobright.ai/jobs/info/69cf1800cfdc6132f942f869?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Administration](https://jobright.ai/jobs/info/69cf1800cfdc6132f942f869?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Education Capabilities Intern (Summer 2026)](https://jobright.ai/jobs/info/69cf142354f00230c6d06632?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Apr 02 |
 | **[Boulder County](https://www.bouldercounty.gov/)** | **[4-H Summer Program Aide/Intern](https://jobright.ai/jobs/info/69cfafc654f00230c6d0bc62?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Apr 02 |
 | **[Industrial Info Resources](http://www.industrialinfo.com/)** | **[Summer Intern(s)](https://jobright.ai/jobs/info/69cf0943cdb525785fb9e202?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Apr 02 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69ced755cfdc6132f942cb5c?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Trainer](https://jobright.ai/jobs/info/69ced735891d7b11cfcccf63?utm_campaign=1057&utm_source=git)** | Tempe | On Site | Apr 02 |
 | **[Clayton Valley Charter High School](https://www.claytonvalley.org/)** | **[School Counselor Intern - SY 26/27](https://jobright.ai/jobs/info/69ced3eecfdc6132f942ca15?utm_campaign=1057&utm_source=git)** | Concord, CA | On Site | Apr 02 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[Ryan Learning Center Summer Internship](https://jobright.ai/jobs/info/69ced3db398fb071abf895c9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 02 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Summer Intern](https://jobright.ai/jobs/info/69ced3c0cfdc6132f942c9f2?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Apr 02 |
+| **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Health Education Intern](https://jobright.ai/jobs/info/69cf67f0891d7b11cfcd338b?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
