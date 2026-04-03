@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Info Resources](http://www.industrialinfo.com/)** | **[Summer Intern(s)](https://jobright.ai/jobs/info/69cf0943cdb525785fb9e202?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Apr 02 |
+| **[Columbia Residential](https://www.columbiares.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69cf02e6891d7b11cfccf41c?utm_campaign=1057&utm_source=git)** | Corporate, Atlanta, GA, US | On Site | Apr 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student](https://jobright.ai/jobs/info/69ceffa9cfdc6132f942ecac?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | **[Gilbert CPAs](http://gilbertcpa.com)** | **[Summer Sprint Internship Program](https://jobright.ai/jobs/info/69cefc47366bb95ba5511d0f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
 | **[Louisiana Public Health Institute](https://lphi.org)** | **[Monitor, Evaluation, and Learning (MEL) Intern](https://jobright.ai/jobs/info/69cefb05891d7b11cfccf0cd?utm_campaign=1057&utm_source=git)** | New Orleans,LA,US | Hybrid | Apr 02 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69cef306cfdc6132f942e285?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[Petersen Automotive Museum](https://petersen.org)** | **[Education Intern - Getty Marrow Undergraduate Internship](https://jobright.ai/jobs/info/69cef2d8398fb071abf8adad?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Distributed Learning & Rural Initiatives](https://jobright.ai/jobs/info/69ceeff2cfdc6132f942e078?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
+| **[Families4Families](https://families4families.org/)** | **[Nonprofit Program and Operations Summer Internship](https://jobright.ai/jobs/info/69cf0aff398fb071abf8bbec?utm_campaign=1057&utm_source=git)** | Bethesda, MD | On Site | Apr 02 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69cf0afb398fb071abf8bbe6?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69ceec7acdb525785fb9d16f?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 02 |
 | **[Goodwill of Central & Southern Indiana](https://www.goodwillindy.org/foundation)** | **[Summer Intern: Training Accessibility](https://jobright.ai/jobs/info/69ceec55398fb071abf8ab91?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Apr 02 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[GVSU Clinical Internship-5](https://jobright.ai/jobs/info/69ceeb1f366bb95ba55110ac?utm_campaign=1057&utm_source=git)** | Battle Creek, MI | On Site | Apr 02 |
@@ -133,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Project Coodinator Intern](https://jobright.ai/jobs/info/69ceaa40891d7b11cfccb129?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Apr 02 |
 | **[North Shore School District 112](https://www.nssd112.org)** | **[Military Camp Invention Instructor (Internal Only)](https://jobright.ai/jobs/info/69ced750cfdc6132f942cb2c?utm_campaign=1057&utm_source=git)** | Highland Park, IL | On Site | Apr 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[Administrative Intern (Outposted Therapeutic Housing Units)](https://jobright.ai/jobs/info/69cee32b891d7b11cfccdee8?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Apr 02 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (May to Aug) – Early Childhood Support](https://jobright.ai/jobs/info/69cea6ff54f00230c6d017af?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
-| ↳ | **[Internship (Sep to Apr) – Early Childhood Support](https://jobright.ai/jobs/info/69cea6ff398fb071abf8768c?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
+| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Early Childhood Support](https://jobright.ai/jobs/info/69cea6ff398fb071abf8768c?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
+| ↳ | **[Internship (May to Aug) – Early Childhood Support](https://jobright.ai/jobs/info/69cea6ff54f00230c6d017af?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | ↳ | **[Internship (Sep to Apr) – Psychoeducation and Behavioral Support](https://jobright.ai/jobs/info/69cea6ea366bb95ba550dc3a?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69cea05f398fb071abf87356?utm_campaign=1057&utm_source=git)** | Milford, MA | On Site | Apr 02 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Clinical Transport](https://jobright.ai/jobs/info/69cea00bcdb525785fb9996c?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 02 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Silverline Communications](https://teamsilverline.com/)** | **[Silverline Summer '26 Internship](https://jobright.ai/jobs/info/69ce8874366bb95ba550c793?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Apr 02 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69ce8872cfdc6132f942952d?utm_campaign=1057&utm_source=git)** | Milford, MA, US | On Site | Apr 02 |
 | ↳ | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69ce8845398fb071abf86221?utm_campaign=1057&utm_source=git)** | US-MA-Milford | On Site | Apr 02 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69ce87be366bb95ba550c57f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[City of Norwalk](https://www.norwalkct.org)** | **[Green Workforce Intern](https://jobright.ai/jobs/info/69cea7bb366bb95ba550dd08?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Apr 02 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenured/Tenure-Track: Assistant or Associate Professor - Computer Science & Engineering](https://jobright.ai/jobs/info/6942427250bbaf76505424b5?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Apr 02 |
 | **[University of Arkansas System Division of Agriculture](https://uada.edu)** | **[Experiential Scholars Program (ESP) Intern](https://jobright.ai/jobs/info/69ce8055398fb071abf8584a?utm_campaign=1057&utm_source=git)** | Little Rock | On Site | Apr 02 |
-| **[FourLeaf Federal Credit Union](https://www.fourleaffcu.com)** | **[Intern](https://jobright.ai/jobs/info/69ce804ccdb525785fb97dfc?utm_campaign=1057&utm_source=git)** | Bethpage, New York, United States | On Site | Apr 02 |
-| **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/69ce8047cdb525785fb97df0?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Apr 02 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69ce7f85891d7b11cfcc9052?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
