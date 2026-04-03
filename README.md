@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SDSU College of Engineering](http://www.engineering.sdsu.edu)** | **[Department of Comparative International Studies 2026-2027](https://jobright.ai/jobs/info/69cf4574cdb525785fba0bf4?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
+| **[The City University of New York](http://cuny.edu)** | **[Provost & Senior Vice President of Academic Affairs](https://jobright.ai/jobs/info/69cf4153cfdc6132f9431931?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 02 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69cf3637366bb95ba5513f97?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 02 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Relations, Senior Rank Faculty Position in Political Science](https://jobright.ai/jobs/info/69cf30ea398fb071abf8d368?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Apr 02 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Undergraduate Office of the County Executive / Board of Supervisors](https://jobright.ai/jobs/info/69cf30e7398fb071abf8d354?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Apr 02 |
@@ -87,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Petersen Automotive Museum](https://petersen.org)** | **[Education Intern - Getty Marrow Undergraduate Internship](https://jobright.ai/jobs/info/69cef2d8398fb071abf8adad?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Distributed Learning & Rural Initiatives](https://jobright.ai/jobs/info/69ceeff2cfdc6132f942e078?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 02 |
 | **[Families4Families](https://families4families.org/)** | **[Nonprofit Program and Operations Summer Internship](https://jobright.ai/jobs/info/69cf0aff398fb071abf8bbec?utm_campaign=1057&utm_source=git)** | Bethesda, MD | On Site | Apr 02 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69cf0f47891d7b11cfccfc2b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69cf0f47891d7b11cfccfc29?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
 | ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69cf0f4ecfdc6132f942f0c7?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 02 |
-| ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69cf0f47891d7b11cfccfc29?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
+| ↳ | **[Assistant Director of Graduate Programs (Hybrid)](https://jobright.ai/jobs/info/69cf0f47891d7b11cfccfc2b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 02 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69cf0afb398fb071abf8bbe6?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69ceec7acdb525785fb9d16f?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 02 |
 | **[Goodwill of Central & Southern Indiana](https://www.goodwillindy.org/foundation)** | **[Summer Intern: Training Accessibility](https://jobright.ai/jobs/info/69ceec55398fb071abf8ab91?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - QUALITY & TLC](https://jobright.ai/jobs/info/69cead40366bb95ba550de95?utm_campaign=1057&utm_source=git)** | NY Uniondale / RXR Plaza | On Site | Apr 02 |
 | **[Charles R. Drew University of Medicine and Science](http://www.cdrewu.edu/)** | **[MCH Summer Intern](https://jobright.ai/jobs/info/69ced8d2398fb071abf89c9e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Coodinator Intern](https://jobright.ai/jobs/info/69ceaa40891d7b11cfccb129?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Apr 02 |
-| ↳ | **[Administrative Intern (Outposted Therapeutic Housing Units)](https://jobright.ai/jobs/info/69cee32b891d7b11cfccdee8?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Apr 02 |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Sep to Apr) – Early Childhood Support](https://jobright.ai/jobs/info/69cea6ff398fb071abf8768c?utm_campaign=1057&utm_source=git)** | BOSTON,MA,US | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
