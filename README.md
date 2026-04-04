@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 04 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Student Respiratory Care Practitioner Intern](https://jobright.ai/jobs/info/69d126bc54f00230c6d18cfb?utm_campaign=1057&utm_source=git)** | Antioch, CA | On Site | Apr 04 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d1242054f00230c6d1893e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 04 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virginia Physicians For Women](https://www.vpfw.com)** | **[Clinical Summer Internship 2026](https://jobright.ai/jobs/info/69d00cf4cdb525785fba7001?utm_campaign=1057&utm_source=git)** | North Chesterfield,VA,US | On Site | Apr 03 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Learning Experience - Flow of Work and Personalization Intern](https://jobright.ai/jobs/info/69d00c2554f00230c6d0e6e2?utm_campaign=1057&utm_source=git)** | Overland Park, Kansas | On Site | Apr 03 |
 | **[Lenape Valley Foundation](https://www.lenapevf.org)** | **[Masters Level Intern-  Residential Program](https://jobright.ai/jobs/info/69d00c24891d7b11cfcd7e51?utm_campaign=1057&utm_source=git)** | Warminster, PA, US | On Site | Apr 03 |
-| **[University of Miami](http://miami.edu)** | **[Conferences Services Intern](https://jobright.ai/jobs/info/69d00c1f366bb95ba551aa81?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Apr 03 |
-| **[NavGurukul](https://www.navgurukul.org/)** | **[SCHOOL OF FINANCE INTERN](https://jobright.ai/jobs/info/69d0232054f00230c6d0f62c?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
