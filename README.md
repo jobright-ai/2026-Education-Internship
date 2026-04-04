@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ROANOKE COUNTY PUBLIC SCHOOLS](http://rcps.us)** | **[MARKETING TEACHER 2026-27](https://jobright.ai/jobs/info/69d0b086cfdc6132f943e538?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - Child Development Center 500050](https://jobright.ai/jobs/info/69d090f9cfdc6132f943c928?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 03 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Learning Experience - Flow of Work and Personalization Intern](https://jobright.ai/jobs/info/69d08f58cdb525785fbab849?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Apr 03 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[University of Central Florida](https://www.ucf.edu)** | **[Instructional Content & Training](https://jobright.ai/jobs/info/69d03ee7cdb525785fba8d34?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
 | **[Campus](http://campus.edu)** | **[AI for Business Instructor](https://jobright.ai/jobs/info/69d03beccfdc6132f9439ae3?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Center Associate - O’Brien Notre Dame International Security Center](https://jobright.ai/jobs/info/69d064f3891d7b11cfcdb1df?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Apr 03 |
-| **[Saving Mothers](http://www.savingmothers.org)** | **[Summer Internship](https://jobright.ai/jobs/info/69d0379254f00230c6d106b1?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Intern for Student Staff Development – Cohon University Center - Division of Student Affairs](https://jobright.ai/jobs/info/69d033c6cdb525785fba894b?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 03 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Research Intern - Undergraduate](https://jobright.ai/jobs/info/69d031b5cdb525785fba87a5?utm_campaign=1057&utm_source=git)** | WI, Marshfield | On Site | Apr 03 |
 | **[Justice Resource Institute](https://jri.org/)** | **[BA Level Intern - Spanish Speaking](https://jobright.ai/jobs/info/69d03130cdb525785fba871e?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Apr 03 |
