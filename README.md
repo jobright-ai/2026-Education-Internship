@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trifecta Enterprises](trifectaenterprises.co)** | **[Summer 2026 CS Internship - UPenn, Drexel, Temple Students](https://jobright.ai/jobs/info/69d14d33891d7b11cfce2c98?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Lonza](http://www.lonza.com)** | **[Training Intern](https://jobright.ai/jobs/info/69b4ca603b74eb1e2c822616?utm_campaign=1057&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Apr 04 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Commercial Internship](https://jobright.ai/jobs/info/69d13eedcfdc6132f9442462?utm_campaign=1057&utm_source=git)** | Birmingham, Michigan, United States | On Site | Apr 04 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville Children’s Theatre/Education Intern](https://jobright.ai/jobs/info/69d13ea6891d7b11cfce24b2?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 04 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenured/Tenure-Track: Assistant/Associate Professor - Engineering Technology and Industrial Distribution (Electronic Systems Engineering Technology Program)](https://jobright.ai/jobs/info/68ee8e40d078b81ad160b916?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Apr 04 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 04 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern – Operations and Maintenance Training](https://jobright.ai/jobs/info/697cee83727747250d579dc7?utm_campaign=1057&utm_source=git)** | Pearl City, HI | On Site | Apr 04 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Training and Learning Facilitator - School of Social Work, Office of Workforce Development](https://jobright.ai/jobs/info/69bc1b555b89c002acf121b6?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 04 |
+| **[Moss](https://mosscm.com/)** | **[HR Systems Intern](https://jobright.ai/jobs/info/69b456b906c1ba00c545a8cb?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - NJBU - 2025-2026](https://jobright.ai/jobs/info/69d10fbbcdb525785fbb070a?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Visiting Assistant Professorship in Industrial Engineering and Management Sciences](https://jobright.ai/jobs/info/69b460f456973837413922ae?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 04 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Malignant Hematology - Acute Leukemia - Chicago-25072](https://jobright.ai/jobs/info/6998eedae0bddb6acac7db4d?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Intern (Spring, TX)](https://jobright.ai/jobs/info/69d0195d366bb95ba551b4e7?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Apr 03 |
 | **[Chicago Jobs Council](https://cjc.net/)** | **[Capacity Building Fellow Graduate Internship](https://jobright.ai/jobs/info/69d0137f891d7b11cfcd86e1?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Apr 03 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/69d01365366bb95ba551b238?utm_campaign=1057&utm_source=git)** | Greater Seattle Area | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/69d0135a54f00230c6d0ef26?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Materials & Processes Intern - Undergraduate](https://jobright.ai/jobs/info/69d013510b098b7a6707635b?utm_campaign=1057&utm_source=git)** | Space Coast, FL | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134bcdb525785fba7283?utm_campaign=1057&utm_source=git)** | Space Coast, FL | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134a891d7b11cfcd85e3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
