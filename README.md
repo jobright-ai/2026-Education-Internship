@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbc891d7b11cfce0275?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern - Pharmacy](https://jobright.ai/jobs/info/69d0e79a891d7b11cfce07d5?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 04 |
+| **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0e2a40b098b7a6707e6ab?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
+| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0e282cdb525785fbaf5f1?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
+| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbc891d7b11cfce0275?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbb891d7b11cfce0273?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[ROANOKE COUNTY PUBLIC SCHOOLS](http://rcps.us)** | **[MARKETING TEACHER 2026-27](https://jobright.ai/jobs/info/69d0b086cfdc6132f943e538?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[RESOURCE CENTER COORDINATOR - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cff28dcdb525785fba623d?utm_campaign=1057&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | On Site | Apr 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/69b3e91e5697383741387f65?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 03 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Child Care Intern Teacher](https://jobright.ai/jobs/info/69d00f36cfdc6132f9438043?utm_campaign=1057&utm_source=git)** | Belmont, MA | On Site | Apr 03 |
-| **[Medical City Arlington](https://medicalcityhealthcare.com/locations/medical-city-arlington/)** | **[Internal Medicine GME Chief Resident](https://jobright.ai/jobs/info/69cfe5d3cfdc6132f9436634?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 03 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Wesley Chapel](https://jobright.ai/jobs/info/69c0af407798f73e35e52d92?utm_campaign=1057&utm_source=git)** | Wesley Chapel, FL | Hybrid | Apr 03 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern](https://jobright.ai/jobs/info/69cfdca0cfdc6132f94363b2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
