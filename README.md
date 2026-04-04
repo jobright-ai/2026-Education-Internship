@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - NJBU - 2025-2026](https://jobright.ai/jobs/info/69d10fbbcdb525785fbb070a?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Apr 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Visiting Assistant Professorship in Industrial Engineering and Management Sciences](https://jobright.ai/jobs/info/69b460f456973837413922ae?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 04 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Malignant Hematology - Acute Leukemia - Chicago-25072](https://jobright.ai/jobs/info/6998eedae0bddb6acac7db4d?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 04 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer, Business Analytics and Management](https://jobright.ai/jobs/info/69b46ce23b74eb1e2c81b143?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - Child Development Center 500050](https://jobright.ai/jobs/info/69d090f9cfdc6132f943c928?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 03 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Learning Experience - Flow of Work and Personalization Intern](https://jobright.ai/jobs/info/69d08f58cdb525785fbab849?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Apr 03 |
-| **[City of Gastonia](http://gastonianc.gov)** | **[STUDENT INTERNSHIP](https://jobright.ai/jobs/info/69d088ce891d7b11cfcdc6ac?utm_campaign=1057&utm_source=git)** | Gastonia, NC | On Site | Apr 03 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Graduate (Office of the County Executive / Board of Supervisors)](https://jobright.ai/jobs/info/69d088becdb525785fbab52d?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Apr 03 |
 | **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cc?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfe6?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | Hybrid | Apr 03 |
