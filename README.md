@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbc891d7b11cfce0275?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
+| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbb891d7b11cfce0273?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
 | **[ROANOKE COUNTY PUBLIC SCHOOLS](http://rcps.us)** | **[MARKETING TEACHER 2026-27](https://jobright.ai/jobs/info/69d0b086cfdc6132f943e538?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - Child Development Center 500050](https://jobright.ai/jobs/info/69d090f9cfdc6132f943c928?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 03 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134bcdb525785fba7283?utm_campaign=1057&utm_source=git)** | Space Coast, FL | On Site | Apr 03 |
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134a891d7b11cfcd85e3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Events / Campus Logistics College Intern](https://jobright.ai/jobs/info/69d0318a0b098b7a670777d8?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 03 |
-| **[Conner Prairie](http://www.connerprairie.org)** | **[Youth Leadership Internship - Summer 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf90b098b7a670760fe?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
-| ↳ | **[Civic Season Intern - Summer 2026 -$14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf9cfdc6132f9437f50?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
+| **[Conner Prairie](http://www.connerprairie.org)** | **[Civic Season Intern - Summer 2026 -$14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf9cfdc6132f9437f50?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
+| ↳ | **[Youth Leadership Internship - Summer 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf90b098b7a670760fe?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
 | **[Virginia Physicians For Women](https://www.vpfw.com)** | **[Clinical Summer Internship 2026](https://jobright.ai/jobs/info/69d00cf4cdb525785fba7001?utm_campaign=1057&utm_source=git)** | North Chesterfield,VA,US | On Site | Apr 03 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Learning Experience - Flow of Work and Personalization Intern](https://jobright.ai/jobs/info/69d00c2554f00230c6d0e6e2?utm_campaign=1057&utm_source=git)** | Overland Park, Kansas | On Site | Apr 03 |
 | **[Lenape Valley Foundation](https://www.lenapevf.org)** | **[Masters Level Intern-  Residential Program](https://jobright.ai/jobs/info/69d00c24891d7b11cfcd7e51?utm_campaign=1057&utm_source=git)** | Warminster, PA, US | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medical City Arlington](https://medicalcityhealthcare.com/locations/medical-city-arlington/)** | **[Internal Medicine GME Chief Resident](https://jobright.ai/jobs/info/69cfe5d3cfdc6132f9436634?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 03 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Wesley Chapel](https://jobright.ai/jobs/info/69c0af407798f73e35e52d92?utm_campaign=1057&utm_source=git)** | Wesley Chapel, FL | Hybrid | Apr 03 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[College Intern](https://jobright.ai/jobs/info/69cfdca0cfdc6132f94363b2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 03 |
-| **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/6942437d50bbaf7650542606?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Trinity](https://jobright.ai/jobs/info/69cfd793366bb95ba551936c?utm_campaign=1057&utm_source=git)** | New Port Richey, FL | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
