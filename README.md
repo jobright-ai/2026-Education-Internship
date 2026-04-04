@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Visiting Assistant Professorship in Industrial Engineering and Management Sciences](https://jobright.ai/jobs/info/69b460f456973837413922ae?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 04 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Malignant Hematology - Acute Leukemia - Chicago-25072](https://jobright.ai/jobs/info/6998eedae0bddb6acac7db4d?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 04 |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer, Business Analytics and Management](https://jobright.ai/jobs/info/69b46ce23b74eb1e2c81b143?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Student Nurse Intern - Variable Shifts](https://jobright.ai/jobs/info/69490b347d506e3808f43d3c?utm_campaign=1057&utm_source=git)** | Topeka, KS | On Site | Apr 04 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69b1f647d04c69566c74954c?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Apr 04 |
 | **[Stepful](https://www.stepful.com/)** | **[Learning Program Manager](https://jobright.ai/jobs/info/69d0ecfb0b098b7a6707e842?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
@@ -143,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134bcdb525785fba7283?utm_campaign=1057&utm_source=git)** | Space Coast, FL | On Site | Apr 03 |
 | ↳ | **[Summer 2026 Materials & Processes Intern- Graduate Student](https://jobright.ai/jobs/info/69d0134a891d7b11cfcd85e3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Events / Campus Logistics College Intern](https://jobright.ai/jobs/info/69d0318a0b098b7a670777d8?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 03 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2d9cba8ac8e70ff66e73a?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 03 |
 | **[Conner Prairie](http://www.connerprairie.org)** | **[Youth Leadership Internship - Summer 2026 - $14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf90b098b7a670760fe?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
 | ↳ | **[Civic Season Intern - Summer 2026 -$14/hour up to 180 hours](https://jobright.ai/jobs/info/69d00cf9cfdc6132f9437f50?utm_campaign=1057&utm_source=git)** | Conner Prairie Museum - Fishers, IN 46038 | On Site | Apr 03 |
 | **[Virginia Physicians For Women](https://www.vpfw.com)** | **[Clinical Summer Internship 2026](https://jobright.ai/jobs/info/69d00cf4cdb525785fba7001?utm_campaign=1057&utm_source=git)** | North Chesterfield,VA,US | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaleidoscope Park](https://linktr.ee/kaleidoscopepark)** | **[INTERN, Programs (Higher Education)](https://jobright.ai/jobs/info/69d001b5366bb95ba551a7db?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | Apr 03 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 03 |
 | **[University of Southern California](http://www.usc.edu)** | **[Associate or Professor of Clinical Pediatrics - Chief of the Division of Developmental-Behavioral Pediatrics - CHLA](https://jobright.ai/jobs/info/69d0211a54f00230c6d0f4e0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[Children’s Wellness and Safety Instructor Intern](https://jobright.ai/jobs/info/69cffdc4891d7b11cfcd7a21?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Apr 03 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/69cff8a5cdb525785fba6518?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Apr 03 |
-| **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[Covenant House Florida](https://www.covenanthousefl.org/)** | **[Youth Engagement Intern Part Time](https://jobright.ai/jobs/info/69cff81d366bb95ba551a3e6?utm_campaign=1057&utm_source=git)** | Ft Lauderdale, FL, US | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
