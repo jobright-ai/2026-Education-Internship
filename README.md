@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Administrative, Clerical, and Customer Service](https://jobright.ai/jobs/info/69d20cce0b098b7a67086f26?utm_campaign=1057&utm_source=git)** | Nova Scotia, Canada | Hybrid | Apr 05 |
 | **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Elementary Teacher (Internal Only), Heiman Elementary School (2026-2027 School Year)](https://jobright.ai/jobs/info/69d1fd2954f00230c6d1ebeb?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 04 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69d1fd1d54f00230c6d1ebe1?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Bicycle Mechanic/Customer Service](https://jobright.ai/jobs/info/69d1f5ed366bb95ba552ad94?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[LADC Summer Intern [Minneapolis]](https://jobright.ai/jobs/info/69d1e8d30b098b7a67085247?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
-| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69d1a79acfdc6132f9444a03?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 04 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d19858891d7b11cfce445b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d1b438891d7b11cfce4f50?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 04 |
 | ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d18feacfdc6132f944410d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 04 |
