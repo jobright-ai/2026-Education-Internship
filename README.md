@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb847?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
+| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d2e22fcfdc6132f944cbac?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 05 |
+| ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d2dffb891d7b11cfcec9e6?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 05 |
+| **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69d2d957cfdc6132f944bc7f?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 05 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d2d82ccdb525785fbba919?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 05 |
 | **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69d2ccb454f00230c6d22507?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 05 |
 | **[City of Gastonia](http://gastonianc.gov)** | **[STUDENT INTERNSHIP](https://jobright.ai/jobs/info/69d2cbdf0b098b7a67089a80?utm_campaign=1057&utm_source=git)** | Gastonia, NC | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69d2c671891d7b11cfceb89d?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69d2c66ccdb525785fbba833?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Apr 05 |
-| **[City of Pearland, Texas](http://pearlandtx.gov)** | **[Nature Center Intern (Education, Outreach & Visitor Services)](https://jobright.ai/jobs/info/69d2b9a1891d7b11cfceb7db?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Apr 05 |
 | **[United Way of Utah County](https://unitedwayuc.org)** | **[Summer Learning Program Coordinator](https://jobright.ai/jobs/info/69d29bd6366bb95ba552e820?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Apr 05 |
 | **[Wiz](https://www.wiz.io)** | **[Sr. Manager, Technical Learning Design and Development](https://jobright.ai/jobs/info/6961cb9ef3f4cd132506cd4f?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 05 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
@@ -84,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Bicycle Mechanic/Customer Service](https://jobright.ai/jobs/info/69d1f5ed366bb95ba552ad94?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[LADC Summer Intern [Minneapolis]](https://jobright.ai/jobs/info/69d1e8d30b098b7a67085247?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d19858891d7b11cfce445b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d18dcf54f00230c6d1aac5?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth and Education Intern](https://jobright.ai/jobs/info/69d068eecdb525785fbaa1bd?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d05a18891d7b11cfcdabae?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Apr 03 |
 | **[Kaplan](http://www.kaplan.com)** | **[Innovations Cross-Functional, Intern](https://jobright.ai/jobs/info/69bc4ebe5b89c002acf1c627?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69d05853891d7b11cfcdaac7?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Apr 03 |
-| **[Access Services](https://www.accessservices.org)** | **[Internship: Behavior Supports & Assessments (Fall 2026)](https://jobright.ai/jobs/info/69d04ef8cdb525785fba9749?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
