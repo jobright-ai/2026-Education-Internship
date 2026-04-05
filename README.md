@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wiz](https://www.wiz.io)** | **[Sr. Manager, Technical Learning Design and Development](https://jobright.ai/jobs/info/6961cb9ef3f4cd132506cd4f?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 05 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director of National and International Fellowships](https://jobright.ai/jobs/info/69d26f140b098b7a67088bea?utm_campaign=1057&utm_source=git)** | Westchester, FL | On Site | Apr 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Testing & Proctoring Office Assistant](https://jobright.ai/jobs/info/69d2436d891d7b11cfce9d41?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
-| ↳ | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69d21e7b54f00230c6d1ff14?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Emerging Technologies Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fc2c312363dcd51b2c?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering- 28362](https://jobright.ai/jobs/info/69d215e854f00230c6d1fcce?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 05 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Administrative, Clerical, and Customer Service](https://jobright.ai/jobs/info/69d20cce0b098b7a67086f26?utm_campaign=1057&utm_source=git)** | Nova Scotia, Canada | Hybrid | Apr 05 |
