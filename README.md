@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/699ffe53ce78e77b4fe617de?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 05 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 05 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69d23c80891d7b11cfce9963?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 05 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d2341a366bb95ba552c8ff?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 05 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d233fecfdc6132f94499c5?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 05 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb856d?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Testing & Proctoring Office Assistant](https://jobright.ai/jobs/info/69d2436d891d7b11cfce9d41?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Starting Point Internship, Bucks County (Fall 2026/Spring 2027)](https://jobright.ai/jobs/info/69d04bcacdb525785fba9610?utm_campaign=1057&utm_source=git)** | Warminster, PA | On Site | Apr 03 |
 | ↳ | **[Internship: Street Medicine (Summer 2026)](https://jobright.ai/jobs/info/69d04bc9cdb525785fba960d?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
-| **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046fa0b098b7a670784e3?utm_campaign=1057&utm_source=git)** | LaVergne, Tennessee | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
