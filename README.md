@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Elementary Teacher (Internal Only), Heiman Elementary School (2026-2027 School Year)](https://jobright.ai/jobs/info/69d1fd2954f00230c6d1ebeb?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 04 |
+| **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69d1fd1d54f00230c6d1ebe1?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Bicycle Mechanic/Customer Service](https://jobright.ai/jobs/info/69d1f5ed366bb95ba552ad94?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[LADC Summer Intern [Minneapolis]](https://jobright.ai/jobs/info/69d1e8d30b098b7a67085247?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Professor - Data Science in Computer Science and Software Engineering (AY 26/27)](https://jobright.ai/jobs/info/69d0f341cdb525785fbafc70?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 | ↳ | **[Assistant Professor - Mechanical Engineering Faculty - AY 26/27](https://jobright.ai/jobs/info/69d0f34b366bb95ba5523c76?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 | **[ROANOKE COUNTY PUBLIC SCHOOLS](http://rcps.us)** | **[MARKETING TEACHER 2026-27](https://jobright.ai/jobs/info/69d0b086cfdc6132f943e538?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 03 |
-| **[Natural Lands](https://natlands.org/)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69d1f2c954f00230c6d1e6fe?utm_campaign=1057&utm_source=git)** | Elverson, PA | On Site | Apr 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
 | **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Specialty Area School_Nurse, School (RN / LPN) (International Student Center) 2026-2027](https://jobright.ai/jobs/info/69d1e8cd366bb95ba552a2dd?utm_campaign=1057&utm_source=git)** | Decatur, GA | On Site | Apr 03 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - Child Development Center 500050](https://jobright.ai/jobs/info/69d090f9cfdc6132f943c928?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03f2dcdb525785fba8d89?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Apr 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef50b098b7a67077d82?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Apr 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef40b098b7a67077d80?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03eea0b098b7a67077d76?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
