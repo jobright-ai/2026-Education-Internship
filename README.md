@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb856d?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
+| **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | ↳ | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69d21e7b54f00230c6d1ff14?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Emerging Technologies Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fc2c312363dcd51b2c?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Supervisor Learning & Development Programs](https://jobright.ai/jobs/info/69d0461c54f00230c6d10ada?utm_campaign=1057&utm_source=git)** | Modesto, CA | On Site | Apr 03 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship- UI Extension Madison County (Rexburg)](https://jobright.ai/jobs/info/69d045fccdb525785fba8eda?utm_campaign=1057&utm_source=git)** | Off Campus Location - 134 E Main St. Suite 202 Rexburg, ID 83440 | On Site | Apr 03 |
 | **[JPS Health Network](https://jpshealthnet.org)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69d040480b098b7a67077df5?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 03 |
-| **[Stepful](https://www.stepful.com/)** | **[Senior Learning Program Manager](https://jobright.ai/jobs/info/69d040460b098b7a67077def?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[Virginia Physicians For Women](https://www.vpfw.com)** | **[Clinical Summer Internship 2026](https://jobright.ai/jobs/info/69d05e73cfdc6132f943aa10?utm_campaign=1057&utm_source=git)** | Chesterfield County, VA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
