@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d19858891d7b11cfce445b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d18feacfdc6132f944410d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Research Assistant III(PhD) - BRI](https://jobright.ai/jobs/info/69d1543654f00230c6d19ae2?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 04 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 04 |
 | **[Trifecta Enterprises](trifectaenterprises.co)** | **[Summer 2026 CS Internship - UPenn, Drexel, Temple Students](https://jobright.ai/jobs/info/69d14d33891d7b11cfce2c98?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Lonza](http://www.lonza.com)** | **[Training Intern](https://jobright.ai/jobs/info/69b4ca603b74eb1e2c822616?utm_campaign=1057&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Apr 04 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Commercial Internship](https://jobright.ai/jobs/info/69d13eedcfdc6132f9442462?utm_campaign=1057&utm_source=git)** | Birmingham, Michigan, United States | On Site | Apr 04 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville Children’s Theatre/Education Intern](https://jobright.ai/jobs/info/69d13ea6891d7b11cfce24b2?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 04 |
