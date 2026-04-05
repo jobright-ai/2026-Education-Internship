@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director of National and International Fellowships](https://jobright.ai/jobs/info/69d26f140b098b7a67088bea?utm_campaign=1057&utm_source=git)** | Westchester, FL | On Site | Apr 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ccc50654f00230c6ce9f74?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Apr 05 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/699ffe53ce78e77b4fe617de?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Apr 03 |
 | **[Access Services](https://www.accessservices.org)** | **[Internship: Behavior Supports & Assessments (Fall 2026)](https://jobright.ai/jobs/info/69d04ef8cdb525785fba9749?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | Remote | Apr 03 |
 | ↳ | **[Starting Point Internship, Bucks County (Fall 2026/Spring 2027)](https://jobright.ai/jobs/info/69d04bcacdb525785fba9610?utm_campaign=1057&utm_source=git)** | Warminster, PA | On Site | Apr 03 |
-| ↳ | **[Internship: Street Medicine (Summer 2026)](https://jobright.ai/jobs/info/69d04bc9cdb525785fba960d?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
