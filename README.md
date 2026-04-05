@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69d1a79acfdc6132f9444a03?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 04 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d19858891d7b11cfce445b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d18feacfdc6132f944410d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Intern for Student Staff Development – Cohon University Center - Division of Student Affairs](https://jobright.ai/jobs/info/69d033c6cdb525785fba894b?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 03 |
 | **[Justice Resource Institute](https://jri.org/)** | **[BA Level Intern - Spanish Speaking](https://jobright.ai/jobs/info/69d03130cdb525785fba871e?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Apr 03 |
 | **[ColumbiaCare Services, Inc.](http://www.columbiacare.org)** | **[QMHP Internship (Outpatient)](https://jobright.ai/jobs/info/69d0311e366bb95ba551c75b?utm_campaign=1057&utm_source=git)** | Medford, OR | On Site | Apr 03 |
-| ↳ | **[QMHP Internship (Outpatient)](https://jobright.ai/jobs/info/69d07af0cfdc6132f943b91d?utm_campaign=1057&utm_source=git)** | Medford, Oregon | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
