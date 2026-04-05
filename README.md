@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Bicycle Mechanic/Customer Service](https://jobright.ai/jobs/info/69d1f5ed366bb95ba552ad94?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[LADC Summer Intern [Minneapolis]](https://jobright.ai/jobs/info/69d1e8d30b098b7a67085247?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69d1a79acfdc6132f9444a03?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 04 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d1e88c891d7b11cfce7196?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Hybrid | Apr 04 |
 | **[Trifecta Enterprises](trifectaenterprises.co)** | **[Summer 2026 CS Internship - UPenn, Drexel, Temple Students](https://jobright.ai/jobs/info/69d14d33891d7b11cfce2c98?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 04 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Apr 04 |
+| **[Lonza](http://www.lonza.com)** | **[Training Intern](https://jobright.ai/jobs/info/69b4ca603b74eb1e2c822616?utm_campaign=1057&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Commercial Internship](https://jobright.ai/jobs/info/69d13eedcfdc6132f9442462?utm_campaign=1057&utm_source=git)** | Birmingham, Michigan, United States | On Site | Apr 04 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville Children’s Theatre/Education Intern](https://jobright.ai/jobs/info/69d13ea6891d7b11cfce24b2?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 04 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Canada Research Chair (Tier I) in Applied Cybersecurity and Privacy](https://jobright.ai/jobs/info/6968865f639b452fb57e3a4b?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 04 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[The Grainger College of Engineering: Head & Professor - Materials Science and Engineering](https://jobright.ai/jobs/info/69a5fb1b0da45516f16ecc48?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 04 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenure-Track: Assistant Professor - Engineering Technology and Industrial Distribution (Manufacturing and Mechanical Engineering Technology Program)](https://jobright.ai/jobs/info/68ee916d46e5b153e5a5c6cf?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Apr 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate MYP (School Based)](https://jobright.ai/jobs/info/69d136af0b098b7a670803b1?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Apr 04 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 04 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Instructional Design, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699948cece78e77b4fde0da1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 04 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 04 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Apr 04 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 04 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 04 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Professor - Data Science in Computer Science and Software Engineering (AY 26/27)](https://jobright.ai/jobs/info/69d0f341cdb525785fbafc70?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 | ↳ | **[Assistant Professor - Mechanical Engineering Faculty - AY 26/27](https://jobright.ai/jobs/info/69d0f34b366bb95ba5523c76?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 | **[ROANOKE COUNTY PUBLIC SCHOOLS](http://rcps.us)** | **[MARKETING TEACHER 2026-27](https://jobright.ai/jobs/info/69d0b086cfdc6132f943e538?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Apr 03 |
+| **[Natural Lands](https://natlands.org/)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69d1f2c954f00230c6d1e6fe?utm_campaign=1057&utm_source=git)** | Elverson, PA | On Site | Apr 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 03 |
 | **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Specialty Area School_Nurse, School (RN / LPN) (International Student Center) 2026-2027](https://jobright.ai/jobs/info/69d1e8cd366bb95ba552a2dd?utm_campaign=1057&utm_source=git)** | Decatur, GA | On Site | Apr 03 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - Child Development Center 500050](https://jobright.ai/jobs/info/69d090f9cfdc6132f943c928?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef50b098b7a67077d82?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Apr 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef40b098b7a67077d80?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03eea0b098b7a67077d76?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 03 |
-| **[University of Central Florida](https://www.ucf.edu)** | **[Instructional Content & Training](https://jobright.ai/jobs/info/69d03ee7cdb525785fba8d34?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[Campus](http://campus.edu)** | **[AI for Business Instructor](https://jobright.ai/jobs/info/69d03beccfdc6132f9439ae3?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Stand Together](https://standtogether.org/)** | **[KAP 2026-2027 - Center Associate - O’Brien Notre Dame International Security Center](https://jobright.ai/jobs/info/69d064f3891d7b11cfcdb1df?utm_campaign=1057&utm_source=git)** | Indiana, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
