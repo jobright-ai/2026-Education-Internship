@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/69ccc50654f00230c6ce9f74?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Apr 05 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/699ffe53ce78e77b4fe617de?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 05 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 05 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69d23c80891d7b11cfce9963?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 05 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d2341a366bb95ba552c8ff?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 05 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d233fecfdc6132f94499c5?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Administrative Assistant II, Student Health Center, UNLV Student Wellness [R0151181]](https://jobright.ai/jobs/info/69d071be54f00230c6d1215c?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 03 |
 | **[The Ranch at Dove Tree](https://ranchatdovetree.com)** | **[INTERN](https://jobright.ai/jobs/info/69d071bc54f00230c6d12153?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Apr 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth and Education Intern](https://jobright.ai/jobs/info/69d068eecdb525785fbaa1bd?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 03 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Psychology Doctoral Intern, Adult/Child/AMRS](https://jobright.ai/jobs/info/69d05fafcdb525785fba9ab2?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Apr 03 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d05a18891d7b11cfcdabae?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Apr 03 |
 | **[Kaplan](http://www.kaplan.com)** | **[Innovations Cross-Functional, Intern](https://jobright.ai/jobs/info/69bc4ebe5b89c002acf1c627?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69d05853891d7b11cfcdaac7?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
