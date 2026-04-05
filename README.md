@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69d23c80891d7b11cfce9963?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 05 |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d2341a366bb95ba552c8ff?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 05 |
+| **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d233fecfdc6132f94499c5?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb856d?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Finance-Hybrid](https://jobright.ai/jobs/info/69d19858891d7b11cfce445b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d1b438891d7b11cfce4f50?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 04 |
-| ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d18feacfdc6132f944410d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d18dcf54f00230c6d1aac5?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046fa0b098b7a670784e3?utm_campaign=1057&utm_source=git)** | LaVergne, Tennessee | On Site | Apr 03 |
 | ↳ | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046d154f00230c6d10fb4?utm_campaign=1057&utm_source=git)** | Decatur, Alabama | On Site | Apr 03 |
-| **[GALLO](http://www.gallocareers.com)** | **[Supervisor Learning & Development Programs](https://jobright.ai/jobs/info/69d0461c54f00230c6d10ada?utm_campaign=1057&utm_source=git)** | Modesto, CA | On Site | Apr 03 |
-| **[University of Idaho](http://www.uidaho.edu/)** | **[Summer Internship- UI Extension Madison County (Rexburg)](https://jobright.ai/jobs/info/69d045fccdb525785fba8eda?utm_campaign=1057&utm_source=git)** | Off Campus Location - 134 E Main St. Suite 202 Rexburg, ID 83440 | On Site | Apr 03 |
-| **[JPS Health Network](https://jpshealthnet.org)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69d040480b098b7a67077df5?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
