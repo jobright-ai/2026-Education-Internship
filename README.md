@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d225d5cdb525785fbb856d?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 05 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
+| **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Testing & Proctoring Office Assistant](https://jobright.ai/jobs/info/69d2436d891d7b11cfce9d41?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Apr 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | ↳ | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69d21e7b54f00230c6d1ff14?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Emerging Technologies Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fc2c312363dcd51b2c?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship: Street Medicine (Summer 2026)](https://jobright.ai/jobs/info/69d04bc9cdb525785fba960d?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046fa0b098b7a670784e3?utm_campaign=1057&utm_source=git)** | LaVergne, Tennessee | On Site | Apr 03 |
-| ↳ | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046d154f00230c6d10fb4?utm_campaign=1057&utm_source=git)** | Decatur, Alabama | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
