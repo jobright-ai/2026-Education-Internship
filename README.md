@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Student Success System Analyst - DIS - req13576](https://jobright.ai/jobs/info/69d21e92cfdc6132f9449450?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
+| ↳ | **[Student Success Reporting Analyst - DIS - req13580](https://jobright.ai/jobs/info/69d21e7b54f00230c6d1ff14?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026: Emerging Technologies Intern (Unpaid)](https://jobright.ai/jobs/info/69c1e7fc2c312363dcd51b2c?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
+| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Assistant Professor or Associate Professor - Mechanical, Materials and Aerospace Engineering- 28362](https://jobright.ai/jobs/info/69d215e854f00230c6d1fcce?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 05 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Administrative, Clerical, and Customer Service](https://jobright.ai/jobs/info/69d20cce0b098b7a67086f26?utm_campaign=1057&utm_source=git)** | Nova Scotia, Canada | Hybrid | Apr 05 |
 | **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Elementary Teacher (Internal Only), Heiman Elementary School (2026-2027 School Year)](https://jobright.ai/jobs/info/69d1fd2954f00230c6d1ebeb?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 04 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69d1fd1d54f00230c6d1ebe1?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPS Health Network](https://jpshealthnet.org)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69d040480b098b7a67077df5?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 03 |
 | **[Stepful](https://www.stepful.com/)** | **[Senior Learning Program Manager](https://jobright.ai/jobs/info/69d040460b098b7a67077def?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Virginia Physicians For Women](https://www.vpfw.com)** | **[Clinical Summer Internship 2026](https://jobright.ai/jobs/info/69d05e73cfdc6132f943aa10?utm_campaign=1057&utm_source=git)** | Chesterfield County, VA | On Site | Apr 03 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03f4254f00230c6d10942?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Apr 03 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03f2dcdb525785fba8d89?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Apr 03 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef50b098b7a67077d82?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Apr 03 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69d03ef40b098b7a67077d80?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
