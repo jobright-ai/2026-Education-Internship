@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d37d66891d7b11cfcf15aa?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 06 |
-| **[County of Ventura](http://www.ventura.org)** | **[High School Intern - Summer at the County 2026](https://jobright.ai/jobs/info/69d369ec891d7b11cfcf0dfb?utm_campaign=1057&utm_source=git)** | Ventura County, CA | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d3310f891d7b11cfcee72c?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Education Program Coordinator](https://jobright.ai/jobs/info/69d30a8a891d7b11cfcedb55?utm_campaign=1057&utm_source=git)** | Richmond Hill, ON | On Site | Apr 05 |
+| **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d386dc891d7b11cfcf1704?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 05 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb847?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d2e22fcfdc6132f944cbac?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 05 |
