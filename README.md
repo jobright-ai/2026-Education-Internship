@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d3310f891d7b11cfcee72c?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Education Program Coordinator](https://jobright.ai/jobs/info/69d30a8a891d7b11cfcedb55?utm_campaign=1057&utm_source=git)** | Richmond Hill, ON | On Site | Apr 05 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Student Future Opportunity Stream - Administrative, Clerical, and Customer Service](https://jobright.ai/jobs/info/69d20cce0b098b7a67086f26?utm_campaign=1057&utm_source=git)** | Nova Scotia, Canada | Hybrid | Apr 05 |
 | **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Elementary Teacher (Internal Only), Heiman Elementary School (2026-2027 School Year)](https://jobright.ai/jobs/info/69d1fd2954f00230c6d1ebeb?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 04 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69d1fd1d54f00230c6d1ebe1?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 04 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Bicycle Mechanic/Customer Service](https://jobright.ai/jobs/info/69d1f5ed366bb95ba552ad94?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[LADC Summer Intern [Minneapolis]](https://jobright.ai/jobs/info/69d1e8d30b098b7a67085247?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Director of PreHealth Academic and Professional Development - Carle Illinois College of Me](https://jobright.ai/jobs/info/69b4b32c5697383741398dc5?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 04 |
 | ↳ | **[The Grainger College of Engineering: Head & Professor - Materials Science and Engineering](https://jobright.ai/jobs/info/69a5fb1b0da45516f16ecc48?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 04 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenure-Track: Assistant Professor - Engineering Technology and Industrial Distribution (Manufacturing and Mechanical Engineering Technology Program)](https://jobright.ai/jobs/info/68ee916d46e5b153e5a5c6cf?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Apr 04 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate MYP (School Based)](https://jobright.ai/jobs/info/69d136af0b098b7a670803b1?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Apr 04 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Service Delivery Instructional Design, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699948cece78e77b4fde0da1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 04 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 04 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Starting Point Internship, Bucks County (Fall 2026/Spring 2027)](https://jobright.ai/jobs/info/69d04bcacdb525785fba9610?utm_campaign=1057&utm_source=git)** | Warminster, PA | On Site | Apr 03 |
 | ↳ | **[Internship: Street Medicine (Summer 2026)](https://jobright.ai/jobs/info/69d04bc9cdb525785fba960d?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
+| **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046fa0b098b7a670784e3?utm_campaign=1057&utm_source=git)** | LaVergne, Tennessee | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
