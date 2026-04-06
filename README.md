@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volunteer Success](http://volunteersuccess.com)** | **[Education Program Coordinator](https://jobright.ai/jobs/info/69d30a8a891d7b11cfcedb55?utm_campaign=1057&utm_source=git)** | Richmond Hill, ON | On Site | Apr 05 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb847?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d2e22fcfdc6132f944cbac?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d05a18891d7b11cfcdabae?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Apr 03 |
 | **[Kaplan](http://www.kaplan.com)** | **[Innovations Cross-Functional, Intern](https://jobright.ai/jobs/info/69bc4ebe5b89c002acf1c627?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69d05853891d7b11cfcdaac7?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
