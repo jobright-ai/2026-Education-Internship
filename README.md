@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Norwalk](https://www.norwalkct.org)** | **[Green Workforce Intern](https://jobright.ai/jobs/info/69d328e6366bb95ba55314c7?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Apr 05 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[Education Program Coordinator](https://jobright.ai/jobs/info/69d30a8a891d7b11cfcedb55?utm_campaign=1057&utm_source=git)** | Richmond Hill, ON | On Site | Apr 05 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 05 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d2e372cdb525785fbbb847?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 05 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/699ffe53ce78e77b4fe617de?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Apr 05 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Intramural Sports Professional Intern](https://jobright.ai/jobs/info/697f0c16ce48107c05432b55?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 05 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d2341a366bb95ba552c8ff?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 05 |
-| **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d233fecfdc6132f94499c5?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d22560366bb95ba552c76e?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 05 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Testing & Proctoring Office Assistant](https://jobright.ai/jobs/info/69d2436d891d7b11cfce9d41?utm_campaign=1057&utm_source=git)** | Longview, WA | On Site | Apr 05 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/69d1e8a70b098b7a670851f9?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Waubonsee Community College](http://waubonsee.edu)** | **[Adult Education Administrative Assistant](https://jobright.ai/jobs/info/69d18fe754f00230c6d1aad9?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Apr 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d18dcf54f00230c6d1aac5?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 04 |
 | **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[Secretary to the Principal (Elementary) Centennial 26-27 School Year](https://jobright.ai/jobs/info/69d17fae0b098b7a67081f97?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Apr 04 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Commercial Internship](https://jobright.ai/jobs/info/69d17f6fcdb525785fbb2e13?utm_campaign=1057&utm_source=git)** | Birmingham, MI | On Site | Apr 04 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Olivet Missionary Baptist Church/Camp Counselor](https://jobright.ai/jobs/info/69d17ac0cdb525785fbb2863?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d05a18891d7b11cfcdabae?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Apr 03 |
 | **[Kaplan](http://www.kaplan.com)** | **[Innovations Cross-Functional, Intern](https://jobright.ai/jobs/info/69bc4ebe5b89c002acf1c627?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69d05853891d7b11cfcdaac7?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Behavioral Health DuPage](https://jobright.ai/jobs/info/698c0344e4f6572f0e43fc46?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
