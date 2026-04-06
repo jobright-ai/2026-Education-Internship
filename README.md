@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d37d66891d7b11cfcf15aa?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 06 |
 | **[County of Ventura](http://www.ventura.org)** | **[High School Intern - Summer at the County 2026](https://jobright.ai/jobs/info/69d369ec891d7b11cfcf0dfb?utm_campaign=1057&utm_source=git)** | Ventura County, CA | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Learning Experience - Flow of Work and Personalization Intern](https://jobright.ai/jobs/info/69d08f58cdb525785fbab849?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Apr 03 |
 | **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[4-H Summer Program Aide/Intern](https://jobright.ai/jobs/info/69d332320b098b7a6708c9ac?utm_campaign=1057&utm_source=git)** | Boulder County, CO | On Site | Apr 03 |
 | **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Specialty Area School_Nurse, School (RN / LPN) (International Student Center) 2026-2027](https://jobright.ai/jobs/info/69d3323c366bb95ba5531a1f?utm_campaign=1057&utm_source=git)** | Decatur, GA | On Site | Apr 03 |
-| **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Graduate (Office of the County Executive / Board of Supervisors)](https://jobright.ai/jobs/info/69d088becdb525785fbab52d?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Apr 03 |
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[CTE Business/Marketing Teacher – Doss High School (2026-2027) Job ID: 39014 Start Time 8:40AM](https://jobright.ai/jobs/info/69d32d49891d7b11cfcee6b3?utm_campaign=1057&utm_source=git)** | Louisville Metro | On Site | Apr 03 |
 | **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69d087ca366bb95ba551f4cc?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/69d07fb4cfdc6132f943bfe6?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | Hybrid | Apr 03 |
