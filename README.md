@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69d41bcfcdb525785fbc6210?utm_campaign=1057&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 06 |
+| **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Managed Care & Corporate Development / Part Time](https://jobright.ai/jobs/info/69d416b4cfdc6132f94575f1?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 06 |
+| **[Douglas County School District](https://www.dcsdk12.org/)** | **[Counselor Intern - Fall Semester 2026](https://jobright.ai/jobs/info/69d4143554f00230c6d2ddc6?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Apr 06 |
+| **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Sports Management Internship - Ballparks of America/Sho-Me](https://jobright.ai/jobs/info/69d41132cdb525785fbc5edf?utm_campaign=1057&utm_source=git)** | Branson,MO,US | On Site | Apr 06 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern - Main Cardio-Pulmonary Stepdown - Full Time - Nights](https://jobright.ai/jobs/info/69d40d3454f00230c6d2daa2?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 06 |
 | **[Norwalk Public Schools](https://www.norwalkps.org/applynow)** | **[Board Certified Behavior Analyst - BCBA (2025-2026 SY)](https://jobright.ai/jobs/info/69d40a5e891d7b11cfcf6d26?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Apr 06 |
 | **[City of Pearland, Texas](http://pearlandtx.gov)** | **[Fire Department Outreach Intern](https://jobright.ai/jobs/info/69d408eb891d7b11cfcf6c96?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Apr 06 |
@@ -74,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69d3f42854f00230c6d2cb22?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
+| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
@@ -97,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Clinical Intern (MSW, MHC, MFT)](https://jobright.ai/jobs/info/69d3dbd0cfdc6132f94550e9?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d3d647cfdc6132f9454d8c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director - Dietetic Internship Program](https://jobright.ai/jobs/info/69d3d262cdb525785fbc36d3?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 06 |
-| **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d3d0aecfdc6132f94549fc?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 06 |
 | **[Sienna Senior Living](https://www.siennaliving.ca/)** | **[Summer Internship - 2026 Cohort (Corporate)](https://jobright.ai/jobs/info/69d3cedecfdc6132f94548b0?utm_campaign=1057&utm_source=git)** | Markham, ON | On Site | Apr 06 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Respiratory Therapist Internship, Opportunities at Multiple Campuses](https://jobright.ai/jobs/info/69d3cec5366bb95ba55376d3?utm_campaign=1057&utm_source=git)** | Phillipsburg, NJ - 185 Roseberry St | On Site | Apr 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/69d3c89fe63cea7a8b652cb4?utm_campaign=1057&utm_source=git)** | Home, KS | Remote | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/69d18fdf366bb95ba5527017?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Apr 04 |
 | **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[Secretary to the Principal (Elementary) Centennial 26-27 School Year](https://jobright.ai/jobs/info/69d17fae0b098b7a67081f97?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Apr 04 |
 | **[Pretium Packaging](http://www.pretiumpkg.com/)** | **[Commercial Internship](https://jobright.ai/jobs/info/69d17f6fcdb525785fbb2e13?utm_campaign=1057&utm_source=git)** | Birmingham, MI | On Site | Apr 04 |
-| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Olivet Missionary Baptist Church/Camp Counselor](https://jobright.ai/jobs/info/69d17ac0cdb525785fbb2863?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 04 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69d17186cdb525785fbb27c2?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 04 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[CLA Ignite Intern - Summer 2026 - King of Prussia, PA](https://jobright.ai/jobs/info/69b5663206c1ba00c5471653?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
