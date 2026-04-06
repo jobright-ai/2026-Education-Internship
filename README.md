@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Athletic Association](http://www.baa.org)** | **[Community Outreach & Programming Intern](https://jobright.ai/jobs/info/69d3dea8366bb95ba55380df?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Clinical Intern (MSW, MHC, MFT)](https://jobright.ai/jobs/info/69d3dbd0cfdc6132f94550e9?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d3d647cfdc6132f9454d8c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director - Dietetic Internship Program](https://jobright.ai/jobs/info/69d3d262cdb525785fbc36d3?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 06 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d3d0aecfdc6132f94549fc?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 06 |
 | **[Sienna Senior Living](https://www.siennaliving.ca/)** | **[Summer Internship - 2026 Cohort (Corporate)](https://jobright.ai/jobs/info/69d3cedecfdc6132f94548b0?utm_campaign=1057&utm_source=git)** | Markham, ON | On Site | Apr 06 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Adjunct Faculty, Engineering](https://jobright.ai/jobs/info/69d392270b098b7a670901c5?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Apr 06 |
 | ↳ | **[ASDOH - Student Research Assistant](https://jobright.ai/jobs/info/69d39235cdb525785fbc0f54?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 06 |
 | ↳ | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69d392bc891d7b11cfcf1f0a?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 06 |
-| ↳ | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d39215cfdc6132f9452406?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Apr 06 |
 | ↳ | **[Assistant Professor - Computer Science and Software Engineering (AY 26/27)](https://jobright.ai/jobs/info/69d3921654f00230c6d28be6?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 06 |
+| ↳ | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d39215cfdc6132f9452406?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Apr 06 |
 | ↳ | **[Instructor, 3D/2D Design](https://jobright.ai/jobs/info/69d39210366bb95ba5535331?utm_campaign=1057&utm_source=git)** | Los Altos Hills, CA | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stepful](https://www.stepful.com/)** | **[Learning Program Manager](https://jobright.ai/jobs/info/69d0ecfb0b098b7a6707e842?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0e2a40b098b7a6707e6ab?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
 | ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0e282cdb525785fbaf5f1?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Apr 04 |
-| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbc891d7b11cfce0275?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
-| ↳ | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/69d0dcbb891d7b11cfce0273?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Professor of Supply Chain Management (SCM)](https://jobright.ai/jobs/info/69d0f33b366bb95ba5523c0d?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
