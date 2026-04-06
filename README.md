@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Ventura](http://www.ventura.org)** | **[High School Intern - Summer at the County 2026](https://jobright.ai/jobs/info/69d369ec891d7b11cfcf0dfb?utm_campaign=1057&utm_source=git)** | Ventura County, CA | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
 | **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d3310f891d7b11cfcee72c?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Starting Point Internship, Bucks County (Fall 2026/Spring 2027)](https://jobright.ai/jobs/info/69d04bcacdb525785fba9610?utm_campaign=1057&utm_source=git)** | Warminster, PA | On Site | Apr 03 |
 | ↳ | **[Internship: Street Medicine (Summer 2026)](https://jobright.ai/jobs/info/69d04bc9cdb525785fba960d?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Associate Dean for Advancement - Grainger Engineering](https://jobright.ai/jobs/info/69d04a75cfdc6132f943a527?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 03 |
-| **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69d046fa0b098b7a670784e3?utm_campaign=1057&utm_source=git)** | LaVergne, Tennessee | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
