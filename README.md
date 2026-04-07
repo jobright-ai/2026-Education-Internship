@@ -146,8 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f339366bb95ba5538f7d?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33654f00230c6d2c9d1?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f333e63cea7a8b655109?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
-| **[City of Olathe](https://www.olatheks.org/)** | **[Daily Programs Intern](https://jobright.ai/jobs/info/69d3f33154f00230c6d2c9bb?utm_campaign=1057&utm_source=git)** | Mahaffie Stagecoach Stop And Farm | On Site | Apr 06 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Undergraduate Engagement Coordinator - Engineering Administration](https://jobright.ai/jobs/info/69d3eeb054f00230c6d2c8bf?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 06 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Coordinator - Surgery](https://jobright.ai/jobs/info/69d3eea1366bb95ba5538e1b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Supply Chain Learning & Development Intern](https://jobright.ai/jobs/info/69d3eb32366bb95ba5538aee?utm_campaign=1057&utm_source=git)** | US, Arlington, VA | Hybrid | Apr 06 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Peer Advising Leader (Health Professions)](https://jobright.ai/jobs/info/69d3e6fecfdc6132f9455976?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Apr 06 |
 | **[Harrow](https://www.harrowinc.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69d3e66c366bb95ba5538837?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Boston Athletic Association](http://www.baa.org)** | **[Community Outreach & Programming Intern](https://jobright.ai/jobs/info/69d3dea8366bb95ba55380df?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d3d647cfdc6132f9454d8c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
