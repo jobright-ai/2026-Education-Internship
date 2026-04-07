@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Bellevue School District](https://bsd405.org/)** | **[INSTRUCTIONAL TECHNOLOGY CURRICULUM LEADER(S) 2026-27 (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/69d4794dcfdc6132f945b31f?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[Punahou School](https://www.punahou.edu)** | **[Administrative Assistant, Summer School - Junior School, Grades K-8](https://jobright.ai/jobs/info/69d47770cdb525785fbc9a7b?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 06 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director of Workforce Education, UNLV Career and Life Design [R0151148]](https://jobright.ai/jobs/info/69d474ef891d7b11cfcfa8d3?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 06 |
-| **[Operation Food Search](https://www.operationfoodsearch.org/)** | **[Child Nutrition Summer Intern](https://jobright.ai/jobs/info/69d49695cdb525785fbcb107?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69d47199cfdc6132f945adf0?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[2026-27 International Baccalaureate Coordinator (TOA) - Quail Run ES](https://jobright.ai/jobs/info/69d46b70e63cea7a8b65960b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 06 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Internal Scholarships Coordinator](https://jobright.ai/jobs/info/69d46b58366bb95ba553d384?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 06 |
@@ -139,10 +138,10 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69d3f42854f00230c6d2cb22?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
 | **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
+| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
+| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f339366bb95ba5538f7d?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33654f00230c6d2c9d1?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Supply Chain Learning & Development Intern](https://jobright.ai/jobs/info/69d3eb32366bb95ba5538aee?utm_campaign=1057&utm_source=git)** | US, Arlington, VA | Hybrid | Apr 06 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Peer Advising Leader (Health Professions)](https://jobright.ai/jobs/info/69d3e6fecfdc6132f9455976?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Apr 06 |
 | **[Harrow](https://www.harrowinc.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69d3e66c366bb95ba5538837?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Boston Athletic Association](http://www.baa.org)** | **[Community Outreach & Programming Intern](https://jobright.ai/jobs/info/69d3dea8366bb95ba55380df?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
