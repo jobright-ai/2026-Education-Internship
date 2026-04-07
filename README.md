@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPS Health Network](https://jpshealthnet.org)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69d040480b098b7a67077df5?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 06 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Training Design Intern](https://jobright.ai/jobs/info/69d47c44891d7b11cfcfadba?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Apr 06 |
 | **[Bellevue School District](https://bsd405.org/)** | **[INSTRUCTIONAL TECHNOLOGY CURRICULUM LEADER(S) 2026-27 (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/69d4794dcfdc6132f945b31f?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[Punahou School](https://www.punahou.edu)** | **[Administrative Assistant, Summer School - Junior School, Grades K-8](https://jobright.ai/jobs/info/69d47770cdb525785fbc9a7b?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 06 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Dalhousie University](http://www.dal.ca/)** | **[Part-Time Academic (VTEC-0131 Internship in Veterinary Technology) - Summer 2026](https://jobright.ai/jobs/info/69d3f7dc366bb95ba5539347?utm_campaign=1057&utm_source=git)** | Truro, NS | On Site | Apr 06 |
 | **[Crown Holdings, Inc.](http://crowncork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d3f6b3891d7b11cfcf5eac?utm_campaign=1057&utm_source=git)** | Nichols, NY | On Site | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69d3f42854f00230c6d2cb22?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
+| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
+| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Peer Advising Leader (Health Professions)](https://jobright.ai/jobs/info/69d3e6fecfdc6132f9455976?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Apr 06 |
 | **[Harrow](https://www.harrowinc.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/69d3e66c366bb95ba5538837?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Boston Athletic Association](http://www.baa.org)** | **[Community Outreach & Programming Intern](https://jobright.ai/jobs/info/69d3dea8366bb95ba55380df?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Clinical Intern (MSW, MHC, MFT)](https://jobright.ai/jobs/info/69d3dbd0cfdc6132f94550e9?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69d3dbd0cfdc6132f94550e9?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Apr 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d3d647cfdc6132f9454d8c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director - Dietetic Internship Program](https://jobright.ai/jobs/info/69d3d262cdb525785fbc36d3?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 06 |
 | **[Sienna Senior Living](https://www.siennaliving.ca/)** | **[Summer Internship - 2026 Cohort (Corporate)](https://jobright.ai/jobs/info/69d3cedecfdc6132f94548b0?utm_campaign=1057&utm_source=git)** | Markham, ON | On Site | Apr 06 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Respiratory Therapist Internship, Opportunities at Multiple Campuses](https://jobright.ai/jobs/info/69d3cec5366bb95ba55376d3?utm_campaign=1057&utm_source=git)** | Phillipsburg, NJ - 185 Roseberry St | On Site | Apr 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69d3c890cdb525785fbc270d?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Apr 06 |
-| ↳ | **[Hybrid Visiting Professor of International Business](https://jobright.ai/jobs/info/69d3c88ecdb525785fbc2709?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
