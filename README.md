@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69d507a4cfdc6132f945f5c6?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Apr 07 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student Nurse Associate-Summer Intern, Behavioral Health](https://jobright.ai/jobs/info/69d503d1366bb95ba55420a7?utm_campaign=1057&utm_source=git)** | Carmel, NY | On Site | Apr 07 |
+| ↳ | **[Student Nurse Associate-Summer Intern, Med/Surg](https://jobright.ai/jobs/info/69d503bde63cea7a8b65e34a?utm_campaign=1057&utm_source=git)** | Carmel, NY | On Site | Apr 07 |
+| **[Tennessee Department of Correction](https://www.tn.gov/correction)** | **[TDOC 2026 REHABILITATIVE SERVICES INTERNSHIP-SUMMER-INTERNSHIP-03102026-75956](https://jobright.ai/jobs/info/69cc6f2d8130af1ac83386e8?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 07 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/697f0c8bce48107c05432bbd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 07 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Modern Youth Apprentice (High School Students)](https://jobright.ai/jobs/info/69d4f866706f771673b9fe12?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Apr 07 |
@@ -142,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Dalhousie University](http://www.dal.ca/)** | **[Part-Time Academic (VTEC-0131 Internship in Veterinary Technology) - Summer 2026](https://jobright.ai/jobs/info/69d3f7dc366bb95ba5539347?utm_campaign=1057&utm_source=git)** | Truro, NS | On Site | Apr 06 |
 | **[Crown Holdings, Inc.](http://crowncork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d3f6b3891d7b11cfcf5eac?utm_campaign=1057&utm_source=git)** | Nichols, NY | On Site | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69d3f42854f00230c6d2cb22?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
+| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
+| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
+| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33654f00230c6d2c9d1?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Undergraduate Engagement Coordinator - Engineering Administration](https://jobright.ai/jobs/info/69d3eeb054f00230c6d2c8bf?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 06 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Coordinator - Surgery](https://jobright.ai/jobs/info/69d3eea1366bb95ba5538e1b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Norfolk State University](https://jobright.ai/jobs/info/69d3eba5cdb525785fbc47cb?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Apr 06 |
-| **[Operation Food Search](https://www.operationfoodsearch.org/)** | **[Child Nutrition Summer Intern](https://jobright.ai/jobs/info/69d3eb83366bb95ba5538c8a?utm_campaign=1057&utm_source=git)** | St Louis,MO,US | On Site | Apr 06 |
-| **[Bell Lumber and Pole Company](http://blpole.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69d3eb4c891d7b11cfcf58be?utm_campaign=1057&utm_source=git)** | New Brighton, MN, US | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
