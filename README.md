@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69d441d854f00230c6d2fabc?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Apr 06 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (S. Wang/A. Bowers)](https://jobright.ai/jobs/info/69d4409854f00230c6d2fa64?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| ↳ | **[Student Intern (A. Bowers/S. Wang)](https://jobright.ai/jobs/info/69d43df6cfdc6132f9459187?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d43ddecfdc6132f9459177?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 06 |
+| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d43dbbe63cea7a8b658132?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 06 |
+| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Youth Specialist Intern- Paid](https://jobright.ai/jobs/info/69d43a02e63cea7a8b65802f?utm_campaign=1057&utm_source=git)** | Biddle - Wyandotte, MI 48192 | Hybrid | Apr 06 |
+| **[TSAOG Orthopaedics & Spine](http://tsaog.com)** | **[Physical Therapy Technician - Internship - PART TIME](https://jobright.ai/jobs/info/69d439bf366bb95ba553bd7a?utm_campaign=1057&utm_source=git)** | New Braunfels,TX,US | On Site | Apr 06 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43934cfdc6132f9458f0d?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Apr 06 |
+| **[Olympus Insurance Company](http://www.olympusinsurance.com/)** | **[Agency Experience Intern](https://jobright.ai/jobs/info/69d43930cdb525785fbc7a3f?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 06 |
+| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d4392f54f00230c6d2f71a?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Apr 06 |
+| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d4392b54f00230c6d2f705?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Apr 06 |
+| **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Whole Family Intern- Paid](https://jobright.ai/jobs/info/69d43926cdb525785fbc7a07?utm_campaign=1057&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 06 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43696366bb95ba553b6fe?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43696366bb95ba553b706?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43694cdb525785fbc7384?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Apr 06 |
@@ -100,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
+| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f339366bb95ba5538f7d?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33654f00230c6d2c9d1?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
@@ -141,20 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Adjunct Faculty, Engineering](https://jobright.ai/jobs/info/69d392270b098b7a670901c5?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Apr 06 |
 | ↳ | **[ASDOH - Student Research Assistant](https://jobright.ai/jobs/info/69d39235cdb525785fbc0f54?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 06 |
 | ↳ | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69d392bc891d7b11cfcf1f0a?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 06 |
-| ↳ | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d39215cfdc6132f9452406?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Apr 06 |
 | ↳ | **[Assistant Professor - Computer Science and Software Engineering (AY 26/27)](https://jobright.ai/jobs/info/69d3921654f00230c6d28be6?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 06 |
+| ↳ | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d39215cfdc6132f9452406?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Apr 06 |
 | ↳ | **[Instructor, 3D/2D Design](https://jobright.ai/jobs/info/69d39210366bb95ba5535331?utm_campaign=1057&utm_source=git)** | Los Altos Hills, CA | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d33e2bcdb525785fbbdfbb?utm_campaign=1057&utm_source=git)** | Bronx, NY, US | On Site | Apr 05 |
-| **[Town of Cary](https://www.carync.gov/)** | **[SUMMER TENNIS INTERN- SEASONAL](https://jobright.ai/jobs/info/69d3310f891d7b11cfcee72c?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 05 |
-| **[Volunteer Success](http://volunteersuccess.com)** | **[Education Program Coordinator](https://jobright.ai/jobs/info/69d30a8a891d7b11cfcedb55?utm_campaign=1057&utm_source=git)** | Richmond Hill, ON | On Site | Apr 05 |
-| **[Community Access](https://www.communityaccess.org)** | **[IMT Peer Specialist Intern](https://jobright.ai/jobs/info/69d386dc891d7b11cfcf1704?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 05 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 05 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d2e22fcfdc6132f944cbac?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 05 |
-| **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69d2d957cfdc6132f944bc7f?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 05 |
-| **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69d2ccb454f00230c6d22507?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 05 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Lecturer - Human Resources and General Management](https://jobright.ai/jobs/info/69d2c66ccdb525785fbba833?utm_campaign=1057&utm_source=git)** | Powers, OR | On Site | Apr 05 |
-| **[United Way of Utah County](https://unitedwayuc.org)** | **[Summer Learning Program Coordinator](https://jobright.ai/jobs/info/69d29bd6366bb95ba552e820?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Apr 05 |
-| **[Wiz](https://www.wiz.io)** | **[Sr. Manager, Technical Learning Design and Development](https://jobright.ai/jobs/info/6961cb9ef3f4cd132506cd4f?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 05 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
