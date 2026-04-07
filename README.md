@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacEwan University](http://www.MacEwan.ca)** | **[Administrative Assistant, Academic Operations - Faculty of Fine Arts and Communications](https://jobright.ai/jobs/info/69d52292cdb525785fbce7a5?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d520ed891d7b11cfcff872?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Nephrology (Per Diem)-26258](https://jobright.ai/jobs/info/69d51fa8891d7b11cfcff837?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
+| **[University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/suicide)** | **[Assistant Professor - Research Track - Epigenetics Research Professor](https://jobright.ai/jobs/info/69d51cfce63cea7a8b65ebab?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
+| ↳ | **[Assistant/Associate Professor of Small Animal Internal Medicine – Clinician Educator (CE)](https://jobright.ai/jobs/info/69d51ce2706f771673ba09a9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
+| ↳ | **[Assistant/Associate Professor of Clinical Small Animal Internal Medicine - Academic Clinician (AC)](https://jobright.ai/jobs/info/69d51cd0cdb525785fbce565?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
+| ↳ | **[Assistant Professor (Ophthalmology Research Track)](https://jobright.ai/jobs/info/69d51ccb891d7b11cfcff6d9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
+| ↳ | **[Associate Professor, CE or Tenure Track Research Scientist, Pediatric Rehabilitation (CHOP)](https://jobright.ai/jobs/info/69d51bd2cfdc6132f945fbb9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
+| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Supervision, Credit Risk, and Statistics Intern 2026](https://jobright.ai/jobs/info/69cdec8454f00230c6cf846d?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 07 |
 | **[Nutramax Laboratories](http://www.nutramaxlabs.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69d51797e63cea7a8b65e9bc?utm_campaign=1057&utm_source=git)** | Lancaster, SC | On Site | Apr 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Youth Program Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab601b5ad02887377caf?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Sports Education/Training Intern](https://jobright.ai/jobs/info/69d515d4891d7b11cfcff489?utm_campaign=1057&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 07 |
@@ -101,8 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Ethos Treatment, LLC](https://www.ethostreatment.com)** | **[Internship Program for Multiple Locations](https://jobright.ai/jobs/info/69d44582cdb525785fbc7f7b?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 06 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Community and Engagement Intern](https://jobright.ai/jobs/info/69cca9f4e1921223acc7b860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69d441d854f00230c6d2fabc?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Apr 06 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (S. Wang/A. Bowers)](https://jobright.ai/jobs/info/69d4409854f00230c6d2fa64?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| ↳ | **[Student Intern (A. Bowers/S. Wang)](https://jobright.ai/jobs/info/69d43df6cfdc6132f9459187?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d43ddecfdc6132f9459177?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 06 |
 | ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d43dbbe63cea7a8b658132?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 06 |
 | **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Youth Specialist Intern- Paid](https://jobright.ai/jobs/info/69d43a02e63cea7a8b65802f?utm_campaign=1057&utm_source=git)** | Biddle - Wyandotte, MI 48192 | Hybrid | Apr 06 |
@@ -114,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43696366bb95ba553b6fe?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43696366bb95ba553b706?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d43694cdb525785fbc7384?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d4368de63cea7a8b65792f?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Apr 06 |
 | ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d4368ae63cea7a8b65792d?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Apr 06 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d43395891d7b11cfcf8346?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 06 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Lecturer in Department of Accounting](https://jobright.ai/jobs/info/69d4333754f00230c6d2efc4?utm_campaign=1057&utm_source=git)** | Boone, NC | Remote | Apr 06 |
@@ -134,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Supply Chain Learning & Development Intern](https://jobright.ai/jobs/info/69d41c71cdb525785fbc666a?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Apr 06 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Managed Care & Corporate Development / Part Time](https://jobright.ai/jobs/info/69d416b4cfdc6132f94575f1?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 06 |
 | **[Douglas County School District](https://www.dcsdk12.org/)** | **[Counselor Intern - Fall Semester 2026](https://jobright.ai/jobs/info/69d4143554f00230c6d2ddc6?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Apr 06 |
+| **[Leidos](https://www.leidos.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69d525cecdb525785fbce830?utm_campaign=1057&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 06 |
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Sports Management Internship - Ballparks of America/Sho-Me](https://jobright.ai/jobs/info/69d41132cdb525785fbc5edf?utm_campaign=1057&utm_source=git)** | Branson,MO,US | On Site | Apr 06 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern - Main Cardio-Pulmonary Stepdown - Full Time - Nights](https://jobright.ai/jobs/info/69d40d3454f00230c6d2daa2?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 06 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern](https://jobright.ai/jobs/info/69d42dcde63cea7a8b65760f?utm_campaign=1057&utm_source=git)** | Warren, RI | On Site | Apr 06 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dalhousie University](http://www.dal.ca/)** | **[Part-Time Academic (VTEC-0131 Internship in Veterinary Technology) - Summer 2026](https://jobright.ai/jobs/info/69d3f7dc366bb95ba5539347?utm_campaign=1057&utm_source=git)** | Truro, NS | On Site | Apr 06 |
 | **[Crown Holdings, Inc.](http://crowncork.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d3f6b3891d7b11cfcf5eac?utm_campaign=1057&utm_source=git)** | Nichols, NY | On Site | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69d3f42854f00230c6d2cb22?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
-| **[Centerstone](https://centerstone.org/)** | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca6?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f9456090?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f34bcfdc6132f945608c?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | On Site | Apr 06 |
-| ↳ | **[Clinical Master Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b61?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f348cdb525785fbc4b60?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f33a54f00230c6d2c9dc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | On Site | Apr 06 |
-| ↳ | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f339366bb95ba5538f7d?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | On Site | Apr 06 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Fall Semester](https://jobright.ai/jobs/info/69d3f362891d7b11cfcf5ca7?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
