@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Special Olympics Alaska](www.specialolympicsalaska.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69d4520654f00230c6d30032?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 06 |
+| **[Alameda Unified School District](http://www.alamedaunified.org)** | **[SPED - Year 3 Psychologist Intern - 2 days per week (Stipend) 2026/27 SY](https://jobright.ai/jobs/info/69d44b28cfdc6132f94596f4?utm_campaign=1057&utm_source=git)** | Alameda County, CA | On Site | Apr 06 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Training Design Intern](https://jobright.ai/jobs/info/69d44aa5366bb95ba553c2c2?utm_campaign=1057&utm_source=git)** | US - CO, Westminster | On Site | Apr 06 |
+| **[Ethos Treatment, LLC](https://www.ethostreatment.com)** | **[Internship Program for Multiple Locations](https://jobright.ai/jobs/info/69d44582cdb525785fbc7f7b?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 06 |
+| **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Community and Engagement Intern](https://jobright.ai/jobs/info/69cca9f4e1921223acc7b860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69d441d854f00230c6d2fabc?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Apr 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (S. Wang/A. Bowers)](https://jobright.ai/jobs/info/69d4409854f00230c6d2fa64?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | ↳ | **[Student Intern (A. Bowers/S. Wang)](https://jobright.ai/jobs/info/69d43df6cfdc6132f9459187?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
@@ -83,7 +88,8 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Returning Learning & Development Intern- For Current or Previous HNTB Interns Only](https://jobright.ai/jobs/info/69d42cf4e63cea7a8b65746e?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (S. Wang/A. Bowers)](https://jobright.ai/jobs/info/69d42924cfdc6132f9458441?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Apr 06 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d4285154f00230c6d2eb63?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 06 |
-| ↳ | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 06 |
+| **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Community Health Education Intern](https://jobright.ai/jobs/info/69bc670f4828227293fe35b5?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Apr 06 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 06 |
 | **[Adams and Associates, Inc.](https://www.adamsaai.com/)** | **[Summer Intern (61539)](https://jobright.ai/jobs/info/69d424c4cfdc6132f94581ec?utm_campaign=1057&utm_source=git)** | Exeter - Exeter, RI 02822 | On Site | Apr 06 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Behavioral Intern (Twin Lakes Behavioral Health)](https://jobright.ai/jobs/info/69d41e1b54f00230c6d2e5ac?utm_campaign=1057&utm_source=git)** | Somerset, PA | On Site | Apr 06 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69d41ce4e63cea7a8b656d69?utm_campaign=1057&utm_source=git)** | Middletown, NY 10940, USA | On Site | Apr 06 |
@@ -122,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 06 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Undergraduate Engagement Coordinator - Engineering Administration](https://jobright.ai/jobs/info/69d3eeb054f00230c6d2c8bf?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 06 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Coordinator - Surgery](https://jobright.ai/jobs/info/69d3eea1366bb95ba5538e1b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
-| **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Director of Internship and Training](https://jobright.ai/jobs/info/69d40d09891d7b11cfcf6e1a?utm_campaign=1057&utm_source=git)** | Laconia, NH | Hybrid | Apr 06 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Norfolk State University](https://jobright.ai/jobs/info/69d3eba5cdb525785fbc47cb?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | Apr 06 |
 | **[Operation Food Search](https://www.operationfoodsearch.org/)** | **[Child Nutrition Summer Intern](https://jobright.ai/jobs/info/69d3eb83366bb95ba5538c8a?utm_campaign=1057&utm_source=git)** | St Louis,MO,US | On Site | Apr 06 |
 | **[Bell Lumber and Pole Company](http://blpole.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69d3eb4c891d7b11cfcf58be?utm_campaign=1057&utm_source=git)** | New Brighton, MN, US | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d37d66891d7b11cfcf15aa?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 06 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Adjunct Faculty, Engineering](https://jobright.ai/jobs/info/69d392270b098b7a670901c5?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Apr 06 |
 | ↳ | **[ASDOH - Student Research Assistant](https://jobright.ai/jobs/info/69d39235cdb525785fbc0f54?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 06 |
-| ↳ | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69d392bc891d7b11cfcf1f0a?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 06 |
-| ↳ | **[Assistant Professor - Computer Science and Software Engineering (AY 26/27)](https://jobright.ai/jobs/info/69d3921654f00230c6d28be6?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 06 |
-| ↳ | **[Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d39215cfdc6132f9452406?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Apr 06 |
-| ↳ | **[Instructor, 3D/2D Design](https://jobright.ai/jobs/info/69d39210366bb95ba5535331?utm_campaign=1057&utm_source=git)** | Los Altos Hills, CA | On Site | Apr 06 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69c90a641818a24cd84d95ab?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
