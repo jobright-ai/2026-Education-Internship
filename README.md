@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Senior Director for Student Support, Dr William W. Sullivan, Center for Academic Enrichment and Outreach [R0151180]](https://jobright.ai/jobs/info/69d460eecdb525785fbc8ca2?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 06 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-HTM](https://jobright.ai/jobs/info/69d45b0be63cea7a8b65908a?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern-HTM](https://jobright.ai/jobs/info/69d4552e891d7b11cfcf947b?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-HTM](https://jobright.ai/jobs/info/69d4552d891d7b11cfcf946b?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Special Olympics Alaska](www.specialolympicsalaska.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69d4520654f00230c6d30032?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 06 |
 | **[Alameda Unified School District](http://www.alamedaunified.org)** | **[SPED - Year 3 Psychologist Intern - 2 days per week (Stipend) 2026/27 SY](https://jobright.ai/jobs/info/69d44b28cfdc6132f94596f4?utm_campaign=1057&utm_source=git)** | Alameda County, CA | On Site | Apr 06 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Training Design Intern](https://jobright.ai/jobs/info/69d44aa5366bb95ba553c2c2?utm_campaign=1057&utm_source=git)** | US - CO, Westminster | On Site | Apr 06 |
 | **[Ethos Treatment, LLC](https://www.ethostreatment.com)** | **[Internship Program for Multiple Locations](https://jobright.ai/jobs/info/69d44582cdb525785fbc7f7b?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 06 |
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Community and Engagement Intern](https://jobright.ai/jobs/info/69cca9f4e1921223acc7b860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
+| **[University of Southern California](http://www.usc.edu)** | **[AFS Program Coordinator](https://jobright.ai/jobs/info/69cca9e9e1921223acc7b852?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 06 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69d441d854f00230c6d2fabc?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Apr 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (S. Wang/A. Bowers)](https://jobright.ai/jobs/info/69d4409854f00230c6d2fa64?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | ↳ | **[Student Intern (A. Bowers/S. Wang)](https://jobright.ai/jobs/info/69d43df6cfdc6132f9459187?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d3c7c054f00230c6d29f42?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 06 |
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/69d3c7b3cfdc6132f9453713?utm_campaign=1057&utm_source=git)** | Austin, TX, USA | On Site | Apr 06 |
 | **[Air Mobility Command](https://www.amc.af.mil/)** | **[CHILD DEVELOPMENT PROGRAM ASSISTANT (Multilevel) - LAKEHURST.](https://jobright.ai/jobs/info/69d3ae51e63cea7a8b652069?utm_campaign=1057&utm_source=git)** | Lakehurst, NJ | On Site | Apr 06 |
-| ↳ | **[CHILD DEVELOPMENT PROGRAM ASSISTANT (Multilevel) - DIX.](https://jobright.ai/jobs/info/69d3a73a366bb95ba55357bc?utm_campaign=1057&utm_source=git)** | Fort Dix, NJ | On Site | Apr 06 |
-| **[United States Space Force](https://www.spaceforce.mil/)** | **[Child and Youth Program Assistant (Child Development Center).](https://jobright.ai/jobs/info/69d3a4cdcfdc6132f94528a3?utm_campaign=1057&utm_source=git)** | Vandenberg Village, CA | On Site | Apr 06 |
-| **[City of Durham](https://www.durhamnc.gov)** | **[Clinical Intern – Temporary](https://jobright.ai/jobs/info/69d37d66891d7b11cfcf15aa?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 06 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Adjunct Faculty, Engineering](https://jobright.ai/jobs/info/69d392270b098b7a670901c5?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Apr 06 |
-| ↳ | **[ASDOH - Student Research Assistant](https://jobright.ai/jobs/info/69d39235cdb525785fbc0f54?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
