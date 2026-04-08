@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fashion Institute of Technology](http://www.fitnyc.edu/)** | **[Part-Time Career and Internship Counselor (2 Positions)](https://jobright.ai/jobs/info/69ba9876569738374140583b?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69bb879d3b74eb1e2c89f533?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 08 |
+| **[Salud Para La Gente](https://www.splg.org/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69d6338e366bb95ba554bcb8?utm_campaign=1057&utm_source=git)** | Watsonville, CA | Hybrid | Apr 08 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Home Run Program](https://jobright.ai/jobs/info/69d63197706f771673ba9cfd?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 08 |
 | **[Stealth Startup](http://stealthstartup.com)** | **[Math Teaching Intern (K–8 After-School Enrichment)](https://jobright.ai/jobs/info/69d6316e48f0c8161d2f6ef8?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Apr 08 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Parks & Recreation](https://jobright.ai/jobs/info/69d630c8cfdc6132f946901a?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53229891d7b11cfd0000c?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Apr 07 |
 | **[Willow Creek Behavioral Health](https://willowcreekbh.com)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69d53202cdb525785fbcedec?utm_campaign=1057&utm_source=git)** | Green Bay, WI | On Site | Apr 07 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d531dfcfdc6132f94604cc?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Apr 07 |
-| **[BWXT](http://www.bwxt.com/)** | **[(DOD) Skillbridge Training Manager Intern](https://jobright.ai/jobs/info/69d53071cdb525785fbced62?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Apr 07 |
-| **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Instructional Professor and Department Head of Engineering Medicine Education](https://jobright.ai/jobs/info/699cd71081476f6176b56316?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 07 |
-| **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Practicum Student Intern](https://jobright.ai/jobs/info/69d52e2f891d7b11cfcffd9b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
