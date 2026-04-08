@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Lecturer AY - International Business & Marketing](https://jobright.ai/jobs/info/69d65c7f48f0c8161d2f777c?utm_campaign=1057&utm_source=git)** | Pomona, CA | On Site | Apr 08 |
+| **[University of Toronto Scarborough](https://www.utsc.utoronto.ca)** | **[Assistant Professor - Computational Biology and Data Science](https://jobright.ai/jobs/info/69d65c7a48f0c8161d2f777a?utm_campaign=1057&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Neonatal NP Intern / Detroit](https://jobright.ai/jobs/info/69d64e6448f0c8161d2f7474?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Apr 08 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Staff Pool](https://jobright.ai/jobs/info/69d6490748f0c8161d2f7328?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Apr 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2026-2027 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/69ba7ea006c1ba00c54c7afd?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 08 |
@@ -144,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Bentley University](http://www.bentley.edu/)** | **[Graduate Intern for Center for International Students and Scholars (temporary, part-time)](https://jobright.ai/jobs/info/69b8855156973837413de91a?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Apr 07 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-op - Preferred Candidate](https://jobright.ai/jobs/info/69d54962cfdc6132f9460ee1?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta | Hybrid | Apr 07 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/69d548a8e63cea7a8b65fdb5?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | Apr 07 |
-| **[Columbus Early Learning Centers](http://www.columbusearlylearning.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69d540fe706f771673ba1a65?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 07 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Parks & Recreation](https://jobright.ai/jobs/info/69d540ed891d7b11cfd0072e?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 07 |
 | ↳ | **[Summer STEPS Student Intern - Home Run Program](https://jobright.ai/jobs/info/69d540e3cfdc6132f9460c33?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 07 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/69d53dea706f771673ba1851?utm_campaign=1057&utm_source=git)** | Normal, IL, USA | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11161](https://jobright.ai/jobs/info/69d53448cdb525785fbcf10c?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Apr 07 |
 | ↳ | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11154](https://jobright.ai/jobs/info/69d53406e63cea7a8b65f76b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[College of PSFA College Care Coordinator (Administrative Support Coordinator, II)](https://jobright.ai/jobs/info/699d2ba6e0bddb6acacc574a?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Apr 07 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11154](https://jobright.ai/jobs/info/69d53378366bb95ba5543483?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Apr 07 |
-| ↳ | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11153](https://jobright.ai/jobs/info/69d5331c706f771673ba1542?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
