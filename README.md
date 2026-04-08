@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/69d5c006cdb525785fbd3050?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 07 |
+| **[San Juan Unified School District](https://www.sanjuan.edu/rioamericano)** | **[26/27 School Year COUNSELOR INTERN I, II @White House Counseling #7791](https://jobright.ai/jobs/info/69d5bffacdb525785fbd3047?utm_campaign=1057&utm_source=git)** | Carmichael, CA | On Site | Apr 07 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69d5afeee63cea7a8b662fed?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Undergraduate - ALZ Research- Temporary](https://jobright.ai/jobs/info/69d59e1d706f771673ba46e2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 07 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Mercy Joplin Pre-Med Summer Internship 2026](https://jobright.ai/jobs/info/69d59e07cdb525785fbd22b1?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Apr 07 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[College of PSFA College Care Coordinator (Administrative Support Coordinator, II)](https://jobright.ai/jobs/info/699d2ba6e0bddb6acacc574a?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Apr 07 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11154](https://jobright.ai/jobs/info/69d53378366bb95ba5543483?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Apr 07 |
 | ↳ | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11153](https://jobright.ai/jobs/info/69d5331c706f771673ba1542?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e6?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Apr 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e3?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Apr 07 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e3?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Apr 07 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e6?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Apr 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53229891d7b11cfd0000c?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Apr 07 |
 | **[Willow Creek Behavioral Health](https://willowcreekbh.com)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69d53202cdb525785fbcedec?utm_campaign=1057&utm_source=git)** | Green Bay, WI | On Site | Apr 07 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d531dfcfdc6132f94604cc?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nutramax Laboratories](http://www.nutramaxlabs.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69d51797e63cea7a8b65e9bc?utm_campaign=1057&utm_source=git)** | Lancaster, SC | On Site | Apr 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Youth Program Intern - UNPAID](https://jobright.ai/jobs/info/69c5ab601b5ad02887377caf?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Sports Education/Training Intern](https://jobright.ai/jobs/info/69d515d4891d7b11cfcff489?utm_campaign=1057&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 07 |
-| **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer College Intern](https://jobright.ai/jobs/info/69a836c27ac93962b707f7cc?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
-| **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69d507a4cfdc6132f945f5c6?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
