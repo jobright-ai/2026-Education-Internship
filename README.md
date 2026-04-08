@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director - Dietetic Internship Program](https://jobright.ai/jobs/info/69d60bb5891d7b11cfd07f2a?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 08 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/69d5e060366bb95ba55499cb?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Apr 07 |
 | **[The City University of New York](http://cuny.edu)** | **[Vice President for Enrollment Management & Student Affairs](https://jobright.ai/jobs/info/69d5d72a891d7b11cfd06158?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 07 |
 | **[Boys & Girls Clubs of San Leandro](http://www.bgcsl.org)** | **[Teen Summer Intern - Jr. YDP](https://jobright.ai/jobs/info/69cdeeb3366bb95ba550488e?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/suicide)** | **[Assistant Professor - Research Track - Epigenetics Research Professor](https://jobright.ai/jobs/info/69d51cfce63cea7a8b65ebab?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Assistant/Associate Professor of Small Animal Internal Medicine – Clinician Educator (CE)](https://jobright.ai/jobs/info/69d51ce2706f771673ba09a9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Assistant/Associate Professor of Clinical Small Animal Internal Medicine - Academic Clinician (AC)](https://jobright.ai/jobs/info/69d51cd0cdb525785fbce565?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| ↳ | **[Assistant Professor (Ophthalmology Research Track)](https://jobright.ai/jobs/info/69d51ccb891d7b11cfcff6d9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
