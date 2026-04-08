@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/69d5e060366bb95ba55499cb?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Apr 07 |
 | **[The City University of New York](http://cuny.edu)** | **[Vice President for Enrollment Management & Student Affairs](https://jobright.ai/jobs/info/69d5d72a891d7b11cfd06158?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 07 |
 | **[Boys & Girls Clubs of San Leandro](http://www.bgcsl.org)** | **[Teen Summer Intern - Jr. YDP](https://jobright.ai/jobs/info/69cdeeb3366bb95ba550488e?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Apr 07 |
 | **[Salud Para La Gente](https://www.splg.org/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69d5c3a7cfdc6132f9465986?utm_campaign=1057&utm_source=git)** | WATSONVILLE,CA,US | Hybrid | Apr 07 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Internship- Health Analytics Research](https://jobright.ai/jobs/info/69d5709b366bb95ba55450a0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Preston Taylor Ministries/Near Peer Enrichment Camp Assistant](https://jobright.ai/jobs/info/69d57092e63cea7a8b661456?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 07 |
 | **[Facebook](https://www.meta.com)** | **[Summer Student Intern - Operations](https://jobright.ai/jobs/info/69d57091cfdc6132f94623e2?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina | On Site | Apr 07 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69d5e03f366bb95ba5549965?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69d56ca6706f771673ba3168?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[UPMC](https://www.upmc.com/)** | **[Pre-Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d56bfdcfdc6132f94622b0?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Program Manager, Undergraduate Research](https://jobright.ai/jobs/info/69d56bd5cdb525785fbd0bc5?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 07 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[College of PSFA College Care Coordinator (Administrative Support Coordinator, II)](https://jobright.ai/jobs/info/699d2ba6e0bddb6acacc574a?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Apr 07 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11154](https://jobright.ai/jobs/info/69d53378366bb95ba5543483?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Apr 07 |
 | ↳ | **[Student Assistant Internship (Dedicated Support- Tax), Ref# 11153](https://jobright.ai/jobs/info/69d5331c706f771673ba1542?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e6?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Apr 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e3?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Apr 07 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e3?utm_campaign=1057&utm_source=git)** | Edina - Minnesota | Hybrid | Apr 07 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53230e63cea7a8b65f4e6?utm_campaign=1057&utm_source=git)** | New York - 1166 | Hybrid | Apr 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d53229891d7b11cfd0000c?utm_campaign=1057&utm_source=git)** | Dallas - Main | Hybrid | Apr 07 |
 | **[Willow Creek Behavioral Health](https://willowcreekbh.com)** | **[Unpaid Therapist/Social Worker Intern](https://jobright.ai/jobs/info/69d53202cdb525785fbcedec?utm_campaign=1057&utm_source=git)** | Green Bay, WI | On Site | Apr 07 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69d531dfcfdc6132f94604cc?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant/Associate Professor of Small Animal Internal Medicine – Clinician Educator (CE)](https://jobright.ai/jobs/info/69d51ce2706f771673ba09a9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Assistant/Associate Professor of Clinical Small Animal Internal Medicine - Academic Clinician (AC)](https://jobright.ai/jobs/info/69d51cd0cdb525785fbce565?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Assistant Professor (Ophthalmology Research Track)](https://jobright.ai/jobs/info/69d51ccb891d7b11cfcff6d9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| ↳ | **[Associate Professor, CE or Tenure Track Research Scientist, Pediatric Rehabilitation (CHOP)](https://jobright.ai/jobs/info/69d51bd2cfdc6132f945fbb9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Supervision, Credit Risk, and Statistics Intern 2026](https://jobright.ai/jobs/info/69cdec8454f00230c6cf846d?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
