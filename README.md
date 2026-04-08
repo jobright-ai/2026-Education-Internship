@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City University of New York](http://cuny.edu)** | **[Vice President for Enrollment Management & Student Affairs](https://jobright.ai/jobs/info/69d5d72a891d7b11cfd06158?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 07 |
 | **[Boys & Girls Clubs of San Leandro](http://www.bgcsl.org)** | **[Teen Summer Intern - Jr. YDP](https://jobright.ai/jobs/info/69cdeeb3366bb95ba550488e?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Apr 07 |
 | **[Salud Para La Gente](https://www.splg.org/)** | **[Graduate Intern](https://jobright.ai/jobs/info/69d5c3a7cfdc6132f9465986?utm_campaign=1057&utm_source=git)** | WATSONVILLE,CA,US | Hybrid | Apr 07 |
 | **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/69d5c006cdb525785fbd3050?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Professor (Ophthalmology Research Track)](https://jobright.ai/jobs/info/69d51ccb891d7b11cfcff6d9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Associate Professor, CE or Tenure Track Research Scientist, Pediatric Rehabilitation (CHOP)](https://jobright.ai/jobs/info/69d51bd2cfdc6132f945fbb9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Supervision, Credit Risk, and Statistics Intern 2026](https://jobright.ai/jobs/info/69cdec8454f00230c6cf846d?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 07 |
-| **[Nutramax Laboratories](http://www.nutramaxlabs.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69d51797e63cea7a8b65e9bc?utm_campaign=1057&utm_source=git)** | Lancaster, SC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
