@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union County Vocational-Technical Schools](https://www.ucvts.org/)** | **[Supply Chain Management Teacher (2026-2027 School Year)](https://jobright.ai/jobs/info/69d62100a5c9786095e49738?utm_campaign=1057&utm_source=git)** | Scotch Plains, NJ | On Site | Apr 08 |
+| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Solving Real-World Problems Through Engineering)](https://jobright.ai/jobs/info/69d61c90366bb95ba554b757?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 08 |
+| ↳ | **[Volunteer Virtual Classroom Speaker - U.S. Only  (Career in Finance)](https://jobright.ai/jobs/info/69d61a62706f771673ba97fd?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 08 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director - Dietetic Internship Program](https://jobright.ai/jobs/info/69d60bb5891d7b11cfd07f2a?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 08 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/69d5e060366bb95ba55499cb?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Apr 07 |
 | **[The City University of New York](http://cuny.edu)** | **[Vice President for Enrollment Management & Student Affairs](https://jobright.ai/jobs/info/69d5d72a891d7b11cfd06158?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MacEwan University](http://www.MacEwan.ca)** | **[Administrative Assistant, Academic Operations - Faculty of Fine Arts and Communications](https://jobright.ai/jobs/info/69d52292cdb525785fbce7a5?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Apr 07 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d520ed891d7b11cfcff872?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Nephrology (Per Diem)-26258](https://jobright.ai/jobs/info/69d51fa8891d7b11cfcff837?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| **[University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/suicide)** | **[Assistant Professor - Research Track - Epigenetics Research Professor](https://jobright.ai/jobs/info/69d51cfce63cea7a8b65ebab?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| ↳ | **[Assistant/Associate Professor of Small Animal Internal Medicine – Clinician Educator (CE)](https://jobright.ai/jobs/info/69d51ce2706f771673ba09a9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| ↳ | **[Assistant/Associate Professor of Clinical Small Animal Internal Medicine - Academic Clinician (AC)](https://jobright.ai/jobs/info/69d51cd0cdb525785fbce565?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
