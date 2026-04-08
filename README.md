@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Operations Intern](https://jobright.ai/jobs/info/69d6bc6a706f771673bad673?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Carrier Enterprise](https://www.carrierenterprise.com/)** | **[Intern](https://jobright.ai/jobs/info/69d6bc2c706f771673bad65a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[Western Illinois University](http://www.wiu.edu/)** | **[Assistant Professor of Supply Chain & Analytics](https://jobright.ai/jobs/info/69d6b976cfdc6132f946c942?utm_campaign=1057&utm_source=git)** | Macomb, IL | On Site | Apr 08 |
+| **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Behavioral Health Intern, PT Day Shift, Inpatient Behavioral Health](https://jobright.ai/jobs/info/69d6b57e706f771673bad308?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Apr 08 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69d6ae36366bb95ba554f10b?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 08 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/69d6ac90706f771673bad0b1?utm_campaign=1057&utm_source=git)** | Lihue, Hawaii, United States | On Site | Apr 08 |
-| **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac7752a5bf580012b0f0?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
+| **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac77706f771673bad035?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
 | ↳ | **[Integrated Predoctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac76706f771673bad031?utm_campaign=1057&utm_source=git)** | UH Lakewood Medical Center | On Site | Apr 08 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Neonatal NP Intern / Detroit](https://jobright.ai/jobs/info/69d6a721366bb95ba554ec6c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69d6a6ef52a5bf580012ae6a?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Program Manager - Academic Affairs - Student Success](https://jobright.ai/jobs/info/69d69c0e706f771673babada?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Apr 08 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Children's Clinic](https://jobright.ai/jobs/info/69a6690ae567421f425771b3?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Apr 08 |
 | **[Stress Engineering Services, Inc.](http://stress.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69d693ac48f0c8161d2f8b61?utm_campaign=1057&utm_source=git)** | Waller, TX | On Site | Apr 08 |
+| **[Idara-e-Taleem-o-Aagahi (ITA)](https://itacec.org/)** | **[Intern/Facilitator Kitab Gari](https://jobright.ai/jobs/info/69d6b724e63cea7a8b66b7e2?utm_campaign=1057&utm_source=git)** | Regional Municipality of Peel, ON | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - STAC, NYC (Sociotechnical Alignment Center)](https://jobright.ai/jobs/info/698ed8e478b4502f12a5b4bc?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | ↳ | **[Research Intern - Office of Applied Research](https://jobright.ai/jobs/info/69c56073e565c26a7000ecbe?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
 | **[Turning Point, Inc.](https://www.turningpointinc.org/)** | **[Urban Youth Internship](https://jobright.ai/jobs/info/69d686b752a5bf580012935c?utm_campaign=1057&utm_source=git)** | Urban Honolulu, HI | On Site | Apr 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Assistant Intern, Career Success](https://jobright.ai/jobs/info/69d58436cdb525785fbd183e?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Associate, Distributed Learning & Rural Initiatives](https://jobright.ai/jobs/info/69ceeff2cfdc6132f942e078?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Undergraduate Intern- Summer 2026](https://jobright.ai/jobs/info/69d581d6891d7b11cfd028ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student PASS Teaching Intern](https://jobright.ai/jobs/info/69d580d0706f771673ba3b83?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 07 |
-| ↳ | **[Part-Time Student Teaching Intern, EDUC-X156](https://jobright.ai/jobs/info/69d57fd9cdb525785fbd1687?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 07 |
-| **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69d578dbe63cea7a8b6618b5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
-| **[Indiana University](https://www.iu.edu)** | **[Visiting Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d5749d706f771673ba34fa?utm_campaign=1057&utm_source=git)** | New Albany, IN | On Site | Apr 07 |
-| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/69d570d6cfdc6132f946253c?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
