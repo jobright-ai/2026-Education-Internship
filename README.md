@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sagent Behavioral Health](www.sagentbh.com)** | **[Undergraduate Intern - ARMHS](https://jobright.ai/jobs/info/69d5a217cfdc6132f9463a7c?utm_campaign=1057&utm_source=git)** | Mankato, MN | On Site | Apr 07 |
+| **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69d5afeee63cea7a8b662fed?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern- Undergraduate - ALZ Research- Temporary](https://jobright.ai/jobs/info/69d59e1d706f771673ba46e2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 07 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Mercy Joplin Pre-Med Summer Internship 2026](https://jobright.ai/jobs/info/69d59e07cdb525785fbd22b1?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Apr 07 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69d59e00cdb525785fbd22a9?utm_campaign=1057&utm_source=git)** | Fayette County, KY | On Site | Apr 07 |
@@ -98,6 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Program Manager, Undergraduate Research](https://jobright.ai/jobs/info/69d56bd5cdb525785fbd0bc5?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 07 |
 | ↳ | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/69d56bd3cdb525785fbd0bbf?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 07 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Apr 07 |
+| **[Middlebury College](http://www.middlebury.edu/)** | **[AFC Summer Intern (Summer 2026 901302)](https://jobright.ai/jobs/info/69d5acb8e63cea7a8b662efd?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Apr 07 |
+| ↳ | **[Orientation Intern Summer/Fall (Summer 2026 901219)](https://jobright.ai/jobs/info/69d5acbbcfdc6132f9463f09?utm_campaign=1057&utm_source=git)** | Middlebury, Vermont, United States | On Site | Apr 07 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Apr 07 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Independent Living Intern (Micro) Summer/Fall 2025](https://jobright.ai/jobs/info/69d56454cfdc6132f9461eb4?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 07 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Seattle Parks & Recreation - Community Learning Center College Internship](https://jobright.ai/jobs/info/69d56178cdb525785fbd06fb?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USA Sport Group](https://usasportgroup.com/)** | **[Sports Education/Training Intern](https://jobright.ai/jobs/info/69d515d4891d7b11cfcff489?utm_campaign=1057&utm_source=git)** | Whitehouse Station, NJ | On Site | Apr 07 |
 | **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer College Intern](https://jobright.ai/jobs/info/69a836c27ac93962b707f7cc?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
 | **[International Institute of New England](https://iine.org/)** | **[Community Services and Resettlement Internship (IINE-Manchester)Community Services Internship OverviewKey Responsibilities:Qualifications:Learning Objectives:](https://jobright.ai/jobs/info/69d507a4cfdc6132f945f5c6?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Apr 07 |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student Nurse Associate-Summer Intern, Behavioral Health](https://jobright.ai/jobs/info/69d503d1366bb95ba55420a7?utm_campaign=1057&utm_source=git)** | Carmel, NY | On Site | Apr 07 |
-| ↳ | **[Student Nurse Associate-Summer Intern, Med/Surg](https://jobright.ai/jobs/info/69d503bde63cea7a8b65e34a?utm_campaign=1057&utm_source=git)** | Carmel, NY | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
