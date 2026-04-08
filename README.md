@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69d6ae36366bb95ba554f10b?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 08 |
+| **[Troon](http://www.troon.com/)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/69d6ac90706f771673bad0b1?utm_campaign=1057&utm_source=git)** | Lihue, Hawaii, United States | On Site | Apr 08 |
+| **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac7752a5bf580012b0f0?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
+| ↳ | **[Integrated Predoctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac76706f771673bad031?utm_campaign=1057&utm_source=git)** | UH Lakewood Medical Center | On Site | Apr 08 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Neonatal NP Intern / Detroit](https://jobright.ai/jobs/info/69d6a721366bb95ba554ec6c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 08 |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69d6a6ef52a5bf580012ae6a?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
+| **[LAC Federal](https://lacfederal.com)** | **[Library - Intern Coordinator (Summer 2026)](https://jobright.ai/jobs/info/69d6a4c4366bb95ba554ddf7?utm_campaign=1057&utm_source=git)** | Moreno Valley,CA,US | On Site | Apr 08 |
+| ↳ | **[Library - Literacy Associate II (Intern)](https://jobright.ai/jobs/info/69d6a4b448f0c8161d2f913d?utm_campaign=1057&utm_source=git)** | Camarillo,CA,US | On Site | Apr 08 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Relations](https://jobright.ai/jobs/info/69d69fddcfdc6132f946b01a?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 08 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c412a6d5a1016e98db1f6a?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Apr 08 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Program Manager - Academic Affairs - Student Success](https://jobright.ai/jobs/info/69d69c0e706f771673babada?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Apr 08 |
@@ -78,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Behavioral Health Intern, PT Day Shift, Outpatient Wellness Clinic](https://jobright.ai/jobs/info/69d6779ae63cea7a8b669098?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/696f8da83ed06875134a80cb?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Apr 08 |
 | **[Community Health Resources](https://www.chrhealth.org/)** | **[Master's Level Intern: New Life Center- 6932](https://jobright.ai/jobs/info/69d671eb706f771673baabae?utm_campaign=1057&utm_source=git)** | Putnam, Connecticut, United States | On Site | Apr 08 |
-| **[Columbus Early Learning Centers](http://www.columbusearlylearning.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69d66e9c48f0c8161d2f7c58?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Family Care Center](https://www.fcsprings.com/)** | **[Clinic Director - Therapist or Psychologist](https://jobright.ai/jobs/info/69bb87e53b74eb1e2c89f695?utm_campaign=1057&utm_source=git)** | Peoria, AZ | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
 | ↳ | **[Research Intern - Agentic Programming](https://jobright.ai/jobs/info/69821a80c3101f1400c3c13f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69d578dbe63cea7a8b6618b5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[Indiana University](https://www.iu.edu)** | **[Visiting Assistant Professor of Accounting](https://jobright.ai/jobs/info/69d5749d706f771673ba34fa?utm_campaign=1057&utm_source=git)** | New Albany, IN | On Site | Apr 07 |
 | **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/69d570d6cfdc6132f946253c?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 07 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Internship- Health Analytics Research](https://jobright.ai/jobs/info/69d5709b366bb95ba55450a0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Preston Taylor Ministries/Near Peer Enrichment Camp Assistant](https://jobright.ai/jobs/info/69d57092e63cea7a8b661456?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 07 |
-| **[Facebook](https://www.meta.com)** | **[Summer Student Intern - Operations](https://jobright.ai/jobs/info/69d57091cfdc6132f94623e2?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina | On Site | Apr 07 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)](https://jobright.ai/jobs/info/69d5e03f366bb95ba5549965?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69d56ca6706f771673ba3168?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
-| **[UPMC](https://www.upmc.com/)** | **[Pre-Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d56bfdcfdc6132f94622b0?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
-| **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Program Manager, Undergraduate Research](https://jobright.ai/jobs/info/69d56bd5cdb525785fbd0bc5?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
