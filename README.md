@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High School ESY-Teacher Assistant (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d753e2e63cea7a8b670bf9?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
+| ↳ | **[Summer School: Middle School ESY-Teacher Assistant (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d753dfe63cea7a8b670be6?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
+| ↳ | **[Summer School: Middle-ESL Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d7514c366bb95ba55545f0?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
+| ↳ | **[Summer School: Middle 5/6-Teacher (Internal Only)](https://jobright.ai/jobs/info/69d750e0706f771673bb274d?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
+| **[Greeley-Evans School District 6](https://www.greeleyschools.org/)** | **[Parent and Family Advocate, Tointon Academy of Pre-Engineering (2026-2027 School Year) (INTERNAL ONL](https://jobright.ai/jobs/info/69d74c83950d1a0760b7ddc4?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 08 |
 | **[Aramark](http://www.aramark.com)** | **[Student Worker - Health and Wellness Intern - Shepherd University](https://jobright.ai/jobs/info/69d74ab6366bb95ba55542aa?utm_campaign=1057&utm_source=git)** | Shepherdstown, WV | On Site | Apr 08 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2026-27 50% Teacher Secondary-Mind Center/Health-Centennial High School](https://jobright.ai/jobs/info/69d749b7e63cea7a8b67054b?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Apr 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d73126366bb95ba55527e3?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
@@ -127,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Western Illinois University](http://www.wiu.edu/)** | **[Assistant Professor of Supply Chain & Analytics](https://jobright.ai/jobs/info/69d6b976cfdc6132f946c942?utm_campaign=1057&utm_source=git)** | Macomb, IL | On Site | Apr 08 |
 | **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Behavioral Health Intern, PT Day Shift, Inpatient Behavioral Health](https://jobright.ai/jobs/info/69d6b57e706f771673bad308?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Apr 08 |
 | **[TDECU](https://www.tdecu.org/)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69cc8476891d7b11cfcaea49?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Apr 08 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69d6d19d48f0c8161d2fb5a9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 08 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/69d6ac90706f771673bad0b1?utm_campaign=1057&utm_source=git)** | Lihue, Hawaii, United States | On Site | Apr 08 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac7752a5bf580012b0f0?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
 | ↳ | **[Integrated Predoctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac76706f771673bad031?utm_campaign=1057&utm_source=git)** | UH Lakewood Medical Center | On Site | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69d6816f366bb95ba554cf96?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[College of PSFA College Care Specialist (Administrative Analyst/Specialist, Exempt I)](https://jobright.ai/jobs/info/699d0e6ce0bddb6acacc2a11?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | Apr 08 |
 | **[Babson College](http://www.babson.edu)** | **[First-Generation Student Success Intern](https://jobright.ai/jobs/info/69d67bf9e63cea7a8b6691d3?utm_campaign=1057&utm_source=git)** | Wellesley MA | On Site | Apr 08 |
-| **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Behavioral Health Intern, PT Day Shift, Outpatient Wellness Clinic](https://jobright.ai/jobs/info/69d6779ae63cea7a8b669098?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Apr 08 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/696f8da83ed06875134a80cb?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Apr 08 |
-| **[Community Health Resources](https://www.chrhealth.org/)** | **[Master's Level Intern: New Life Center- 6932](https://jobright.ai/jobs/info/69d671eb706f771673baabae?utm_campaign=1057&utm_source=git)** | Putnam, Connecticut, United States | On Site | Apr 08 |
-| **[Family Care Center](https://www.fcsprings.com/)** | **[Clinic Director - Therapist or Psychologist](https://jobright.ai/jobs/info/69bb87e53b74eb1e2c89f695?utm_campaign=1057&utm_source=git)** | Peoria, AZ | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
