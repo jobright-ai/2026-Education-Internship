@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d73126366bb95ba55527e3?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 08 |
+| ↳ | **[Intern, Skeletal Conditions Business Unit (MBA/Masters)](https://jobright.ai/jobs/info/69d73037cfdc6132f946fd4c?utm_campaign=1057&utm_source=git)** | San Rafael, CA | Remote | Apr 08 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Academic Advisor, Lee Business School [R0146013]](https://jobright.ai/jobs/info/69d7189152a5bf580012dc86?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 08 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d7188c52a5bf580012dc7d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Instructional Technology Support Specialist, Information Technology [R0150159]](https://jobright.ai/jobs/info/69d7188a366bb95ba5551ade?utm_campaign=1057&utm_source=git)** | LV Metro Area | On Site | Apr 08 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architect Instructor - FAFU International College](https://jobright.ai/jobs/info/69d6f20648f0c8161d2fc054?utm_campaign=1057&utm_source=git)** | Truro, NS | On Site | Apr 08 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Operations Intern](https://jobright.ai/jobs/info/69d6ee4d48f0c8161d2fbfd4?utm_campaign=1057&utm_source=git)** | Reston, VA | Remote | Apr 08 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Minors on Campus Program Coordinator](https://jobright.ai/jobs/info/69d6ee1c52a5bf580012cedc?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Apr 08 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d6e638e63cea7a8b66cf89?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 08 |
-| ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d6e638e63cea7a8b66cf8a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 08 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d6e638e63cea7a8b66cf8a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 08 |
+| ↳ | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69d6e638e63cea7a8b66cf89?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 08 |
 | ↳ | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d6e619366bb95ba5550a0b?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 08 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Nurse Intern - Undergraduate - Preceptorship - CARES Center](https://jobright.ai/jobs/info/69d6e3cc52a5bf580012cc5c?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Apr 08 |
 | **[The Umstead Hotel and Spa](http://www.theumstead.com)** | **[The Umstead Hospitality Internship](https://jobright.ai/jobs/info/69d6e2a348f0c8161d2fbc28?utm_campaign=1057&utm_source=git)** | NC The Umstead Hotel and Spa - Cary, NC 27513 | On Site | Apr 08 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69d6d19d48f0c8161d2fb5a9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 08 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69d6ae36366bb95ba554f10b?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 08 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Internship](https://jobright.ai/jobs/info/69d6ac90706f771673bad0b1?utm_campaign=1057&utm_source=git)** | Lihue, Hawaii, United States | On Site | Apr 08 |
-| **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac7752a5bf580012b0f0?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
+| **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac77706f771673bad035?utm_campaign=1057&utm_source=git)** | UH Behavioral Health | On Site | Apr 08 |
 | ↳ | **[Integrated Predoctoral Psychology Intern](https://jobright.ai/jobs/info/69d6ac76706f771673bad031?utm_campaign=1057&utm_source=git)** | UH Lakewood Medical Center | On Site | Apr 08 |
 | **[Goddard Riverside](https://goddard.org)** | **[Internship Specialist (Learning to Work)](https://jobright.ai/jobs/info/69d70ced48f0c8161d2fc927?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Internship Coordinator (Learning to Work)](https://jobright.ai/jobs/info/69d70bc252a5bf580012d6b3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Family Care Center](https://www.fcsprings.com/)** | **[Clinic Director - Therapist or Psychologist](https://jobright.ai/jobs/info/69bb87e53b74eb1e2c89f695?utm_campaign=1057&utm_source=git)** | Peoria, AZ | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
 | ↳ | **[Research Intern - Agentic Programming](https://jobright.ai/jobs/info/69821a80c3101f1400c3c13f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
-| **[Merrimack College](http://www.merrimack.edu/)** | **[Assistant Director of Graduate Education Programs](https://jobright.ai/jobs/info/6980c63cabff4c399a9f8783?utm_campaign=1057&utm_source=git)** | North Andover, MA | On Site | Apr 08 |
-| **[Trilogy](https://www.trilogyinc.org/)** | **[Bilingual Clinical Case Management Intern](https://jobright.ai/jobs/info/69d68b26cfdc6132f946a989?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
