@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Data Entry Student Library Assistant](https://jobright.ai/jobs/info/69d76545706f771673bb3111?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 09 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High School ESY-Teacher Assistant (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d753e2e63cea7a8b670bf9?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
 | ↳ | **[Summer School: Middle School ESY-Teacher Assistant (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d753dfe63cea7a8b670be6?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
 | ↳ | **[Summer School: Middle-ESL Teacher (INTERNAL ONLY)](https://jobright.ai/jobs/info/69d7514c366bb95ba55545f0?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](https://tamu.edu)** | **[Tenured: Professor and Department Head of Engineering Medicine Education](https://jobright.ai/jobs/info/699cf06081476f6176b57b1d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69d6816f366bb95ba554cf96?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 08 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[College of PSFA College Care Specialist (Administrative Analyst/Specialist, Exempt I)](https://jobright.ai/jobs/info/699d0e6ce0bddb6acacc2a11?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | Apr 08 |
-| **[Babson College](http://www.babson.edu)** | **[First-Generation Student Success Intern](https://jobright.ai/jobs/info/69d67bf9e63cea7a8b6691d3?utm_campaign=1057&utm_source=git)** | Wellesley MA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
