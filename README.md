@@ -77,18 +77,18 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d826c1738f2f099e89b065?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 09 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Operations Coordinator, Student Services Administration](https://jobright.ai/jobs/info/69d825f79f97a42dc9c1ab5f?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 09 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d8?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
-| ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d9?utm_campaign=1057&utm_source=git)** | Morgan, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d0?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
-| ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825e6b861c42857c48fff?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
+| ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d9?utm_campaign=1057&utm_source=git)** | Morgan, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825e6b861c42857c48ffc?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | Hybrid | Apr 09 |
-| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae5?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | Hybrid | Apr 09 |
+| ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825e6b861c42857c48fff?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae8?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae4?utm_campaign=1057&utm_source=git)** | US-UT-Morgan | On Site | Apr 09 |
+| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae5?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d82594b67cec4f9b09af75?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Tooele County](https://jobright.ai/jobs/info/69d825929f97a42dc9c1aad3?utm_campaign=1057&utm_source=git)** | US-UT-Tooele | On Site | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Tooele County](https://jobright.ai/jobs/info/69d82590738f2f099e89af86?utm_campaign=1057&utm_source=git)** | Tooele, UT, US | On Site | Apr 09 |
-| ↳ | **[Extension Home & Community/4-H Intern - Beaver County](https://jobright.ai/jobs/info/69d8258a738f2f099e89af48?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | Apr 09 |
 | ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d8258a738f2f099e89af44?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
+| ↳ | **[Extension Home & Community/4-H Intern - Beaver County](https://jobright.ai/jobs/info/69d8258a738f2f099e89af48?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Beaver County](https://jobright.ai/jobs/info/69d8257e869c7e25d859406b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d8257e869c7e25d8594071?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d82476b67cec4f9b09ae6a?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 09 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d80995738f2f099e89a1d5?utm_campaign=1057&utm_source=git)** | US-UT-Logan | Hybrid | Apr 09 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d809959f97a42dc9c19cb1?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d8098f9f97a42dc9c19c87?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | Apr 09 |
-| ↳ | **[Extension Family & Consumer Science Intern - Washington County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1bd?utm_campaign=1057&utm_source=git)** | Hurricane, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1be?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | Apr 09 |
+| ↳ | **[Extension Family & Consumer Science Intern - Washington County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1bd?utm_campaign=1057&utm_source=git)** | Hurricane, UT, US | On Site | Apr 09 |
 | ↳ | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d80982b861c42857c480d0?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d80981b67cec4f9b099f43?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 09 |
 | ↳ | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d80980f4ea471a51fe33a9?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
