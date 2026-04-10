@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FamilyAid](http://familyaidboston.org/)** | **[Internship (Aug to Apr) – 2Gen Program Coordinator](https://jobright.ai/jobs/info/69d8b70eb67cec4f9b09e5cf?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
+| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (How to become a Neuroscientist)](https://jobright.ai/jobs/info/69d8c20fb67cec4f9b09ec32?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 10 |
+| ↳ | **[Volunteer Virtual Classroom Speaker - U.S. Only (Junior Sales Analyst: Strategic Sales Forecasting for Holiday Success)](https://jobright.ai/jobs/info/69d8c1e6738f2f099e89e993?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Summer Intern - High School Students](https://jobright.ai/jobs/info/69d8b520f748bc5d08a456b1?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 10 |
 | **[Loudoun County Public Schools](http://www.lcps.org/)** | **[Teacher, Business/Marketing (SY 2026-2027)](https://jobright.ai/jobs/info/69d8b1acb67cec4f9b09e429?utm_campaign=1057&utm_source=git)** | Ashburn, VA | On Site | Apr 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[College & Career Readiness Intern](https://jobright.ai/jobs/info/69cdfb8a891d7b11cfcc3c91?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 10 |
@@ -84,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d8?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d0?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d9?utm_campaign=1057&utm_source=git)** | Morgan, UT, US | On Site | Apr 09 |
-| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825e6b861c42857c48ffc?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | Hybrid | Apr 09 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825e6b861c42857c48fff?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
-| ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae4?utm_campaign=1057&utm_source=git)** | US-UT-Morgan | On Site | Apr 09 |
-| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae5?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | Hybrid | Apr 09 |
+| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825e6b861c42857c48ffc?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | Hybrid | Apr 09 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae8?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
+| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae5?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | Hybrid | Apr 09 |
+| ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae4?utm_campaign=1057&utm_source=git)** | US-UT-Morgan | On Site | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d82594b67cec4f9b09af75?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Tooele County](https://jobright.ai/jobs/info/69d825929f97a42dc9c1aad3?utm_campaign=1057&utm_source=git)** | US-UT-Tooele | On Site | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Tooele County](https://jobright.ai/jobs/info/69d82590738f2f099e89af86?utm_campaign=1057&utm_source=git)** | Tooele, UT, US | On Site | Apr 09 |
@@ -110,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/69d80a1ff4ea471a51fe35e5?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Apr 09 |
 | **[State University of New York at Plattsburgh](https://www.plattsburgh.edu/)** | **[Lecturer, Accounting](https://jobright.ai/jobs/info/69d80a0cf4ea471a51fe3599?utm_campaign=1057&utm_source=git)** | Plattsburgh, NY | On Site | Apr 09 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d8099b869c7e25d85931b7?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
-| ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d809959f97a42dc9c19cb1?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 09 |
 | ↳ | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d80995738f2f099e89a1d5?utm_campaign=1057&utm_source=git)** | US-UT-Logan | Hybrid | Apr 09 |
+| ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d809959f97a42dc9c19cb1?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d8098f9f97a42dc9c19c87?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | Apr 09 |
-| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1be?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Family & Consumer Science Intern - Washington County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1bd?utm_campaign=1057&utm_source=git)** | Hurricane, UT, US | On Site | Apr 09 |
+| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d8098b738f2f099e89a1be?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | Apr 09 |
 | ↳ | **[Create Better Health Intern](https://jobright.ai/jobs/info/69d80982b861c42857c480d0?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d80981b67cec4f9b099f43?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 09 |
 | ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/69d80980b67cec4f9b099f40?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monmouth University](http://www.monmouth.edu)** | **[Program Director of the Occupational Therapy Doctorate (OTD) program](https://jobright.ai/jobs/info/69d7fc89869c7e25d8592a5d?utm_campaign=1057&utm_source=git)** | West Long Branch, NJ | On Site | Apr 09 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69d7d0939f97a42dc9c17cec?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 09 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Wellness Intern - Duchesne County](https://jobright.ai/jobs/info/69d7cf82b67cec4f9b097b5f?utm_campaign=1057&utm_source=git)** | US-UT-Duchesne | On Site | Apr 09 |
-| ↳ | **[Extension Family and Consumer Sciences Intern - Salt Lake County](https://jobright.ai/jobs/info/69d7cf73f4ea471a51fe1191?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
