@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Outreach and Engagement Intern](https://jobright.ai/jobs/info/69d840d6738f2f099e89b9b9?utm_campaign=1057&utm_source=git)** | Yorktown, VA | On Site | Apr 09 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Supply Chain Management - Summer Intern](https://jobright.ai/jobs/info/69d840609f97a42dc9c1b474?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 09 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Learning and Development Program Assistant (Contract)](https://jobright.ai/jobs/info/69d83765f4ea471a51fe4b2b?utm_campaign=1057&utm_source=git)** | Springfield, IL | Hybrid | Apr 09 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Financial Aid Administrator Senior (Hybrid)](https://jobright.ai/jobs/info/69d833ecf4ea471a51fe48c3?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Apr 09 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Program Manager](https://jobright.ai/jobs/info/69d833b8f4ea471a51fe4817?utm_campaign=1057&utm_source=git)** | Pomona, CA | On Site | Apr 09 |
@@ -67,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[University of Guyana](http://uog.edu.gy/)** | **[Academic positions within the International Centre of Excellence in Educator Innovation, Learning and Development (ICEEILD), Faculty of Education and Humanities, University of Guyana.](https://jobright.ai/jobs/info/69d82729f4ea471a51fe4388?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Apr 09 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69d826c1738f2f099e89b065?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 09 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Operations Coordinator, Student Services Administration](https://jobright.ai/jobs/info/69d825f79f97a42dc9c1ab5f?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 09 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d9?utm_campaign=1057&utm_source=git)** | Morgan, UT, US | On Site | Apr 09 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d0?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d8?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
-| ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d0?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 09 |
+| ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d825f3f4ea471a51fe42d9?utm_campaign=1057&utm_source=git)** | Morgan, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825e6b861c42857c48ffc?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | Hybrid | Apr 09 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d825e6b861c42857c48fff?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d825979f97a42dc9c1aae5?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | Hybrid | Apr 09 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Home & Community/4-H Intern - Tooele County](https://jobright.ai/jobs/info/69d82590738f2f099e89af86?utm_campaign=1057&utm_source=git)** | Tooele, UT, US | On Site | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Beaver County](https://jobright.ai/jobs/info/69d8258a738f2f099e89af48?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | Apr 09 |
 | ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d8258a738f2f099e89af44?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 09 |
-| ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d8257e869c7e25d8594071?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
 | ↳ | **[Extension Home & Community/4-H Intern - Beaver County](https://jobright.ai/jobs/info/69d8257e869c7e25d859406b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | Apr 09 |
+| ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d8257e869c7e25d8594071?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 09 |
 | **[City of Gilroy](https://www.cityofgilroy.org)** | **[Economic Development College Summer Intern](https://jobright.ai/jobs/info/69d82476b67cec4f9b09ae6a?utm_campaign=1057&utm_source=git)** | Gilroy, CA | On Site | Apr 09 |
 | **[District of West Vancouver](https://westvancouver.ca/)** | **[Assistant Program Coordinator](https://jobright.ai/jobs/info/69d8240e9f97a42dc9c1a9dd?utm_campaign=1057&utm_source=git)** | West Vancouver, BC | On Site | Apr 09 |
 | **[University of Guyana](http://uog.edu.gy/)** | **[Academic positions within the International Centre of Excellence in Educator Innovation, Learning and Development (ICEEILD),](https://jobright.ai/jobs/info/69d823c6b67cec4f9b09ab70?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana University](https://www.iu.edu)** | **[Wood Center Director Translational Research Endowed Chair](https://jobright.ai/jobs/info/69d7c64db67cec4f9b0973ae?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 09 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/69d7c622b861c42857c45548?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Apr 09 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[STEAM Program Coordinator](https://jobright.ai/jobs/info/69c72c5b83ea553769fe1599?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | On Site | Apr 09 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/69d7ecc5738f2f099e89921d?utm_campaign=1057&utm_source=git)** | Weslaco, TX | Hybrid | Apr 09 |
-| **[Aledade, Inc.](https://www.aledade.com)** | **[Summer Internship - Population Health Medical Student Intern](https://jobright.ai/jobs/info/69bb303c3b74eb1e2c899d97?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
