@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69da8f6bb67cec4f9b0a9c99?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 11 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69d5e077e63cea7a8b665d35?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville International Center of Empowerment/Summer Camp Intern](https://jobright.ai/jobs/info/69da8f5e738f2f099e8a9b43?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[The Grainger College of Engineering: Professor - Siebel School of Computing and Data Science](https://jobright.ai/jobs/info/69bd9e974828227293ffd793?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 11 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 11 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Home Run Program](https://jobright.ai/jobs/info/69da72c35356a60f40fe13af?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | ↳ | **[Summer STEPS Student Intern - Parks & Recreation](https://jobright.ai/jobs/info/69da72b75356a60f40fe1379?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Roberta Baines Wheeler Group (KYB)-Social Media & Community Engagement/Intern](https://jobright.ai/jobs/info/69da7292b67cec4f9b0a97a1?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Learning Program Coordinator (Payson)](https://jobright.ai/jobs/info/69d9400e9f97a42dc9c204f0?utm_campaign=1057&utm_source=git)** | Payson, UT | On Site | Apr 10 |
 | **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[Research Assistant - Competition ID: 4581](https://jobright.ai/jobs/info/69d94004738f2f099e8a0a08?utm_campaign=1057&utm_source=git)** | Richmond, BC | Hybrid | Apr 10 |
 | **[ACU Online](http://www.acu.edu/online)** | **[Study Abroad Administrative Intern](https://jobright.ai/jobs/info/69d93d7fb67cec4f9b0a0af9?utm_campaign=1057&utm_source=git)** | Abilene, Texas | On Site | Apr 10 |
-| **[American Hospital Association](https://www.aha.org)** | **[Medical Coding Summer Intern](https://jobright.ai/jobs/info/69d93cb4b67cec4f9b0a08e9?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Associate Director, Research Security and Export Control Officer](https://jobright.ai/jobs/info/69d93c9d869c7e25d8599891?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 10 |
-| **[Texas Health Resources](https://www.texashealth.org/)** | **[THR INTERN PRN](https://jobright.ai/jobs/info/69bc4cb345e08b3dc1f8c15a?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 10 |
-| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Co-op Student Intern](https://jobright.ai/jobs/info/69d9350af748bc5d08a49cb3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| **[University of New Brunswick](http://www.unb.ca)** | **[Discovery Program Coordinator](https://jobright.ai/jobs/info/69d934d2f748bc5d08a49bd4?utm_campaign=1057&utm_source=git)** | Saint John, NB | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
