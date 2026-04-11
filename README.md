@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Technical College - Company](http://www.westerntc.edu/)** | **[Financial Resource Navigator (LTE 06/30/2027)](https://jobright.ai/jobs/info/69dac1a4869c7e25d85a4ebf?utm_campaign=1057&utm_source=git)** | La Crosse, WI | Hybrid | Apr 11 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69daab365356a60f40fe39d9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[Union Gospel Mission of Tarrant County](http://www.ugm-tc.org)** | **[Intern - Clinical & Counseling](https://jobright.ai/jobs/info/69daab01b67cec4f9b0abec9?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 11 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69daaafc869c7e25d85a4cc1?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Secondary Academics Intern](https://jobright.ai/jobs/info/69d97636738f2f099e8a1bde?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 | **[LSS of South Dakota](https://www.lsssd.org)** | **[Intern Residential Counselor/Worker, Summit Oaks Center](https://jobright.ai/jobs/info/69d94968f748bc5d08a4a532?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 10 |
 | **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[MSW Foundation Year Intern - Educational Services Center](https://jobright.ai/jobs/info/69d94452f748bc5d08a4a4ba?utm_campaign=1057&utm_source=git)** | 4610 S Ulster St, Denver, CO, 80237, US | On Site | Apr 10 |
-| **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[Research Assistant - Competition ID: 4581](https://jobright.ai/jobs/info/69d940e1869c7e25d8599bdc?utm_campaign=1057&utm_source=git)** | City of Langley, British Columbia, Canada | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
