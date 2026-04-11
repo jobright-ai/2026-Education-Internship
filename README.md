@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69daa4949f97a42dc9c2bae1?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community Management Intern - Summer 2026](https://jobright.ai/jobs/info/69da9ed09f97a42dc9c2b53e?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 11 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69da8f6bb67cec4f9b0a9c99?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 11 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69d5e077e63cea7a8b665d35?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville International Center of Empowerment/Summer Camp Intern](https://jobright.ai/jobs/info/69da8f5e738f2f099e8a9b43?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/69d9a46c9f97a42dc9c232b2?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 10 |
 | **[Tarzana Treatment Centers](https://www.tarzanatc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69d99decf748bc5d08a4cd34?utm_campaign=1057&utm_source=git)** | Tarzana, CA, US | On Site | Apr 10 |
 | **[Northeast Valley Health Corporation](https://nevhc.org)** | **[Degreed Nutritionist-WIC Dietetic Intern](https://jobright.ai/jobs/info/69d9932a9f97a42dc9c223c6?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
+| **[PRACTICE](https://practicebc.com/)** | **[Bilingual Spanish Internship](https://jobright.ai/jobs/info/69da9ed0738f2f099e8ab937?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Trauma Center Master Level Macro Internship – Flexible Start Date](https://jobright.ai/jobs/info/69d988b1869c7e25d859b6ee?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Apr 10 |
 | **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[STIPEND OPPORTUNITY: Exam School MAP Assessment Test Site Coordinators (SY25-26)](https://jobright.ai/jobs/info/69d988b1738f2f099e8a2520?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 10 |
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[[German International School Chicago] Extracurricular Programs Manager](https://jobright.ai/jobs/info/69d988a89f97a42dc9c2217e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
@@ -115,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b78a?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d9768ab67cec4f9b0a2284?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Director of Enrollment Systems and Operations](https://jobright.ai/jobs/info/69d97660738f2f099e8a1c69?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 10 |
-| **[Family & Children's Association](https://fcali.org)** | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
-| ↳ | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| **[Family & Children's Association](https://fcali.org)** | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| ↳ | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d975fbb67cec4f9b0a20e1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d990f85356a60f40fda4cf?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d96d045356a60f40fd9aa0?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Assistant - Competition ID: 4581](https://jobright.ai/jobs/info/69d940bb5356a60f40fd87dd?utm_campaign=1057&utm_source=git)** | Surrey, BC | Hybrid | Apr 10 |
 | **[VCU School of Nursing](https://nursing.vcu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69d9409b5356a60f40fd8785?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Apr 10 |
 | **[United Way of Utah County](https://unitedwayuc.org)** | **[Summer Learning Program Coordinator (Provo)](https://jobright.ai/jobs/info/69d940785356a60f40fd870c?utm_campaign=1057&utm_source=git)** | Payson, UT | On Site | Apr 10 |
-| ↳ | **[Summer Learning Program Coordinator (Payson)](https://jobright.ai/jobs/info/69d9400e9f97a42dc9c204f0?utm_campaign=1057&utm_source=git)** | Payson, UT | On Site | Apr 10 |
-| **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[Research Assistant - Competition ID: 4581](https://jobright.ai/jobs/info/69d94004738f2f099e8a0a08?utm_campaign=1057&utm_source=git)** | Richmond, BC | Hybrid | Apr 10 |
-| **[ACU Online](http://www.acu.edu/online)** | **[Study Abroad Administrative Intern](https://jobright.ai/jobs/info/69d93d7fb67cec4f9b0a0af9?utm_campaign=1057&utm_source=git)** | Abilene, Texas | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
