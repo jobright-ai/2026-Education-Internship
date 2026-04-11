@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Western Technical College - Company](http://www.westerntc.edu/)** | **[Financial Resource Navigator (LTE 06/30/2027)](https://jobright.ai/jobs/info/69dac1a4869c7e25d85a4ebf?utm_campaign=1057&utm_source=git)** | La Crosse, WI | Hybrid | Apr 11 |
+| **[Alameda Unified School District](http://www.alamedaunified.org)** | **[SPED - Year 3 Psychologist Intern - 2 days per week (Stipend) 2026/27 SY](https://jobright.ai/jobs/info/69dac980f748bc5d08a559eb?utm_campaign=1057&utm_source=git)** | Alameda County, CA | On Site | Apr 11 |
+| **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69dac860f748bc5d08a559ca?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 11 |
+| **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Development](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e0e?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69daab365356a60f40fe39d9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[Union Gospel Mission of Tarrant County](http://www.ugm-tc.org)** | **[Intern - Clinical & Counseling](https://jobright.ai/jobs/info/69daab01b67cec4f9b0abec9?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 11 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69daaafc869c7e25d85a4cc1?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d950c0b67cec4f9b0a1113?utm_campaign=1057&utm_source=git)** | US, Honolulu County, HI | Hybrid | Apr 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (CCOB)](https://jobright.ai/jobs/info/69d950bd738f2f099e8a0ea2?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Apr 10 |
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Secondary Academics Intern](https://jobright.ai/jobs/info/69d97636738f2f099e8a1bde?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 10 |
-| **[LSS of South Dakota](https://www.lsssd.org)** | **[Intern Residential Counselor/Worker, Summit Oaks Center](https://jobright.ai/jobs/info/69d94968f748bc5d08a4a532?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 10 |
-| **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[MSW Foundation Year Intern - Educational Services Center](https://jobright.ai/jobs/info/69d94452f748bc5d08a4a4ba?utm_campaign=1057&utm_source=git)** | 4610 S Ulster St, Denver, CO, 80237, US | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
