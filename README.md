@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Francisco State University](http://sfsu.edu)** | **[International Admissions Counselor (Student Services Professional II, Range 1) - Undergraduate Admissions & Recruitment](https://jobright.ai/jobs/info/69a649cc2c0d8b0f5cd05923?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69d5f486891d7b11cfd0707b?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 11 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Delaware State University](https://jobright.ai/jobs/info/69cca8d8e1921223acc7b62e?utm_campaign=1057&utm_source=git)** | Delaware, United States | On Site | Apr 11 |
 | **[Mosaic Pediatric Therapy](https://mosaictherapy.com)** | **[Clinical Behavior Analyst in Training (1000+ hours completed)](https://jobright.ai/jobs/info/68c2a7ae5adaee6c9bda2fb7?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Center for Human Development](http://www.chd-prevention.org)** | **[Master's Level - Clinial Intern](https://jobright.ai/jobs/info/69d92f095356a60f40fd82ce?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Apr 10 |
 | **[Georgian College](http://georgiancollege.ca/)** | **[Academic Program Assistant (Engineering and Environmental Technologies, Skilled Trades)](https://jobright.ai/jobs/info/69d92ed59f97a42dc9c1ff9f?utm_campaign=1057&utm_source=git)** | Barrie, ON | On Site | Apr 10 |
 | **[Boys & Girls Clubs of Delaware](http://www.bgclubs.org)** | **[Jr. Youth Development Professional - Childcare Intern](https://jobright.ai/jobs/info/69d92e6fb67cec4f9b0a071e?utm_campaign=1057&utm_source=git)** | 19285 Holland Glade Rd,                                                                                                                        Rehoboth Beach, DE | On Site | Apr 10 |
-| ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e6db67cec4f9b0a0715?utm_campaign=1057&utm_source=git)** | Robinson Elementary School | On Site | Apr 10 |
 | ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e6db67cec4f9b0a070e?utm_campaign=1057&utm_source=git)** | 115 N. Race St. | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
