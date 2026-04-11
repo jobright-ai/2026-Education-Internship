@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/69b0db6e0b2db6275c059c6d?utm_campaign=1057&utm_source=git)** | Halethorpe, MD | On Site | Apr 11 |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Morehouse College](https://jobright.ai/jobs/info/69d48564cdb525785fbca31e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[San Francisco State University](http://sfsu.edu)** | **[International Admissions Counselor (Student Services Professional II, Range 1) - Undergraduate Admissions & Recruitment](https://jobright.ai/jobs/info/69a649cc2c0d8b0f5cd05923?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 11 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69d5f486891d7b11cfd0707b?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 11 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Delaware State University](https://jobright.ai/jobs/info/69cca8d8e1921223acc7b62e?utm_campaign=1057&utm_source=git)** | Delaware, United States | On Site | Apr 11 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Riverview Gardens School District](https://www.rgsd.k12.mo.us/)** | **[Summer Secretary 2026](https://jobright.ai/jobs/info/69d96945f748bc5d08a4b354?utm_campaign=1057&utm_source=git)** | Moline Acres, MO | On Site | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9693e9f97a42dc9c21652?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Apr 10 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/Bradenton](https://jobright.ai/jobs/info/69d969309f97a42dc9c2163c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | Hybrid | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec2?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Apr 10 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec5?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Apr 10 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec2?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Apr 10 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Appliance Service - Technical Training Team](https://jobright.ai/jobs/info/69d968d05356a60f40fd97fc?utm_campaign=1057&utm_source=git)** | Edison, NJ, US | Hybrid | Apr 10 |
 | **[York Region District School Board](https://www2.yrdsb.ca/about-us/working-yrdsb/careers)** | **[Indigenous Language and International Languages Teachers & Instructors (Non-OCT) - OJIBWE & MOHAWK](https://jobright.ai/jobs/info/69d9689ab67cec4f9b0a1e31?utm_campaign=1057&utm_source=git)** | Aurora, ON | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Education (On-site)](https://jobright.ai/jobs/info/69d9680bb67cec4f9b0a1dec?utm_campaign=1057&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Rising Stars](https://jobright.ai/jobs/info/69d92f0a5356a60f40fd82d4?utm_campaign=1057&utm_source=git)** | Highland Hills, OH | On Site | Apr 10 |
 | **[Center for Human Development](http://www.chd-prevention.org)** | **[Master's Level - Clinial Intern](https://jobright.ai/jobs/info/69d92f095356a60f40fd82ce?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Apr 10 |
 | **[Georgian College](http://georgiancollege.ca/)** | **[Academic Program Assistant (Engineering and Environmental Technologies, Skilled Trades)](https://jobright.ai/jobs/info/69d92ed59f97a42dc9c1ff9f?utm_campaign=1057&utm_source=git)** | Barrie, ON | On Site | Apr 10 |
-| **[Boys & Girls Clubs of Delaware](http://www.bgclubs.org)** | **[Jr. Youth Development Professional - Childcare Intern](https://jobright.ai/jobs/info/69d92e6fb67cec4f9b0a071e?utm_campaign=1057&utm_source=git)** | 19285 Holland Glade Rd,                                                                                                                        Rehoboth Beach, DE | On Site | Apr 10 |
-| ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e6db67cec4f9b0a070e?utm_campaign=1057&utm_source=git)** | 115 N. Race St. | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
