@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Royal University](http://www.mtroyal.ca)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/69d9a46c9f97a42dc9c232b2?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 10 |
+| **[Tarzana Treatment Centers](https://www.tarzanatc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69d99decf748bc5d08a4cd34?utm_campaign=1057&utm_source=git)** | Tarzana, CA, US | On Site | Apr 10 |
 | **[Northeast Valley Health Corporation](https://nevhc.org)** | **[Degreed Nutritionist-WIC Dietetic Intern](https://jobright.ai/jobs/info/69d9932a9f97a42dc9c223c6?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Trauma Center Master Level Macro Internship – Flexible Start Date](https://jobright.ai/jobs/info/69d988b1869c7e25d859b6ee?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Apr 10 |
 | **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[STIPEND OPPORTUNITY: Exam School MAP Assessment Test Site Coordinators (SY25-26)](https://jobright.ai/jobs/info/69d988b1738f2f099e8a2520?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 10 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e6bb67cec4f9b0a06ff?utm_campaign=1057&utm_source=git)** | 669 S. Union Street,                                                                                                                        Wilmington, DE | On Site | Apr 10 |
 | ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e555356a60f40fd8109?utm_campaign=1057&utm_source=git)** | 1601 N. Spruce Street | On Site | Apr 10 |
 | ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e555356a60f40fd810a?utm_campaign=1057&utm_source=git)** | 109 Glasgow Dr. | On Site | Apr 10 |
-| ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e545356a60f40fd8107?utm_campaign=1057&utm_source=git)** | Smyrna, DE | On Site | Apr 10 |
 | ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e545356a60f40fd8108?utm_campaign=1057&utm_source=git)** | 115 N. Race St.,                                                                                                                        Georgetown, DE | On Site | Apr 10 |
+| ↳ | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/69d92e545356a60f40fd8107?utm_campaign=1057&utm_source=git)** | Smyrna, DE | On Site | Apr 10 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Electric Distribution - Technical Training Team](https://jobright.ai/jobs/info/69d92e515356a60f40fd80f3?utm_campaign=1057&utm_source=git)** | Edison, NJ, US | Hybrid | Apr 10 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/69bcb3d3e6a0d9792584b561?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 | **[Waupaca Foundry](http://www.waupacafoundry.com/)** | **[Occupational Health Nurse (Internship-Summer 2026)](https://jobright.ai/jobs/info/69d9243d5356a60f40fd7dba?utm_campaign=1057&utm_source=git)** | Waupaca, WI | On Site | Apr 10 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Alvogen](https://www.alvogen.com)** | **[Quality Assurance Work Instruction Intern](https://jobright.ai/jobs/info/69d91125b67cec4f9b09fb7c?utm_campaign=1057&utm_source=git)** | Norwich, NY, US | On Site | Apr 10 |
 | **[Nutritious Lifestyles, LLC.](http://nutritiouslifestyles.com/)** | **[Dietetic Technician, Registered - RD Pathway Program with Free Internship & Exam Support](https://jobright.ai/jobs/info/69b3362fad360c0340a85df5?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Apr 10 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Nutrition and Wellness Intern - Utah County](https://jobright.ai/jobs/info/69d90a329f97a42dc9c1f39a?utm_campaign=1057&utm_source=git)** | Utah County, UT | Hybrid | Apr 10 |
-| ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d9095b869c7e25d8598921?utm_campaign=1057&utm_source=git)** | Cache County, UT | Hybrid | Apr 10 |
 | ↳ | **[Extension Skyward Program Intern](https://jobright.ai/jobs/info/69d9095b869c7e25d8598919?utm_campaign=1057&utm_source=git)** | Kaysville, UT | Hybrid | Apr 10 |
+| ↳ | **[Extension Nutrition Intern - Cache County](https://jobright.ai/jobs/info/69d9095b869c7e25d8598921?utm_campaign=1057&utm_source=git)** | Cache County, UT | Hybrid | Apr 10 |
 | ↳ | **[Extension Health & Wellness Intern - Carbon & Emery Counties](https://jobright.ai/jobs/info/69d908c2b67cec4f9b09fa36?utm_campaign=1057&utm_source=git)** | Carbon County, UT | Hybrid | Apr 10 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/69d908bfb67cec4f9b09fa2c?utm_campaign=1057&utm_source=git)** | Grand County, UT | Hybrid | Apr 10 |
 | ↳ | **[Extension Home & Community Intern - Juab County](https://jobright.ai/jobs/info/69d908bcb67cec4f9b09fa1a?utm_campaign=1057&utm_source=git)** | Nephi, UT | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Intern - Morgan County](https://jobright.ai/jobs/info/69d908a3b67cec4f9b09f9e5?utm_campaign=1057&utm_source=git)** | Morgan County, UT | On Site | Apr 10 |
 | ↳ | **[Extension Home & Community Intern](https://jobright.ai/jobs/info/69d908a1b67cec4f9b09f9db?utm_campaign=1057&utm_source=git)** | Logan, UT | Hybrid | Apr 10 |
 | ↳ | **[Extension Community Wellness Intern - Duchesne County](https://jobright.ai/jobs/info/69d9078f738f2f099e89f733?utm_campaign=1057&utm_source=git)** | Duchesne County, UT | On Site | Apr 10 |
-| **[Sisterson & Co. LLP](http://sisterson.com)** | **[FORGE-Sisterson Symposium Series](https://jobright.ai/jobs/info/69bc294045e08b3dc1f8658a?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Howard University](https://jobright.ai/jobs/info/6985466a8da7a612045fbb93?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
