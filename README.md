@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gonzaga University](http://www.gonzaga.edu/)** | **[Adjunct Faculty, Internship Supervisor, Educational Leadership & Administration](https://jobright.ai/jobs/info/69dbc6d79f97a42dc9c2f239?utm_campaign=1057&utm_source=git)** | Spokane, WA | Hybrid | Apr 12 |
+| **[Charleston County Government](https://www.charlestoncounty.org)** | **[Student Leadership & Intern Program 3/13/26](https://jobright.ai/jobs/info/69dbc5df5356a60f40fe6f78?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 12 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69dbc5c5f748bc5d08a58c2f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 12 |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d3bc8727747250d580c2b?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 12 |
+| **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Assistant Professor Position in Resource and Energy Engineering](https://jobright.ai/jobs/info/6986f0190f6f7e7a2ce22bc3?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 12 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Development](https://jobright.ai/jobs/info/69dbbcc9f748bc5d08a58bc2?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 12 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Speech Clinical Fellows Year Intern,](https://jobright.ai/jobs/info/69dba7da9f97a42dc9c2f05c?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[UW-Madison College of Engineering](https://engineering.wisc.edu)** | **[Assistant, Associate, or Full Professor in Materials Science & Engineering](https://jobright.ai/jobs/info/69c4e70f33eecf31079561c7?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d96954869c7e25d859acd4?utm_campaign=1057&utm_source=git)** | Honolulu County, HI | Hybrid | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d96946f748bc5d08a4b356?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Apr 10 |
 | **[Riverview Gardens School District](https://www.rgsd.k12.mo.us/)** | **[Summer Secretary 2026](https://jobright.ai/jobs/info/69d96945f748bc5d08a4b354?utm_campaign=1057&utm_source=git)** | Moline Acres, MO | On Site | Apr 10 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9693e9f97a42dc9c21652?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/Bradenton](https://jobright.ai/jobs/info/69d969309f97a42dc9c2163c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | Hybrid | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec2?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec5?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Apr 10 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Appliance Service - Technical Training Team](https://jobright.ai/jobs/info/69d968d05356a60f40fd97fc?utm_campaign=1057&utm_source=git)** | Edison, NJ, US | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
