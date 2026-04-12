@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69db739d5356a60f40fe6adb?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
+| **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69db725b738f2f099e8aefc5?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 12 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Apr 12 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69db6498869c7e25d85a7dd2?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 12 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69db55a7738f2f099e8aeb75?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69db55e9869c7e25d85a7bf2?utm_campaign=1057&utm_source=git)** | Home, KS | Hybrid | Apr 11 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b78a?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[CAR Graduate Testing Proctor - Student Employment](https://jobright.ai/jobs/info/69d9768ab67cec4f9b0a2284?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Director of Enrollment Systems and Operations](https://jobright.ai/jobs/info/69d97660738f2f099e8a1c69?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 10 |
-| **[Family & Children's Association](https://fcali.org)** | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
-| ↳ | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| **[Family & Children's Association](https://fcali.org)** | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| ↳ | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d975fbb67cec4f9b0a20e1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d990f85356a60f40fda4cf?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d96d045356a60f40fd9aa0?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Apr 10 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Riverview Gardens School District](https://www.rgsd.k12.mo.us/)** | **[Summer Secretary 2026](https://jobright.ai/jobs/info/69d96945f748bc5d08a4b354?utm_campaign=1057&utm_source=git)** | Moline Acres, MO | On Site | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9693e9f97a42dc9c21652?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Apr 10 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/Bradenton](https://jobright.ai/jobs/info/69d969309f97a42dc9c2163c?utm_campaign=1057&utm_source=git)** | Bradenton, FL | Hybrid | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec5?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Apr 10 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec2?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Apr 10 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ec5?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Apr 10 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Appliance Service - Technical Training Team](https://jobright.ai/jobs/info/69d968d05356a60f40fd97fc?utm_campaign=1057&utm_source=git)** | Edison, NJ, US | Hybrid | Apr 10 |
 | **[York Region District School Board](https://www2.yrdsb.ca/about-us/working-yrdsb/careers)** | **[Indigenous Language and International Languages Teachers & Instructors (Non-OCT) - OJIBWE & MOHAWK](https://jobright.ai/jobs/info/69d9689ab67cec4f9b0a1e31?utm_campaign=1057&utm_source=git)** | Aurora, ON | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Education (On-site)](https://jobright.ai/jobs/info/69d9680bb67cec4f9b0a1dec?utm_campaign=1057&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/69d95f519f97a42dc9c2134f?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Apr 10 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Louisville, KY: Fall 2026 - Master's Level Paid Internship](https://jobright.ai/jobs/info/69d95cc0b67cec4f9b0a17b4?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
 | ↳ | **[Lexington, KY: Fall 2026 - Master's Level Paid Internship](https://jobright.ai/jobs/info/69d95cbfb67cec4f9b0a17a9?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Apr 10 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Training Programme Director for Rheumatology, South East](https://jobright.ai/jobs/info/69d95aa2869c7e25d859a413?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Apr 10 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/69d95a62738f2f099e8a146b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 10 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[LTI Summer Intern - School of Computer Science - LTI](https://jobright.ai/jobs/info/69d959cc738f2f099e8a1349?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
