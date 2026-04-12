@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69dc17e0f748bc5d08a59664?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Trauma Center Master Level Macro Internship – Flexible Start Date](https://jobright.ai/jobs/info/69dbfc12869c7e25d85a8bbb?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Apr 12 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Product Training Intern](https://jobright.ai/jobs/info/69dbfbf3b67cec4f9b0afdd1?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Program Director - Student Connection](https://jobright.ai/jobs/info/69dbe134f748bc5d08a58de4?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Apr 12 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69dad5bb869c7e25d85a5186?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 11 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Development](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e0e?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69daab365356a60f40fe39d9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69dba7d09f97a42dc9c2f044?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69dba7aa869c7e25d85a8216?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bddc83393a1008f743afb3?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 11 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69d5e077e63cea7a8b665d35?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Nashville International Center of Empowerment/Summer Camp Intern](https://jobright.ai/jobs/info/69da8f5e738f2f099e8a9b43?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d96cd05356a60f40fd99f1?utm_campaign=1057&utm_source=git)** | Kissimmee, FL | Hybrid | Apr 10 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Student Hourly Assistant / Summer Intern (Data Analysis)](https://jobright.ai/jobs/info/69d96c1af748bc5d08a4b43c?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Apr 10 |
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d988bc5356a60f40fda338?utm_campaign=1057&utm_source=git)** | Mountain View, CA | Hybrid | Apr 10 |
-| **[Family & Children's Association](https://fcali.org)** | **[Student Intern (PI Suffolk)](https://jobright.ai/jobs/info/69d969915356a60f40fd9857?utm_campaign=1057&utm_source=git)** | Bohemia, NY | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
