@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Liberal Arts/Social Sciences](https://jobright.ai/jobs/info/69db8098869c7e25d85a7fee?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69db739d5356a60f40fe6adb?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69db725b738f2f099e8aefc5?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 12 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Apr 12 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Development](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e0e?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69daab365356a60f40fe39d9?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[Union Gospel Mission of Tarrant County](http://www.ugm-tc.org)** | **[Intern - Clinical & Counseling](https://jobright.ai/jobs/info/69daab01b67cec4f9b0abec9?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 11 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69daaafc869c7e25d85a4cc1?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 11 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community Management Intern - Summer 2026](https://jobright.ai/jobs/info/69da9ed09f97a42dc9c2b53e?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 11 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research/Teaching Assistant](https://jobright.ai/jobs/info/69da8f6bb67cec4f9b0a9c99?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 11 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69d5e077e63cea7a8b665d35?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
