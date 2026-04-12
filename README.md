@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69db55a7738f2f099e8aeb75?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 12 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69db55e9869c7e25d85a7bf2?utm_campaign=1057&utm_source=git)** | Home, KS | Hybrid | Apr 11 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[26-27 Exceptional Student Service: Director, Exceptional Student Services Program - 261 Days](https://jobright.ai/jobs/info/69db022a5356a60f40fe474b?utm_campaign=1057&utm_source=git)** | Aurora, Colorado, United States | On Site | Apr 11 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69db0115f748bc5d08a5619c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 11 |
-| ↳ | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69daff83b67cec4f9b0acabc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 11 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69daff83b67cec4f9b0acabc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 11 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69dad5bb869c7e25d85a5186?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 11 |
 | ↳ | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69dad592f748bc5d08a55a36?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 11 |
 | **[City of West Sacramento](https://www.cityofwestsacramento.org/)** | **[Summer STEPS Student Intern - Community Development](https://jobright.ai/jobs/info/69dac69c5356a60f40fe3e0e?utm_campaign=1057&utm_source=git)** | West Sacramento, CA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[LTI Summer Intern - School of Computer Science - LTI](https://jobright.ai/jobs/info/69d959cc738f2f099e8a1349?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst: 1700+ Hours Completed Required](https://jobright.ai/jobs/info/69bcab1a45e08b3dc1f9700d?utm_campaign=1057&utm_source=git)** | Brownsville, TX | On Site | Apr 10 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Teacher CTE Engineering 2026-2027 School Year (5365)](https://jobright.ai/jobs/info/69d952abb67cec4f9b0a1157?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | Apr 10 |
-| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[HMCB Acute Care Intern - ED](https://jobright.ai/jobs/info/69cae29ae565c26a70041df8?utm_campaign=1057&utm_source=git)** | Brownwood, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
