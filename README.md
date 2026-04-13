@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zapata County I.S.D.](http://www.zcisd.org)** | **[Director of PEIMS and Student Attendance-Internal Notice](https://jobright.ai/jobs/info/69dce0169f97a42dc9c33363?utm_campaign=1057&utm_source=git)** | Zapata, TX | On Site | Apr 13 |
+| **[California State University, Northridge](https://www.csun.edu/)** | **[Internal Scholarships Coordinator](https://jobright.ai/jobs/info/69dcde3b5356a60f40feb0ce?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
+| **[Southeast Missouri State University](http://www.semo.edu/)** | **[Coordinator, Study Abroad - International Education and Services](https://jobright.ai/jobs/info/69dcdc80bc6f6622c990ef75?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 13 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Program Manager](https://jobright.ai/jobs/info/69dcc5d89f97a42dc9c32d4c?utm_campaign=1057&utm_source=git)** | Pomona, CA | On Site | Apr 13 |
 | **[Pitkin County](https://www.pitkincounty.com/)** | **[Aspen/Pitkin County Airport College Internship - June 1 - Dec 1, 2026](https://jobright.ai/jobs/info/69dcc157f748bc5d08a5c5b3?utm_campaign=1057&utm_source=git)** | Aspen, CO | On Site | Apr 13 |
 | **[Lake Washington School District](https://www.lwsd.org/)** | **[Business and Marketing Teacher (CTE) Secondary 2026-2027 General Posting](https://jobright.ai/jobs/info/69dcb328f748bc5d08a5c3c0?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69db725b738f2f099e8aefc5?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 12 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Apr 12 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Instructor, 3D/2D Design](https://jobright.ai/jobs/info/69dcc4be5356a60f40feaaf5?utm_campaign=1057&utm_source=git)** | Los Altos Hills, CA | On Site | Apr 12 |
+| ↳ | **[Adjunct Faculty, Digital Media & Design](https://jobright.ai/jobs/info/69dce2a2bfa7f40fd6f78597?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | Apr 12 |
 | **[CITY OF MISSOULA](http://ci.missoula.mt.us)** | **[Transportation Options Intern](https://jobright.ai/jobs/info/69db6498869c7e25d85a7dd2?utm_campaign=1057&utm_source=git)** | Missoula, MT | On Site | Apr 12 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69db55a7738f2f099e8aeb75?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69db55e9869c7e25d85a7bf2?utm_campaign=1057&utm_source=git)** | Home, KS | Hybrid | Apr 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (West Lafayette, Summer 2026)](https://jobright.ai/jobs/info/697e4fa1ce48107c0542819b?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Apr 10 |
 | **[Northeast Valley Health Corporation](https://nevhc.org)** | **[Degreed Nutritionist-WIC Dietetic Intern](https://jobright.ai/jobs/info/69d9932a9f97a42dc9c223c6?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[STIPEND OPPORTUNITY: Exam School MAP Assessment Test Site Coordinators (SY25-26)](https://jobright.ai/jobs/info/69d988b1738f2f099e8a2520?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 10 |
-| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[[German International School Chicago] Extracurricular Programs Manager](https://jobright.ai/jobs/info/69d988a89f97a42dc9c2217e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Financial Aid and Enrollment Management Assistant - PT](https://jobright.ai/jobs/info/69d98864869c7e25d859b623?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Apr 10 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Summer 2026 Math Research Assistant (Student Position)](https://jobright.ai/jobs/info/69d98859738f2f099e8a2494?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 10 |
-| **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Camp Leadership Internship Summer 2026](https://jobright.ai/jobs/info/69d9796e738f2f099e8a1f3f?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
