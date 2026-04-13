@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/69dceacd9f97a42dc9c33508?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | Apr 13 |
 | **[Zapata County I.S.D.](http://www.zcisd.org)** | **[Director of PEIMS and Student Attendance-Internal Notice](https://jobright.ai/jobs/info/69dce0169f97a42dc9c33363?utm_campaign=1057&utm_source=git)** | Zapata, TX | On Site | Apr 13 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Internal Scholarships Coordinator](https://jobright.ai/jobs/info/69dcde3b5356a60f40feb0ce?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
 | **[Southeast Missouri State University](http://www.semo.edu/)** | **[Coordinator, Study Abroad - International Education and Services](https://jobright.ai/jobs/info/69dcdc80bc6f6622c990ef75?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 13 |
@@ -90,8 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Work Study, Peer Financial Coach](https://jobright.ai/jobs/info/69db8ddb738f2f099e8af14b?utm_campaign=1057&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 | ↳ | **[Work Study, Auxiliary Support (Creative Arts - Jazzfest)](https://jobright.ai/jobs/info/69db8dbcf748bc5d08a588f0?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[University of Southern California](http://www.usc.edu)** | **[Professor of Clinical Finance and Business Economics (Open Rank) - Peter Arkley Institute for Risk Management](https://jobright.ai/jobs/info/69db8db7f748bc5d08a588df?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Student Access](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27c?utm_campaign=1057&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
-| ↳ | **[Fall Intern, Student Affairs (Metro)](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af27a?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[2026-27 AY Lecturer Pool - Accounting](https://jobright.ai/jobs/info/69befa00b1060245628454cf?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Liberal Arts/Social Sciences](https://jobright.ai/jobs/info/69db8098869c7e25d85a7fee?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Recreation](https://jobright.ai/jobs/info/69db725b738f2f099e8aefc5?utm_campaign=1057&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (West Lafayette, Summer 2026)](https://jobright.ai/jobs/info/697e4fa1ce48107c0542819b?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Apr 10 |
 | **[Northeast Valley Health Corporation](https://nevhc.org)** | **[Degreed Nutritionist-WIC Dietetic Intern](https://jobright.ai/jobs/info/69d9932a9f97a42dc9c223c6?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[STIPEND OPPORTUNITY: Exam School MAP Assessment Test Site Coordinators (SY25-26)](https://jobright.ai/jobs/info/69d988b1738f2f099e8a2520?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 10 |
+| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[[German International School Chicago] Extracurricular Programs Manager](https://jobright.ai/jobs/info/69d988a89f97a42dc9c2217e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
