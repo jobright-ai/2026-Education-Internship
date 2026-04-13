@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lake Washington School District](https://www.lwsd.org/)** | **[Business and Marketing Teacher (CTE) Secondary 2026-2027 General Posting](https://jobright.ai/jobs/info/69dcb328f748bc5d08a5c3c0?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 13 |
 | **[LIBERTY HILL](https://www.linkedin.com/company/57190055)** | **[College Student Intern/Student Teacher/Student Observer](https://jobright.ai/jobs/info/69dca81ef748bc5d08a5c1b8?utm_campaign=1057&utm_source=git)** | Liberty Hill, TX | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc948b738f2f099e8b17e3?utm_campaign=1057&utm_source=git)** | 601 3rd Street Southeast, Medicine Hat, Alberta | On Site | Apr 13 |
 | ↳ | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc94845356a60f40fe93fd?utm_campaign=1057&utm_source=git)** | 200 4th Avenue South Corporate, Lethbridge, Alberta | On Site | Apr 13 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[EPRI](http://www.epri.com)** | **[Energy Supply Student Internship: eLearning Developer](https://jobright.ai/jobs/info/692ff8dd4c474121999e36e1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b78a?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Director of Enrollment Systems and Operations](https://jobright.ai/jobs/info/69d97660738f2f099e8a1c69?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 10 |
-| **[Family & Children's Association](https://fcali.org)** | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
-| ↳ | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| **[Family & Children's Association](https://fcali.org)** | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| ↳ | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d975fbb67cec4f9b0a20e1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d990f85356a60f40fda4cf?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
