@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/69dcf9c29f97a42dc9c33931?utm_campaign=1057&utm_source=git)** | Home, KS | Remote | Apr 13 |
+| ↳ | **[Orientation Leader for International Student Orientation Programs](https://jobright.ai/jobs/info/69dcf94b738f2f099e8b3a5c?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Apr 13 |
+| **[Folsom Cordova Unified School District](http://www.fcusd.org)** | **[Research Assistant II ~ Adult Education](https://jobright.ai/jobs/info/69dcf28361f6ed54321f9f00?utm_campaign=1057&utm_source=git)** | Rancho Cordova, CA | On Site | Apr 13 |
 | **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/69dceacd9f97a42dc9c33508?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | Apr 13 |
 | **[Zapata County I.S.D.](http://www.zcisd.org)** | **[Director of PEIMS and Student Attendance-Internal Notice](https://jobright.ai/jobs/info/69dce0169f97a42dc9c33363?utm_campaign=1057&utm_source=git)** | Zapata, TX | On Site | Apr 13 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Internal Scholarships Coordinator](https://jobright.ai/jobs/info/69dcde3b5356a60f40feb0ce?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Royal University](http://www.mtroyal.ca)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/69d9a46c9f97a42dc9c232b2?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 10 |
 | **[Tarzana Treatment Centers](https://www.tarzanatc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69d99decf748bc5d08a4cd34?utm_campaign=1057&utm_source=git)** | Tarzana, CA, US | On Site | Apr 10 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (West Lafayette, Summer 2026)](https://jobright.ai/jobs/info/697e4fa1ce48107c0542819b?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Apr 10 |
-| **[Northeast Valley Health Corporation](https://nevhc.org)** | **[Degreed Nutritionist-WIC Dietetic Intern](https://jobright.ai/jobs/info/69d9932a9f97a42dc9c223c6?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
-| **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[STIPEND OPPORTUNITY: Exam School MAP Assessment Test Site Coordinators (SY25-26)](https://jobright.ai/jobs/info/69d988b1738f2f099e8a2520?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 10 |
-| **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[[German International School Chicago] Extracurricular Programs Manager](https://jobright.ai/jobs/info/69d988a89f97a42dc9c2217e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
