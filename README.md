@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LIBERTY HILL](https://www.linkedin.com/company/57190055)** | **[College Student Intern/Student Teacher/Student Observer](https://jobright.ai/jobs/info/69dca81ef748bc5d08a5c1b8?utm_campaign=1057&utm_source=git)** | Liberty Hill, TX | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc948b738f2f099e8b17e3?utm_campaign=1057&utm_source=git)** | 601 3rd Street Southeast, Medicine Hat, Alberta | On Site | Apr 13 |
 | ↳ | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc94845356a60f40fe93fd?utm_campaign=1057&utm_source=git)** | 200 4th Avenue South Corporate, Lethbridge, Alberta | On Site | Apr 13 |
 | ↳ | **[Agriculture Service Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc947b869c7e25d85aad18?utm_campaign=1057&utm_source=git)** | 200 Quarry Park Boulevard Southeast, Calgary, Alberta | On Site | Apr 13 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern – Crew Lead](https://jobright.ai/jobs/info/6984ee1e0f6f7e7a2cdf678f?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | Apr 11 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Assistant Professor of Electrical Engineering (AY 26/27)](https://jobright.ai/jobs/info/69db6469b67cec4f9b0aef7b?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Apr 11 |
 | ↳ | **[FINANCIAL AID SPECIALIST](https://jobright.ai/jobs/info/69db64a1f748bc5d08a5862e?utm_campaign=1057&utm_source=git)** | Mount Pleasant, MI | On Site | Apr 11 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Youth at Work Internship - Seattle Parks & Recreation](https://jobright.ai/jobs/info/69dca6fb5356a60f40fe9fe3?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[Poudre School District](http://www.psdschools.org)** | **[2026-27 School Secretary/Health Technician-Putnam Elementary School](https://jobright.ai/jobs/info/69da1e5c738f2f099e8a7dac?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
 | **[New York State Department of Civil Service](http://www.cs.ny.gov/)** | **[Medical Office Student Internship](https://jobright.ai/jobs/info/69da044eb67cec4f9b0a7b6e?utm_campaign=1057&utm_source=git)** | Cohoes, NY | On Site | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d9cac95356a60f40fdc702?utm_campaign=1057&utm_source=git)** | Haines City, FL | On Site | Apr 10 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[EPRI](http://www.epri.com)** | **[Energy Supply Student Internship: eLearning Developer](https://jobright.ai/jobs/info/692ff8dd4c474121999e36e1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b78a?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Director of Enrollment Systems and Operations](https://jobright.ai/jobs/info/69d97660738f2f099e8a1c69?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 10 |
-| **[Family & Children's Association](https://fcali.org)** | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
-| ↳ | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| **[Family & Children's Association](https://fcali.org)** | **[Intern Student (PACT)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c53?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
+| ↳ | **[Student Intern-(Prevention & Coalitions)](https://jobright.ai/jobs/info/69d9765c738f2f099e8a1c4a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[TRIO Talent Search Residential Mentor](https://jobright.ai/jobs/info/69d975fbb67cec4f9b0a20e1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d990f85356a60f40fda4cf?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69d96d045356a60f40fd9aa0?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Apr 10 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/69d96cdd5356a60f40fd9a18?utm_campaign=1057&utm_source=git)** | The Villages, FL | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
