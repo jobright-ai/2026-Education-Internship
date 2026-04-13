@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern, Digital Adoption and Communication](https://jobright.ai/jobs/info/69dd0d7761f6ed54321fab3e?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 13 |
+| **[Drexel University](http://drexel.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/69dd09ddbc6f6622c99100a5?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 13 |
+| **[Supportive Living, Inc.](https://www.supportivelivinginc.org/)** | **[Fall 2026 Neuro-Fit Assisted Exercise Internship](https://jobright.ai/jobs/info/69dd09cb738f2f099e8b4308?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Apr 13 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/69dd093e9f97a42dc9c33fe2?utm_campaign=1057&utm_source=git)** | James A Rhodes Office Tower 1130 East Broad Street | On Site | Apr 13 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Student Intern - Learning & Development](https://jobright.ai/jobs/info/69dd09235356a60f40febf50?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 13 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/69dcf9c29f97a42dc9c33931?utm_campaign=1057&utm_source=git)** | Home, KS | Remote | Apr 13 |
 | ↳ | **[Orientation Leader for International Student Orientation Programs](https://jobright.ai/jobs/info/69dcf94b738f2f099e8b3a5c?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Apr 13 |
 | **[Folsom Cordova Unified School District](http://www.fcusd.org)** | **[Research Assistant II ~ Adult Education](https://jobright.ai/jobs/info/69dcf28361f6ed54321f9f00?utm_campaign=1057&utm_source=git)** | Rancho Cordova, CA | On Site | Apr 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[val's services](https://www.linkedin.com/company/108859510)** | **[Academic and Student Affairs Administrator](https://jobright.ai/jobs/info/69d9aec7738f2f099e8a3bb3?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 10 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Hunger Solutions Intern](https://jobright.ai/jobs/info/69d9ae6b9f97a42dc9c2374e?utm_campaign=1057&utm_source=git)** | Davis County, UT | Hybrid | Apr 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69d9ae6b738f2f099e8a3b04?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 10 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Wild Horse Outreach and Education Programming Intern](https://jobright.ai/jobs/info/69d9ae03869c7e25d859cc1a?utm_campaign=1057&utm_source=git)** | Cache County, UT | Hybrid | Apr 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Vocational ESL Intern](https://jobright.ai/jobs/info/69cdfbdc398fb071abf802c0?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
-| **[Mount Royal University](http://www.mtroyal.ca)** | **[Assistant Professor, Marketing](https://jobright.ai/jobs/info/69d9a46c9f97a42dc9c232b2?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 10 |
-| **[Tarzana Treatment Centers](https://www.tarzanatc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69d99decf748bc5d08a4cd34?utm_campaign=1057&utm_source=git)** | Tarzana, CA, US | On Site | Apr 10 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[High School Internship (West Lafayette, Summer 2026)](https://jobright.ai/jobs/info/697e4fa1ce48107c0542819b?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
