@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Alameda](https://www.alamedaca.gov)** | **[Paid Summer Internship for High School Students - Multiple Opportunities](https://jobright.ai/jobs/info/69dc6a08738f2f099e8b10f8?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Apr 12 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Trauma Center Master Level Macro Internship – Flexible Start Date](https://jobright.ai/jobs/info/69dc28ce869c7e25d85a8fa7?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Apr 12 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69dc21c0738f2f099e8b0025?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 12 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69dc17e0f748bc5d08a59664?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Student Hourly Assistant / Summer Intern (Data Analysis)](https://jobright.ai/jobs/info/69d96c1af748bc5d08a4b43c?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Apr 10 |
 | **[General Motors](https://www.gm.com)** | **[Sr Program Manager, Campus & Intern Programs](https://jobright.ai/jobs/info/69d988bc5356a60f40fda338?utm_campaign=1057&utm_source=git)** | Mountain View, CA | Hybrid | Apr 10 |
 | **[Family & Children's Association](https://fcali.org)** | **[Student Intern (PI Suffolk)](https://jobright.ai/jobs/info/69d969915356a60f40fd9857?utm_campaign=1057&utm_source=git)** | Bohemia, NY | On Site | Apr 10 |
-| **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69d96954869c7e25d859acd4?utm_campaign=1057&utm_source=git)** | Honolulu County, HI | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
