@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelor's-1](https://jobright.ai/jobs/info/69de8c27433ac8430e0dac16?utm_campaign=1057&utm_source=git)** | BLOM ADMINISTRATIVE CAMPUS | On Site | Apr 14 |
+| **[FIND Outdoors](http://gofindoutdoors.org)** | **[Brasstown Bald Seasonal Education Intern](https://jobright.ai/jobs/info/69de8a38aba61f1417315d4b?utm_campaign=1057&utm_source=git)** | Hiawassee, GA | On Site | Apr 14 |
+| **[Lifelong Learning Administration Corporation](https://llac.org/)** | **[Student Internship](https://jobright.ai/jobs/info/69de8a2518cf504166e2de09?utm_campaign=1057&utm_source=git)** | City Heights [116] - San Diego, CA 92115 | On Site | Apr 14 |
+| **[FIND Outdoors](http://gofindoutdoors.org)** | **[Seasonal Education and Events Intern- Cradle of Forestry Session C](https://jobright.ai/jobs/info/69de8a1f18cf504166e2dde1?utm_campaign=1057&utm_source=git)** | Pisgah Forest, NC | On Site | Apr 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ED](https://jobright.ai/jobs/info/69de8a1ce34484770f1a2dc3?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | On Site | Apr 14 |
+| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Conference Coordinator Internship, UMKC Student Affairs](https://jobright.ai/jobs/info/69de899e433ac8430e0da65a?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 14 |
+| **[FIND Outdoors](http://gofindoutdoors.org)** | **[Seasonal Education and Events Intern- Cradle of Forestry Session D](https://jobright.ai/jobs/info/69de8917433ac8430e0da46b?utm_campaign=1057&utm_source=git)** | Pisgah Forest, NC | On Site | Apr 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ED](https://jobright.ai/jobs/info/69de890336823d1b425819f2?utm_campaign=1057&utm_source=git)** | US-MD-Baltimore | On Site | Apr 14 |
+| **[SoLa Impact](https://www.solaimpact.com)** | **[Social Impact Intern](https://jobright.ai/jobs/info/69de877636823d1b425818ca?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
+| **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[College Intern](https://jobright.ai/jobs/info/69de86e0e34484770f1a2897?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Apr 14 |
+| **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/69de854caba61f1417315699?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69de854336823d1b4258171d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Summer College Intern](https://jobright.ai/jobs/info/69de81435913ad339813d7cf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| **[Goodwin](http://www.goodwinprocter.com)** | **[Goodwin Edge Undergraduate Intern](https://jobright.ai/jobs/info/69de7fc536823d1b425815c7?utm_campaign=1057&utm_source=git)** | Boston | On Site | Apr 14 |
+| ↳ | **[Goodwin Edge Undergraduate Intern](https://jobright.ai/jobs/info/69de7fc418cf504166e2d5d5?utm_campaign=1057&utm_source=git)** | New York | On Site | Apr 14 |
+| ↳ | **[Goodwin Edge Undergraduate Intern](https://jobright.ai/jobs/info/69de7fbee34484770f1a2645?utm_campaign=1057&utm_source=git)** | Washington DC | On Site | Apr 14 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Apr 14 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/69de7a79e34484770f1a24c7?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Apr 14 |
 | ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/69de7a6a18cf504166e2d50a?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Apr 14 |
 | ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/69de7a69aba61f14173153c0?utm_campaign=1057&utm_source=git)** | Ridgeland - Newpointe | On Site | Apr 14 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Asset Management Powered by AssetWorks USA](https://www.assetworks.com/active-assets/)** | **[Intern - Training Enablement & Learning Systems Support](https://jobright.ai/jobs/info/69ddc30caba61f1417312277?utm_campaign=1057&utm_source=git)** | United States - Pennsylvania | On Site | Apr 13 |
 | **[County of Lake](http://www.lakecountyca.gov)** | **[Library Assistant Intern](https://jobright.ai/jobs/info/69ddbefd433ac8430e0d6a1a?utm_campaign=1057&utm_source=git)** | Lakeport, CA | On Site | Apr 13 |
 | **[Odyssey Autism ABA Therapy](https://odysseyautism.com)** | **[BCBA Intern (Board Certified Behavior Analyst Intern)](https://jobright.ai/jobs/info/69ddbec44d3bec4144b4dc6f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 13 |
-| **[KELLER](http://www.keller.co.uk)** | **[Co-Op Intern](https://jobright.ai/jobs/info/69ddb2a2433ac8430e0d66c6?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 13 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69ddaad1433ac8430e0d625e?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | On Site | Apr 13 |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad3398139999?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Apr 13 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad339813999a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Technical Training Team](https://jobright.ai/jobs/info/69dda7e7e34484770f19e558?utm_campaign=1057&utm_source=git)** | Edison, NJ, US, 08837 | On Site | Apr 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e3aba61f1417311439?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 13 |
-| ↳ | **[Extension 4-H STEM Summer Intern - Kane County](https://jobright.ai/jobs/info/69dda7e3aba61f141731143c?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
-| ↳ | **[Extension 4-H/Home & Community Intern - Garfield County](https://jobright.ai/jobs/info/69dda7e3aba61f141731143a?utm_campaign=1057&utm_source=git)** | US-UT-Panguitch | On Site | Apr 13 |
-| ↳ | **[Extension STEM Community Engagement Intern - Carbon County](https://jobright.ai/jobs/info/69dda7e2aba61f141731142b?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | On Site | Apr 13 |
-| ↳ | **[Extension STEM Community Engagement Intern - Carbon County](https://jobright.ai/jobs/info/69dda7e1e34484770f19e531?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
-| ↳ | **[Extension Hunger Solutions Intern](https://jobright.ai/jobs/info/69dda7e1e34484770f19e539?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 13 |
-| ↳ | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e15913ad339813995d?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 13 |
-| ↳ | **[Extension Horticulture Education and Research Intern - Iron County](https://jobright.ai/jobs/info/69dda7dc5913ad339813994b?utm_campaign=1057&utm_source=git)** | US-UT-Cedar City | On Site | Apr 13 |
-| ↳ | **[Extension 4-H STEM Summer Intern - Kane County](https://jobright.ai/jobs/info/69dda7dc5913ad339813993b?utm_campaign=1057&utm_source=git)** | Kanab, UT, US | On Site | Apr 13 |
-| ↳ | **[Extension Horticulture Education and Research Intern - Iron County](https://jobright.ai/jobs/info/69dda7da433ac8430e0d6017?utm_campaign=1057&utm_source=git)** | Cedar City, UT, US | On Site | Apr 13 |
-| ↳ | **[Extension 4-H/Home & Community Intern - Garfield County](https://jobright.ai/jobs/info/69dda7d9433ac8430e0d600b?utm_campaign=1057&utm_source=git)** | Panguitch, UT, US | On Site | Apr 13 |
-| ↳ | **[Extension Wild Horse Outreach and Education Programming Intern](https://jobright.ai/jobs/info/69dda7d5433ac8430e0d6003?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 13 |
-| ↳ | **[Extension 4-H Intern - Manti, Sanpete County](https://jobright.ai/jobs/info/69dda7d4433ac8430e0d5fef?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
