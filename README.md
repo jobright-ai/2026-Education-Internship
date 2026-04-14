@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad339813999a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
-| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad3398139999?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Apr 13 |
+| **[KELLER](https://www.keller-france.com/)** | **[Co-Op Intern](https://jobright.ai/jobs/info/69ddb2a2433ac8430e0d66c6?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 13 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69ddaad1433ac8430e0d625e?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | On Site | Apr 13 |
+| ↳ | **[MIAMI Intern Special Programs – Education](https://jobright.ai/jobs/info/69ddaabfaba61f14173116e4?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | Hybrid | Apr 13 |
+| **[Sierra Club](http://sierraclub.org)** | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad3398139999?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Apr 13 |
+| ↳ | **[Volunteer Coordinator Intern](https://jobright.ai/jobs/info/69dda7f75913ad339813999a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Apr 13 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - Technical Training Team](https://jobright.ai/jobs/info/69dda7e7e34484770f19e558?utm_campaign=1057&utm_source=git)** | Edison, NJ, US, 08837 | On Site | Apr 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension 4-H STEM Summer Intern - Kane County](https://jobright.ai/jobs/info/69dda7e3aba61f141731143c?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
-| ↳ | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e3aba61f1417311439?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e3aba61f1417311439?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 13 |
 | ↳ | **[Extension 4-H/Home & Community Intern - Garfield County](https://jobright.ai/jobs/info/69dda7e3aba61f141731143a?utm_campaign=1057&utm_source=git)** | US-UT-Panguitch | On Site | Apr 13 |
+| ↳ | **[Extension 4-H STEM Summer Intern - Kane County](https://jobright.ai/jobs/info/69dda7e3aba61f141731143c?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
 | ↳ | **[Extension STEM Community Engagement Intern - Carbon County](https://jobright.ai/jobs/info/69dda7e2aba61f141731142b?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | On Site | Apr 13 |
 | ↳ | **[Extension Hunger Solutions Intern](https://jobright.ai/jobs/info/69dda7e1e34484770f19e539?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 13 |
-| ↳ | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e15913ad339813995d?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 13 |
 | ↳ | **[Extension STEM Community Engagement Intern - Carbon County](https://jobright.ai/jobs/info/69dda7e1e34484770f19e531?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 13 |
+| ↳ | **[Extension and Dairy Production Intern](https://jobright.ai/jobs/info/69dda7e15913ad339813995d?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 13 |
 | ↳ | **[Extension 4-H STEM Summer Intern - Kane County](https://jobright.ai/jobs/info/69dda7dc5913ad339813993b?utm_campaign=1057&utm_source=git)** | Kanab, UT, US | On Site | Apr 13 |
 | ↳ | **[Extension Horticulture Education and Research Intern - Iron County](https://jobright.ai/jobs/info/69dda7dc5913ad339813994b?utm_campaign=1057&utm_source=git)** | US-UT-Cedar City | On Site | Apr 13 |
 | ↳ | **[Extension Horticulture Education and Research Intern - Iron County](https://jobright.ai/jobs/info/69dda7da433ac8430e0d6017?utm_campaign=1057&utm_source=git)** | Cedar City, UT, US | On Site | Apr 13 |
@@ -107,11 +110,11 @@ For a complete list, click the following sortable link below:
 | **[Loudoun County Public Schools](http://www.lcps.org/)** | **[Teacher, Business/Marketing (SY 2026-2027)](https://jobright.ai/jobs/info/69dd76e4f748bc5d08a5ff50?utm_campaign=1057&utm_source=git)** | Ashburn, VA | On Site | Apr 13 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69dd76d0bc6f6622c99124ef?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 13 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69dd76cd9f97a42dc9c36521?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Apr 13 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd7386f748bc5d08a5fec1?utm_campaign=1057&utm_source=git)** | San Francisco - Mission (CA295) | On Site | Apr 13 |
+| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7be?utm_campaign=1057&utm_source=git)** | TX - Houston (77002) | On Site | Apr 13 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7c1?utm_campaign=1057&utm_source=git)** | TX - Dallas (75201) | On Site | Apr 13 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7c2?utm_campaign=1057&utm_source=git)** | IL - Chicago (60606) | On Site | Apr 13 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7c0?utm_campaign=1057&utm_source=git)** | PA - Philadelphia (19103) | On Site | Apr 13 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7be?utm_campaign=1057&utm_source=git)** | TX - Houston (77002) | On Site | Apr 13 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd7386f748bc5d08a5fec1?utm_campaign=1057&utm_source=git)** | San Francisco - Mission (CA295) | On Site | Apr 13 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd738761f6ed54321fd7c2?utm_campaign=1057&utm_source=git)** | IL - Chicago (60606) | On Site | Apr 13 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd7386738f2f099e8b6597?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222) | On Site | Apr 13 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69dd7383738f2f099e8b657f?utm_campaign=1057&utm_source=git)** | NY - New York (10173) | On Site | Apr 13 |
 | **[The City University of New York](http://cuny.edu)** | **[Administrative Coordinator (aHEO) Enrollment Management- 400578](https://jobright.ai/jobs/info/69dd709dbc6f6622c9912421?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Go ATX Summer Enrichment Internship](https://jobright.ai/jobs/info/69dd4f63738f2f099e8b590f?utm_campaign=1057&utm_source=git)** | Montopolis Neighborhood Center | On Site | Apr 13 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69dd4ea5bc6f6622c9911693?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69dd4e7e9f97a42dc9c35697?utm_campaign=1057&utm_source=git)** | Westlake, OH | On Site | Apr 13 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension STEM Community Engagement Intern - Carbon County](https://jobright.ai/jobs/info/69dd4e33738f2f099e8b58c3?utm_campaign=1057&utm_source=git)** | Price, UT | On Site | Apr 13 |
-| ↳ | **[USU Bastian Ag Center Youth Livestock Intern](https://jobright.ai/jobs/info/69dd4e14738f2f099e8b5852?utm_campaign=1057&utm_source=git)** | Salt Lake County, UT | On Site | Apr 13 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Child Care Assistant FT ? 6704](https://jobright.ai/jobs/info/69dd4e125356a60f40fed7bd?utm_campaign=1057&utm_source=git)** | New London, CT | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
