@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Associate Program Director Center for Student Involvement](https://jobright.ai/jobs/info/69df063ee34484770f1a6745?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Apr 14 |
+| **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Summer Intern](https://jobright.ai/jobs/info/69ced3c0cfdc6132f942c9f2?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Apr 14 |
+| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Director of Men's and Women's Swim and Dive Program](https://jobright.ai/jobs/info/69df01d6aba61f14173195bc?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 14 |
 | **[Douglas County School District](https://www.dcsdk12.org/)** | **[Counselor Intern - Fall Semester 2026](https://jobright.ai/jobs/info/69d4143554f00230c6d2ddc6?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Apr 14 |
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Part-Time Student Intern (Multiple Positions)](https://jobright.ai/jobs/info/69def64318cf504166e3137b?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern II-26056](https://jobright.ai/jobs/info/69def613aba61f141731917b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea02218cf504166e2e977?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea01eaba61f1417316886?utm_campaign=1057&utm_source=git)** | US-UT-Salt Lake City | Hybrid | Apr 14 |
 | ↳ | **[Extension Horticulture and Agriculture Internship - Hurricane, Washington County](https://jobright.ai/jobs/info/69dea019aba61f141731687e?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea0175913ad339813e6fd?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ED](https://jobright.ai/jobs/info/69de890336823d1b425819f2?utm_campaign=1057&utm_source=git)** | US-MD-Baltimore | On Site | Apr 14 |
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[College Intern](https://jobright.ai/jobs/info/69de86e0e34484770f1a2897?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Apr 14 |
 | **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/69de854caba61f1417315699?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69de854336823d1b4258171d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Summer College Intern](https://jobright.ai/jobs/info/69de81435913ad339813d7cf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
