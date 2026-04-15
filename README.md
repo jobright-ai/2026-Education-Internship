@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Research & Program Coordinator](https://jobright.ai/jobs/info/69dfaf8d14bf245fc7a6d16e?utm_campaign=1057&utm_source=git)** | Hamilton, ON | Hybrid | Apr 15 |
+| **[Westwood Holdings Group, Inc.](https://westwoodgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69dfae8b14bf245fc7a6d11c?utm_campaign=1057&utm_source=git)** | Houston, Texas, United States | On Site | Apr 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Student Respiratory Care Practitioner Intern](https://jobright.ai/jobs/info/69df9115e34484770f1a93ed?utm_campaign=1057&utm_source=git)** | San Leandro, CA | On Site | Apr 15 |
+| **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69dfb33f433ac8430e0e18c9?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Apr 15 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Columbia) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a9371279f3f4037f44022c?utm_campaign=1057&utm_source=git)** | Columbia, MD | Hybrid | Apr 15 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacist Intern](https://jobright.ai/jobs/info/69df88b44920452a85dce25e?utm_campaign=1057&utm_source=git)** | Delray Beach, FL | On Site | Apr 15 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[High School Internship Greeley](https://jobright.ai/jobs/info/69df800b433ac8430e0e0b56?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 15 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video PA Editor Intern](https://jobright.ai/jobs/info/69bb35da06c1ba00c54daa72?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 15 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69a74acc2672cb0acb4bb9c5?utm_campaign=1057&utm_source=git)** | Northville, MI | On Site | Apr 15 |
 | **[Polytainers Inc.](https://www.polytainersinc.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69c2fb20ec22f8310ab10282?utm_campaign=1057&utm_source=git)** | Etobicoke, ON | On Site | Apr 15 |
-| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf04?utm_campaign=1057&utm_source=git)** | Batesville, AR | On Site | Apr 15 |
-| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df800c5913ad33981440fa?utm_campaign=1057&utm_source=git)** | Albertville, AL | On Site | Apr 15 |
+| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf05?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 15 |
 | ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df804b14bf245fc7a6c50f?utm_campaign=1057&utm_source=git)** | Ansonia, CT | On Site | Apr 15 |
-| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf05?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 15 |
+| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df800c5913ad33981440fa?utm_campaign=1057&utm_source=git)** | Albertville, AL | On Site | Apr 15 |
+| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf04?utm_campaign=1057&utm_source=git)** | Batesville, AR | On Site | Apr 15 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Accounting](https://jobright.ai/jobs/info/69df570e433ac8430e0e0547?utm_campaign=1057&utm_source=git)** | Jackson, TN | Hybrid | Apr 15 |
 | **[CCHMC Biomedical Research Technologies Masters Program](https://www.cincinnatichildrens.org/education/research/biomedical-research-masters)** | **[Student II/III - Schubert Research Clinic (JR219663)](https://jobright.ai/jobs/info/69df80d65913ad3398144398?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Medical Assistant Certification Training (MACT 2.0) Internship](https://jobright.ai/jobs/info/69df4d78433ac8430e0e02d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Engineering Technology](https://jobright.ai/jobs/info/69dea140e34484770f1a398c?utm_campaign=1057&utm_source=git)** | Jackson, TN | On Site | Apr 14 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[College Student Intern ENT](https://jobright.ai/jobs/info/69dea0d018cf504166e2e9b3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea050433ac8430e0db256?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
-| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Youth Programming Intern](https://jobright.ai/jobs/info/69dea04f36823d1b425827fa?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04c433ac8430e0db251?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
-| ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea02218cf504166e2e977?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
