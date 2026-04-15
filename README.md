@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Academic Relations Student Intern](https://jobright.ai/jobs/info/69df2e455913ad3398142fd6?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Apr 14 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/69df214ae34484770f1a76c2?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | Apr 14 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Summer Student Youth Employment Intern-7](https://jobright.ai/jobs/info/69df20a418cf504166e3281b?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 14 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Manager, International Research Grants](https://jobright.ai/jobs/info/69df11ce18cf504166e3230a?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Property & Casualty Intern](https://jobright.ai/jobs/info/69df0fda433ac8430e0dec5f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 14 |
+| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF/PBH-Family Crisis Therapist Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/69df2b9d18cf504166e32c09?utm_campaign=1057&utm_source=git)** | Delaware, United States | On Site | Apr 14 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Assistant/Associate Professor (Marketing)](https://jobright.ai/jobs/info/69df0b12e34484770f1a6d8c?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Apr 14 |
 | **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Associate Program Director Center for Student Involvement](https://jobright.ai/jobs/info/69df063ee34484770f1a6745?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Apr 14 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Summer Intern](https://jobright.ai/jobs/info/69ced3c0cfdc6132f942c9f2?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Apr 14 |
@@ -128,14 +130,14 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Engineering Technology](https://jobright.ai/jobs/info/69dea140e34484770f1a398c?utm_campaign=1057&utm_source=git)** | Jackson, TN | On Site | Apr 14 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[College Student Intern ENT](https://jobright.ai/jobs/info/69dea0d018cf504166e2e9b3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea050433ac8430e0db256?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
-| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Youth Programming Intern](https://jobright.ai/jobs/info/69dea04f36823d1b425827fa?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04c433ac8430e0db251?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea02218cf504166e2e977?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea01eaba61f1417316886?utm_campaign=1057&utm_source=git)** | US-UT-Salt Lake City | Hybrid | Apr 14 |
 | ↳ | **[Extension Horticulture and Agriculture Internship - Hurricane, Washington County](https://jobright.ai/jobs/info/69dea019aba61f141731687e?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea0175913ad339813e6fd?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stress Engineering Services, Inc.](http://stress.com)** | **[Learning & Training Development Intern](https://jobright.ai/jobs/info/69de8c9de34484770f1a3166?utm_campaign=1057&utm_source=git)** | Waller, TX | On Site | Apr 14 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelor's-1](https://jobright.ai/jobs/info/69de8c27433ac8430e0dac16?utm_campaign=1057&utm_source=git)** | BLOM ADMINISTRATIVE CAMPUS | On Site | Apr 14 |
 | **[FIND Outdoors](http://gofindoutdoors.org)** | **[Brasstown Bald Seasonal Education Intern](https://jobright.ai/jobs/info/69de8a38aba61f1417315d4b?utm_campaign=1057&utm_source=git)** | Hiawassee, GA | On Site | Apr 14 |
-| **[Lifelong Learning Administration Corporation](https://llac.org/)** | **[Student Internship](https://jobright.ai/jobs/info/69de8a2518cf504166e2de09?utm_campaign=1057&utm_source=git)** | City Heights [116] - San Diego, CA 92115 | On Site | Apr 14 |
-| **[FIND Outdoors](http://gofindoutdoors.org)** | **[Seasonal Education and Events Intern- Cradle of Forestry Session C](https://jobright.ai/jobs/info/69de8a1f18cf504166e2dde1?utm_campaign=1057&utm_source=git)** | Pisgah Forest, NC | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
