@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Medical Assistant Certification Training (MACT 2.0) Internship](https://jobright.ai/jobs/info/69df4d78433ac8430e0e02d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
+| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Campus Support Coordinator (Administrative Support Coordinator I)](https://jobright.ai/jobs/info/69df4d4b433ac8430e0e029e?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
+| **[Florida Blue](https://www.floridablue.com)** | **[Baker County High School Internship](https://jobright.ai/jobs/info/69dc965a738f2f099e8b20be?utm_campaign=1057&utm_source=git)** | Glen St Mary, FL | On Site | Apr 15 |
+| **[Loudoun County Public Schools](http://www.lcps.org/)** | **[Teacher, Business/Marketing (SY 2026-2027)](https://jobright.ai/jobs/info/69df4d3914bf245fc7a6bc53?utm_campaign=1057&utm_source=git)** | Ashburn, VA | On Site | Apr 15 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Academic Relations Student Intern](https://jobright.ai/jobs/info/69df2e455913ad3398142fd6?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Apr 14 |
+| **[Riverside Health](http://www.riversideonline.com)** | **[IT Summer Intern - Epic Training & Access](https://jobright.ai/jobs/info/69df4d8318cf504166e338fc?utm_campaign=1057&utm_source=git)** | Denbigh, VA | On Site | Apr 14 |
 | **[Bowery Residents'​ Committee](https://www.brc.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/69df214ae34484770f1a76c2?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | Apr 14 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Summer Student Youth Employment Intern-7](https://jobright.ai/jobs/info/69df20a418cf504166e3281b?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Apr 14 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Manager, International Research Grants](https://jobright.ai/jobs/info/69df11ce18cf504166e3230a?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
@@ -136,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea02218cf504166e2e977?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
 | ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
+| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea01eaba61f1417316886?utm_campaign=1057&utm_source=git)** | US-UT-Salt Lake City | Hybrid | Apr 14 |
 | ↳ | **[Extension Horticulture and Agriculture Internship - Hurricane, Washington County](https://jobright.ai/jobs/info/69dea019aba61f141731687e?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea0175913ad339813e6fd?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2027)](https://jobright.ai/jobs/info/69de9312433ac8430e0dae8f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | ↳ | **[MBA Intern, Supply Chain Management (Summer 2027)](https://jobright.ai/jobs/info/69de92f6e34484770f1a33b5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[BlueLinx Corporation](http://bluelinxco.com/)** | **[Technical Learning Experience Design Intern](https://jobright.ai/jobs/info/69de920ae34484770f1a3283?utm_campaign=1057&utm_source=git)** | 1950 Spectrum Cir, Marietta, GA 30067, USA | On Site | Apr 14 |
-| **[DISCOVERY Children's Museum](https://www.discoverykidslv.org/)** | **[Youthworks Summer Intern](https://jobright.ai/jobs/info/69de9208433ac8430e0dad5d?utm_campaign=1057&utm_source=git)** | Las Vegas, NV 89106 | On Site | Apr 14 |
-| **[Saint Mary's College](http://www.saintmarys.edu/)** | **[Office of Admission Summer Intern (2026 Summer)](https://jobright.ai/jobs/info/69de91d4aba61f14173160e9?utm_campaign=1057&utm_source=git)** | 149 Le Mans Hall, Notre Dame, IN, 46556, US | On Site | Apr 14 |
-| **[Stress Engineering Services, Inc.](http://stress.com)** | **[Learning & Training Development Intern](https://jobright.ai/jobs/info/69de8c9de34484770f1a3166?utm_campaign=1057&utm_source=git)** | Waller, TX | On Site | Apr 14 |
-| **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelor's-1](https://jobright.ai/jobs/info/69de8c27433ac8430e0dac16?utm_campaign=1057&utm_source=git)** | BLOM ADMINISTRATIVE CAMPUS | On Site | Apr 14 |
-| **[FIND Outdoors](http://gofindoutdoors.org)** | **[Brasstown Bald Seasonal Education Intern](https://jobright.ai/jobs/info/69de8a38aba61f1417315d4b?utm_campaign=1057&utm_source=git)** | Hiawassee, GA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
