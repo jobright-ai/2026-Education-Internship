@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Accounting](https://jobright.ai/jobs/info/69df570e433ac8430e0e0547?utm_campaign=1057&utm_source=git)** | Jackson, TN | Hybrid | Apr 15 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Medical Assistant Certification Training (MACT 2.0) Internship](https://jobright.ai/jobs/info/69df4d78433ac8430e0e02d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Campus Support Coordinator (Administrative Support Coordinator I)](https://jobright.ai/jobs/info/69df4d4b433ac8430e0e029e?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Baker County High School Internship](https://jobright.ai/jobs/info/69dc965a738f2f099e8b20be?utm_campaign=1057&utm_source=git)** | Glen St Mary, FL | On Site | Apr 15 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Engineering Technology](https://jobright.ai/jobs/info/69dea140e34484770f1a398c?utm_campaign=1057&utm_source=git)** | Jackson, TN | On Site | Apr 14 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[College Student Intern ENT](https://jobright.ai/jobs/info/69dea0d018cf504166e2e9b3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea050433ac8430e0db256?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
-| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Youth Programming Intern](https://jobright.ai/jobs/info/69dea04f36823d1b425827fa?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04c433ac8430e0db251?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Extension Agronomy & 4-H Intern - Box Elder County](https://jobright.ai/jobs/info/69debaa45913ad339813f6b9?utm_campaign=1057&utm_source=git)** | Box Elder County, UT | On Site | Apr 14 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2027)](https://jobright.ai/jobs/info/69de9312433ac8430e0dae8f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | ↳ | **[MBA Intern, Supply Chain Management (Summer 2027)](https://jobright.ai/jobs/info/69de92f6e34484770f1a33b5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
-| **[BlueLinx Corporation](http://bluelinxco.com/)** | **[Technical Learning Experience Design Intern](https://jobright.ai/jobs/info/69de920ae34484770f1a3283?utm_campaign=1057&utm_source=git)** | 1950 Spectrum Cir, Marietta, GA 30067, USA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
