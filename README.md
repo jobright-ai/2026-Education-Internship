@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/69decdc65913ad33981403a3?utm_campaign=1057&utm_source=git)** | Lakewood, CO | On Site | Apr 14 |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Fall (1634)](https://jobright.ai/jobs/info/69decdab5913ad3398140370?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/69deca9f433ac8430e0dc7a8?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Apr 14 |
+| **[Southeast Missouri State University](http://www.semo.edu/)** | **[Student Financial Services Technician - Student Financial Services](https://jobright.ai/jobs/info/69deca88433ac8430e0dc787?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 14 |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Fall (1634)](https://jobright.ai/jobs/info/69dec8ee433ac8430e0dc6f4?utm_campaign=1057&utm_source=git)** | 730 - Capital Area - Austin, TX 78753 | Hybrid | Apr 14 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/69dec25faba61f14173179b3?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 14 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69dec10318cf504166e2fb77?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 14 |
 | **[Physics World](https://physicsworld.com/)** | **[Government Funded Student Intern (WDTS) - Summer 2026](https://jobright.ai/jobs/info/69dec10136823d1b42583a72?utm_campaign=1057&utm_source=git)** | Livermore, CA | Hybrid | Apr 14 |
@@ -100,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea02218cf504166e2e977?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
-| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea02118cf504166e2e969?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
+| ↳ | **[Utah County 4-H Programs Intern - Orem](https://jobright.ai/jobs/info/69dea021e34484770f1a38dc?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea01eaba61f1417316886?utm_campaign=1057&utm_source=git)** | US-UT-Salt Lake City | Hybrid | Apr 14 |
 | ↳ | **[Extension Horticulture and Agriculture Internship - Hurricane, Washington County](https://jobright.ai/jobs/info/69dea019aba61f141731687e?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea0175913ad339813e6fd?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension 4-H & Agricultural Intern - Juab County](https://jobright.ai/jobs/info/69de693a18cf504166e2cd5b?utm_campaign=1057&utm_source=git)** | Nephi, UT, US | On Site | Apr 14 |
 | ↳ | **[Extension 4-H & Agricultural Intern - Juab County](https://jobright.ai/jobs/info/69de6933e34484770f1a1d6c?utm_campaign=1057&utm_source=git)** | US-UT-Nephi | On Site | Apr 14 |
 | ↳ | **[Extension Agriculture & Natural Resources Intern - Ogden, Weber County](https://jobright.ai/jobs/info/69de692fe34484770f1a1d64?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
-| ↳ | **[Extension Horticultural Intern & Research Assistant - Davis County](https://jobright.ai/jobs/info/69de692e433ac8430e0d979e?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | Apr 14 |
-| **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Director, Dietetic Internship Program (Registered Dietitian)](https://jobright.ai/jobs/info/69de65cf36823d1b42580c9e?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 14 |
-| ↳ | **[Director - Dietetic Internship Program, Registered Dietitian](https://jobright.ai/jobs/info/69de65c236823d1b42580c7c?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 14 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69de65a7433ac8430e0d9691?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 14 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69de658e433ac8430e0d966c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
