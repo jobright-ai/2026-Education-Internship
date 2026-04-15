@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Engineering Technology](https://jobright.ai/jobs/info/69dea140e34484770f1a398c?utm_campaign=1057&utm_source=git)** | Jackson, TN | On Site | Apr 14 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[College Student Intern ENT](https://jobright.ai/jobs/info/69dea0d018cf504166e2e9b3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea050433ac8430e0db256?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 14 |
-| ↳ | **[Create Better Health Youth Programming Intern](https://jobright.ai/jobs/info/69dea04f36823d1b425827fa?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
 | ↳ | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/69dea04f36823d1b425827fb?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 14 |
+| ↳ | **[Create Better Health Youth Programming Intern](https://jobright.ai/jobs/info/69dea04f36823d1b425827fa?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04c433ac8430e0db251?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, US | Hybrid | Apr 14 |
 | ↳ | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/69dea04b36823d1b425827f6?utm_campaign=1057&utm_source=git)** | UT, UNAVAILABLE, US | Hybrid | Apr 14 |
 | ↳ | **[Create Better Health Food Access Intern](https://jobright.ai/jobs/info/69dea023e34484770f1a38e2?utm_campaign=1057&utm_source=git)** | US-UT | On Site | Apr 14 |
