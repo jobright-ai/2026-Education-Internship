@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c4220633eecf3107943d4c?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Altorfer Cat](https://www.altorfer.com/)** | **[Think Big Intern - Starting August 2026](https://jobright.ai/jobs/info/69e09f6ecf5a9e0c33c875b7?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Apr 16 |
+| **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69e0d41eacc736112f5c037e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/69e09854ba9bd32d03371289?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Financial Aid)](https://jobright.ai/jobs/info/69e0b3566c20aa114953d25a?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Associate Director of University Housing for Student and Administrative Services](https://jobright.ai/jobs/info/69d979435356a60f40fd9f3b?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Apr 15 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/69dffdd14920452a85dd0e53?utm_campaign=1057&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 15 |
 | **[Focus on the Family Canada](http://www.focusonthefamily.ca)** | **[Bilingual Assistant Summer Intern](https://jobright.ai/jobs/info/69e02ac3e34484770f1ace88?utm_campaign=1057&utm_source=git)** | Langley, BC | Remote | Apr 15 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Temporary Academic Intern](https://jobright.ai/jobs/info/69dff7c55913ad33981470d1?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Apr 15 |
-| **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Seasonal Hire - Internal Medicine, Gastroenterology](https://jobright.ai/jobs/info/69dff7c3aba61f141731ebdb?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| **[UTHealth Houston](https://www.uth.edu)** | **[Seasonal Hire - Internal Medicine, Gastroenterology](https://jobright.ai/jobs/info/69dff7c3aba61f141731ebdb?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Course Scheduling (Remote)](https://jobright.ai/jobs/info/69dff7305913ad3398147052?utm_campaign=1057&utm_source=git)** | Orlando, FL | Remote | Apr 15 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dff661aba61f141731ea35?utm_campaign=1057&utm_source=git)** | Davis County, UT | Hybrid | Apr 15 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Student Intern - Learning & Development](https://jobright.ai/jobs/info/69dff656aba61f141731ea1b?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dfe381433ac8430e0e2ccd?utm_campaign=1057&utm_source=git)** | Nashua Community College | On Site | Apr 15 |
 | **[UT Health San Antonio](https://uthscsa.edu/)** | **[Mental Health Therapist Intern - LPC Associate (We Care Clinic)](https://jobright.ai/jobs/info/69dfe0f94920452a85dd0010?utm_campaign=1057&utm_source=git)** | 0001 7703 Floyd Curl Drive, San Antonio, TX, 78229, US | Hybrid | Apr 15 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Intern - Wealth Management Intern](https://jobright.ai/jobs/info/69c2e95294007a2195def7f2?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Apr 15 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
-| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
+| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Program Intern & Research Assistant - Washington County](https://jobright.ai/jobs/info/69dfd74914bf245fc7a6e103?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd7454920452a85dcfc5f?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd742e34484770f1aac6a?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - CS Print & Production, Hybrid](https://jobright.ai/jobs/info/69dfc2dae34484770f1aa50e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 15 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Assistant Professor, Human Development Counseling](https://jobright.ai/jobs/info/69c324daec22f8310ab152b7?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Apr 15 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelor's - Hardin Memorial Hospital](https://jobright.ai/jobs/info/69dfc2565913ad33981458c2?utm_campaign=1057&utm_source=git)** | HARDIN MEMORIAL HOSPITAL | On Site | Apr 15 |
-| **[University of Illinois Springfield](http://www.uis.edu/)** | **[Visiting Associate Professor or Visiting Professor and Director, School of Applied Engineering](https://jobright.ai/jobs/info/69c324cfec22f8310ab15288?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Apr 15 |
-| **[Catholic Charities Fort Worth](https://catholiccharitiesfortworth.org)** | **[Internship- Refugee School Impact](https://jobright.ai/jobs/info/69dfbe0f5913ad33981456a1?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
