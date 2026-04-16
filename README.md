@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Coordinator-International Baccalaureate IB - MS (2026-2027 School Year)](https://jobright.ai/jobs/info/69e04acf14bf245fc7a70d26?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Apr 15 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Pre Doctoral Research Fellow ENT - Otolaryngology - Part -time-26266](https://jobright.ai/jobs/info/69e04991aba61f14173206f9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
+| **[U-Haul](http://www.uhaul.com/)** | **[U-Haul University Intern](https://jobright.ai/jobs/info/69e040f5e34484770f1ad606?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
 | **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148953?utm_campaign=1057&utm_source=git)** | Mississauga, ON | Hybrid | Apr 15 |
 | ↳ | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148954?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e036874920452a85dd23ed?utm_campaign=1057&utm_source=git)** | New York | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69dfb33f433ac8430e0e18c9?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Apr 15 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Columbia) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a9371279f3f4037f44022c?utm_campaign=1057&utm_source=git)** | Columbia, MD | Hybrid | Apr 15 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacist Intern](https://jobright.ai/jobs/info/69df88b44920452a85dce25e?utm_campaign=1057&utm_source=git)** | Delray Beach, FL | On Site | Apr 15 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[High School Internship Greeley](https://jobright.ai/jobs/info/69df800b433ac8430e0e0b56?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 15 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video PA Editor Intern](https://jobright.ai/jobs/info/69bb35da06c1ba00c54daa72?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 15 |
-| **[Tenneco](https://www.tenneco.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69a74acc2672cb0acb4bb9c5?utm_campaign=1057&utm_source=git)** | Northville, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
