@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Air Methods](http://airmethods.com)** | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f480acc736112f5c10aa?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO, US | On Site | Apr 16 |
+| ↳ | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f3bad612782e61146110?utm_campaign=1057&utm_source=git)** | US-CO-Greenwood Village | On Site | Apr 16 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e0e6c3acc736112f5c0b80?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | Hybrid | Apr 16 |
 | **[U.S.VETS](http://www.usvets.org)** | **[Licensed Intern/Licensed Intern Therapist](https://jobright.ai/jobs/info/69e0dc99fd1c0456f3fab116?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c4220633eecf3107943d4c?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 16 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant or Associate Professor of Accounting](https://jobright.ai/jobs/info/69e09027b20fd532b4ae2470?utm_campaign=1057&utm_source=git)** | Storrs Mansfield, CT | On Site | Apr 15 |
 | **[Society for College and University Planning (SCUP)](https://www.scup.org/about/)** | **[Electromechanical Technology Instructor](https://jobright.ai/jobs/info/69e0dc9dff71e82d604b3c19?utm_campaign=1057&utm_source=git)** | Rhinelander, WI | On Site | Apr 15 |
 | ↳ | **[Assistant Vice President for Institutional Research and Assessment](https://jobright.ai/jobs/info/69e0dc91acc736112f5c081b?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 15 |
+| ↳ | **[Director of Institutional Effectiveness & Research](https://jobright.ai/jobs/info/69e0f0476c20aa114953e6c3?utm_campaign=1057&utm_source=git)** | Chambersburg, PA | On Site | Apr 15 |
 | **[Demant](https://www.demant.com/)** | **[Extern](https://jobright.ai/jobs/info/69e0c30440a62c1fa93b4bdd?utm_campaign=1057&utm_source=git)** | Stockbridge, GA | On Site | Apr 15 |
 | **[Envision Financial, a division of First West Credit Union](http://envisionfinancial.ca/)** | **[Student (Retail Banking - Snow Valley Branch)](https://jobright.ai/jobs/info/69e062499564e855a25dd1c4?utm_campaign=1057&utm_source=git)** | Kitimat, BC | On Site | Apr 15 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 15 |
@@ -78,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Communities Foundation of Texas](http://www.cftexas.org)** | **[INTERN, Programs (Higher Education)](https://jobright.ai/jobs/info/69d506bfcdb525785fbcdd86?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Coordinator-International Baccalaureate IB - MS (2026-2027 School Year)](https://jobright.ai/jobs/info/69e04acf14bf245fc7a70d26?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Apr 15 |
 | **[U-Haul](http://www.uhaul.com/)** | **[U-Haul University Intern](https://jobright.ai/jobs/info/69e040f5e34484770f1ad606?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
-| **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148953?utm_campaign=1057&utm_source=git)** | Mississauga, ON | Hybrid | Apr 15 |
-| ↳ | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148954?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
+| **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148954?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
+| ↳ | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148953?utm_campaign=1057&utm_source=git)** | Mississauga, ON | Hybrid | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Leadership Development Summer Internship Program](https://jobright.ai/jobs/info/69e05824b20fd532b4ae0e4c?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e036874920452a85dd23ed?utm_campaign=1057&utm_source=git)** | New York | On Site | Apr 15 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/69e02e0014bf245fc7a7062c?utm_campaign=1057&utm_source=git)** | Neosho, MO | On Site | Apr 15 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Technical Training (Summer 2026)](https://jobright.ai/jobs/info/69e014fb14bf245fc7a6fda1?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Apr 15 |
 | **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e014615913ad3398147be7?utm_campaign=1057&utm_source=git)** | Canada – Ontario – GTA | Hybrid | Apr 15 |
 | ↳ | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e01460aba61f141731f726?utm_campaign=1057&utm_source=git)** | Mississauga Milverton Drive | Hybrid | Apr 15 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Intern](https://jobright.ai/jobs/info/69e077ca9564e855a25ddb30?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 15 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional Lecturer - KPE391H: Research Design and Evaluation: Qualitative Approaches](https://jobright.ai/jobs/info/69e02fab4920452a85dd21cd?utm_campaign=1057&utm_source=git)** | Greater St. George Area | On Site | Apr 15 |
 | ↳ | **[Sessional Lecturer - KIN8330H: Program Evaluation and Applied Research for Professionals](https://jobright.ai/jobs/info/69e02f915913ad3398148550?utm_campaign=1057&utm_source=git)** | Greater St. George Area | On Site | Apr 15 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69e02aa6433ac8430e0e497c?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 15 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[U-Haul](http://www.uhaul.com/)** | **[U-Haul University Intern](https://jobright.ai/jobs/info/69e0053a14bf245fc7a6f776?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona | On Site | Apr 15 |
 | **[Humana](http://www.humana.com)** | **[UNPAID Pharmacy Intern](https://jobright.ai/jobs/info/69e0053a433ac8430e0e3dc9?utm_campaign=1057&utm_source=git)** | Remote Ohio | Remote | Apr 15 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern- Enterprise Risk Management Programs](https://jobright.ai/jobs/info/69e005375913ad33981475f1?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Apr 15 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Intern](https://jobright.ai/jobs/info/69e0052b5913ad33981475d2?utm_campaign=1057&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Apr 15 |
 | **[WellPower](https://www.wellpower.org/)** | **[Freshlo Intern](https://jobright.ai/jobs/info/69e001ec433ac8430e0e3cda?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | **[Mandala South Asian Performing Arts](https://www.mandalaarts.org)** | **[Corporate Arts Workshop Advertising and Marketing Intern](https://jobright.ai/jobs/info/69e001a25913ad33981473ef?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
 | **[Waterloo Catholic District School Board](https://www.wcdsb.ca/)** | **[PASS - RDO Program Coordinator](https://jobright.ai/jobs/info/69e001944920452a85dd103a?utm_campaign=1057&utm_source=git)** | Kitchener, ON | On Site | Apr 15 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dfe381433ac8430e0e2ccd?utm_campaign=1057&utm_source=git)** | Nashua Community College | On Site | Apr 15 |
 | **[UT Health San Antonio](https://uthscsa.edu/)** | **[Mental Health Therapist Intern - LPC Associate (We Care Clinic)](https://jobright.ai/jobs/info/69dfe0f94920452a85dd0010?utm_campaign=1057&utm_source=git)** | 0001 7703 Floyd Curl Drive, San Antonio, TX, 78229, US | Hybrid | Apr 15 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Intern - Wealth Management Intern](https://jobright.ai/jobs/info/69c2e95294007a2195def7f2?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Apr 15 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
-| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Program Intern & Research Assistant - Washington County](https://jobright.ai/jobs/info/69dfd74914bf245fc7a6e103?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd7454920452a85dcfc5f?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd742e34484770f1aac6a?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Small Farms Intern](https://jobright.ai/jobs/info/69dfd73d5913ad3398145fff?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | Apr 15 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69dfd65d4920452a85dcfbad?utm_campaign=1057&utm_source=git)** | Montgomery County, MD | On Site | Apr 15 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/69dfcf4e4920452a85dcfa67?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Apr 15 |
-| ↳ | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/69dfcdd45913ad3398145dee?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
