@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arukah Institute of Healing](http://www.arukahinstitute.org)** | **[Curriculum Developer Intern (Seasonal)](https://jobright.ai/jobs/info/69e01ee514bf245fc7a6ff60?utm_campaign=1057&utm_source=git)** | Princeton, IL | On Site | Apr 15 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (CET)(NFWS)](https://jobright.ai/jobs/info/69e01ec3e34484770f1aca0a?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Apr 15 |
+| **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Clinical Therapist Student](https://jobright.ai/jobs/info/69e01b00433ac8430e0e4581?utm_campaign=1057&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Apr 15 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69e015294920452a85dd1932?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Apr 15 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69e015234920452a85dd1917?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[Pacific Whale Foundation](https://www.pacificwhale.org)** | **[Education Summer Internship](https://jobright.ai/jobs/info/69e0151f433ac8430e0e44a1?utm_campaign=1057&utm_source=git)** | Wailuku, HI | On Site | Apr 15 |
@@ -136,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video PA Editor Intern](https://jobright.ai/jobs/info/69bb35da06c1ba00c54daa72?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 15 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69a74acc2672cb0acb4bb9c5?utm_campaign=1057&utm_source=git)** | Northville, MI | On Site | Apr 15 |
 | **[Polytainers Inc.](https://www.polytainersinc.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69c2fb20ec22f8310ab10282?utm_campaign=1057&utm_source=git)** | Etobicoke, ON | On Site | Apr 15 |
-| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69df804b14bf245fc7a6c50f?utm_campaign=1057&utm_source=git)** | Ansonia, CT | On Site | Apr 15 |
+| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf04?utm_campaign=1057&utm_source=git)** | Batesville, AR | On Site | Apr 15 |
+| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df804b14bf245fc7a6c50f?utm_campaign=1057&utm_source=git)** | Ansonia, CT | On Site | Apr 15 |
 | ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df800c5913ad33981440fa?utm_campaign=1057&utm_source=git)** | Albertville, AL | On Site | Apr 15 |
-| ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf04?utm_campaign=1057&utm_source=git)** | Batesville, AR | On Site | Apr 15 |
 | ↳ | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf05?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 15 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Adjunct Instructor - Accounting](https://jobright.ai/jobs/info/69df570e433ac8430e0e0547?utm_campaign=1057&utm_source=git)** | Jackson, TN | Hybrid | Apr 15 |
 | **[CCHMC Biomedical Research Technologies Masters Program](https://www.cincinnatichildrens.org/education/research/biomedical-research-masters)** | **[Student II/III - Schubert Research Clinic (JR219663)](https://jobright.ai/jobs/info/69df80d65913ad3398144398?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSCYF/PBH-Family Crisis Therapist Intern/Extern Term: Not to exceed 9 months](https://jobright.ai/jobs/info/69df2b9d18cf504166e32c09?utm_campaign=1057&utm_source=git)** | Delaware, United States | On Site | Apr 14 |
 | **[University of Oregon](http://oimb.uoregon.edu)** | **[Associate Program Director Center for Student Involvement](https://jobright.ai/jobs/info/69df063ee34484770f1a6745?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Apr 14 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Summer Intern](https://jobright.ai/jobs/info/69ced3c0cfdc6132f942c9f2?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Apr 14 |
-| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Director of Men's and Women's Swim and Dive Program](https://jobright.ai/jobs/info/69df01d6aba61f14173195bc?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 14 |
-| **[Douglas County School District](https://www.dcsdk12.org/)** | **[Counselor Intern - Fall Semester 2026](https://jobright.ai/jobs/info/69d4143554f00230c6d2ddc6?utm_campaign=1057&utm_source=git)** | Castle Rock, CO | On Site | Apr 14 |
-| **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Part-Time Student Intern (Multiple Positions)](https://jobright.ai/jobs/info/69def64318cf504166e3137b?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
