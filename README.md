@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69e02fcb5913ad3398148577?utm_campaign=1057&utm_source=git)** | Crownsville, MD | On Site | Apr 15 |
+| **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148953?utm_campaign=1057&utm_source=git)** | Mississauga, ON | Hybrid | Apr 15 |
+| ↳ | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148954?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e036874920452a85dd23ed?utm_campaign=1057&utm_source=git)** | New York | On Site | Apr 15 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/69e02e0014bf245fc7a7062c?utm_campaign=1057&utm_source=git)** | Neosho, MO | On Site | Apr 15 |
 | **[Mental Health Center of Denver](https://www.wellpower.org/)** | **[Freshlo Intern](https://jobright.ai/jobs/info/69e02d6f433ac8430e0e4cc5?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[International Scholar Advising Specialist](https://jobright.ai/jobs/info/69e02b62433ac8430e0e4b60?utm_campaign=1057&utm_source=git)** | Urbana, IL | Hybrid | Apr 15 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dfe381433ac8430e0e2ccd?utm_campaign=1057&utm_source=git)** | Nashua Community College | On Site | Apr 15 |
 | **[UT Health San Antonio](https://uthscsa.edu/)** | **[Mental Health Therapist Intern - LPC Associate (We Care Clinic)](https://jobright.ai/jobs/info/69dfe0f94920452a85dd0010?utm_campaign=1057&utm_source=git)** | 0001 7703 Floyd Curl Drive, San Antonio, TX, 78229, US | Hybrid | Apr 15 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Intern - Wealth Management Intern](https://jobright.ai/jobs/info/69c2e95294007a2195def7f2?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Apr 15 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
-| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Program Intern & Research Assistant - Washington County](https://jobright.ai/jobs/info/69dfd74914bf245fc7a6e103?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd7454920452a85dcfc5f?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd742e34484770f1aac6a?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Health](https://www.bannerhealth.com)** | **[High School Internship Greeley](https://jobright.ai/jobs/info/69df800b433ac8430e0e0b56?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Apr 15 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Video PA Editor Intern](https://jobright.ai/jobs/info/69bb35da06c1ba00c54daa72?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 15 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69a74acc2672cb0acb4bb9c5?utm_campaign=1057&utm_source=git)** | Northville, MI | On Site | Apr 15 |
-| **[Polytainers Inc.](https://www.polytainersinc.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69c2fb20ec22f8310ab10282?utm_campaign=1057&utm_source=git)** | Etobicoke, ON | On Site | Apr 15 |
-| **[Social Security Administration](http://www.ssa.gov)** | **[Pathways Intern](https://jobright.ai/jobs/info/69df802eaba61f141731bf05?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
