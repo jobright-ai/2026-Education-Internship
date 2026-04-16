@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Church World Service](http://cwsglobal.org)** | **[Summer Intern with RSS - Harrisonburg, VA](https://jobright.ai/jobs/info/69e1396cff71e82d604b5cb6?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Apr 16 |
+| **[Via of the Lehigh Valley](https://www.vianet.org)** | **[Internship Program - Disability Services](https://jobright.ai/jobs/info/69e135866c20aa114953fda1?utm_campaign=1057&utm_source=git)** | Bethlehem, PA | On Site | Apr 16 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e12c8c40a62c1fa93b6eef?utm_campaign=1057&utm_source=git)** | 411 W 114th St, New York, NY, 10025, US | On Site | Apr 16 |
 | **[Brown University](https://www.brown.edu)** | **[Summer-Only Student Nurse Intern](https://jobright.ai/jobs/info/69e12bcfacc736112f5c2345?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
 | **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69e128c440a62c1fa93b6de9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UTHealth Houston](https://www.uth.edu)** | **[Seasonal Hire - Internal Medicine, Gastroenterology](https://jobright.ai/jobs/info/69dff7c3aba61f141731ebdb?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2026 Internship - Course Scheduling (Remote)](https://jobright.ai/jobs/info/69dff7305913ad3398147052?utm_campaign=1057&utm_source=git)** | Orlando, FL | Remote | Apr 15 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dff661aba61f141731ea35?utm_campaign=1057&utm_source=git)** | Davis County, UT | Hybrid | Apr 15 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Student Intern - Learning & Development](https://jobright.ai/jobs/info/69dff656aba61f141731ea1b?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
-| **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dff62f433ac8430e0e371e?utm_campaign=1057&utm_source=git)** | Nashua, NH | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
