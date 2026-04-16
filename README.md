@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Envision Financial, a division of First West Credit Union](http://envisionfinancial.ca/)** | **[Student (Retail Banking - Snow Valley Branch)](https://jobright.ai/jobs/info/69e062499564e855a25dd1c4?utm_campaign=1057&utm_source=git)** | Kitimat, BC | On Site | Apr 15 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Coordinator-International Baccalaureate IB - MS (2026-2027 School Year)](https://jobright.ai/jobs/info/69e04acf14bf245fc7a70d26?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Apr 15 |
 | **[U-Haul](http://www.uhaul.com/)** | **[U-Haul University Intern](https://jobright.ai/jobs/info/69e040f5e34484770f1ad606?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
 | **[GSK](http://www.gsk.com)** | **[Clinical Study Associate, Student Intern (12-month contract)](https://jobright.ai/jobs/info/69e03d4d5913ad3398148954?utm_campaign=1057&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dfe381433ac8430e0e2ccd?utm_campaign=1057&utm_source=git)** | Nashua Community College | On Site | Apr 15 |
 | **[UT Health San Antonio](https://uthscsa.edu/)** | **[Mental Health Therapist Intern - LPC Associate (We Care Clinic)](https://jobright.ai/jobs/info/69dfe0f94920452a85dd0010?utm_campaign=1057&utm_source=git)** | 0001 7703 Floyd Curl Drive, San Antonio, TX, 78229, US | Hybrid | Apr 15 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Intern - Wealth Management Intern](https://jobright.ai/jobs/info/69c2e95294007a2195def7f2?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Apr 15 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
-| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dc4920452a85dcfcaf?utm_campaign=1057&utm_source=git)** | US-Remote | Remote | Apr 15 |
+| ↳ | **[Customer Training Services Intern](https://jobright.ai/jobs/info/69dfd7dcaba61f141731dc31?utm_campaign=1057&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 15 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Program Intern & Research Assistant - Washington County](https://jobright.ai/jobs/info/69dfd74914bf245fc7a6e103?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd7454920452a85dcfc5f?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | Hybrid | Apr 15 |
 | ↳ | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dfd742e34484770f1aac6a?utm_campaign=1057&utm_source=git)** | US-UT | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westwood Holdings Group, Inc.](https://westwoodgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69dfae8b14bf245fc7a6d11c?utm_campaign=1057&utm_source=git)** | Houston, Texas, United States | On Site | Apr 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Student Respiratory Care Practitioner Intern](https://jobright.ai/jobs/info/69df9115e34484770f1a93ed?utm_campaign=1057&utm_source=git)** | San Leandro, CA | On Site | Apr 15 |
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69dfb33f433ac8430e0e18c9?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Apr 15 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Columbia) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a9371279f3f4037f44022c?utm_campaign=1057&utm_source=git)** | Columbia, MD | Hybrid | Apr 15 |
-| **[Humana](http://www.humana.com)** | **[Unpaid Pharmacist Intern](https://jobright.ai/jobs/info/69df88b44920452a85dce25e?utm_campaign=1057&utm_source=git)** | Delray Beach, FL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
