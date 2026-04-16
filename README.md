@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e12c8c40a62c1fa93b6eef?utm_campaign=1057&utm_source=git)** | 411 W 114th St, New York, NY, 10025, US | On Site | Apr 16 |
+| **[Brown University](https://www.brown.edu)** | **[Summer-Only Student Nurse Intern](https://jobright.ai/jobs/info/69e12bcfacc736112f5c2345?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
+| **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Clinical Psychology Intern](https://jobright.ai/jobs/info/69e128c440a62c1fa93b6de9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 16 |
+| **[Froedtert Health](http://www.froedtert.com)** | **[INTERN DMS, FH - SCHOOL OF DIAG MED SONOGRAPHY](https://jobright.ai/jobs/info/69e1220eff71e82d604b546c?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
+| **[Penn State University](http://psu.edu)** | **[Journey Success Center Peer Coach Intern](https://jobright.ai/jobs/info/69e121d0d612782e6114700c?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Apr 16 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Research Assistant, Dr. Corradi](https://jobright.ai/jobs/info/69e1204aacc736112f5c1fd2?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 16 |
 | **[San Francisco Film School](https://www.sanfranciscofilmschool.edu/)** | **[AI Filmmaking Instructor](https://jobright.ai/jobs/info/69e11a9c40a62c1fa93b6a43?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Apr 16 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Physical Health & Wellness](https://jobright.ai/jobs/info/69e115b4acc736112f5c1dd5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Hybrid | Apr 16 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Lecturer in Public Administration - Human Resources](https://jobright.ai/jobs/info/69e11a8b40a62c1fa93b69f8?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator of International Student Enrollment](https://jobright.ai/jobs/info/69e0f7fb40a62c1fa93b5f41?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Apr 16 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | Apr 16 |
+| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/69e121366c20aa114953f7c1?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Apr 16 |
 | **[Air Methods](http://airmethods.com)** | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f480acc736112f5c10aa?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO, US | On Site | Apr 16 |
 | ↳ | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f3bad612782e61146110?utm_campaign=1057&utm_source=git)** | US-CO-Greenwood Village | On Site | Apr 16 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e0e6c3acc736112f5c0b80?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | Hybrid | Apr 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Extension Community Nutrition (EFNEP) Summer Intern](https://jobright.ai/jobs/info/69dff661aba61f141731ea35?utm_campaign=1057&utm_source=git)** | Davis County, UT | Hybrid | Apr 15 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Student Intern - Learning & Development](https://jobright.ai/jobs/info/69dff656aba61f141731ea1b?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
 | **[Great Bay Community College](https://www.greatbay.edu/)** | **[ESOL/Department of Multicultural Engagement Intern](https://jobright.ai/jobs/info/69dff62f433ac8430e0e371e?utm_campaign=1057&utm_source=git)** | Nashua, NH | On Site | Apr 15 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69dff60a14bf245fc7a6efaa?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | Apr 15 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Small Farms Intern](https://jobright.ai/jobs/info/69dff4225913ad3398146e0d?utm_campaign=1057&utm_source=git)** | Cache County, UT | On Site | Apr 15 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Leadership Development Summer Internship Program](https://jobright.ai/jobs/info/69dff26a4920452a85dd0797?utm_campaign=1057&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
-| ↳ | **[2026 Leadership Development Summer Internship Program](https://jobright.ai/jobs/info/69dff255aba61f141731e689?utm_campaign=1057&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
-| **[Oklahoma State University](https://go.okstate.edu/)** | **[Associate Dean, Research and Graduate Studies 112643](https://jobright.ai/jobs/info/69dff0a1433ac8430e0e32c2?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 15 |
-| **[AgWest Farm Credit](https://agwestfc.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69dfec7914bf245fc7a6ea90?utm_campaign=1057&utm_source=git)** | Yuma, AZ | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
