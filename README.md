@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (AUS)](https://jobright.ai/jobs/info/69c5a34baa3c2c1995e02803?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 17 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (FTL)](https://jobright.ai/jobs/info/69c5a31caa9a29199e80843a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 17 |
 | ↳ | **[Summer Training Admin Intern (CHI)](https://jobright.ai/jobs/info/69c5a346aa3c2c1995e027fd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Apr 17 |
+| **[New Season](https://newseason.com)** | **[Counselor Intern - Paid](https://jobright.ai/jobs/info/69e2364c5183fd1fa64f9ddb?utm_campaign=1057&utm_source=git)** | Rockland, ME | On Site | Apr 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern (Rotation)](https://jobright.ai/jobs/info/69e20b662ef4b138ddb2586a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69e1e00140a62c1fa93bc88d?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Apr 17 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Young Scholars Intern (Griffin)](https://jobright.ai/jobs/info/69e191bad612782e611492e0?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 16 |
 | **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[WERACE Student Intern (4 openings)](https://jobright.ai/jobs/info/69e192646c20aa1149541b1c?utm_campaign=1057&utm_source=git)** | Danbury, CT | On Site | Apr 16 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Assistant Women's Volleyball Coach/ Director of Volleyball Operations](https://jobright.ai/jobs/info/69e1639840a62c1fa93b828e?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 16 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69e163966c20aa1149540dea?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 16 |
 | **[Serenity Behavioral Health Services](http://www.serenity-bhs.org)** | **[Fall 2026 - 2027 INTERN - Columbus Area](https://jobright.ai/jobs/info/69e1637840a62c1fa93b824d?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 16 |
 | **[Family & Children's Association](https://fcali.org)** | **[Student Intern (PACT)](https://jobright.ai/jobs/info/69e16226acc736112f5c362a?utm_campaign=1057&utm_source=git)** | Hempstead, NY | On Site | Apr 16 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Livermore Valley Open Campus (LVOC) Administrative Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69e18c956c20aa1149541a6d?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S.VETS](http://www.usvets.org)** | **[Licensed Intern/Licensed Intern Therapist](https://jobright.ai/jobs/info/69e0dc99fd1c0456f3fab116?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Thriving Germantown-Germantown) 2026-2027 BSW Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f7aeff71e82d604b4639?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 16 |
 | ↳ | **[Internship (Outpatient Mental Health Clinics- Frederick) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a7401c2672cb0acb4bac1c?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Apr 16 |
-| ↳ | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Apr 16 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Alumni Outreach](https://jobright.ai/jobs/info/69e02ab94920452a85dd1ef6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
