@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69e1e00140a62c1fa93bc88d?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Apr 17 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[K-INBRE Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69e1dfe9ff71e82d604bb197?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 17 |
 | **[Erie 1 BOCES](https://www.e1b.org/)** | **[High School Summer School Business Internship Mentor](https://jobright.ai/jobs/info/69e1da24fd1c0456f3fb1625?utm_campaign=1057&utm_source=git)** | Grand Island, NY | On Site | Apr 16 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c4220633eecf3107943d4c?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Altorfer Cat](https://www.altorfer.com/)** | **[Think Big Intern - Starting August 2026](https://jobright.ai/jobs/info/69e09f6ecf5a9e0c33c875b7?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Apr 16 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69e0d41eacc736112f5c037e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 16 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Dean, Kremen School of Education & Human Development (Admin IV)](https://jobright.ai/jobs/info/69e1f87bff71e82d604bbe66?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Apr 16 |
+| ↳ | **[Adjunct Faculty - Department of Teacher Education, Kinesiology, and Educational Studies - Human Development](https://jobright.ai/jobs/info/69e1f94c6c20aa1149546474?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69e0dd3840a62c1fa93b5414?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 16 |
-| **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/69e09854ba9bd32d03371289?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 16 |
-| **[Centinela Valley Union High School District](https://centinela.k12.ca.us)** | **[INTERNAL ONLY: 2026 Summer School (SPED MSD)](https://jobright.ai/jobs/info/69e1ebc3fd1c0456f3fb2fcb?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Apr 16 |
-| **[Appalachian State University](http://www.appstate.edu/)** | **[Associate Director of University Housing for Student and Administrative Services](https://jobright.ai/jobs/info/69d979435356a60f40fd9f3b?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
