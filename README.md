@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69e1e00140a62c1fa93bc88d?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Apr 17 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[K-INBRE Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69e1dfe9ff71e82d604bb197?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 17 |
+| **[Erie 1 BOCES](https://www.e1b.org/)** | **[High School Summer School Business Internship Mentor](https://jobright.ai/jobs/info/69e1da24fd1c0456f3fb1625?utm_campaign=1057&utm_source=git)** | Grand Island, NY | On Site | Apr 16 |
 | **[GrowNYC](https://www.grownyc.org)** | **[GROWNYC YOUTH WFD SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69e1cfd3ff71e82d604b8ec1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Communications Assistant, Alberta International Medical Graduate Program](https://jobright.ai/jobs/info/69e1c6d2ff71e82d604b8a62?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - Midwest Academic Partnerships, Onsite](https://jobright.ai/jobs/info/69e1bbf4acc736112f5c52b1?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/69e09854ba9bd32d03371289?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Associate Director of University Housing for Student and Administrative Services](https://jobright.ai/jobs/info/69d979435356a60f40fd9f3b?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Apr 15 |
 | **[American Accounting Association](http://aaahq.org)** | **[Visiting Instructor or Visiting Assistant Profe...](https://jobright.ai/jobs/info/69e09030b20fd532b4ae247e?utm_campaign=1057&utm_source=git)** | Storrs Mansfield, CT | On Site | Apr 15 |
-| ↳ | **[Assistant or Associate Professor of Accounting](https://jobright.ai/jobs/info/69e09027b20fd532b4ae2470?utm_campaign=1057&utm_source=git)** | Storrs Mansfield, CT | On Site | Apr 15 |
-| **[Society for College and University Planning (SCUP)](https://www.scup.org/about/)** | **[Electromechanical Technology Instructor](https://jobright.ai/jobs/info/69e0dc9dff71e82d604b3c19?utm_campaign=1057&utm_source=git)** | Rhinelander, WI | On Site | Apr 15 |
-| ↳ | **[Assistant Vice President for Institutional Research and Assessment](https://jobright.ai/jobs/info/69e0dc91acc736112f5c081b?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
