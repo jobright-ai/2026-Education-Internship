@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Prairie View](https://jobright.ai/jobs/info/69e24ac53ce36005badbdb20?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 17 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Hybrid Visiting Professor of International Business](https://jobright.ai/jobs/info/69e24a8efcfcbd43860a2804?utm_campaign=1057&utm_source=git)** | Newark, CA | Hybrid | Apr 17 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Intern, Implementation Science, Part-Time](https://jobright.ai/jobs/info/69e244f33770bd5361cd7fe7?utm_campaign=1057&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Apr 17 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Pharmacy Services](https://jobright.ai/jobs/info/69e243e35c44d4710fe24b9e?utm_campaign=1057&utm_source=git)** | , Lansing, MI, 48901, US | Hybrid | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (AUS)](https://jobright.ai/jobs/info/69c5a34baa3c2c1995e02803?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 17 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Training Admin Intern (CHI)](https://jobright.ai/jobs/info/69c5a346aa3c2c1995e027fd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Apr 17 |
 | **[New Season](https://newseason.com)** | **[Counselor Intern - Paid](https://jobright.ai/jobs/info/69e2364c5183fd1fa64f9ddb?utm_campaign=1057&utm_source=git)** | Rockland, ME | On Site | Apr 17 |
+| **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern (Rotation)](https://jobright.ai/jobs/info/69e20b662ef4b138ddb2586a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69e1e00140a62c1fa93bc88d?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | Apr 16 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/69e121366c20aa114953f7c1?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Apr 16 |
 | **[Air Methods](http://airmethods.com)** | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f480acc736112f5c10aa?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO, US | On Site | Apr 16 |
-| ↳ | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f3bad612782e61146110?utm_campaign=1057&utm_source=git)** | US-CO-Greenwood Village | On Site | Apr 16 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e0e6c3acc736112f5c0b80?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | Hybrid | Apr 16 |
-| **[U.S.VETS](http://www.usvets.org)** | **[Licensed Intern/Licensed Intern Therapist](https://jobright.ai/jobs/info/69e0dc99fd1c0456f3fab116?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
