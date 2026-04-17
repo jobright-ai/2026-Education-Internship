@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minneapolis Public Schools](https://mpls.k12.mn.us/)** | **[K-12 Content Lead (K-5 Math) - 2026-2027 - Math & Sciences](https://jobright.ai/jobs/info/69e29f48be46fa3a4ef57ec3?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
+| **[Silver Star Brands](http://silverstarbrands.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69e29cf13ce36005badbee1b?utm_campaign=1057&utm_source=git)** | Oshkosh, WI | On Site | Apr 17 |
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Director Curriculum and Instruction (2026-2027)](https://jobright.ai/jobs/info/69e29c733770bd5361cd9307?utm_campaign=1057&utm_source=git)** | Louisville Metro | On Site | Apr 17 |
 | **[Global Cities, Inc.](http://globalcities.org/)** | **[Graduate Student Internship](https://jobright.ai/jobs/info/69e296a23ce36005badbec72?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CET)(NFWS)](https://jobright.ai/jobs/info/69e2965bbe46fa3a4ef57da3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Undergraduate Internship - Digital Innovation](https://jobright.ai/jobs/info/69bfffb579e36d3a847c84a7?utm_campaign=1057&utm_source=git)** | Miramar, FL | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
+| **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e27182be46fa3a4ef5722d?utm_campaign=1057&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 17 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer Internship 2026 - Technician Development](https://jobright.ai/jobs/info/69c57dd01b5ad02887374ba4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69e2958c5c44d4710fe25d23?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Apr 17 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Integrated Predoctoral Psychology Intern](https://jobright.ai/jobs/info/69d6c37a52a5bf580012be65?utm_campaign=1057&utm_source=git)** | Lees Summit, MO | On Site | Apr 16 |
 | **[SIFMA](http://www.sifma.org/)** | **[Summer Intern, Inclusion & Engagement](https://jobright.ai/jobs/info/69e1547bfd1c0456f3fadb8f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Learning & Development (Part-Time)](https://jobright.ai/jobs/info/69e1540cd612782e6114820c?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[Little Flower Children and Family Services of New York](https://www.littleflowerny.org)** | **[Recreational Intern](https://jobright.ai/jobs/info/69e22840cda04a632939fbfe?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
-| ↳ | **[Youth Development Intern](https://jobright.ai/jobs/info/69e22831cda04a632939fbbd?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
+| **[Little Flower Children and Family Services of New York](https://www.littleflowerny.org)** | **[Youth Development Intern](https://jobright.ai/jobs/info/69e22831cda04a632939fbbd?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
+| ↳ | **[Recreational Intern](https://jobright.ai/jobs/info/69e22840cda04a632939fbfe?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
 | **[University of La Verne](http://laverne.edu)** | **[Housing & Residential Life - Holiday Housing Student Assistant 2025 (Internal)](https://jobright.ai/jobs/info/69e14f69fd1c0456f3fada86?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Apr 16 |
 | **[Indiana University](https://www.iu.edu)** | **[Associate or Full Professor in Convergent Biology and Biomedical Engineering](https://jobright.ai/jobs/info/69e17cd5d612782e61148e94?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 16 |
 | ↳ | **[Visiting Assistant Professor in Creative Core](https://jobright.ai/jobs/info/69e17d97fd1c0456f3fae86d?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brown University Health](https://www.brownhealth.org)** | **[Research Student PD](https://jobright.ai/jobs/info/69e18d3bff71e82d604b76e7?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Apr 16 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69e13f9aff71e82d604b5ecd?utm_campaign=1057&utm_source=git)** | Merion Station, PA | On Site | Apr 16 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e13bc36c20aa114954013c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 16 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Campus Support Coordinator (Administrative Support Coordinator I)](https://jobright.ai/jobs/info/69e15ea76c20aa1149540c8e?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 16 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e19288acc736112f5c4312?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 16 |
-| **[Church World Service](http://cwsglobal.org)** | **[Summer Intern with RSS - Harrisonburg, VA](https://jobright.ai/jobs/info/69e1396cff71e82d604b5cb6?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
