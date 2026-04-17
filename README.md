@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GrowNYC](https://www.grownyc.org)** | **[GROWNYC YOUTH WFD SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69e1cfd3ff71e82d604b8ec1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Communications Assistant, Alberta International Medical Graduate Program](https://jobright.ai/jobs/info/69e1c6d2ff71e82d604b8a62?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - Midwest Academic Partnerships, Onsite](https://jobright.ai/jobs/info/69e1bbf4acc736112f5c52b1?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Apr 16 |
 | **[Guest Supply](https://www.guestsupply.com/home.aspx)** | **[Internship - GWW - FP - SSMG - US](https://jobright.ai/jobs/info/69e1b50640a62c1fa93b9c74?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | Apr 16 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69e0dd3840a62c1fa93b5414?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 16 |
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/69e09854ba9bd32d03371289?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Associate Director of University Housing for Student and Administrative Services](https://jobright.ai/jobs/info/69d979435356a60f40fd9f3b?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Apr 15 |
-| **[West Michigan Works!](http://westmiworks.org)** | **[Talent Development Instructor - Allegan County](https://jobright.ai/jobs/info/69e1c987fd1c0456f3fb016f?utm_campaign=1057&utm_source=git)** | Allegan County, MI | On Site | Apr 15 |
 | **[American Accounting Association](http://aaahq.org)** | **[Visiting Instructor or Visiting Assistant Profe...](https://jobright.ai/jobs/info/69e09030b20fd532b4ae247e?utm_campaign=1057&utm_source=git)** | Storrs Mansfield, CT | On Site | Apr 15 |
 | ↳ | **[Assistant or Associate Professor of Accounting](https://jobright.ai/jobs/info/69e09027b20fd532b4ae2470?utm_campaign=1057&utm_source=git)** | Storrs Mansfield, CT | On Site | Apr 15 |
 | **[Society for College and University Planning (SCUP)](https://www.scup.org/about/)** | **[Electromechanical Technology Instructor](https://jobright.ai/jobs/info/69e0dc9dff71e82d604b3c19?utm_campaign=1057&utm_source=git)** | Rhinelander, WI | On Site | Apr 15 |
