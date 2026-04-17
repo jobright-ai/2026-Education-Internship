@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Intern, Implementation Science, Part-Time](https://jobright.ai/jobs/info/69e244f33770bd5361cd7fe7?utm_campaign=1057&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Apr 17 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Pharmacy Services](https://jobright.ai/jobs/info/69e243e35c44d4710fe24b9e?utm_campaign=1057&utm_source=git)** | , Lansing, MI, 48901, US | Hybrid | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (AUS)](https://jobright.ai/jobs/info/69c5a34baa3c2c1995e02803?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 17 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (FTL)](https://jobright.ai/jobs/info/69c5a31caa9a29199e80843a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 17 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Nextrials, Inc.](http://nextrials.com)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/69e154bcfd1c0456f3fadc31?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Apr 16 |
 | **[SIFMA](http://www.sifma.org/)** | **[Summer Intern, Inclusion & Engagement](https://jobright.ai/jobs/info/69e1547bfd1c0456f3fadb8f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Learning & Development (Part-Time)](https://jobright.ai/jobs/info/69e1540cd612782e6114820c?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[Little Flower Children and Family Services of New York](https://www.littleflowerny.org)** | **[Youth Development Intern](https://jobright.ai/jobs/info/69e22831cda04a632939fbbd?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
-| ↳ | **[Recreational Intern](https://jobright.ai/jobs/info/69e22840cda04a632939fbfe?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
+| **[Little Flower Children and Family Services of New York](https://www.littleflowerny.org)** | **[Recreational Intern](https://jobright.ai/jobs/info/69e22840cda04a632939fbfe?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
+| ↳ | **[Youth Development Intern](https://jobright.ai/jobs/info/69e22831cda04a632939fbbd?utm_campaign=1057&utm_source=git)** | Wading River, NY | On Site | Apr 16 |
 | **[University of La Verne](http://laverne.edu)** | **[Housing & Residential Life - Holiday Housing Student Assistant 2025 (Internal)](https://jobright.ai/jobs/info/69e14f69fd1c0456f3fada86?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Apr 16 |
 | **[Indiana University](https://www.iu.edu)** | **[Associate or Full Professor in Convergent Biology and Biomedical Engineering](https://jobright.ai/jobs/info/69e17cd5d612782e61148e94?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 16 |
 | ↳ | **[Visiting Assistant Professor in Creative Core](https://jobright.ai/jobs/info/69e17d97fd1c0456f3fae86d?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Clinical and Supply Chain](https://jobright.ai/jobs/info/69e0f3bad612782e61146110?utm_campaign=1057&utm_source=git)** | US-CO-Greenwood Village | On Site | Apr 16 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e0e6c3acc736112f5c0b80?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus | Hybrid | Apr 16 |
 | **[U.S.VETS](http://www.usvets.org)** | **[Licensed Intern/Licensed Intern Therapist](https://jobright.ai/jobs/info/69e0dc99fd1c0456f3fab116?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 16 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Thriving Germantown-Germantown) 2026-2027 BSW Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f7aeff71e82d604b4639?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 16 |
-| ↳ | **[Internship (Outpatient Mental Health Clinics- Frederick) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a7401c2672cb0acb4bac1c?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
