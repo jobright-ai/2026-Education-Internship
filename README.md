@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Apr 18 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant Professor - Information Systems, Operations Management, Supply Chain Management, and Busin](https://jobright.ai/jobs/info/69c6ee39e565c26a7002407e?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 18 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[SEVIS Records Coordinator & Student Engagement Advisor](https://jobright.ai/jobs/info/6938ea77b95c305f206e2bb9?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | Apr 18 |
 | **[Plymouth Christian Youth Center](https://pcyc-mpls.org)** | **[Freedom School Servant Leader Intern](https://jobright.ai/jobs/info/69e2258f0335427bb49c789e?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69e1e00140a62c1fa93bc88d?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Apr 17 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[K-INBRE Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69e1dfe9ff71e82d604bb197?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 17 |
 | **[Erie 1 BOCES](https://www.e1b.org/)** | **[High School Summer School Business Internship Mentor](https://jobright.ai/jobs/info/69e1da24fd1c0456f3fb1625?utm_campaign=1057&utm_source=git)** | Grand Island, NY | On Site | Apr 16 |
-| **[GrowNYC](https://www.grownyc.org)** | **[GROWNYC YOUTH WFD SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69e1cfd3ff71e82d604b8ec1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
