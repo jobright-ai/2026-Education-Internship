@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Apr 17 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[ELOP Leader at de Portola TLC- 3.92 hours/day, 2:05 pm - 6:00 pm](https://jobright.ai/jobs/info/69e2e1a12f28653593078a6d?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Apr 17 |
 | **[Twin Rivers Unified School District](https://www.trusd.net/)** | **[Program Development Specialist - 8 hrs/day (Special Projects)](https://jobright.ai/jobs/info/69e2e1982f28653593078a30?utm_campaign=1057&utm_source=git)** | McClellan Park, CA | On Site | Apr 17 |
 | **[Mental Health Resources](https://www.mhrnewmexico.com)** | **[Master's Level Unpaid Intern/SW & Counseling (Summer and Fall 2026](https://jobright.ai/jobs/info/69e2e166be46fa3a4ef594ed?utm_campaign=1057&utm_source=git)** | Clovis, NM | On Site | Apr 17 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69e2ac52be46fa3a4ef582b0?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 17 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Foundation Programme Director](https://jobright.ai/jobs/info/69e2e166fcfcbd43860a4f76?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Apr 17 |
+| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[HMCB Acute Care Intern - ED](https://jobright.ai/jobs/info/69cae29ae565c26a70041df8?utm_campaign=1057&utm_source=git)** | Brownwood, TX | On Site | Apr 17 |
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Lecturer/Assistant Professor of Instruction in the Division of Data Science](https://jobright.ai/jobs/info/69e2b3f35c44d4710fe265fb?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
@@ -121,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (FTL)](https://jobright.ai/jobs/info/69c5a31caa9a29199e80843a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 17 |
 | ↳ | **[Summer Training Admin Intern (CHI)](https://jobright.ai/jobs/info/69c5a346aa3c2c1995e027fd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
+| **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df52?utm_campaign=1057&utm_source=git)** | Stillwater, MN | On Site | Apr 17 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Apr 17 |
 | **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Sessional Instructor: ENER 200 - Engineering Design and Innovation](https://jobright.ai/jobs/info/69dd6dfcbc6f6622c99122b0?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 16 |
 | **[Penn State University](http://psu.edu)** | **[Journey Success Center Peer Coach Intern](https://jobright.ai/jobs/info/69e18bb040a62c1fa93b8df1?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Apr 16 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69e189b36c20aa1149541966?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 16 |
-| **[The City University of New York](http://cuny.edu)** | **[INDUSTRY SPECIALIST - CUNY Inclusive Economy Initiative (Acad. Internship Specl (HEOa)) - SOCIOLOGY DEPARTMENT](https://jobright.ai/jobs/info/69e1651f40a62c1fa93b835f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Young Scholars Intern (Griffin)](https://jobright.ai/jobs/info/69e191bad612782e611492e0?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 16 |
-| **[Danbury Public Schools CT](https://www.danbury.k12.ct.us/)** | **[WERACE Student Intern (4 openings)](https://jobright.ai/jobs/info/69e192646c20aa1149541b1c?utm_campaign=1057&utm_source=git)** | Danbury, CT | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
