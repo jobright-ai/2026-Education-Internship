@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Per Scholas](http://www.perscholas.org/)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69c710f71b5ad02887389ce0?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 18 |
+| **[University of Southern California](http://www.usc.edu)** | **[MESA Program Coordinator](https://jobright.ai/jobs/info/69c475de6f4f855eeda7010e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer/Senior Lecturer in Biomedical Engineering](https://jobright.ai/jobs/info/69c70127aa3c2c1995e144d7?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 18 |
+| **[Chenega Security SBU](http://chenegasecurity.com)** | **[Fire & Emergency Services Skillbridge Intern](https://jobright.ai/jobs/info/69aa16aa9ca4e908ec656297?utm_campaign=1057&utm_source=git)** | Cape Canaveral, FL | On Site | Apr 18 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Apr 17 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Manager, International Research Grants](https://jobright.ai/jobs/info/69df11ce18cf504166e3230a?utm_campaign=1057&utm_source=git)** | Calgary, AB | On Site | Apr 17 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/69dba9fbb67cec4f9b0af46c?utm_campaign=1057&utm_source=git)** | Chanhassen | On Site | Apr 17 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e34e42be46fa3a4ef5a89f?utm_campaign=1057&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Academic Athletics Intern](https://jobright.ai/jobs/info/69e337315c44d4710fe28577?utm_campaign=1057&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Apr 17 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Sr. Analyst, Strategic Projects and Analysis](https://jobright.ai/jobs/info/69e1c8c3ff71e82d604b8c16?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Lead DPR Systems Analyst (CSU Only)](https://jobright.ai/jobs/info/69e197aed612782e61149532?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 16 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics - Hematology & Oncology Education](https://jobright.ai/jobs/info/69e195da6c20aa1149541c1d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e195d26c20aa1149541bf8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[ICON plc](https://www.iconplc.com)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/69e18f3dd612782e61149265?utm_campaign=1057&utm_source=git)** | Concord, North Carolina, United States | On Site | Apr 16 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Scholar Advisor](https://jobright.ai/jobs/info/69e1ae77ff71e82d604b8252?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 16 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Summer-Only Student Nurse Intern](https://jobright.ai/jobs/info/69e1bba840a62c1fa93b9e95?utm_campaign=1057&utm_source=git)** | East Providence, RI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
