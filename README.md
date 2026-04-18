@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/6915ab28286ccf0a15130006?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69c710f71b5ad02887389ce0?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 18 |
-| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/69db4675738f2f099e8ae1a3?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Apr 18 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69e3936091e75b75f04efbb4?utm_campaign=1057&utm_source=git)** | California-Los Angeles-Watts Counseling %26 Learning Center | On Site | Apr 18 |
 | **[University of Southern California](http://www.usc.edu)** | **[MESA Program Coordinator](https://jobright.ai/jobs/info/69c475de6f4f855eeda7010e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 18 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Lecturer/Senior Lecturer in Biomedical Engineering](https://jobright.ai/jobs/info/69c70127aa3c2c1995e144d7?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 18 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Fire & Emergency Services Skillbridge Intern](https://jobright.ai/jobs/info/69aa16aa9ca4e908ec656297?utm_campaign=1057&utm_source=git)** | Cape Canaveral, FL | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Learning & Development (Part-Time)](https://jobright.ai/jobs/info/69e1c2a140a62c1fa93ba119?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Sr. Analyst, Strategic Projects and Analysis](https://jobright.ai/jobs/info/69e1c8c3ff71e82d604b8c16?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
 | **[California State University, Northridge](https://www.csun.edu/)** | **[Lead DPR Systems Analyst (CSU Only)](https://jobright.ai/jobs/info/69e197aed612782e61149532?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 16 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics - Hematology & Oncology Education](https://jobright.ai/jobs/info/69e195da6c20aa1149541c1d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
