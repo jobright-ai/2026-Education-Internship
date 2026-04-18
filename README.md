@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2027 Summer Associate: Healthcare](https://jobright.ai/jobs/info/69c8043f1b5ad02887391758?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
+| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Learning Technology & Accessibility Intern](https://jobright.ai/jobs/info/69d22425366bb95ba552c73f?utm_campaign=1057&utm_source=git)** | CSBS Corporate, 1300 I Street NW, Washington, District Of Columbia, United States of America | Hybrid | Apr 18 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/6915ab28286ccf0a15130006?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69c710f71b5ad02887389ce0?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 18 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69e3936091e75b75f04efbb4?utm_campaign=1057&utm_source=git)** | California-Los Angeles-Watts Counseling %26 Learning Center | On Site | Apr 18 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e34e42be46fa3a4ef5a89f?utm_campaign=1057&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Academic Athletics Intern](https://jobright.ai/jobs/info/69e337315c44d4710fe28577?utm_campaign=1057&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Apr 17 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69e1b4f9acc736112f5c5051?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 16 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69e1a8d5d612782e61149bac?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Apr 16 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Learning & Development (Part-Time)](https://jobright.ai/jobs/info/69e1c2a140a62c1fa93ba119?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Sr. Analyst, Strategic Projects and Analysis](https://jobright.ai/jobs/info/69e1c8c3ff71e82d604b8c16?utm_campaign=1057&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
-| **[California State University, Northridge](https://www.csun.edu/)** | **[Lead DPR Systems Analyst (CSU Only)](https://jobright.ai/jobs/info/69e197aed612782e61149532?utm_campaign=1057&utm_source=git)** | Northridge, California, United States | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
