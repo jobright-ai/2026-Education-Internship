@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c412a6d5a1016e98db1f6a?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Apr 18 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e19288acc736112f5c4312?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 18 |
 | **[Carrier Enterprise](https://www.carrierenterprise.com/)** | **[Intern](https://jobright.ai/jobs/info/69d6bc2c706f771673bad65a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Apr 18 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e34e42be46fa3a4ef5a89f?utm_campaign=1057&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Academic Athletics Intern](https://jobright.ai/jobs/info/69e337315c44d4710fe28577?utm_campaign=1057&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Apr 17 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df52?utm_campaign=1057&utm_source=git)** | Stillwater, MN | On Site | Apr 17 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Apr 17 |
 | **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
