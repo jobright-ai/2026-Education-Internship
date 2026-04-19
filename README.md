@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69d6f6dae63cea7a8b66d3af?utm_campaign=1057&utm_source=git)** | Mishawaka, IN | On Site | Apr 18 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c412a6d5a1016e98db1f6a?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Apr 18 |
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e19288acc736112f5c4312?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df52?utm_campaign=1057&utm_source=git)** | Stillwater, MN | On Site | Apr 17 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Apr 17 |
 | **[ECMC Foundation](https://www.ecmcfoundation.org/)** | **[Foundation Program Intern](https://jobright.ai/jobs/info/698b81e906d9b0622495a1a2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 17 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[High School Discovery Event 2026 (Virtual)](https://jobright.ai/jobs/info/69c50abef7bed33dee482746?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
