@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 19 |
+| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 19 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69ddcda15913ad339813a855?utm_campaign=1057&utm_source=git)** | Arnold, MD | On Site | Apr 19 |
@@ -74,7 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Federal Work Study - Office of Graduate Admissions (Spring 2026)](https://jobright.ai/jobs/info/69e4ce0af8fa2f3ec329de7b?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
 | **[Western Illinois University](http://www.wiu.edu/)** | **[Assistant Professor of Supply Chain & Analytics](https://jobright.ai/jobs/info/69e4ce0cf8fa2f3ec329de8b?utm_campaign=1057&utm_source=git)** | Macomb, IL | On Site | Apr 18 |
 | **[Stardog](https://stardog.com/)** | **[Summer Internship - Knowledge & Content Management](https://jobright.ai/jobs/info/69e4ce1a9b6eb37e26f7c308?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 18 |
-| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e4ce10f8fa2f3ec329de94?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 18 |
+| **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e19288acc736112f5c4312?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 18 |
 | **[Catholic Schools in the Archdiocese of New York](https://catholicschoolsny.org/)** | **[Early Childhood Program Educational Director - North Manhattan, NYC - Start Date August 2026](https://jobright.ai/jobs/info/69e4ce113cfd986aa6f8193d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Carrier Enterprise](https://www.carrierenterprise.com/)** | **[Intern](https://jobright.ai/jobs/info/69d6bc2c706f771673bad65a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High-Content Recovery Facilitator (Math) (INTERNAL ONLY)](https://jobright.ai/jobs/info/69e4d399f8fa2f3ec329e237?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 18 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[International Institute of St. Louis](https://www.iistl.org)** | **[Adult Language Learning English Teaching - Paid Intern](https://jobright.ai/jobs/info/69e4bb173aa0c4796438f097?utm_campaign=1057&utm_source=git)** | 1126 North Broadway Avenue 2nd fl, Springfield, MO, USA | Hybrid | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Intern](https://jobright.ai/jobs/info/69e4c4103cfd986aa6f817ad?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Academic Athletics Intern](https://jobright.ai/jobs/info/69e337315c44d4710fe28577?utm_campaign=1057&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Apr 17 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Pediatrics](https://jobright.ai/jobs/info/69e262705c44d4710fe24f7a?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 17 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Dual Enrollment & Advising Research Intern](https://jobright.ai/jobs/info/69e4bc399b6eb37e26f7b1bf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 17 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Pediatrics](https://jobright.ai/jobs/info/69e262663770bd5361cd83c5?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Apr 17 |
-| **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, Information Technology Department](https://jobright.ai/jobs/info/69e25fd1fcfcbd43860a2afe?utm_campaign=1057&utm_source=git)** | Hybrid-New York City | Hybrid | Apr 17 |
-| **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
