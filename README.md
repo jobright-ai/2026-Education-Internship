@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Southern California](http://www.usc.edu)** | **[Hazing Prevention & Leadership Development Coordinator](https://jobright.ai/jobs/info/69ab07747e1fab39d3829660?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian III, Intern Prg](https://jobright.ai/jobs/info/699ffe2fce78e77b4fe61755?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/69ab321d142d5b4265fc77c7?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Apr 19 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69e47ac2e0cd471b2f11ffc3?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 18 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e34e42be46fa3a4ef5a89f?utm_campaign=1057&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 17 |
 | **[Saskatchewan Cancer Agency](http://www.saskcancer.ca/)** | **[Intern Resident](https://jobright.ai/jobs/info/69e27be15c44d4710fe256ae?utm_campaign=1057&utm_source=git)** | Saskatoon, SK, Canada | On Site | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Academic Athletics Intern](https://jobright.ai/jobs/info/69e337315c44d4710fe28577?utm_campaign=1057&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Apr 17 |
 | **[Phoenix Network](http://www.phoenixnetwork.app)** | **[Humaniteis Teacher SY 2026-2027](https://jobright.ai/jobs/info/69e2aa9f2f28653593077632?utm_campaign=1057&utm_source=git)** | Lawrence, MA | On Site | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Museum Houston](https://www.cmhouston.org/)** | **[MAKER EDUCATION INTERN](https://jobright.ai/jobs/info/69e271883770bd5361cd8678?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Sevita](https://sevitahealth.com)** | **[Broomall Intern 5](https://jobright.ai/jobs/info/69689e97f25a380066972458?utm_campaign=1057&utm_source=git)** | Broomall, PA | On Site | Apr 17 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
-| **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (FTL)](https://jobright.ai/jobs/info/69c5a31caa9a29199e80843a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 17 |
-| ↳ | **[Summer Training Admin Intern (CHI)](https://jobright.ai/jobs/info/69c5a346aa3c2c1995e027fd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
