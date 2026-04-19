@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69e4fdcc9b6eb37e26f7ca6d?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 19 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54b2de0cd471b2f1228f0?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69e54b2c7820c036924cd27a?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 19 |
 | **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54af63aa0c47964390ebf?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69d6f6dae63cea7a8b66d3af?utm_campaign=1057&utm_source=git)** | Mishawaka, IN | On Site | Apr 18 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c412a6d5a1016e98db1f6a?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Apr 18 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69dcde0e5356a60f40feb08a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 18 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Program Coordinator II (Social Support Services)](https://jobright.ai/jobs/info/69e4ce0a3cfd986aa6f8191d?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Apr 18 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Alumni Relations (Spring 2026)](https://jobright.ai/jobs/info/69e4ce113cfd986aa6f81944?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
 | ↳ | **[Federal Work Study - Office of Graduate Admissions (Spring 2026)](https://jobright.ai/jobs/info/69e4ce0af8fa2f3ec329de7b?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
@@ -130,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69e2c190fcfcbd43860a4619?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - (.4) Music Teacher Middle School & Interns - Hopkins](https://jobright.ai/jobs/info/69e4fd8bf8fa2f3ec329e55e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | Apr 17 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Dickinson - High School Intern, Clinical](https://jobright.ai/jobs/info/69e2d7b3be46fa3a4ef5920c?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Apr 17 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69e4fdcc9b6eb37e26f7ca6d?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Plymouth, MN](https://jobright.ai/jobs/info/69e2b88b3770bd5361cd9c52?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Apr 17 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional Instructional Assistant - MGT 2090H - Accounting Work Term Dashboard Analytics](https://jobright.ai/jobs/info/69e2db92fcfcbd43860a4e4e?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | On Site | Apr 17 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Onsite Utah Summer Internship - Education & Finance](https://jobright.ai/jobs/info/69e336fd2f286535930798fa?utm_campaign=1057&utm_source=git)** | Centerville, UT, United States | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Canopy Anywhere Internship](https://jobright.ai/jobs/info/69e28e50be46fa3a4ef57b58?utm_campaign=1057&utm_source=git)** | Flowood, MS | Remote | Apr 17 |
 | **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69e2ac52be46fa3a4ef582b0?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 17 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - CS Print & Production, Hybrid](https://jobright.ai/jobs/info/69dfc2dae34484770f1aa50e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
