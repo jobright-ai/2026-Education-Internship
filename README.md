@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 19 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69ddcda15913ad339813a855?utm_campaign=1057&utm_source=git)** | Arnold, MD | On Site | Apr 19 |
 | **[University of Southern California](http://www.usc.edu)** | **[Hazing Prevention & Leadership Development Coordinator](https://jobright.ai/jobs/info/69ab07747e1fab39d3829660?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Rutherford County Schools - Tennessee](https://www.rcschools.net)** | **[Possible Growth School Counselor (2026-2027 School Year)](https://jobright.ai/jobs/info/69e4ce10f8fa2f3ec329de94?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Apr 18 |
 | **[Catholic Schools in the Archdiocese of New York](https://catholicschoolsny.org/)** | **[Early Childhood Program Educational Director - North Manhattan, NYC - Start Date August 2026](https://jobright.ai/jobs/info/69e4ce113cfd986aa6f8193d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Carrier Enterprise](https://www.carrierenterprise.com/)** | **[Intern](https://jobright.ai/jobs/info/69d6bc2c706f771673bad65a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 18 |
+| **[Williamsburg-James City County Schools](http://wjccschools.org)** | **[Summer School: High-Content Recovery Facilitator (Math) (INTERNAL ONLY)](https://jobright.ai/jobs/info/69e4d399f8fa2f3ec329e237?utm_campaign=1057&utm_source=git)** | Williamsburg, VA | On Site | Apr 18 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Arts in Medicine Intern: Spring](https://jobright.ai/jobs/info/68e55acc1852e62f0080ec6d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Apr 18 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Assistant Professor - Information Systems, Operations Management, Supply Chain Management, and Busin](https://jobright.ai/jobs/info/69c6ee39e565c26a7002407e?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Apr 18 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[SEVIS Records Coordinator & Student Engagement Advisor](https://jobright.ai/jobs/info/6938ea77b95c305f206e2bb9?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Pediatrics](https://jobright.ai/jobs/info/69e262663770bd5361cd83c5?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Apr 17 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Intern, Information Technology Department](https://jobright.ai/jobs/info/69e25fd1fcfcbd43860a2afe?utm_campaign=1057&utm_source=git)** | Hybrid-New York City | Hybrid | Apr 17 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Apr 17 |
-| **[New Season](https://newseason.com)** | **[Counselor Intern - Paid](https://jobright.ai/jobs/info/69e271f73ce36005badbe3a1?utm_campaign=1057&utm_source=git)** | Rockland, ME | On Site | Apr 17 |
-| **[Hudson Valley Credit Union](https://www.hvcu.org/)** | **[HVCU College Intern - Legal and Compliance](https://jobright.ai/jobs/info/69aa85d41f59c56275e37109?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
