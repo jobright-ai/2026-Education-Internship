@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/69ab321d142d5b4265fc77c7?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Apr 19 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69e47ac2e0cd471b2f11ffc3?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 18 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Apr 18 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69d6f6dae63cea7a8b66d3af?utm_campaign=1057&utm_source=git)** | Mishawaka, IN | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (FTL)](https://jobright.ai/jobs/info/69c5a31caa9a29199e80843a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 17 |
 | ↳ | **[Summer Training Admin Intern (CHI)](https://jobright.ai/jobs/info/69c5a346aa3c2c1995e027fd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
-| **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df52?utm_campaign=1057&utm_source=git)** | Stillwater, MN | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
