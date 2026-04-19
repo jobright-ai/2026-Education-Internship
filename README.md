@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Co-op - Learning Specialist - Fall 2026 (Internship)](https://jobright.ai/jobs/info/69e05edfb20fd532b4ae118a?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Apr 19 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Apr 19 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Director of Financial Aid & Scholarships](https://jobright.ai/jobs/info/69708d0151f726477182d07b?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | Apr 19 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Volunteer Services Internship](https://jobright.ai/jobs/info/69e4ff309b6eb37e26f7cb22?utm_campaign=1057&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Apr 19 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 19 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[International Institute of St. Louis](https://www.iistl.org)** | **[Adult Language Learning English Teaching - Paid Intern](https://jobright.ai/jobs/info/69e4bb173aa0c4796438f097?utm_campaign=1057&utm_source=git)** | 1126 North Broadway Avenue 2nd fl, Springfield, MO, USA | Hybrid | Apr 17 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Digital Internship](https://jobright.ai/jobs/info/69e34c85fcfcbd43860a5ffe?utm_campaign=1057&utm_source=git)** | Somerville-MA | Hybrid | Apr 17 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Intern](https://jobright.ai/jobs/info/69e4c4103cfd986aa6f817ad?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
-| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Apr 17 |
+| ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Apr 17 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern US](https://jobright.ai/jobs/info/69e336f82f286535930798ce?utm_campaign=1057&utm_source=git)** | 900 Newport Center Dr, Newport Beach, CA, 92660, US | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
