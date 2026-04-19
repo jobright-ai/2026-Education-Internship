@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54b2de0cd471b2f1228f0?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
+| **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69e54b2c7820c036924cd27a?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 19 |
+| **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54af63aa0c47964390ebf?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
+| ↳ | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54af33aa0c47964390eb9?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 19 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Speech Language Pathologist Intern General Applicant Pool - Austin](https://jobright.ai/jobs/info/69e5454f3cfd986aa6f8242a?utm_campaign=1057&utm_source=git)** | Austin, Texas | On Site | Apr 19 |
 | **[Poudre School District](http://www.psdschools.org)** | **[2026-27 Paraprofessional English Language Development (ELD)-Putnam Elementary School](https://jobright.ai/jobs/info/69e53db57820c036924ccf7d?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Apr 19 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[JDP Program Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69e53d583cfd986aa6f8236d?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 19 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e53d49e0cd471b2f1225d9?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 19 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 19 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69ddcda15913ad339813a855?utm_campaign=1057&utm_source=git)** | Arnold, MD | On Site | Apr 19 |
 | **[University of Southern California](http://www.usc.edu)** | **[Hazing Prevention & Leadership Development Coordinator](https://jobright.ai/jobs/info/69ab07747e1fab39d3829660?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian III, Intern Prg](https://jobright.ai/jobs/info/699ffe2fce78e77b4fe61755?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/69ab321d142d5b4265fc77c7?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Apr 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 17 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69e2ac52be46fa3a4ef582b0?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 17 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - CS Print & Production, Hybrid](https://jobright.ai/jobs/info/69dfc2dae34484770f1aa50e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Apr 17 |
-| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Foundation Programme Director](https://jobright.ai/jobs/info/69e2e166fcfcbd43860a4f76?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Apr 17 |
-| **[Hendrick Medical Center Brownwood](https://prevcare.se/)** | **[HMCB Acute Care Intern - ED](https://jobright.ai/jobs/info/69cae29ae565c26a70041df8?utm_campaign=1057&utm_source=git)** | Brownwood, TX | On Site | Apr 17 |
-| **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Lecturer/Assistant Professor of Instruction in the Division of Data Science](https://jobright.ai/jobs/info/69e2b3f35c44d4710fe265fb?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Apr 17 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e34e42be46fa3a4ef5a89f?utm_campaign=1057&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
