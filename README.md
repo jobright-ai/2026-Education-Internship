@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f127192?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 20 |
+| **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/69e6a4e23cfd986aa6f87093?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 20 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Innovation and Entrepreneurship Center (IEC)](https://jobright.ai/jobs/info/69e6a4999b6eb37e26f81869?utm_campaign=1057&utm_source=git)** | Golden, CO | On Site | Apr 20 |
 | **[Penn State University](http://psu.edu)** | **[Administrative Foundations Internship, College of the Liberal Arts](https://jobright.ai/jobs/info/69e69e4b3aa0c47964395354?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Apr 20 |
+| **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/697d3bc8727747250d580c2b?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 20 |
 | **[Foss Swim School](http://fossswimschool.com)** | **[Instructional Media & Communications Intern (Seasonal)](https://jobright.ai/jobs/info/69e691ea7820c036924d13c6?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 20 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[UVA FWS Program-Georges Student Center Intern (Student Wage)](https://jobright.ai/jobs/info/69e68e9a9b6eb37e26f80f21?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Apr 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Youth Success Specialist Intern](https://jobright.ai/jobs/info/69e68c4a3aa0c47964394c65?utm_campaign=1057&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 20 |
@@ -84,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b1e0cd471b2f125242?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 20 |
 | ↳ | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b03cfd986aa6f85238?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f74?utm_campaign=1057&utm_source=git)** | Anchorage | On Site | Apr 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e653833cfd986aa6f84f5c?utm_campaign=1057&utm_source=git)** | US-LA-Metairie | On Site | Apr 20 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537f3aa0c47964393636?utm_campaign=1057&utm_source=git)** | Anchorage , AK, US | On Site | Apr 20 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537df8fa2f3ec32a1101?utm_campaign=1057&utm_source=git)** | US-AK-Anchorage | On Site | Apr 20 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e6537bf8fa2f3ec32a10f1?utm_campaign=1057&utm_source=git)** | Amarillo, TX, US | On Site | Apr 20 |
@@ -123,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[SCHOOL DISTRICT NO. RE-1, VALLEY](https://www.linkedin.com/company/61242655)** | **[SmartLab Facilitator - Secondary Level (Teacher)](https://jobright.ai/jobs/info/69e651f63cfd986aa6f84d75?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
 | ↳ | **[SmartLab Facilitator](https://jobright.ai/jobs/info/69e62dfa3cfd986aa6f83f7f?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69e5f7089b6eb37e26f7dbd0?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
-| **[Pathways](http://www.clarvida.com)** | **[Intern](https://jobright.ai/jobs/info/69e6198d7820c036924ce632?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69e618f7f8fa2f3ec329fc89?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
+| **[Pathways](http://www.clarvida.com)** | **[Intern](https://jobright.ai/jobs/info/69e618f7f8fa2f3ec329fc89?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69e6198d7820c036924ce632?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 20 |
 | **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/69e5e36f3aa0c47964391662?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Miaplaza, Inc.](https://miacademy.co)** | **[2026 Summer Intern: Instructional Design/Curriculum & Instruction](https://jobright.ai/jobs/info/699040ca6ea51a7610f2cba9?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[BASIS Ed](https://basised.com)** | **[Student Support Specialist 26/27](https://jobright.ai/jobs/info/69e66dd37820c036924d0580?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 19 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e53d49e0cd471b2f1225d9?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 19 |
 | **[Arizona State University](http://www.asu.edu)** | **[Graduate Practicum and Internship Coordinator](https://jobright.ai/jobs/info/69e5ee9ce0cd471b2f12312c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Apr 19 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[JDP Program Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69e2ac43be46fa3a4ef58259?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | Apr 19 |
-| **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Intern](https://jobright.ai/jobs/info/69e5ee933cfd986aa6f8313f?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Apr 19 |
+| **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Intern](https://jobright.ai/jobs/info/69e4c4103cfd986aa6f817ad?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Apr 19 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 19 |
-| **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Apr 19 |
-| ↳ | **[Co-op - Learning Specialist - Fall 2026 (Internship)](https://jobright.ai/jobs/info/69e05edfb20fd532b4ae118a?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Apr 19 |
+| **[ASML](https://www.asml.com)** | **[Co-op - Learning Specialist - Fall 2026 (Internship)](https://jobright.ai/jobs/info/69e05edfb20fd532b4ae118a?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Apr 19 |
+| ↳ | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Apr 19 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Apr 19 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Volunteer Services Internship](https://jobright.ai/jobs/info/69e4ff309b6eb37e26f7cb22?utm_campaign=1057&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Apr 19 |
 | **[Alliance Animal Health](https://allianceanimal.com/)** | **[New Graduate Veterinarian Accelerated ER Internship & Placement Program](https://jobright.ai/jobs/info/6990f3d50cc8ea15f1dba2f0?utm_campaign=1057&utm_source=git)** | Blue Ridge, GA | On Site | Apr 19 |
-| **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 19 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 19 |
-| **[BHcare](https://bhcare.org)** | **[Clinical Intern- Adult Outpatient](https://jobright.ai/jobs/info/69ab6537142d5b4265fc9ed6?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Apr 19 |
-| **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
