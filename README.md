@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/69e5e36f3aa0c47964391662?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 20 |
+| **[Miaplaza, Inc.](https://miacademy.co)** | **[2026 Summer Intern: Instructional Design/Curriculum & Instruction](https://jobright.ai/jobs/info/699040ca6ea51a7610f2cba9?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54b2de0cd471b2f1228f0?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
 | **[WVU Department of Mechanical, Materials and Aerospace Engineering](https://mmae.statler.wvu.edu/)** | **[Program Director - Statler College Advising Center  28751](https://jobright.ai/jobs/info/69e54b2c7820c036924cd27a?utm_campaign=1057&utm_source=git)** | Morgantown, WV | On Site | Apr 19 |
 | **[Live Well Homecare](https://www.linkedin.com/company/107547013)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/69e54af63aa0c47964390ebf?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 19 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | Apr 19 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Volunteer Services Internship](https://jobright.ai/jobs/info/69e4ff309b6eb37e26f7cb22?utm_campaign=1057&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Apr 19 |
+| **[Alliance Animal Health](https://allianceanimal.com/)** | **[New Graduate Veterinarian Accelerated ER Internship & Placement Program](https://jobright.ai/jobs/info/6990f3d50cc8ea15f1dba2f0?utm_campaign=1057&utm_source=git)** | Blue Ridge, GA | On Site | Apr 19 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 19 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 19 |
 | **[BHcare](https://bhcare.org)** | **[Clinical Intern- Adult Outpatient](https://jobright.ai/jobs/info/69ab6537142d5b4265fc9ed6?utm_campaign=1057&utm_source=git)** | North Branford, CT | On Site | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CET)(NFWS)](https://jobright.ai/jobs/info/69e2965bbe46fa3a4ef57da3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 17 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e29630fcfcbd43860a3886?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 17 |
 | **[Rocky View Schools](https://www.rockyview.ab.ca/)** | **[Temporary Administrative Assistant II -- Prairie Waters Elementary School](https://jobright.ai/jobs/info/69e2d6733ce36005badbfef2?utm_campaign=1057&utm_source=git)** | Chestermere, AB | On Site | Apr 17 |
-| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[JDP Program Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69e295725c44d4710fe25c9e?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 17 |
-| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Mission Services](https://jobright.ai/jobs/info/69e2956a5c44d4710fe25c7a?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 17 |
-| **[Bold Futures Academy](http://www.boldfuturesacademy.org)** | **[Summer Intern — C(Unpaid) / Bold Futures Academy](https://jobright.ai/jobs/info/69e2c416fcfcbd43860a46a2?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
