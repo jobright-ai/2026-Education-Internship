@@ -57,18 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe02cdfaeda6ff598d991?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Apr 21 |
+| **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Apr 21 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e8ff?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8ad?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 21 |
+| **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Clinical Internship / Social Work & Counseling (Summer/Fall 2026)](https://jobright.ai/jobs/info/69e75d19f8fa2f3ec32a7024?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d5?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d5?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Apr 21 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Spiritual Health Internship - Summer 2026](https://jobright.ai/jobs/info/69b57eb506c1ba00c5476cf2?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Apr 21 |
 | **[Mandarin Zest](https://mandarinzest.com/)** | **[Mandarin Content & Education Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/69e746a658811370cb11c450?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Apr 21 |
-| **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Spring 2026](https://jobright.ai/jobs/info/69d1e89c54f00230c6d1dd36?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
-| ↳ | **[Student Teachers/Observation Students/Internship Students - Fall 2026](https://jobright.ai/jobs/info/69d3502f0b098b7a6708dfae?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
+| **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Fall 2026](https://jobright.ai/jobs/info/69d3502f0b098b7a6708dfae?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
 | **[Harrison School District 2](https://www.hsd2.org)** | **[Student Teaching/Internship/Practicum/Observation](https://jobright.ai/jobs/info/69e733a858811370cb11c1b2?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 21 |
 | ↳ | **[STEAM Innovation Teacher (Science, Technology, Engineering, Arts and Mathematics)](https://jobright.ai/jobs/info/69e732a53aa0c47964398f79?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 21 |
+| **[Elmhurst District 205 Public Schools](https://york.elmhurst205.org/)** | **[Student Interns/Observers/Practicum Students](https://jobright.ai/jobs/info/69e75dd90a6e09555302a288?utm_campaign=1057&utm_source=git)** | Elmhurst, IL | On Site | Apr 21 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Supplemental Instruction (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/69e74f72e0cd471b2f12ad0d?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 21 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Summer Operations & Programming Intern](https://jobright.ai/jobs/info/69e74f437820c036924d57f7?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
+| **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Licensed](https://jobright.ai/jobs/info/69d3502154f00230c6d26a44?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
+| ↳ | **[Internal Only - Summer Programs 2026 - Classified](https://jobright.ai/jobs/info/69ccac018130af1ac833e293?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
+| ↳ | **[Internal Only - Summer Programs 2026 - Site Coordinator](https://jobright.ai/jobs/info/69ca4e71aa3c2c1995e2c179?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
 | **[Everett Public Schools](https://www.everettsd.org/)** | **[Invitation ONLY- 2025-26 Current Student Interns: Substitute Cert](https://jobright.ai/jobs/info/69d5d55bcfdc6132f9466387?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Apr 21 |
 | **[Community Unit School District 300](http://D300.org)** | **[Family and Consumer Sciences Teacher - (Fashion and Child Development) - 26/27 SY](https://jobright.ai/jobs/info/69e71cdd7820c036924d346d?utm_campaign=1057&utm_source=git)** | Hampshire, IL | On Site | Apr 20 |
 | ↳ | **[Sophomore Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888bf?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b03cfd986aa6f85238?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f74?utm_campaign=1057&utm_source=git)** | Anchorage | On Site | Apr 20 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e653833cfd986aa6f84f5c?utm_campaign=1057&utm_source=git)** | US-LA-Metairie | On Site | Apr 20 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537f3aa0c47964393636?utm_campaign=1057&utm_source=git)** | Anchorage , AK, US | On Site | Apr 20 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537df8fa2f3ec32a1101?utm_campaign=1057&utm_source=git)** | US-AK-Anchorage | On Site | Apr 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e6537bf8fa2f3ec32a10f1?utm_campaign=1057&utm_source=git)** | Amarillo, TX, US | On Site | Apr 20 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Academic Programs](https://jobright.ai/jobs/info/69e653789b6eb37e26f7f7fe?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern: Academic Programs](https://jobright.ai/jobs/info/69e6535a3aa0c4796439359f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
-| **[Texas Juvenile Justice Department](https://www.tjjd.texas.gov)** | **[TJJD - Program Specialist V - Internship Coordinator - (AUS) - 57445](https://jobright.ai/jobs/info/69e66d713aa0c47964394084?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 20 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[Campus Visit Intern (Student position)](https://jobright.ai/jobs/info/69e68416f8fa2f3ec32a2554?utm_campaign=1057&utm_source=git)** | Greater Chicago Area | On Site | Apr 20 |
-| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Project IMPACT Student Intern - Orangeburg](https://jobright.ai/jobs/info/69e641b53cfd986aa6f84617?utm_campaign=1057&utm_source=git)** | MUSC Health Orangeburg Medical Pavilion | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
