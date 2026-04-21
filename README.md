@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe02cdfaeda6ff598d991?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Apr 21 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d915?utm_campaign=1057&utm_source=git)** | Wauconda, IL | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d6?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf774950064509525e3?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe02cdfaeda6ff598d991?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Apr 21 |
 | **[CCMC](http://ccmcnet.com)** | **[Student Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1057&utm_source=git)** | Babcock Ranch, FL | On Site | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e8ff?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8ad?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 21 |
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Clinical Internship / Social Work & Counseling (Summer/Fall 2026)](https://jobright.ai/jobs/info/69e75d19f8fa2f3ec32a7024?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d5?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 21 |
+| **[Caesar Rodney School District](https://www.cr.k12.de.us)** | **[Paraprofessional Positions -Temporary- Anticipated Vacancies for the 2025-2026 School Year ~ CR Countywide Programs](https://jobright.ai/jobs/info/69e771a1f8fa2f3ec32a7b32?utm_campaign=1057&utm_source=git)** | Dover, DE | On Site | Apr 21 |
+| ↳ | **[Paraprofessional Positions -Temporary- Anticipated Vacancies for the 2025-2026 School Year ~ District-wide](https://jobright.ai/jobs/info/69e770c87820c036924d65e7?utm_campaign=1057&utm_source=git)** | Camden Wyoming, DE | On Site | Apr 21 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Spiritual Health Internship - Summer 2026](https://jobright.ai/jobs/info/69b57eb506c1ba00c5476cf2?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Apr 21 |
+| **[ROCORI PUBLIC SCHOOL DISTRICT](https://www.linkedin.com/company/61207155)** | **[Elementary Music-LTS](https://jobright.ai/jobs/info/69e76ab60a6e09555302a562?utm_campaign=1057&utm_source=git)** | Cold Spring, MN | On Site | Apr 21 |
 | **[Mandarin Zest](https://mandarinzest.com/)** | **[Mandarin Content & Education Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/69e746a658811370cb11c450?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Apr 21 |
 | **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Fall 2026](https://jobright.ai/jobs/info/69d3502f0b098b7a6708dfae?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
@@ -75,13 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Elmhurst District 205 Public Schools](https://york.elmhurst205.org/)** | **[Student Interns/Observers/Practicum Students](https://jobright.ai/jobs/info/69e75dd90a6e09555302a288?utm_campaign=1057&utm_source=git)** | Elmhurst, IL | On Site | Apr 21 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Supplemental Instruction (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/69e74f72e0cd471b2f12ad0d?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 21 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Summer Operations & Programming Intern](https://jobright.ai/jobs/info/69e74f437820c036924d57f7?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
-| **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Licensed](https://jobright.ai/jobs/info/69d3502154f00230c6d26a44?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
-| ↳ | **[Internal Only - Summer Programs 2026 - Classified](https://jobright.ai/jobs/info/69ccac018130af1ac833e293?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
-| ↳ | **[Internal Only - Summer Programs 2026 - Site Coordinator](https://jobright.ai/jobs/info/69ca4e71aa3c2c1995e2c179?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
+| **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Site Coordinator](https://jobright.ai/jobs/info/69ca4e71aa3c2c1995e2c179?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
 | **[Everett Public Schools](https://www.everettsd.org/)** | **[Invitation ONLY- 2025-26 Current Student Interns: Substitute Cert](https://jobright.ai/jobs/info/69d5d55bcfdc6132f9466387?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Apr 21 |
 | **[Community Unit School District 300](http://D300.org)** | **[Family and Consumer Sciences Teacher - (Fashion and Child Development) - 26/27 SY](https://jobright.ai/jobs/info/69e71cdd7820c036924d346d?utm_campaign=1057&utm_source=git)** | Hampshire, IL | On Site | Apr 20 |
-| ↳ | **[Sophomore Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888bf?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | ↳ | **[Junior Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888c1?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| ↳ | **[Sophomore Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888bf?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | ↳ | **[Student Council Sponsor](https://jobright.ai/jobs/info/69e71c913aa0c47964396e18?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | ↳ | **[Freshman Class Sponsor](https://jobright.ai/jobs/info/69e71c903aa0c47964396e0b?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Community Service](https://jobright.ai/jobs/info/69e71c38f8fa2f3ec32a48c2?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Apr 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Marketing & Digital Design Internships – Academic Year](https://jobright.ai/jobs/info/69e65f7b3aa0c47964393b45?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Project IMPACT Student Intern - Orangeburg](https://jobright.ai/jobs/info/69e67c643cfd986aa6f86044?utm_campaign=1057&utm_source=git)** | Orangeburg, SC | On Site | Apr 20 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Student Summer Intern / CREDIT Center / Data Analysis](https://jobright.ai/jobs/info/69e65f3c3aa0c47964393a51?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Apr 20 |
-| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b1e0cd471b2f125242?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 20 |
-| ↳ | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b03cfd986aa6f85238?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 20 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f74?utm_campaign=1057&utm_source=git)** | Anchorage | On Site | Apr 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e653833cfd986aa6f84f5c?utm_campaign=1057&utm_source=git)** | US-LA-Metairie | On Site | Apr 20 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
