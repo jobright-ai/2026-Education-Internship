@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Unit School District 300](http://D300.org)** | **[Family and Consumer Sciences Teacher - (Fashion and Child Development) - 26/27 SY](https://jobright.ai/jobs/info/69e71cdd7820c036924d346d?utm_campaign=1057&utm_source=git)** | Hampshire, IL | On Site | Apr 20 |
+| ↳ | **[Junior Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888c1?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| ↳ | **[Sophomore Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888bf?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| ↳ | **[Student Council Sponsor](https://jobright.ai/jobs/info/69e71c913aa0c47964396e18?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| ↳ | **[Freshman Class Sponsor](https://jobright.ai/jobs/info/69e71c903aa0c47964396e0b?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
+| **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Community Service](https://jobright.ai/jobs/info/69e71c38f8fa2f3ec32a48c2?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Apr 20 |
+| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Assistant Director Longmeadow KinderCare](https://jobright.ai/jobs/info/69e71c38f8fa2f3ec32a48c4?utm_campaign=1057&utm_source=git)** | Longmeadow, MA | On Site | Apr 20 |
 | **[Gensler](http://www.gensler.com)** | **[ACE Intern (High School Student)](https://jobright.ai/jobs/info/69e7075a3cfd986aa6f883ef?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | On Site | Apr 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Youth Success Specialist Intern](https://jobright.ai/jobs/info/69e6ff7e9b6eb37e26f82c0b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Apr 20 |
 | **[Cirque du Soleil Entertainment Group](http://www.cirquedusoleil.com)** | **[Training and Intern Advisor, Technical Services](https://jobright.ai/jobs/info/69e6ff6d3aa0c47964396a15?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 20 |
@@ -119,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b1e0cd471b2f125242?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 20 |
 | ↳ | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b03cfd986aa6f85238?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f74?utm_campaign=1057&utm_source=git)** | Anchorage | On Site | Apr 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e653833cfd986aa6f84f5c?utm_campaign=1057&utm_source=git)** | US-LA-Metairie | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537f3aa0c47964393636?utm_campaign=1057&utm_source=git)** | Anchorage , AK, US | On Site | Apr 20 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537df8fa2f3ec32a1101?utm_campaign=1057&utm_source=git)** | US-AK-Anchorage | On Site | Apr 20 |
@@ -136,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/69e639c73aa0c47964392b36?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 20 |
 | **[Juno](https://joinjuno.com)** | **[Summer MBA Growth Intern](https://jobright.ai/jobs/info/69e6360e9b6eb37e26f7eaff?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Apr 20 |
 | ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/69e635f13cfd986aa6f841e0?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Apr 20 |
-| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Summer School Intern](https://jobright.ai/jobs/info/69e67c5f3cfd986aa6f86032?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 20 |
-| ↳ | **[Training & Development Summer Intern](https://jobright.ai/jobs/info/69e67c537820c036924d0c24?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 20 |
+| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Training & Development Summer Intern](https://jobright.ai/jobs/info/69e67c537820c036924d0c24?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 20 |
+| ↳ | **[Summer School Intern](https://jobright.ai/jobs/info/69e67c5f3cfd986aa6f86032?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 20 |
 | **[Dominican University](http://www.dom.edu/)** | **[Waters Intern - University Ministry Center Student Worker](https://jobright.ai/jobs/info/69e67c357820c036924d0ba5?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | Apr 20 |
 | **[Diocese of Columbus](http://www.columbuscatholic.org)** | **[Safe Environment Intern](https://jobright.ai/jobs/info/69e67c3c9b6eb37e26f80841?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Television Entertainment Studio Finance Transformation Internship – Academic Year](https://jobright.ai/jobs/info/69e6580ee0cd471b2f12515c?utm_campaign=1057&utm_source=git)** | Universal City, CA | On Site | Apr 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exos](http://www.teamexos.com/)** | **[Sports Performance Intern - Summer 2026](https://jobright.ai/jobs/info/69a8d9de79f3f4037f436613?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 20 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/69cc28e4366bb95ba54ede2b?utm_campaign=1057&utm_source=git)** | Emmaus, PA | On Site | Apr 20 |
 | **[Via Linda Behavioral Hospital](https://vialindabehavioral.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e652043cfd986aa6f84da2?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Apr 20 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Nursing (Summer & Fall)](https://jobright.ai/jobs/info/69e64a0b3cfd986aa6f84845?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Apr 20 |
-| **[Windmoor Healthcare Of Clearwater](https://windmoor.com)** | **[INTERN - VOLUNTEER - UNPAID](https://jobright.ai/jobs/info/69e6515f3cfd986aa6f84b12?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Apr 20 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/699e395281476f6176b71c1d?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 20 |
-| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Centre College First-Gen Office Coordinator AmeriCorps Kentucky College Coach](https://jobright.ai/jobs/info/69e649de9b6eb37e26f7f2de?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Apr 20 |
-| **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/695d21b0fbd62a0a6565b6f1?utm_campaign=1057&utm_source=git)** | Pleasanton, CA 94566 | Hybrid | Apr 20 |
-| **[SCHOOL DISTRICT NO. RE-1, VALLEY](https://www.linkedin.com/company/61242655)** | **[SmartLab Facilitator - Secondary Level (Teacher)](https://jobright.ai/jobs/info/69e651f63cfd986aa6f84d75?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
-| ↳ | **[SmartLab Facilitator](https://jobright.ai/jobs/info/69e62dfa3cfd986aa6f83f7f?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
