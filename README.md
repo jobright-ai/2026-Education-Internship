@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Computer Science Academics Intern](https://jobright.ai/jobs/info/69e7c0e958811370cb11e3ae?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 21 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern (Hourly)](https://jobright.ai/jobs/info/69e7b81b58811370cb11e1fe?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | Apr 21 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Lab Technician Intern](https://jobright.ai/jobs/info/69e7b05d0a6e09555302bcf4?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Apr 21 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8ad?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 21 |
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Clinical Internship / Social Work & Counseling (Summer/Fall 2026)](https://jobright.ai/jobs/info/69e75d19f8fa2f3ec32a7024?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Apr 21 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d5?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Apr 21 |
 | **[Caesar Rodney School District](https://www.cr.k12.de.us)** | **[Paraprofessional Positions -Temporary- Anticipated Vacancies for the 2025-2026 School Year ~ CR Countywide Programs](https://jobright.ai/jobs/info/69e771a1f8fa2f3ec32a7b32?utm_campaign=1057&utm_source=git)** | Dover, DE | On Site | Apr 21 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Supplemental Instruction (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/69e74f72e0cd471b2f12ad0d?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 21 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Summer Operations & Programming Intern](https://jobright.ai/jobs/info/69e74f437820c036924d57f7?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 21 |
 | **[Salem-Keizer Public Schools](https://salkeiz.k12.or.us/)** | **[Internal Only - Summer Programs 2026 - Site Coordinator](https://jobright.ai/jobs/info/69ca4e71aa3c2c1995e2c179?utm_campaign=1057&utm_source=git)** | Salem, OR | On Site | Apr 21 |
-| **[Everett Public Schools](https://www.everettsd.org/)** | **[Invitation ONLY- 2025-26 Current Student Interns: Substitute Cert](https://jobright.ai/jobs/info/69d5d55bcfdc6132f9466387?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Apr 21 |
 | **[Community Unit School District 300](http://D300.org)** | **[Family and Consumer Sciences Teacher - (Fashion and Child Development) - 26/27 SY](https://jobright.ai/jobs/info/69e71cdd7820c036924d346d?utm_campaign=1057&utm_source=git)** | Hampshire, IL | On Site | Apr 20 |
 | ↳ | **[Sophomore Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888bf?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
 | ↳ | **[Junior Class Sponsor](https://jobright.ai/jobs/info/69e71cce3cfd986aa6f888c1?utm_campaign=1057&utm_source=git)** | Carpentersville, IL | On Site | Apr 20 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[BASIS Ed](https://basised.com)** | **[English Teacher - 7th Grade 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7c07?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | ↳ | **[English Teacher 26/27](https://jobright.ai/jobs/info/69e7afa3f8fa2f3ec32a9159?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | ↳ | **[English Teacher - 8th Grade 26/27](https://jobright.ai/jobs/info/69e7afd13aa0c4796439b57f?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
+| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | ↳ | **[Math Teacher 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7bff?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | ↳ | **[Science Teacher - Elementary 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc33?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | ↳ | **[Science Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc31?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
-| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 20 |
 | **[World Learning](http://www.worldlearning.org)** | **[IVLP Internship - Summer 2026](https://jobright.ai/jobs/info/69e6c1019b6eb37e26f81fa6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Student Success Intern, Chartwells Higher Ed / Plymouth State University (Co-Op)](https://jobright.ai/jobs/info/69e6c0e7f8fa2f3ec32a37f5?utm_campaign=1057&utm_source=git)** | Plymouth, NH | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
