@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Institute](https://www.americaninstitute.edu)** | **[Admissions Coordinator](https://jobright.ai/jobs/info/69e6f1d73cfd986aa6f881c1?utm_campaign=1057&utm_source=git)** | Cherry Hill, NJ | On Site | Apr 20 |
+| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69e6f1563aa0c479643967c1?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 20 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Help Your Students Connect: Host an International Exchange Student!](https://jobright.ai/jobs/info/69e6ec68f8fa2f3ec32a3fd6?utm_campaign=1057&utm_source=git)** | Scotch Plains, NJ | On Site | Apr 20 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Trainer](https://jobright.ai/jobs/info/69cf2f0754f00230c6d073cb?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 20 |
 | **[LifeSource](https://www.life-source.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/69e6dddc9b6eb37e26f82514?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 20 |
 | **[Innisfree Hotels](https://innisfreehotels.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69e6d57f3aa0c479643960e9?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | On Site | Apr 20 |
+| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Sr. Clinical Research Coordinator](https://jobright.ai/jobs/info/69e02d8faba61f141731fffd?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 20 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/69e6c7253cfd986aa6f87826?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 20 |
 | **[World Learning](http://www.worldlearning.org)** | **[IVLP Internship - Summer 2026](https://jobright.ai/jobs/info/69e6c1019b6eb37e26f81fa6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Apr 20 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Student Success Intern, Chartwells Higher Ed / Plymouth State University (Co-Op)](https://jobright.ai/jobs/info/69e6c0e7f8fa2f3ec32a37f5?utm_campaign=1057&utm_source=git)** | Plymouth, NH | On Site | Apr 20 |
@@ -81,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Volo Sports](https://www.volosports.com)** | **[Program and Non Profit Operations Internship - Summer](https://jobright.ai/jobs/info/69e6b954f8fa2f3ec32a35ff?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[UVA FWS Program-Georges Student Center Intern (Student Wage)](https://jobright.ai/jobs/info/69e68e9a9b6eb37e26f80f21?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Apr 20 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Youth Success Specialist Intern](https://jobright.ai/jobs/info/69e68c4a3aa0c47964394c65?utm_campaign=1057&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 20 |
+| **[Participate Learning](https://www.participatelearning.com)** | **[Teacher Placements Intern](https://jobright.ai/jobs/info/69e6ed1a3cfd986aa6f87f88?utm_campaign=1057&utm_source=git)** | Chapel Hill,NC,US | Remote | Apr 20 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/69e006e0aba61f141731f2d2?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Apr 20 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Transfer Credit Coordinator](https://jobright.ai/jobs/info/69e68992e0cd471b2f12648f?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 20 |
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[FACE Well Being / EACH Restorative Practices Interns / 2026 - 2027 School Year](https://jobright.ai/jobs/info/69e6893a7820c036924d1082?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Apr 20 |
@@ -107,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b1e0cd471b2f125242?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 20 |
 | ↳ | **[Anthropologie Instructional Design Intern](https://jobright.ai/jobs/info/69e658b03cfd986aa6f85238?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f74?utm_campaign=1057&utm_source=git)** | Anchorage | On Site | Apr 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6d?utm_campaign=1057&utm_source=git)** | US-TX-Amarillo | On Site | Apr 20 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e653833cfd986aa6f84f5c?utm_campaign=1057&utm_source=git)** | US-LA-Metairie | On Site | Apr 20 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69e65383e0cd471b2f124f6e?utm_campaign=1057&utm_source=git)** | Metairie, LA, US | On Site | Apr 20 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537f3aa0c47964393636?utm_campaign=1057&utm_source=git)** | Anchorage , AK, US | On Site | Apr 20 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP  - NANA Works Intern Paid Internship](https://jobright.ai/jobs/info/69e6537df8fa2f3ec32a1101?utm_campaign=1057&utm_source=git)** | US-AK-Anchorage | On Site | Apr 20 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e6537bf8fa2f3ec32a10f1?utm_campaign=1057&utm_source=git)** | Amarillo, TX, US | On Site | Apr 20 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | **[SCHOOL DISTRICT NO. RE-1, VALLEY](https://www.linkedin.com/company/61242655)** | **[SmartLab Facilitator - Secondary Level (Teacher)](https://jobright.ai/jobs/info/69e651f63cfd986aa6f84d75?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
 | ↳ | **[SmartLab Facilitator](https://jobright.ai/jobs/info/69e62dfa3cfd986aa6f83f7f?utm_campaign=1057&utm_source=git)** | Sterling, CO | On Site | Apr 20 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Training Support Associate (INTERNSHIP)](https://jobright.ai/jobs/info/69e5f7089b6eb37e26f7dbd0?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 20 |
-| **[Pathways](http://www.clarvida.com)** | **[Intern](https://jobright.ai/jobs/info/69e618f7f8fa2f3ec329fc89?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69e6198d7820c036924ce632?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 20 |
+| **[Pathways](http://www.clarvida.com)** | **[Intern](https://jobright.ai/jobs/info/69e6198d7820c036924ce632?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Apr 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69e618f7f8fa2f3ec329fc89?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Apr 20 |
 | **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/69e5e36f3aa0c47964391662?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Miaplaza, Inc.](https://miacademy.co)** | **[2026 Summer Intern: Instructional Design/Curriculum & Instruction](https://jobright.ai/jobs/info/699040ca6ea51a7610f2cba9?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 19 |
 | **[BASIS Ed](https://basised.com)** | **[Student Support Specialist 26/27](https://jobright.ai/jobs/info/69e66dd37820c036924d0580?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 19 |
-| **[Finger Lakes Community College](http://www.flcc.edu/)** | **[Adjunct Faculty - English (GRADE)](https://jobright.ai/jobs/info/69e691479b6eb37e26f80ffc?utm_campaign=1057&utm_source=git)** | Canandaigua, NY | Hybrid | Apr 19 |
-| **[Give Kids The World Village](https://www.gktw.org)** | **[Volunteer Services Internship](https://jobright.ai/jobs/info/69e5eeb33aa0c479643918b1?utm_campaign=1057&utm_source=git)** | Kissimmee, FL | On Site | Apr 19 |
-| **[BASIS Ed](https://basised.com)** | **[Writing Teacher - 6th/7th Grade 26/27](https://jobright.ai/jobs/info/69e6b91c7820c036924d2079?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Apr 19 |
-| **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[Outreach and Engagement Intern](https://jobright.ai/jobs/info/69e5eeb0e0cd471b2f123176?utm_campaign=1057&utm_source=git)** | Yorktown, VA | On Site | Apr 19 |
-| **[Ocean Springs School District](https://www.ossdms.org)** | **[School Secretary](https://jobright.ai/jobs/info/69e6d5bd7820c036924d26a0?utm_campaign=1057&utm_source=git)** | Ocean Springs, MS | On Site | Apr 19 |
-| **[Breck School](http://www.breckschool.org)** | **[Nature-based Early Childhood Teaching Assistant](https://jobright.ai/jobs/info/69e651be7820c036924cf874?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
