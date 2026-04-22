@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69e8927d4b0fa35a70766cad?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 22 |
+| **[Sunnyside Unified School District](https://www.susd12.org/)** | **[School Psychologist Intern (District Pool) - 26/27 SY](https://jobright.ai/jobs/info/69e89946e0cd471b2f13606a?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 22 |
 | **[ISD 622](https://www.isd622.org/)** | **[Extended School Year Assistant (SPED PARA Non-Teaching Support)](https://jobright.ai/jobs/info/69e87a14e0cd471b2f135649?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
 | ↳ | **[Extended School Year Assistant - SPED PARA (CREED) Non-Teaching Support](https://jobright.ai/jobs/info/69e87a017820c036924e0257?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
 | ↳ | **[Extended School Year Assistant (SPED PARA Non-Teaching Support) - Multiple Positions](https://jobright.ai/jobs/info/69e879ff7820c036924e024b?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
@@ -66,6 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Freedom School Servant Leader Intern (SLI)- Non-Licensed](https://jobright.ai/jobs/info/69e872e54b0fa35a70766886?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
 | ↳ | **[Extended School Year Assistant - SPED PARA (CREED) Non-Teaching Support](https://jobright.ai/jobs/info/69e872dee0cd471b2f135585?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
 | ↳ | **[Extended School Year Assistant -SPED PARA (ICAN) Non-Teaching Support](https://jobright.ai/jobs/info/69e872a558811370cb126862?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 22 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Placentia](https://jobright.ai/jobs/info/69e899327820c036924e0ce0?utm_campaign=1057&utm_source=git)** | Placentia, CA | On Site | Apr 21 |
+| ↳ | **[Summer Camp Intern, Marin](https://jobright.ai/jobs/info/69e8993be0cd471b2f13601a?utm_campaign=1057&utm_source=git)** | Marin City, CA | On Site | Apr 21 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Public Health Sciences](https://jobright.ai/jobs/info/69e85d7d7820c036924dfd7e?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 21 |
 | **[Bright Horizons](https://www.brighthorizons.com/)** | **[Child Care Intern Teacher](https://jobright.ai/jobs/info/69d00f36cfdc6132f9438043?utm_campaign=1057&utm_source=git)** | Belmont, MA | On Site | Apr 21 |
 | **[Chimes](https://chimes.org/)** | **[Intern](https://jobright.ai/jobs/info/69e848ea3aa0c4796439ec43?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Apr 21 |
@@ -73,12 +77,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Postbaccalaureate Intern](https://jobright.ai/jobs/info/69e848707820c036924db7cf?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
 | **[BASIS Ed](https://basised.com)** | **[Science Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc31?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[History Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7fdd0e0cd471b2f12eac7?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Apr 21 |
-| ↳ | **[English Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7d3777820c036924d868d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
 | ↳ | **[History Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e65f793cfd986aa6f85455?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
-| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
-| ↳ | **[Science Teacher - Elementary 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc33?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[English Teacher 26/27](https://jobright.ai/jobs/info/69e7afa3f8fa2f3ec32a9159?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
+| ↳ | **[Science Teacher - Elementary 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc33?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
+| ↳ | **[English Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7d3777820c036924d868d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
 | ↳ | **[Math Teacher 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7bff?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
+| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[English Teacher - 7th Grade 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7c07?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/69e63aa33aa0c47964392bca?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Apr 21 |
 | ↳ | **[Intern - Personal Trainer](https://jobright.ai/jobs/info/69cf2f0754f00230c6d073cb?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
@@ -104,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f127192?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 21 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69e805043aa0c4796439d23a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 21 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Online Course Training Specialist - College of Applied Health Sciences](https://jobright.ai/jobs/info/69e7fe6df8fa2f3ec32aad44?utm_campaign=1057&utm_source=git)** | Urbana, IL | Remote | Apr 21 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Student Fin Services Clerical (Student Position)](https://jobright.ai/jobs/info/69e8275958811370cb120cdf?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
-| ↳ | **[SLA Facilitator (Student Position)](https://jobright.ai/jobs/info/69e82726f8fa2f3ec32abb1a?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
+| **[Ferris State University College of Business](http://ferris.edu/business)** | **[SLA Facilitator (Student Position)](https://jobright.ai/jobs/info/69e82726f8fa2f3ec32abb1a?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
+| ↳ | **[Student Fin Services Clerical (Student Position)](https://jobright.ai/jobs/info/69e8275958811370cb120cdf?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
 | ↳ | **[Bulldog Pantry Assistant (Student Position)](https://jobright.ai/jobs/info/69e826780a6e09555302e879?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
 | **[GHD](http://www.ghd.com)** | **[Learning Intern](https://jobright.ai/jobs/info/69e7fe4b7820c036924d96ed?utm_campaign=1057&utm_source=git)** | Rosemont, IL | Hybrid | Apr 21 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/69e7fe0c58811370cb11fbc6?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Apr 21 |
@@ -129,16 +133,16 @@ For a complete list, click the following sortable link below:
 | **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Lab Technician Intern](https://jobright.ai/jobs/info/69e7e293f8fa2f3ec32aa237?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Apr 21 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Summer Intern IPP](https://jobright.ai/jobs/info/69e7e22c3aa0c4796439c568?utm_campaign=1057&utm_source=git)** | US- | Remote | Apr 21 |
 | ↳ | **[Clinical Summer Intern IPP](https://jobright.ai/jobs/info/69e7e1ff58811370cb11efa5?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 21 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 21 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ee6dce78e77b4fdd7fa7?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 21 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998efbfce78e77b4fdd8150?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 21 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998e5c0e0bddb6acac7cf8c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Apr 21 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998d327e0bddb6acac7be70?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Apr 21 |
+| ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f5f9e0bddb6acac7e4fc?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Apr 21 |
 | ↳ | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998ef6f81476f6176b157d6?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 21 |
 | **[New City Kids](https://newcitykids.org)** | **[Teen Life Internship Coordinator](https://jobright.ai/jobs/info/69e848d858811370cb1220ec?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Apr 21 |
-| **[Family & Children's Association](https://fcali.org)** | **[Student Intern (Community Mental Health and Wellness Division)](https://jobright.ai/jobs/info/69e7fe59f8fa2f3ec32aace2?utm_campaign=1057&utm_source=git)** | Garden City, NY | On Site | Apr 21 |
-| ↳ | **[Student Intern (Case Management-Community Mental Health and Wellness)](https://jobright.ai/jobs/info/69e7fdd00a6e09555302d7be?utm_campaign=1057&utm_source=git)** | Garden City, NY | On Site | Apr 21 |
+| **[Family & Children's Association](https://fcali.org)** | **[Student Intern (Case Management-Community Mental Health and Wellness)](https://jobright.ai/jobs/info/69e7fdd00a6e09555302d7be?utm_campaign=1057&utm_source=git)** | Garden City, NY | On Site | Apr 21 |
 | ↳ | **[Student Intern (Community Mental Health and Wellness)](https://jobright.ai/jobs/info/69e7fdde3aa0c4796439d085?utm_campaign=1057&utm_source=git)** | Garden City, NY | On Site | Apr 21 |
+| ↳ | **[Student Intern (Community Mental Health and Wellness Division)](https://jobright.ai/jobs/info/69e7fe59f8fa2f3ec32aace2?utm_campaign=1057&utm_source=git)** | Garden City, NY | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e805910a6e09555302da26?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Summer Research Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69e80a37e0cd471b2f12f15b?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | Apr 21 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e7ce84e0cd471b2f12d8c6?utm_campaign=1057&utm_source=git)** | New York, NY RAI USA | Hybrid | Apr 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | Apr 21 |
 | **[Eastern Michigan University](http://www.emich.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/69e7e21058811370cb11f001?utm_campaign=1057&utm_source=git)** | Ypsilanti, MI | On Site | Apr 21 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | Apr 21 |
-| **[GHD](http://www.ghd.com)** | **[Learning Intern](https://jobright.ai/jobs/info/69e7ac267820c036924d7b68?utm_campaign=1057&utm_source=git)** | 11451 Katy Freeway Suite 400, HOUSTON, TX, 77079, US | Hybrid | Apr 21 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Student Intern](https://jobright.ai/jobs/info/69e7a99458811370cb11de3d?utm_campaign=1057&utm_source=git)** | MMCIA - MercyOne Des Moines Medical Center Central IA | On Site | Apr 21 |
-| **[Novartis](https://www.novartis.com)** | **[Postbaccalaureate Intern](https://jobright.ai/jobs/info/69e7a98c58811370cb11de29?utm_campaign=1057&utm_source=git)** | Emeryville | On Site | Apr 21 |
-| ↳ | **[Postbaccalaureate Intern](https://jobright.ai/jobs/info/69e7a9860a6e09555302baf2?utm_campaign=1057&utm_source=git)** | Cambridge (USA) | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
