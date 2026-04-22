@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f238?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 22 |
+| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Residential Education](https://jobright.ai/jobs/info/69e8da70e0cd471b2f138922?utm_campaign=1057&utm_source=git)** | Manchester,  NH, US | On Site | Apr 22 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Instructor Intern](https://jobright.ai/jobs/info/69e8d9f258811370cb128b99?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | Apr 22 |
+| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[Intern.Family and Community Partnerships II](https://jobright.ai/jobs/info/69e8d8553aa0c479643a54ca?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 22 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Practice Assistant-Northeastern Co-op Student](https://jobright.ai/jobs/info/69e8ca95e0cd471b2f13815c?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Apr 22 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/69af2001dfaeda6ff59722b1?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
-| ↳ | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
+| ↳ | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/69af2001dfaeda6ff59722b1?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
 | **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern - Summer](https://jobright.ai/jobs/info/69e8bca33aa0c479643a4b18?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 22 |
 | ↳ | **[Student Nurse Intern-Summer](https://jobright.ai/jobs/info/69e8bc6458811370cb128008?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 22 |
 | **[Darlington County School District](www.dcsdschools.org)** | **[INTERNAL ONLY - Summer School Assistant 2026](https://jobright.ai/jobs/info/69e8bc1358811370cb127f28?utm_campaign=1057&utm_source=git)** | Darlington, SC | On Site | Apr 22 |
@@ -69,23 +73,24 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e932?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde1f63f733065b3e8a7?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526c3?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Apr 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c6?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Apr 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2874950064509526cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Apr 22 |
+| **[Nye County School District](https://www.nye.k12.nv.us/)** | **[Substitute Administrator SY2025-2026](https://jobright.ai/jobs/info/69e8deb74b0fa35a70769d1e?utm_campaign=1057&utm_source=git)** | Pahrump, NV | On Site | Apr 22 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde2874950064509526cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264d?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Apr 22 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of the J.W. Fanning Institute for Leadership Development](https://jobright.ai/jobs/info/69ca218ce565c26a7003ac7e?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 22 |
-| **[YORK CITY SCHOOL DISTRICT](https://www.linkedin.com/company/62317764)** | **[Saturday BOP Writing Camp - McKinley K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bbb?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
-| ↳ | **[Saturday BOP Writing Camp - Jackson K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bc0?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
+| **[YORK CITY SCHOOL DISTRICT](https://www.linkedin.com/company/62317764)** | **[Saturday BOP Writing Camp - Jackson K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bc0?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
+| ↳ | **[Saturday BOP Writing Camp - McKinley K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bbb?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | ↳ | **[Saturday BOP Writing Camp - Ferguson K-8 School](https://jobright.ai/jobs/info/69e8a027e0cd471b2f13694d?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | ↳ | **[Saturday BOP Writing Camp](https://jobright.ai/jobs/info/69e8a0267820c036924e1458?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - McDowell Health Center - Master's Degree Level](https://jobright.ai/jobs/info/69e8a0254b0fa35a70767b7e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 22 |
-| **[YORK CITY SCHOOL DISTRICT](https://www.linkedin.com/company/62317764)** | **[Saturday BOP Writing Camp - Devers K-8 School](https://jobright.ai/jobs/info/69e8a0240a6e095553034e47?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
-| ↳ | **[Saturday BOP Writing Camp - Davis K-8 School](https://jobright.ai/jobs/info/69e8a0244b0fa35a70767b73?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
+| **[YORK CITY SCHOOL DISTRICT](https://www.linkedin.com/company/62317764)** | **[Saturday BOP Writing Camp - Davis K-8 School](https://jobright.ai/jobs/info/69e8a0244b0fa35a70767b73?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
+| ↳ | **[Saturday BOP Writing Camp - Devers K-8 School](https://jobright.ai/jobs/info/69e8a0240a6e095553034e47?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | ↳ | **[Saturday BOP Writing Camp - Steam Academy](https://jobright.ai/jobs/info/69e8a0234b0fa35a70767b6d?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde097495006450952616?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bd?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Apr 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01adfaeda6ff598d935?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e901?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde137495006450952653?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 22 |
@@ -97,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Apr 22 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics](https://jobright.ai/jobs/info/69e8927d4b0fa35a70766cad?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 22 |
-| **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[*INTERNAL ONLY* ESY Job Coach - Summer 2026](https://jobright.ai/jobs/info/69d20357cfdc6132f94483d6?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Apr 22 |
-| ↳ | **[*INTERNAL ONLY* ESY Job Coach - Summer 2026](https://jobright.ai/jobs/info/69e8ca8b0a6e095553036826?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Apr 22 |
+| **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[*INTERNAL ONLY* ESY Job Coach - Summer 2026](https://jobright.ai/jobs/info/69e8ca8b0a6e095553036826?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Apr 22 |
+| ↳ | **[*INTERNAL ONLY* ESY Job Coach - Summer 2026](https://jobright.ai/jobs/info/69d20357cfdc6132f94483d6?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Apr 22 |
 | **[Missouri Western State University](http://missouriwestern.edu)** | **[Lab Teaching Assistant](https://jobright.ai/jobs/info/69e8cb147820c036924e2e9e?utm_campaign=1057&utm_source=git)** | St Joseph, MO | On Site | Apr 22 |
 | **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[School Counselor - TCHS Brandywine](https://jobright.ai/jobs/info/69e0ff3ad612782e611466db?utm_campaign=1057&utm_source=git)** | Downingtown, PA | On Site | Apr 22 |
 | **[Missouri Western State University](http://missouriwestern.edu)** | **[Content Tutor - Summer 2026](https://jobright.ai/jobs/info/69e8ca90e0cd471b2f138156?utm_campaign=1057&utm_source=git)** | St Joseph, MO | Hybrid | Apr 22 |
@@ -125,11 +130,11 @@ For a complete list, click the following sortable link below:
 | **[BASIS Ed](https://basised.com)** | **[Science Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc31?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[History Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7fdd0e0cd471b2f12eac7?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Apr 21 |
 | ↳ | **[History Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e65f793cfd986aa6f85455?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
-| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
-| ↳ | **[English Teacher - 7th Grade 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7c07?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[English Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7d3777820c036924d868d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
 | ↳ | **[Math Teacher 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7bff?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
+| ↳ | **[Science Teacher 26/27](https://jobright.ai/jobs/info/69e7afe958811370cb11dfa9?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[Science Teacher - Elementary 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc33?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
+| ↳ | **[English Teacher - 7th Grade 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7c07?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | ↳ | **[English Teacher 26/27](https://jobright.ai/jobs/info/69e7afa3f8fa2f3ec32a9159?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/69e63aa33aa0c47964392bca?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Apr 21 |
 | ↳ | **[Intern - Personal Trainer](https://jobright.ai/jobs/info/69cf2f0754f00230c6d073cb?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Apr 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Master's Level Intern – Outpatient Clinical Therapist (2026–2027 Academic Year)](https://jobright.ai/jobs/info/69e80a47e0cd471b2f12f19a?utm_campaign=1057&utm_source=git)** | Caledonia, MI | On Site | Apr 21 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Student Success Intern, Chartwells Higher Ed / New York, NY](https://jobright.ai/jobs/info/69e8456158811370cb121304?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f127192?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 21 |
-| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Teacher - Early Childhood Development Center (Onsite)](https://jobright.ai/jobs/info/69e805043aa0c4796439d23a?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Apr 21 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern](https://jobright.ai/jobs/info/69e848a8e0cd471b2f130d48?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 21 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Online Course Training Specialist - College of Applied Health Sciences](https://jobright.ai/jobs/info/69e7fe6df8fa2f3ec32aad44?utm_campaign=1057&utm_source=git)** | Urbana, IL | Remote | Apr 21 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Student Fin Services Clerical (Student Position)](https://jobright.ai/jobs/info/69e8275958811370cb120cdf?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
-| ↳ | **[SLA Facilitator (Student Position)](https://jobright.ai/jobs/info/69e82726f8fa2f3ec32abb1a?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
