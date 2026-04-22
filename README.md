@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Health](https://www.summithealth.com/)** | **[Summer Intern - Clinical Project Management](https://jobright.ai/jobs/info/69e92e380a6e09555303a1cd?utm_campaign=1057&utm_source=git)** | Rye Brook, NY, US | On Site | Apr 22 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Training Team (Fall)](https://jobright.ai/jobs/info/69e92bdd0a6e095553039e2b?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Apr 22 |
+| **[Capital One](http://www.capitalone.com)** | **[Student Café Ambassador (Intern) - New York City](https://jobright.ai/jobs/info/69a1fa3db600907a96284852?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 22 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Research Student Intern, Plastic Surgery](https://jobright.ai/jobs/info/69e925814b0fa35a7076c48b?utm_campaign=1057&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC, US | On Site | Apr 22 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern, Boulder](https://jobright.ai/jobs/info/69e923be58811370cb12afde?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Apr 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern- Medical Assistant](https://jobright.ai/jobs/info/69e9215e7820c036924e59e5?utm_campaign=1057&utm_source=git)** | Boston-MA, US | On Site | Apr 22 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Transfer Credit Coordinator](https://jobright.ai/jobs/info/69e68992e0cd471b2f12648f?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 22 |
@@ -64,10 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship - Learning and Development (L&D)](https://jobright.ai/jobs/info/69d58ded706f771673ba4217?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Apr 22 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant Internship - Science and Technology](https://jobright.ai/jobs/info/69e917983aa0c479643a6d0b?utm_campaign=1057&utm_source=git)** | Idaho Falls, ID | On Site | Apr 22 |
 | **[Community Health Systems](http://www.chs.net)** | **[Spring 2026 RN Graduate Internship](https://jobright.ai/jobs/info/69e9173b4b0fa35a7076b560?utm_campaign=1057&utm_source=git)** | 1700 E Saunders St, Laredo, TX, 78041, US | On Site | Apr 22 |
+| **[P.L. Marketing, Inc.](https://plmarketing.net)** | **[Training and Development Internship](https://jobright.ai/jobs/info/69e92bf8e0cd471b2f13b717?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Apr 22 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Higher Promise Intern - Pediatrics Unit](https://jobright.ai/jobs/info/69e904714b0fa35a7076b13d?utm_campaign=1057&utm_source=git)** | Bronson Methodist Hospital, US | On Site | Apr 22 |
 | **[GreenPoint Ag](https://www.greenpointag.com/)** | **[Intern I- Summer Student (currently enrolled, upcoming soph or junior)](https://jobright.ai/jobs/info/69e8fbf03aa0c479643a625f?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Apr 22 |
 | **[Minnesota State Colleges and Universities](https://minnstate.edu)** | **[Student Intern - Academic Affairs Grant Assistant](https://jobright.ai/jobs/info/69e8fbca58811370cb1297ff?utm_campaign=1057&utm_source=git)** | Brooklyn Park, US | Hybrid | Apr 22 |
 | **[P.L. Marketing, Inc.](https://plmarketing.net)** | **[Training and Development Internship](https://jobright.ai/jobs/info/69e8fb644b0fa35a7076a65f?utm_campaign=1057&utm_source=git)** | Corporate Office Newport, US | On Site | Apr 22 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Instructor Intern](https://jobright.ai/jobs/info/69e92be958811370cb12b671?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Apr 22 |
 | **[East Harlem Tutorial Program](https://www.ehtp.org/)** | **[12:1:1 Inclusive Learning](https://jobright.ai/jobs/info/69e91aa4e0cd471b2f13a59c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Dean of the Graduate College and Postdoctoral Studies - Internal Recruitment Only](https://jobright.ai/jobs/info/69e8f5de4b0fa35a7076a531?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 22 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e8f50a58811370cb12947e?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus, US | Hybrid | Apr 22 |
@@ -77,15 +83,15 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant Intern, Career Success](https://jobright.ai/jobs/info/69d58436cdb525785fbd183e?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 22 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Kid’s College Intern, Corporate & Community Services-2](https://jobright.ai/jobs/info/69e8e14c4b0fa35a70769dc9?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL, US | On Site | Apr 22 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69cc915ccdb525785fb7f238?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 22 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern – JBC Library MakerSpace](https://jobright.ai/jobs/info/69d585ba366bb95ba5545bba?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 22 |
-| ↳ | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 22 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 22 |
+| ↳ | **[Student Assistant, Intern – JBC Library MakerSpace](https://jobright.ai/jobs/info/69d585ba366bb95ba5545bba?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Apr 22 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Clinical Intern-Residential Education](https://jobright.ai/jobs/info/69e8da70e0cd471b2f138922?utm_campaign=1057&utm_source=git)** | Manchester,  NH, US | On Site | Apr 22 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Instructor Intern](https://jobright.ai/jobs/info/69e8d9f258811370cb128b99?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | Apr 22 |
 | **[KIHOMAC](https://kihomac.com/)** | **[Training Management Intern](https://jobright.ai/jobs/info/69e9167a7820c036924e4e5b?utm_campaign=1057&utm_source=git)** | Layton, UT | On Site | Apr 22 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[Intern.Family and Community Partnerships II](https://jobright.ai/jobs/info/69e8d8553aa0c479643a54ca?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Apr 22 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern - Summer](https://jobright.ai/jobs/info/69e8f4620a6e0955530379d4?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Apr 22 |
-| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
-| ↳ | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/69af2001dfaeda6ff59722b1?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Missouri](https://jobright.ai/jobs/info/69af2001dfaeda6ff59722b1?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
+| ↳ | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 22 |
 | **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern - Summer](https://jobright.ai/jobs/info/69e8bca33aa0c479643a4b18?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 22 |
 | ↳ | **[Student Nurse Intern-Summer](https://jobright.ai/jobs/info/69e8bc6458811370cb128008?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 22 |
 | **[Darlington County School District](www.dcsdschools.org)** | **[INTERNAL ONLY - Summer School Assistant 2026](https://jobright.ai/jobs/info/69e8bc1358811370cb127f28?utm_campaign=1057&utm_source=git)** | Darlington, SC | On Site | Apr 22 |
@@ -95,13 +101,12 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e932?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde1f63f733065b3e8a7?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526c3?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Apr 22 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c6?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Apr 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Apr 22 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Bibb County 4-H Youth & Development Extension Agent](https://jobright.ai/jobs/info/69c90af183ea553769fee3f0?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[Nye County School District](https://www.nye.k12.nv.us/)** | **[Substitute Administrator SY2025-2026](https://jobright.ai/jobs/info/69e8deb74b0fa35a70769d1e?utm_campaign=1057&utm_source=git)** | Pahrump, NV | On Site | Apr 22 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde2874950064509526cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264d?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Apr 22 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Director of the J.W. Fanning Institute for Leadership Development](https://jobright.ai/jobs/info/69ca218ce565c26a7003ac7e?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[YORK CITY SCHOOL DISTRICT](https://www.linkedin.com/company/62317764)** | **[Saturday BOP Writing Camp - McKinley K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bbb?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | ↳ | **[Saturday BOP Writing Camp - Jackson K-8 School](https://jobright.ai/jobs/info/69e8a05458811370cb127bc0?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
 | ↳ | **[Saturday BOP Writing Camp - Ferguson K-8 School](https://jobright.ai/jobs/info/69e8a027e0cd471b2f13694d?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Apr 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novartis](https://www.novartis.com)** | **[Postbaccalaureate Intern](https://jobright.ai/jobs/info/69e8487de0cd471b2f130c6a?utm_campaign=1057&utm_source=git)** | Emeryville, CA | On Site | Apr 21 |
 | ↳ | **[Postbaccalaureate Intern](https://jobright.ai/jobs/info/69e848707820c036924db7cf?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
 | **[BASIS Ed](https://basised.com)** | **[Science Teacher - 4th/5th Grade 26/27](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc31?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
-| ↳ | **[History Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7fdd0e0cd471b2f12eac7?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Apr 21 |
-| ↳ | **[English Teacher 26/27](https://jobright.ai/jobs/info/69e7afa3f8fa2f3ec32a9159?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
-| ↳ | **[English Teacher - Middle School 26/27](https://jobright.ai/jobs/info/69e7d3777820c036924d868d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 21 |
-| ↳ | **[Math Teacher 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7bff?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
-| ↳ | **[English Teacher - 7th Grade 26/27](https://jobright.ai/jobs/info/69e7afea7820c036924d7c07?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
