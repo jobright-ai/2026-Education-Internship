@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New City Kids](https://newcitykids.org)** | **[Teen Life Internship Coordinator](https://jobright.ai/jobs/info/69ea921258811370cb134239?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Apr 23 |
+| **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Summer Intern](https://jobright.ai/jobs/info/69ea8f5cdc35f7132c4aade8?utm_campaign=1057&utm_source=git)** | New York, US | On Site | Apr 23 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69ea8f054b0fa35a70774eb2?utm_campaign=1057&utm_source=git)** | Long Island Bridgehampton, US | On Site | Apr 23 |
 | **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69ea82c2dc35f7132c4aab2b?utm_campaign=1057&utm_source=git)** | Mission Support Center - Atlanta, GA 30318 | On Site | Apr 23 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Event Coordinator](https://jobright.ai/jobs/info/69ea78924b0fa35a70774a10?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Apr 23 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Summer Research Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69ea75797820c036924ee1db?utm_campaign=1057&utm_source=git)** | 1044 Belmont Ave, Youngstown, OH 44501, United States of America | On Site | Apr 23 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern](https://jobright.ai/jobs/info/69ea72a558811370cb1332a1?utm_campaign=1057&utm_source=git)** | Mt. Airy, North Carolina, United States | On Site | Apr 23 |
 | **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/69ea733a3aa0c479643aff2e?utm_campaign=1057&utm_source=git)** | Mendota Heights,MN,US | On Site | Apr 23 |
 | **[Republic Airways](http://www.rjet.com)** | **[Learning & Development Intern - Fall 2026](https://jobright.ai/jobs/info/69cda589366bb95ba5501505?utm_campaign=1057&utm_source=git)** | Carmel, IN | On Site | Apr 23 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Clinical College Intern](https://jobright.ai/jobs/info/69ea24f3dc35f7132c4a88df?utm_campaign=1057&utm_source=git)** | Middleburg Heights Family Health Center, US | On Site | Apr 23 |
-| ↳ | **[Clinical College Intern](https://jobright.ai/jobs/info/69ea24f3dc35f7132c4a88e0?utm_campaign=1057&utm_source=git)** | Twinsburg Family Health Center, US | On Site | Apr 23 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Clinical College Intern](https://jobright.ai/jobs/info/69ea24f3dc35f7132c4a88e0?utm_campaign=1057&utm_source=git)** | Twinsburg Family Health Center, US | On Site | Apr 23 |
+| ↳ | **[Clinical College Intern](https://jobright.ai/jobs/info/69ea24f3dc35f7132c4a88df?utm_campaign=1057&utm_source=git)** | Middleburg Heights Family Health Center, US | On Site | Apr 23 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/69cd7b56891d7b11cfcb932d?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Apr 23 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/69cdeedb398fb071abf7e375?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Transfer Credit Coordinator](https://jobright.ai/jobs/info/69ea5e1a7820c036924ed3d8?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 23 |
@@ -90,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Barrington 220 School District](http://www.barrington220.org)** | **[Department Chair - Language Acquisition and World Languages](https://jobright.ai/jobs/info/69ea3d32dc35f7132c4a8d71?utm_campaign=1057&utm_source=git)** | Barrington, IL | On Site | Apr 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Post-Doctoral Associate - Morkos](https://jobright.ai/jobs/info/69ea4763dc35f7132c4a90a5?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Research Assistant - Oshri-1](https://jobright.ai/jobs/info/69ea4763dc35f7132c4a90a8?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
-| ↳ | **[Student Assistant (NE)](https://jobright.ai/jobs/info/69ea4760dc35f7132c4a9080?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
-| ↳ | **[Student Assistant - Altizer Lab](https://jobright.ai/jobs/info/69ea47a57820c036924eca0a?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant - Ortega](https://jobright.ai/jobs/info/69ea479b3aa0c479643aea45?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
+| ↳ | **[Student Assistant - Altizer Lab](https://jobright.ai/jobs/info/69ea47a57820c036924eca0a?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
+| ↳ | **[Student Assistant (NE)](https://jobright.ai/jobs/info/69ea4760dc35f7132c4a9080?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant (PIL)](https://jobright.ai/jobs/info/69ea47244b0fa35a707730b9?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant (NE) - Eklund](https://jobright.ai/jobs/info/69ea479a3aa0c479643aea34?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69ea471a0a6e09555303fdbe?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
@@ -101,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb573891d7b11cfcbf0ae?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Apr 23 |
 | **[Centre for Health Economics - Monash Business School](https://www.monash.edu/business/che)** | **[Expression of Interest - Sessional Academic in Marketing](https://jobright.ai/jobs/info/69ea2d224b0fa35a707729bc?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Apr 23 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb572cdb525785fb8dfa9?utm_campaign=1057&utm_source=git)** | Madison, AL | Remote | Apr 23 |
-| **[Corvallis School District 509J](http://cvhs.csd509j.net)** | **[Servant Leader Intern - Summer Freedom School](https://jobright.ai/jobs/info/69ea2c98dc35f7132c4a8970?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
-| ↳ | **[Health Occupation Teacher, .5 FTE, (2026-2027) Internal Only](https://jobright.ai/jobs/info/69ea2c973aa0c479643ae35c?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
+| **[Corvallis School District 509J](http://cvhs.csd509j.net)** | **[Health Occupation Teacher, .5 FTE, (2026-2027) Internal Only](https://jobright.ai/jobs/info/69ea2c973aa0c479643ae35c?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
+| ↳ | **[Servant Leader Intern - Summer Freedom School](https://jobright.ai/jobs/info/69ea2c98dc35f7132c4a8970?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69ce0c7acdb525785fb9325e?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
 | **[Seaford School District](https://www.seafordbluejays.org)** | **[Volunteer/Intern/Student Teacher](https://jobright.ai/jobs/info/69ea18914b0fa35a70772689?utm_campaign=1057&utm_source=git)** | Seaford, DE | On Site | Apr 23 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdec82366bb95ba55047fd?utm_campaign=1057&utm_source=git)** | Greater Houston | Remote | Apr 23 |
@@ -127,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern Summer BHU](https://jobright.ai/jobs/info/69e9b2350a6e09555303d2e3?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Apr 22 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Catalog Editor/Curriculum Analyst](https://jobright.ai/jobs/info/69e9be000a6e09555303d6d9?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 22 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e9bd804b0fa35a7077006e?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Hybrid | Apr 22 |
-| ↳ | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/69e99da84b0fa35a7076f80a?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
+| ↳ | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/69e99ddee0cd471b2f13e6fc?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 | ↳ | **[Education Administrative College Intern - Interprofessional Learing](https://jobright.ai/jobs/info/69e99ddfe0cd471b2f13e704?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 | **[Montgomery County Public Schools](https://mcps.org)** | **[FY27: Combo Media Assistant, Georgian Forest ES, (MA 4hrs, LHA 1hr), 5hr/10mo, Ad closes 5/1/26](https://jobright.ai/jobs/info/69e9b4797820c036924e96e5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Apr 22 |
 | **[BASIS Ed](https://basised.com)** | **[Teaching Opportunities 26/27](https://jobright.ai/jobs/info/69e97ac60a6e09555303c8e8?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Apr 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bowen Health](http://www.bowenhealth.org)** | **[NP/PA Intern - Observation Only](https://jobright.ai/jobs/info/69e977860a6e09555303bf5e?utm_campaign=1057&utm_source=git)** | Warsaw, Indiana, United States | On Site | Apr 22 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Manager, Learner & Program Operations - UCalgary Continuing Education](https://jobright.ai/jobs/info/69e9718a0a6e09555303bdaa?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 22 |
 | **[The Children's Guild](https://www.childrensguild.org)** | **[OMHC - Intern Position](https://jobright.ai/jobs/info/69e979534b0fa35a7076efcb?utm_campaign=1057&utm_source=git)** | Behavioral Health Services OMHC - Baltimore, MD 21234 | On Site | Apr 22 |
-| **[Spartanburg County Public Libraries](https://www.spartanburglibraries.org)** | **[Training Assistant](https://jobright.ai/jobs/info/69e963ed58811370cb12d209?utm_campaign=1057&utm_source=git)** | Headquarters, KY | On Site | Apr 22 |
-| **[Nashoba Brooks School](https://www.nashobabrooks.org)** | **[Auxiliary Programs Intern](https://jobright.ai/jobs/info/69caacb1a8c1822476e1f160?utm_campaign=1057&utm_source=git)** | Nashoba Brooks School of Concord Inc - Concord, MA 01742 | On Site | Apr 22 |
-| ↳ | **[Auxiliary Programs Intern](https://jobright.ai/jobs/info/69e964574b0fa35a7076e2c1?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
