@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jefferson Health](http://JeffersonHealth.org)** | **[Intern- Department of Oral and Maxillofacial Surgery, Jefferson Abington Hospital](https://jobright.ai/jobs/info/695d974dfbd62a0a65664a54?utm_campaign=1057&utm_source=git)** | Abington, PA | On Site | Apr 23 |
 | **[Highlands College](https://www.highlandscollege.com/)** | **[Admissions Leadership Internship (Seasonal)](https://jobright.ai/jobs/info/69e9d62558811370cb12f51d?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Apr 23 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Apr 23 |
 | **[Goddard Riverside](https://goddard.org)** | **[Group Leader (BWC TEP)](https://jobright.ai/jobs/info/69e9c7110a6e09555303daf9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 23 |
 | **[Holcomb Behavioral Health Systems - A Chimes Company](http://www.holcombbhs.org)** | **[Intern](https://jobright.ai/jobs/info/69e9e53e0a6e09555303dd3e?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Apr 23 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69ea0f23dc35f7132c4a7d7a?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 22 |
 | **[SouthWest Metro Intermediate District 288](http://swmetro.k12.mn.us)** | **[Graphic Communication/Video Game Design Teacher](https://jobright.ai/jobs/info/69e9e5670a6e09555303ddbc?utm_campaign=1057&utm_source=git)** | Shakopee, MN | On Site | Apr 22 |
 | ↳ | **[Photography/Videography Instructor](https://jobright.ai/jobs/info/69e9e5650a6e09555303ddb3?utm_campaign=1057&utm_source=git)** | Shakopee, MN | On Site | Apr 22 |
 | **[Clark-Pleasant Community School Corp](http://www.cpcsc.k12.in.us)** | **[Temporary Content Instructional Assistant](https://jobright.ai/jobs/info/69e9e53fe0cd471b2f13f57f?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Apr 22 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Trade & Workforce Development Enrollment  Junior Counselor (NFWS)](https://jobright.ai/jobs/info/69e956f37820c036924e7761?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern- Medical Assistant](https://jobright.ai/jobs/info/69e9215e7820c036924e59e5?utm_campaign=1057&utm_source=git)** | Boston-MA, US | On Site | Apr 22 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | Apr 22 |
-| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Training & Development Summer Intern](https://jobright.ai/jobs/info/69e67c537820c036924d0c24?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
+| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Training & Development Summer Intern](https://jobright.ai/jobs/info/69e94e824b0fa35a7076d7f2?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Foundation Programme Director S18 FY1 and FY2 Expansion Post](https://jobright.ai/jobs/info/69e9486de0cd471b2f13c3db?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Apr 22 |
 | **[KIPP NYC](http://www.kippnyc.org)** | **[Summer Intern, Regional Academics](https://jobright.ai/jobs/info/69e94e2b0a6e09555303af7e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Caldic North America](https://www.caldic.com/Our-locations/North-America)** | **[Global CRM Intern](https://jobright.ai/jobs/info/69e918a70a6e095553038d04?utm_campaign=1057&utm_source=git)** | Bell, CA | Remote | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Antonio River Authority](https://www.sariverauthority.org)** | **[Parks & Recreation Intern](https://jobright.ai/jobs/info/69e977b158811370cb12d855?utm_campaign=1057&utm_source=git)** | San Antonio, TX, US | On Site | Apr 22 |
 | **[East Harlem Tutorial Program](https://www.ehtp.org/)** | **[12:1:1 Inclusive Learning](https://jobright.ai/jobs/info/69e91aa4e0cd471b2f13a59c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Dean of the Graduate College and Postdoctoral Studies - Internal Recruitment Only](https://jobright.ai/jobs/info/69e8f5de4b0fa35a7076a531?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Apr 22 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e8f50a58811370cb12947e?utm_campaign=1057&utm_source=git)** | Cleveland Clinic Main Campus, US | Hybrid | Apr 22 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern-Summer](https://jobright.ai/jobs/info/69e8f47ee0cd471b2f13927a?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
