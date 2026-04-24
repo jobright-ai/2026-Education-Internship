@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Education Content & Programs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc4324b0fa35a7077e5dc?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 24 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Trinity](https://jobright.ai/jobs/info/69d7c4f0b861c42857c45205?utm_campaign=1057&utm_source=git)** | New Port Richey, FL | Hybrid | Apr 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/69b2eda8ae2a534885ea3a4d?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Apr 24 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Apr 24 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/69ebae60dc35f7132c4b2872?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI, US | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Godo Family Communication Intern](https://jobright.ai/jobs/info/69eaaa460a6e095553042634?utm_campaign=1057&utm_source=git)** | Greater Chicago Area | On Site | Apr 23 |
 | **[enFocus Inc](https://en-focus.org/)** | **[CLIMB High School Summer Internship](https://jobright.ai/jobs/info/69eb416c7820c036924f260c?utm_campaign=1057&utm_source=git)** | Elkhart, IN | On Site | Apr 23 |
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/69eb3c23dc35f7132c4aed29?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | On Site | Apr 23 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Business Engagement](https://jobright.ai/jobs/info/69eb445bdc35f7132c4af242?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
