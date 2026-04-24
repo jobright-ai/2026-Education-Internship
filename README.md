@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Business Engagement](https://jobright.ai/jobs/info/69eab5f7dc35f7132c4ab9c8?utm_campaign=1057&utm_source=git)** | Dewitt, New York, United States of America | On Site | Apr 23 |
+| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/69eab1980a6e0955530427c5?utm_campaign=1057&utm_source=git)** | IL - Chicago (60606), US | On Site | Apr 23 |
+| **[New York Botanical Garden](http://www.nybg.org)** | **[Summer Library Circulation Intern](https://jobright.ai/jobs/info/69eaaf8358811370cb134be4?utm_campaign=1057&utm_source=git)** | Bronx, New York | On Site | Apr 23 |
+| **[Justice Resource Institute](https://jri.org/)** | **[IHT Clinical Intern - Spanish Speaking](https://jobright.ai/jobs/info/69eaaf7a58811370cb134bcd?utm_campaign=1057&utm_source=git)** | Lynn, Massachusetts, United States | On Site | Apr 23 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Godo Family Communication Intern](https://jobright.ai/jobs/info/69eaaa460a6e095553042634?utm_campaign=1057&utm_source=git)** | Greater Chicago Area | On Site | Apr 23 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Utah Summer Internship - Onsite](https://jobright.ai/jobs/info/69eaa2f358811370cb1348d9?utm_campaign=1057&utm_source=git)** | Centerville, UT, United States | On Site | Apr 23 |
+| **[Jackson Health System](https://jacksonhealth.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/69eabaa93aa0c479643b15cb?utm_campaign=1057&utm_source=git)** | Miami, Florida, United States | On Site | Apr 23 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - IT - Plant 3](https://jobright.ai/jobs/info/69ea9d5edc35f7132c4ab427?utm_campaign=1057&utm_source=git)** | One Misco Drive, Whitehall, MI, 49461-1799, US | On Site | Apr 23 |
 | **[CASA](https://wearecasa.org)** | **[Education Intern](https://jobright.ai/jobs/info/69ea9d5c58811370cb134655?utm_campaign=1057&utm_source=git)** | Hyattsville, MD | On Site | Apr 23 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69ea9d557820c036924eedb8?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 23 |
@@ -77,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Health/Public Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/69ea50523aa0c479643aee0d?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Summer Research Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/69ea4b1b3aa0c479643aed69?utm_campaign=1057&utm_source=git)** | Youngstown, OH, US | On Site | Apr 23 |
 | **[Frontier Behavioral Health](https://fbhwa.org/)** | **[Intern Instructor - Bachelor Level Interns - PART TIME (20 Hours per Week)](https://jobright.ai/jobs/info/69ea47ae3aa0c479643aea9d?utm_campaign=1057&utm_source=git)** | Spokane, WA, USA, US | On Site | Apr 23 |
+| **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Apr 23 |
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[College Intern](https://jobright.ai/jobs/info/69ea9d0b4b0fa35a707755dc?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Summer Operations Intern (Unpaid)](https://jobright.ai/jobs/info/69a0a8080836fe79d861a9da?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | ↳ | **[Youth Success Specialist Intern](https://jobright.ai/jobs/info/69e6ff7e9b6eb37e26f82c0b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Apr 23 |
@@ -101,14 +107,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Research Assistant - Oshri-1](https://jobright.ai/jobs/info/69ea4763dc35f7132c4a90a8?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant (PIL)](https://jobright.ai/jobs/info/69ea47244b0fa35a707730b9?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant (NE) - Eklund](https://jobright.ai/jobs/info/69ea479a3aa0c479643aea34?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
-| ↳ | **[International Grant Program Student Support SU22/23](https://jobright.ai/jobs/info/69ea47234b0fa35a707730af?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69ea471a0a6e09555303fdbe?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
+| ↳ | **[International Grant Program Student Support SU22/23](https://jobright.ai/jobs/info/69ea47234b0fa35a707730af?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69ea21ba58811370cb1319b1?utm_campaign=1057&utm_source=git)** | Sandy, UT | On Site | Apr 23 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb573891d7b11cfcbf0ae?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Apr 23 |
 | **[Centre for Health Economics - Monash Business School](https://www.monash.edu/business/che)** | **[Expression of Interest - Sessional Academic in Marketing](https://jobright.ai/jobs/info/69ea2d224b0fa35a707729bc?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Apr 23 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdb572cdb525785fb8dfa9?utm_campaign=1057&utm_source=git)** | Madison, AL | Remote | Apr 23 |
-| **[Corvallis School District 509J](http://cvhs.csd509j.net)** | **[Servant Leader Intern - Summer Freedom School](https://jobright.ai/jobs/info/69ea2c98dc35f7132c4a8970?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
-| ↳ | **[Health Occupation Teacher, .5 FTE, (2026-2027) Internal Only](https://jobright.ai/jobs/info/69ea2c973aa0c479643ae35c?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
+| **[Corvallis School District 509J](http://cvhs.csd509j.net)** | **[Health Occupation Teacher, .5 FTE, (2026-2027) Internal Only](https://jobright.ai/jobs/info/69ea2c973aa0c479643ae35c?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
+| ↳ | **[Servant Leader Intern - Summer Freedom School](https://jobright.ai/jobs/info/69ea2c98dc35f7132c4a8970?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Apr 23 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69ce0c7acdb525785fb9325e?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
 | **[Seaford School District](https://www.seafordbluejays.org)** | **[Volunteer/Intern/Student Teacher](https://jobright.ai/jobs/info/69ea18914b0fa35a70772689?utm_campaign=1057&utm_source=git)** | Seaford, DE | On Site | Apr 23 |
 | **[Octave](https://www.octave.com/)** | **[EcoSys Professional Services Intern](https://jobright.ai/jobs/info/69cdec82366bb95ba55047fd?utm_campaign=1057&utm_source=git)** | Greater Houston | Remote | Apr 23 |
@@ -132,13 +138,13 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b20b0a6e09555303d27d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Catalog Editor/Curriculum Analyst](https://jobright.ai/jobs/info/69e9be000a6e09555303d6d9?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 22 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative College - Education](https://jobright.ai/jobs/info/69e9bd804b0fa35a7077006e?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Hybrid | Apr 22 |
-| ↳ | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/69e99da84b0fa35a7076f80a?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
+| ↳ | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/69e99ddee0cd471b2f13e6fc?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 | ↳ | **[Education Administrative College Intern - Interprofessional Learing](https://jobright.ai/jobs/info/69e99ddfe0cd471b2f13e704?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 22 |
 | **[Montgomery County Public Schools](https://mcps.org)** | **[FY27: Combo Media Assistant, Georgian Forest ES, (MA 4hrs, LHA 1hr), 5hr/10mo, Ad closes 5/1/26](https://jobright.ai/jobs/info/69e9b4797820c036924e96e5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Apr 22 |
 | **[BASIS Ed](https://basised.com)** | **[Teaching Opportunities 26/27](https://jobright.ai/jobs/info/69ea9ce93aa0c479643b0dad?utm_campaign=1057&utm_source=git)** | Oro Valley, AZ | On Site | Apr 22 |
 | ↳ | **[Teaching Opportunities 26/27](https://jobright.ai/jobs/info/69ea9d2cdc35f7132c4ab2a5?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 22 |
-| ↳ | **[English Teacher - 5th Grade 26/27](https://jobright.ai/jobs/info/69ea9cee3aa0c479643b0de3?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 22 |
 | ↳ | **[AP Calculus Teacher 26/27](https://jobright.ai/jobs/info/69ea9d164b0fa35a70775631?utm_campaign=1057&utm_source=git)** | Oro Valley, AZ | On Site | Apr 22 |
+| ↳ | **[English Teacher - 5th Grade 26/27](https://jobright.ai/jobs/info/69ea9cee3aa0c479643b0de3?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 22 |
 | ↳ | **[Teaching Opportunities 26/27](https://jobright.ai/jobs/info/69e97ac60a6e09555303c8e8?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Apr 22 |
 | **[The Children's Guild](https://www.childrensguild.org)** | **[OMHC - Intern Position](https://jobright.ai/jobs/info/69e997aa7820c036924e913b?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Apr 22 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Assistant Director, Center for Student Excellence (internal only)](https://jobright.ai/jobs/info/69e9789de0cd471b2f13dcae?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Apr 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SCWDS Student Assistant](https://jobright.ai/jobs/info/69e99ddd0a6e09555303cf1e?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Apr 22 |
 | **[Kimbrough Legal, PLLC](https://kimbroughlegal.com)** | **[Clerkship Program](https://jobright.ai/jobs/info/69e986a44b0fa35a7076f3eb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| **[California Farm Bureau](http://www.cfbf.com/)** | **[Intern - Programs and Training Support](https://jobright.ai/jobs/info/69e950724b0fa35a7076d990?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Apr 22 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern - Sharp House](https://jobright.ai/jobs/info/69e950450a6e09555303b17e?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 22 |
-| **[Coalfire](https://www.coalfire.com?utm_source=LinkedIn&utm_medium=organicsocial)** | **[Utah State University – 2026 Summer Internship, DivisionHex](https://jobright.ai/jobs/info/69e94cf27820c036924e7247?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 22 |
-| **[Bowen Health](http://www.bowenhealth.org)** | **[NP/PA Intern - Observation Only](https://jobright.ai/jobs/info/69e9789358811370cb12dc0a?utm_campaign=1057&utm_source=git)** | Warsaw, IN | On Site | Apr 22 |
-| **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern Clinical Rotations](https://jobright.ai/jobs/info/69e977804b0fa35a7076e7c8?utm_campaign=1057&utm_source=git)** | Morehead City, North Carolina, United States | On Site | Apr 22 |
-| **[Coalfire](https://www.coalfire.com?utm_source=LinkedIn&utm_medium=organicsocial)** | **[Utah State University – 2026 Summer Internship, DivisionHex](https://jobright.ai/jobs/info/69e94a2c0a6e09555303adba?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
