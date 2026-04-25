@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Wesley Chapel](https://jobright.ai/jobs/info/69eb0bb10a6e09555304407f?utm_campaign=1057&utm_source=git)** | Wesley Chapel, FL | Hybrid | Apr 25 |
+| **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Master's Level Internships/Practicums](https://jobright.ai/jobs/info/69eccfa158811370cb140a2c?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Apr 25 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
+| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Physical Therapy](https://jobright.ai/jobs/info/69b46f055697383741394485?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 25 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Education Administrative College Intern - Interprofessional Learing](https://jobright.ai/jobs/info/69ec8f4c7820c036924fae39?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 25 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Intern- Learning Solutions- LV Academy](https://jobright.ai/jobs/info/69ec5dbc16b2612c2a12243a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -116,15 +120,15 @@ For a complete list, click the following sortable link below:
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b1cbe1548f140066e7a201?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Apr 24 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebc?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d4b0fa35a7077b7c4?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebb?utm_campaign=1057&utm_source=git)** | PA Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706c4b0fa35a7077b7c2?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, US | Remote | Apr 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (TPA)](https://jobright.ai/jobs/info/69b3c66aae2a534885eb2b83?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb906a16b2612c2a11c8e5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Apr 24 |
-| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf27e2cfdc6132f942ff03?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
-| ↳ | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cf27fa398fb071abf8ca89?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
+| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cf27fa398fb071abf8ca89?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
+| ↳ | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf27e2cfdc6132f942ff03?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (South Bend, Summer 2026)](https://jobright.ai/jobs/info/690a7efa4a1b456627b086f8?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Apr 24 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf2801cfdc6132f942ff1a?utm_campaign=1057&utm_source=git)** | High Point, NC | On Site | Apr 24 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Rheumatology Clinician Researcher](https://jobright.ai/jobs/info/69421bb314ee092a6900444b?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Fall 2026 Paid Master's Level Internship](https://jobright.ai/jobs/info/69eb4b770a6e095553046337?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 23 |
 | ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69eb4b5c16b2612c2a11ad02?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Apr 23 |
 | ↳ | **[Fall 2026 Paid Master's Level Internship](https://jobright.ai/jobs/info/69eb52c17820c036924f2eca?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Apr 23 |
-| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69eb4bed4b0fa35a7077a637?utm_campaign=1057&utm_source=git)** | Haverhill, MA | On Site | Apr 23 |
-| ↳ | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69eb52c37820c036924f2edb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 23 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Clinical College Intern](https://jobright.ai/jobs/info/69eb528f7820c036924f2db5?utm_campaign=1057&utm_source=git)** | Twinsburg, OH | On Site | Apr 23 |
-| **[Willow Springs Center](https://willowspringscenter.com/)** | **[Outpatient Therapist Intern](https://jobright.ai/jobs/info/69eb4b78dc35f7132c4af5f9?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
