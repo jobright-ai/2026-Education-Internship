@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/69d87730b67cec4f9b09ca98?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | Apr 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8:30A-5P](https://jobright.ai/jobs/info/69d02a10cdb525785fba7f56?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 25 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Tampa, Summer 2026)](https://jobright.ai/jobs/info/699856dce0bddb6acac75f8c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 25 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Intern Pre Licensed Outpatient Mental Health Therapist Wesley Chapel](https://jobright.ai/jobs/info/69eb0bb10a6e09555304407f?utm_campaign=1057&utm_source=git)** | Wesley Chapel, FL | Hybrid | Apr 25 |
+| **[Kiefer Counseling](https://www.kiefercounselingct.com/)** | **[Master's Level Clinical Intern](https://jobright.ai/jobs/info/69ecfefb4b0fa35a70783d24?utm_campaign=1057&utm_source=git)** | Terryville, CT | Hybrid | Apr 25 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Master's Level Internships/Practicums](https://jobright.ai/jobs/info/69eccfa158811370cb140a2c?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Apr 25 |
+| **[Ever Fresh Fruit Co](https://everfreshfruit.com)** | **[Training Documentation Intern](https://jobright.ai/jobs/info/69ecfed416b2612c2a123cd2?utm_campaign=1057&utm_source=git)** | Boring, OR | On Site | Apr 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Physical Therapy](https://jobright.ai/jobs/info/69b46f055697383741394485?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 25 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b1cbe1548f140066e7a201?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Apr 24 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d4b0fa35a7077b7c4?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebb?utm_campaign=1057&utm_source=git)** | PA Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706c4b0fa35a7077b7c2?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, US | Remote | Apr 24 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian, Intern Prg](https://jobright.ai/jobs/info/69b22e9a65de58104c71a46b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Academic Services Internship (Student Services Coordinator)](https://jobright.ai/jobs/info/69eb76600a6e0955530476b3?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 24 |
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Human Resources Learning & Development Intern - Jr](https://jobright.ai/jobs/info/69eb94d27820c036924f51fd?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 24 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e195d26c20aa1149541bf8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e19378ff71e82d604b784a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Belmont University](http://www.belmont.edu/)** | **[Office of Stewardship - Student Assistant to Director of University Events](https://jobright.ai/jobs/info/69ec78ad7820c036924facb9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 24 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69eb668b7820c036924f38a0?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 23 |
 | ↳ | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/69eb66670a6e09555304700d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Belmont University](http://www.belmont.edu/)** | **[Office of Stewardship - Student Assistant (SUMMER)](https://jobright.ai/jobs/info/69ec6af44b0fa35a7078242e?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/69eb570658811370cb138e73?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Apr 23 |
 | **[UC San Diego Academic Jobs](https://apol-recruit.ucsd.edu/apply)** | **[Associate or Full Professor (HS Clinical, Clinical X) Director, Cardiac Catherization Laboratory](https://jobright.ai/jobs/info/69eb66670a6e09555304700f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
-| **[Justice Resource Institute](https://jri.org/)** | **[IHT Clinical Intern - Spanish Speaking](https://jobright.ai/jobs/info/69eb52ed58811370cb13897a?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Apr 23 |
-| **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/69eb52927820c036924f2dd2?utm_campaign=1057&utm_source=git)** | Straight River, MN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
