@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 25 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69ed34be58811370cb1414db?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
+| **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Healthcare Intern - Surgery](https://jobright.ai/jobs/info/69ed34c44b0fa35a70783fd7?utm_campaign=1057&utm_source=git)** | Crosby, MN | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Graduate Research Assistant III(PhD) - BRI](https://jobright.ai/jobs/info/69ed1d687820c036924fc458?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/69d87730b67cec4f9b09ca98?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 25 |
@@ -132,13 +134,13 @@ For a complete list, click the following sortable link below:
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebc?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d4b0fa35a7077b7c4?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebb?utm_campaign=1057&utm_source=git)** | PA Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706c4b0fa35a7077b7c2?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, US | Remote | Apr 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (TPA)](https://jobright.ai/jobs/info/69b3c66aae2a534885eb2b83?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb906a16b2612c2a11c8e5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Apr 24 |
-| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cf27fa398fb071abf8ca89?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
-| ↳ | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf27e2cfdc6132f942ff03?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
+| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf27e2cfdc6132f942ff03?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
+| ↳ | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/69cf27fa398fb071abf8ca89?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (South Bend, Summer 2026)](https://jobright.ai/jobs/info/690a7efa4a1b456627b086f8?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Apr 24 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Retail Banking Operations](https://jobright.ai/jobs/info/69cf2801cfdc6132f942ff1a?utm_campaign=1057&utm_source=git)** | High Point, NC | On Site | Apr 24 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Rheumatology Clinician Researcher](https://jobright.ai/jobs/info/69421bb314ee092a6900444b?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - MSM - Full Time/Days](https://jobright.ai/jobs/info/69e195d26c20aa1149541bf8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Belmont University](http://www.belmont.edu/)** | **[Office of Stewardship - Student Assistant to Director of University Events](https://jobright.ai/jobs/info/69ec78ad7820c036924facb9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 24 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69eb668b7820c036924f38a0?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 23 |
-| ↳ | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/69eb66670a6e09555304700d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 23 |
-| **[Chimes](https://chimes.org/)** | **[Intern](https://jobright.ai/jobs/info/69e848ea3aa0c4796439ec43?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
