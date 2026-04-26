@@ -123,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant- OUS Hourly](https://jobright.ai/jobs/info/69ebddfe16b2612c2a11f671?utm_campaign=1057&utm_source=git)** | St Augustine, FL | On Site | Apr 24 |
 | ↳ | **[Athletics Student Services Community Outreach Intern](https://jobright.ai/jobs/info/69ebdd5f4b0fa35a7077f324?utm_campaign=1057&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
 | ↳ | **[Graduate Assistantship - 525980](https://jobright.ai/jobs/info/69ebdde516b2612c2a11f616?utm_campaign=1057&utm_source=git)** | Hall, NE | On Site | Apr 24 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Intern-Behavioral Health-Flat Rate](https://jobright.ai/jobs/info/69ec0a9816b2612c2a12090b?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 24 |
 | **[Southeastern Integrated Care](https://seintegratedcare.com)** | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebde6f58811370cb13d5c3?utm_campaign=1057&utm_source=git)** | Parkton, NC | On Site | Apr 24 |
 | ↳ | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebaacd58811370cb13bb2d?utm_campaign=1057&utm_source=git)** | Parkton, NC, US | On Site | Apr 24 |
 | **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Digital Course Development Intern](https://jobright.ai/jobs/info/69eba86316b2612c2a11dd87?utm_campaign=1057&utm_source=git)** | Vaughan, Ontario, Canada | Remote | Apr 24 |
@@ -141,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b1cbe1548f140066e7a201?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Apr 24 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d4b0fa35a7077b7c4?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
+| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebc?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebb?utm_campaign=1057&utm_source=git)** | PA Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706c4b0fa35a7077b7c2?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, US | Remote | Apr 24 |
 | **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (TPA)](https://jobright.ai/jobs/info/69b3c66aae2a534885eb2b83?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Academic Services Intern](https://jobright.ai/jobs/info/69eb8fb8dc35f7132c4b0b85?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Apr 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/699bc872e0bddb6acaca9191?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian, Intern Program](https://jobright.ai/jobs/info/69ce9815891d7b11cfcc9faf?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
+| **[West Ottawa Public Schools](https://www.westottawa.net/)** | **[SE Assistant for ECSE](https://jobright.ai/jobs/info/69eca8647820c036924fafde?utm_campaign=1057&utm_source=git)** | Holland, MI | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
