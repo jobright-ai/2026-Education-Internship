@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Garden Engagement Seasonal Intern at Common Roots Woodside](https://jobright.ai/jobs/info/69ef7e4e16b2612c2a129d18?utm_campaign=1057&utm_source=git)** | Dartmouth, NS, Canada | On Site | Apr 27 |
+| **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/69ef924416b2612c2a12a54a?utm_campaign=1057&utm_source=git)** | Calabasas, CA | On Site | Apr 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Labor and Delivery](https://jobright.ai/jobs/info/69ef73770a6e095553054dd4?utm_campaign=1057&utm_source=git)** | Carmel, Indiana, 46032 | On Site | Apr 27 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - Rivington - Full Time/Days](https://jobright.ai/jobs/info/69ec3867dc35f7132c4b6389?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[TriHealth](http://www.trihealth.com)** | **[Rotary Intern](https://jobright.ai/jobs/info/69ef0bbe0a6e095553053761?utm_campaign=1057&utm_source=git)** | 110 N Poplar St, OXFORD, OH, 45056, US | On Site | Apr 27 |
 | **[World Vision](http://www.worldvision.org/)** | **[AI Training & Communications Intern](https://jobright.ai/jobs/info/69ef0b8358811370cb14507d?utm_campaign=1057&utm_source=git)** | Home Working, United States, US | Remote | Apr 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69ddce46aba61f14173126ec?utm_campaign=1057&utm_source=git)** | Kincardine, Ontario, Canada | On Site | Apr 26 |
@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
-| **[Centre for Inclusive Health Equity Collaborative (CIHEC)](https://www.linkedin.com/company/110206826)** | **[Volunteer – Program & Event Support (Health Equity Internship Program)](https://jobright.ai/jobs/info/69ee80107820c036924fee95?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 26 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 26 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Undergraduate)](https://jobright.ai/jobs/info/69b4d25206c1ba00c54652bf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 26 |
@@ -117,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Ethics and Dragons Internship/Co-op](https://jobright.ai/jobs/info/69ec25ae4b0fa35a70781073?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 24 |
 | **[Animation Discovery Studio ®](Www.animationdiscoverystudio.com)** | **[Animation Instructor](https://jobright.ai/jobs/info/69ec3874dc35f7132c4b63a6?utm_campaign=1057&utm_source=git)** | Detroit Metro | On Site | Apr 24 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern,Pediatrics,PRN](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb2?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
-| **[Arthrex APAC](https://www.arthrex.com/)** | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/69ef7e3e16b2612c2a129ccd?utm_campaign=1057&utm_source=git)** | USA Inc B - 1370 | On Site | Apr 24 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Alumni Outreach](https://jobright.ai/jobs/info/69e02ab94920452a85dd1ef6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 24 |
 | **[Astera Cancer Care](https://asteracancercare.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69ec030716b2612c2a1206b0?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Physical Health & Wellness](https://jobright.ai/jobs/info/69ec00cc4b0fa35a70780366?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Hybrid | Apr 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Apr 24 |
 | **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/69ece2b90a6e09555304f190?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, US | On Site | Apr 24 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/69ebae60dc35f7132c4b2872?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI, US | On Site | Apr 24 |
+| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
