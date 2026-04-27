@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - Rivington - Full Time/Days](https://jobright.ai/jobs/info/69ec3867dc35f7132c4b6389?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[TriHealth](http://www.trihealth.com)** | **[Rotary Intern](https://jobright.ai/jobs/info/69ef0bbe0a6e095553053761?utm_campaign=1057&utm_source=git)** | 110 N Poplar St, OXFORD, OH, 45056, US | On Site | Apr 27 |
 | **[World Vision](http://www.worldvision.org/)** | **[AI Training & Communications Intern](https://jobright.ai/jobs/info/69ef0b8358811370cb14507d?utm_campaign=1057&utm_source=git)** | Home Working, United States, US | Remote | Apr 27 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69ee08840a6e095553051344?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - General/Non-Invasive Cardiology - Chicago-12207](https://jobright.ai/jobs/info/6998dc0481476f6176b14430?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 26 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Life Science](https://jobright.ai/jobs/info/69edfbeb58811370cb142b8e?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
+| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Nutrition](https://jobright.ai/jobs/info/69b4702506c1ba00c545df64?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Apr 26 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69edadab4b0fa35a70784f72?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | Apr 25 |
 | ↳ | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ed680216b2612c2a1244d4?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 25 |
@@ -99,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Part Time](https://jobright.ai/jobs/info/69d01fa7cfdc6132f94386e1?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Apr 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Physical Therapy](https://jobright.ai/jobs/info/69b46f055697383741394485?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
-| **[CHRISTUS Health](https://www.gsmc.org)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 25 |
+| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Registered Nurse Residency - Nursing Internship - St. Frances Cabrini](https://jobright.ai/jobs/info/69d0946354f00230c6d13742?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Apr 25 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Education Administrative College Intern - Interprofessional Learing](https://jobright.ai/jobs/info/69ec8f4c7820c036924fae39?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 25 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Intern- Learning Solutions- LV Academy](https://jobright.ai/jobs/info/69ec5dbc16b2612c2a12243a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Reading Is Fundamental](http://www.rif.org/)** | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/69ec8f4c16b2612c2a122b5e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b1cbe1548f140066e7a201?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Apr 24 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
