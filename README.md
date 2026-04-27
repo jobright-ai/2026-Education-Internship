@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
+| **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern - Rivington - Full Time/Days](https://jobright.ai/jobs/info/69ec3867dc35f7132c4b6389?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[TriHealth](http://www.trihealth.com)** | **[Rotary Intern](https://jobright.ai/jobs/info/69ef0bbe0a6e095553053761?utm_campaign=1057&utm_source=git)** | 110 N Poplar St, OXFORD, OH, 45056, US | On Site | Apr 27 |
 | **[World Vision](http://www.worldvision.org/)** | **[AI Training & Communications Intern](https://jobright.ai/jobs/info/69ef0b8358811370cb14507d?utm_campaign=1057&utm_source=git)** | Home Working, United States, US | Remote | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/69ece2b90a6e09555304f190?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, US | On Site | Apr 24 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/69ebae60dc35f7132c4b2872?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI, US | On Site | Apr 24 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/69ebc4d94b0fa35a7077e8a6?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 24 |
-| **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/69b1cbe1548f140066e7a201?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Apr 24 |
-| **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
