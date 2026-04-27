@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Labor and Delivery](https://jobright.ai/jobs/info/69ef73770a6e095553054dd4?utm_campaign=1057&utm_source=git)** | Carmel, Indiana, 46032 | On Site | Apr 27 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69ef09467820c036924fff33?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Apr 26 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
+| **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
 | **[Centre for Inclusive Health Equity Collaborative (CIHEC)](https://www.linkedin.com/company/110206826)** | **[Volunteer – Program & Event Support (Health Equity Internship Program)](https://jobright.ai/jobs/info/69ee80107820c036924fee95?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 26 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 26 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Undergraduate)](https://jobright.ai/jobs/info/69b4d25206c1ba00c54652bf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69edadab4b0fa35a70784f72?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | Apr 25 |
 | ↳ | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ed680216b2612c2a1244d4?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 25 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 25 |
-| **[City of Katy](https://www.cityofkaty.com/)** | **[Summer Intern/Library Aide](https://jobright.ai/jobs/info/69ed41d64b0fa35a70784285?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Apr 25 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69ed34be58811370cb1414db?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Healthcare Intern - Surgery](https://jobright.ai/jobs/info/69ed34c44b0fa35a70783fd7?utm_campaign=1057&utm_source=git)** | Crosby, MN | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Assistantship - 525980](https://jobright.ai/jobs/info/69ebdde516b2612c2a11f616?utm_campaign=1057&utm_source=git)** | Hall, NE | On Site | Apr 24 |
 | **[Southeastern Integrated Care](https://seintegratedcare.com)** | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebde6f58811370cb13d5c3?utm_campaign=1057&utm_source=git)** | Parkton, NC | On Site | Apr 24 |
 | ↳ | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebaacd58811370cb13bb2d?utm_campaign=1057&utm_source=git)** | Parkton, NC, US | On Site | Apr 24 |
-| **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Digital Course Development Intern](https://jobright.ai/jobs/info/69eba86316b2612c2a11dd87?utm_campaign=1057&utm_source=git)** | Vaughan, Ontario, Canada | Remote | Apr 24 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Project Odyssey](https://jobright.ai/jobs/info/69d93431738f2f099e8a05dd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 24 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Education Content & Programs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc4324b0fa35a7077e5dc?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 24 |
 | **[Chesapeake Bay Trust](https://cbtrust.org/)** | **[Programmatic Intern](https://jobright.ai/jobs/info/69ebfc4d4b0fa35a7077ff3b?utm_campaign=1057&utm_source=git)** | Annapolis, Maryland, United States | Hybrid | Apr 24 |
