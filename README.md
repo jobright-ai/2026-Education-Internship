@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Career Development](https://jobright.ai/jobs/info/69efc5ee4b0fa35a7078baca?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Peer Advising Leader](https://jobright.ai/jobs/info/69efbcdffbe0994a40eb84ff?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 27 |
-| **[Dallas College](https://www.dcccd.edu)** | **[SAS Intern-2](https://jobright.ai/jobs/info/69efbba3e624fe645d533407?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 27 |
 | **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efba83e624fe645d53309b?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Apr 27 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Unpaid Intern - Pharmacy](https://jobright.ai/jobs/info/69efb8620a6e095553056a03?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
-| **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Nurse Intern BMT](https://jobright.ai/jobs/info/69efb015fbe0994a40eb7c37?utm_campaign=1057&utm_source=git)** | Burnet Campus, US | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Therapy Intern - Tracy](https://jobright.ai/jobs/info/69efa8780a6e09555305635e?utm_campaign=1057&utm_source=git)** | MN, Westbrook, US | On Site | Apr 27 |
 | **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efa85c16b2612c2a12aab4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 27 |
 | **[Capital Fund Management (CFM)](https://www.cfm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69efa7f24b0fa35a7078aba8?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Apr 27 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Curriculum and Common Core Standards Internship (Flexible, 2-5hrs/week)](https://jobright.ai/jobs/info/69efc6dde624fe645d533681?utm_campaign=1057&utm_source=git)** | Greater Seattle Area | Remote | Apr 27 |
 | **[Cascadia Health](https://cascadiabhc.org)** | **[PMHNP Intern - Secure](https://jobright.ai/jobs/info/69efa15fe624fe645d53251f?utm_campaign=1057&utm_source=git)** | US - OR - Portland, US | On Site | Apr 27 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern, Summer, Implementation Science](https://jobright.ai/jobs/info/69efa1434b0fa35a7078a9eb?utm_campaign=1057&utm_source=git)** | Winston Salem, NC - 525 Vine St, US | On Site | Apr 27 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69efa0220a6e09555305600c?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 27 |
@@ -136,8 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Animation Discovery Studio ®](Www.animationdiscoverystudio.com)** | **[Animation Instructor](https://jobright.ai/jobs/info/69ec3874dc35f7132c4b63a6?utm_campaign=1057&utm_source=git)** | Detroit Metro | On Site | Apr 24 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern,Pediatrics,PRN](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb2?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Alumni Outreach](https://jobright.ai/jobs/info/69e02ab94920452a85dd1ef6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 24 |
-| **[Astera Cancer Care](https://asteracancercare.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69ec030716b2612c2a1206b0?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Physical Health & Wellness](https://jobright.ai/jobs/info/69ec00cc4b0fa35a70780366?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Hybrid | Apr 24 |
+| ↳ | **[Intern - Physical Health & Wellness](https://jobright.ai/jobs/info/69ec00cc4b0fa35a70780366?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Hybrid | Apr 24 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/69ec45814b0fa35a70781c4e?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI | On Site | Apr 24 |
 | **[Community Health Center of Southeast Kansas](https://chcsek.org/)** | **[Inspire Health Intern](https://jobright.ai/jobs/info/69ebfc48dc35f7132c4b4c6d?utm_campaign=1057&utm_source=git)** | Pittsburg,KS,US | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Summer Internship](https://jobright.ai/jobs/info/69ebfc0c4b0fa35a7077fdb5?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 24 |
