@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
+| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Therapy Intern - Tracy](https://jobright.ai/jobs/info/69efa8780a6e09555305635e?utm_campaign=1057&utm_source=git)** | MN, Westbrook, US | On Site | Apr 27 |
+| **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efa85c16b2612c2a12aab4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 27 |
+| **[Capital Fund Management (CFM)](https://www.cfm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69efa7f24b0fa35a7078aba8?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Apr 27 |
+| **[Cascadia Health](https://cascadiabhc.org)** | **[PMHNP Intern - Secure](https://jobright.ai/jobs/info/69efa15fe624fe645d53251f?utm_campaign=1057&utm_source=git)** | US - OR - Portland, US | On Site | Apr 27 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern, Summer, Implementation Science](https://jobright.ai/jobs/info/69efa1434b0fa35a7078a9eb?utm_campaign=1057&utm_source=git)** | Winston Salem, NC - 525 Vine St, US | On Site | Apr 27 |
+| **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69efa0220a6e09555305600c?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 27 |
 | **[TeamCare Medical](https://www.teamcaremed.com)** | **[SUMMER INTERN - CLINICAL PROGRAMS](https://jobright.ai/jobs/info/69ef9b0916b2612c2a12a701?utm_campaign=1057&utm_source=git)** | NY New York / 99th Street, US | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Academic Support Services](https://jobright.ai/jobs/info/69ef98bcfbe0994a40eb730e?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69ef96ddfbe0994a40eb723c?utm_campaign=1057&utm_source=git)** | 1425 Madison Ave, New York, NY, 10029, US | On Site | Apr 27 |
+| **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Internship Covington, GA](https://jobright.ai/jobs/info/697932fa88e2b47213bd5264?utm_campaign=1057&utm_source=git)** | Covington, GA | On Site | Apr 27 |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Garden Engagement Seasonal Intern at Common Roots Woodside](https://jobright.ai/jobs/info/69ef7e4e16b2612c2a129d18?utm_campaign=1057&utm_source=git)** | Dartmouth, NS, Canada | On Site | Apr 27 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/69ef924416b2612c2a12a54a?utm_campaign=1057&utm_source=git)** | Calabasas, CA | On Site | Apr 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Labor and Delivery](https://jobright.ai/jobs/info/69ef73770a6e095553054dd4?utm_campaign=1057&utm_source=git)** | Carmel, Indiana, 46032 | On Site | Apr 27 |
@@ -80,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[State of Florida](http://www.myflorida.com)** | **[OPS PROVIDER TRAINER - 67961013](https://jobright.ai/jobs/info/69ef98b316b2612c2a12a662?utm_campaign=1057&utm_source=git)** | Wildwood, FL | On Site | Apr 26 |
 | **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
+| **[University of Florida](https://www.ufl.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/69efa1d64b0fa35a7078aad3?utm_campaign=1057&utm_source=git)** | Gainesville, FL | Hybrid | Apr 26 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 26 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experience Intern (Undergraduate)](https://jobright.ai/jobs/info/69b4d25206c1ba00c54652bf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 26 |
@@ -97,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Healthcare Intern - Surgery](https://jobright.ai/jobs/info/69ed34c44b0fa35a70783fd7?utm_campaign=1057&utm_source=git)** | Crosby, MN | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/69d87730b67cec4f9b09ca98?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 25 |
+| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern - Extended Fall 2026](https://jobright.ai/jobs/info/695c48e1f1f8465b79f25bbe?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | Apr 25 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAM - American Axle & Manufacturing](https://www.dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ebb79e58811370cb13bf4f?utm_campaign=1057&utm_source=git)** | Ridgway, PA, US | On Site | Apr 24 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern,Pediatrics,PRN](https://jobright.ai/jobs/info/69ebb731dc35f7132c4b29ce?utm_campaign=1057&utm_source=git)** | Greenville, SC, US | On Site | Apr 24 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant- OUS Hourly](https://jobright.ai/jobs/info/69ebddfe16b2612c2a11f671?utm_campaign=1057&utm_source=git)** | St Augustine, FL | On Site | Apr 24 |
-| ↳ | **[Athletics Student Services Community Outreach Intern](https://jobright.ai/jobs/info/69ebdd5f4b0fa35a7077f324?utm_campaign=1057&utm_source=git)** | Villanova, PA | On Site | Apr 24 |
-| ↳ | **[Graduate Assistantship - 525980](https://jobright.ai/jobs/info/69ebdde516b2612c2a11f616?utm_campaign=1057&utm_source=git)** | Hall, NE | On Site | Apr 24 |
-| **[Southeastern Integrated Care](https://seintegratedcare.com)** | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebde6f58811370cb13d5c3?utm_campaign=1057&utm_source=git)** | Parkton, NC | On Site | Apr 24 |
-| ↳ | **[Intern - Recovery Support Specialist](https://jobright.ai/jobs/info/69ebaacd58811370cb13bb2d?utm_campaign=1057&utm_source=git)** | Parkton, NC, US | On Site | Apr 24 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Project Odyssey](https://jobright.ai/jobs/info/69d93431738f2f099e8a05dd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 24 |
-| **[Solar Energy Industries Association](http://www.seia.org)** | **[Education Content & Programs Summer Intern 2026](https://jobright.ai/jobs/info/69ebc4324b0fa35a7077e5dc?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 24 |
-| **[Chesapeake Bay Trust](https://cbtrust.org/)** | **[Programmatic Intern](https://jobright.ai/jobs/info/69ebfc4d4b0fa35a7077ff3b?utm_campaign=1057&utm_source=git)** | Annapolis, Maryland, United States | Hybrid | Apr 24 |
-| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Apr 24 |
-| **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Group Leader Internship](https://jobright.ai/jobs/info/69ec66037820c036924faae5?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/69b2eda8ae2a534885ea3a4d?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Apr 24 |
-| **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
