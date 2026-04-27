@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TriHealth](http://www.trihealth.com)** | **[Rotary Intern](https://jobright.ai/jobs/info/69ef0bbe0a6e095553053761?utm_campaign=1057&utm_source=git)** | 110 N Poplar St, OXFORD, OH, 45056, US | On Site | Apr 27 |
+| **[World Vision](http://www.worldvision.org/)** | **[AI Training & Communications Intern](https://jobright.ai/jobs/info/69ef0b8358811370cb14507d?utm_campaign=1057&utm_source=git)** | Home Working, United States, US | Remote | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69c412a6d5a1016e98db1f6a?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Apr 26 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/69ef02b2dc35f7132c4bbc3b?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Apr 26 |
 | ↳ | **[Vision & Call Intern - Limited Term - 2025622](https://jobright.ai/jobs/info/69ef02a358811370cb144f32?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Apr 26 |
 | **[University of Toronto - Victoria University](https://www.vic.utoronto.ca)** | **[Teaching Assistant: Education Internship (EDS360H/Y)](https://jobright.ai/jobs/info/69eef25e7820c036924ffd0e?utm_campaign=1057&utm_source=git)** | Toronto, ON, Canada | Hybrid | Apr 26 |
 | **[Nix Companies, Inc.](https://www.nixcompanies.com/)** | **[Skilled Trade Internship](https://jobright.ai/jobs/info/69eeea770a6e0955530533d7?utm_campaign=1057&utm_source=git)** | Poseyville, IN | On Site | Apr 26 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69eeea300a6e0955530532a2?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | Apr 26 |
+| **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69ef09467820c036924fff33?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Apr 26 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[Centre for Inclusive Health Equity Collaborative (CIHEC)](https://www.linkedin.com/company/110206826)** | **[Volunteer – Program & Event Support (Health Equity Internship Program)](https://jobright.ai/jobs/info/69ee80107820c036924fee95?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / Enterprise Clinical Excellence / Part time - 20 per week - Onsite - Gainesville FL](https://jobright.ai/jobs/info/69ebf60516b2612c2a12002c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 24 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139855?utm_campaign=1057&utm_source=git)** | RI Home Based, US | Remote | Apr 24 |
 | ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb707658811370cb139851?utm_campaign=1057&utm_source=git)** | GA Atlanta, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebc?utm_campaign=1057&utm_source=git)** | DE Home Based, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706d7820c036924f3ebb?utm_campaign=1057&utm_source=git)** | PA Home Based, US | Remote | Apr 24 |
-| ↳ | **[Global Cancer Support Intern](https://jobright.ai/jobs/info/69eb706c4b0fa35a7077b7c2?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, US | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
