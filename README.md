@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
+| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69f06ff88feca91f1491abd3?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Apr 27 |
 | **[TriHealth](http://www.trihealth.com)** | **[Rotary Intern](https://jobright.ai/jobs/info/69ef0bbe0a6e095553053761?utm_campaign=1057&utm_source=git)** | 110 N Poplar St, OXFORD, OH, 45056, US | On Site | Apr 27 |
 | **[World Vision](http://www.worldvision.org/)** | **[AI Training & Communications Intern](https://jobright.ai/jobs/info/69ef0b8358811370cb14507d?utm_campaign=1057&utm_source=git)** | Home Working, United States, US | Remote | Apr 27 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69ddce46aba61f14173126ec?utm_campaign=1057&utm_source=git)** | Kincardine, Ontario, Canada | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69ed34be58811370cb1414db?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Healthcare Intern - Surgery](https://jobright.ai/jobs/info/69ed34c44b0fa35a70783fd7?utm_campaign=1057&utm_source=git)** | Crosby, MN | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/69d87730b67cec4f9b09ca98?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
