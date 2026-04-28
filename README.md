@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/69f0abba825a315d7ca331fd?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Apr 28 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Apr 28 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Training Design Intern](https://jobright.ai/jobs/info/69d47c44891d7b11cfcfadba?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Apr 28 |
+| **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Lecturer - Art and Design - INTERNAL ONLY](https://jobright.ai/jobs/info/69f0abdb8feca91f1491bb41?utm_campaign=1057&utm_source=git)** | Bedford, IN | On Site | Apr 28 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f08b2aecbc8c2f731ffa68?utm_campaign=1057&utm_source=git)** | East Hartford, CT | On Site | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 26 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 26 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Apr 26 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69ee0914dc35f7132c4b9d62?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
-| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69ee08840a6e095553051344?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69ee08840a6e095553051344?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - General/Non-Invasive Cardiology - Chicago-12207](https://jobright.ai/jobs/info/6998dc0481476f6176b14430?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 26 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Life Science](https://jobright.ai/jobs/info/69edfbeb58811370cb142b8e?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 26 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Nutrition](https://jobright.ai/jobs/info/69b4702506c1ba00c545df64?utm_campaign=1057&utm_source=git)** | Cherokee, NC | On Site | Apr 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682408d17e1dfb6d26fb1a01?utm_campaign=1057&utm_source=git)** | Rock Springs, WY | On Site | Apr 26 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69edadab4b0fa35a70784f72?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | Apr 25 |
-| **[SPLENDORA INDEPENDENT SCHOOL DISTRICT](https://www.linkedin.com/company/58413524)** | **[Student Teacher/ University Intern](https://jobright.ai/jobs/info/69f052dca4aa3545d8a5df3c?utm_campaign=1057&utm_source=git)** | Splendora, TX | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
