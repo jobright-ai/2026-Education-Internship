@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Carolina](https://sc.gov/)** | **[Doctoral Intern Counseling and Psychiatry](https://jobright.ai/jobs/info/69f001ade624fe645d534ac4?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Apr 27 |
+| **[SRI](http://www.sri.com)** | **[Intern, Center for Health Sciences (Full time summer)](https://jobright.ai/jobs/info/69efffe64b0fa35a7078d54a?utm_campaign=1057&utm_source=git)** | US-CA-Menlo Park | On Site | Apr 27 |
+| ↳ | **[Intern, Center for Health Sciences (Full time summer)](https://jobright.ai/jobs/info/69efffabfbe0994a40eb9e4b?utm_campaign=1057&utm_source=git)** | Menlo Park, CA, US | On Site | Apr 27 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Durham, NC)](https://jobright.ai/jobs/info/69effc340a6e095553058a02?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern - Sharp House](https://jobright.ai/jobs/info/69e950450a6e09555303b17e?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Apr 27 |
+| **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[AmeriCorps Academic and College Planning Advisor](https://jobright.ai/jobs/info/69effc144b0fa35a7078d455?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69efe7c216b2612c2a12c893?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Board Certified Music Therapist (MT-BC): Case Manager and Internship Supervisor](https://jobright.ai/jobs/info/69efe79e58811370cb14983e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69efe77316b2612c2a12c76f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
@@ -65,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Carroll School](http://www.carrollschool.org/)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/69efe2ad0a6e095553057d58?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Apr 27 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Workforce Alignment Intern](https://jobright.ai/jobs/info/69efd5b14b0fa35a7078bebf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 27 |
 | **[Burke, Warren, MacKay & Serritella](http://www.burkelaw.com)** | **[2027 Summer Associate Program (Class of 2028)](https://jobright.ai/jobs/info/69cbdea2e1921223acc72efe?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
+| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Board Certified Music Therapist (MT-BC): Case Manager and Internship Supervisor](https://jobright.ai/jobs/info/69f0012afbe0994a40eb9e97?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efede9e624fe645d53448f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Career Development](https://jobright.ai/jobs/info/69efc5ee4b0fa35a7078baca?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
@@ -77,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -113,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69ef09467820c036924fff33?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Apr 26 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
+| **[University of Florida](https://www.ufl.edu)** | **[Student Assistant – Tobacco Cessation Referral Data Entry](https://jobright.ai/jobs/info/69f001a416b2612c2a12d1a7?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 26 |
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69eff39b58811370cb149eac?utm_campaign=1057&utm_source=git)** | Havertown, PA | On Site | Apr 26 |
 | **[State of Florida](http://www.myflorida.com)** | **[OPS PROVIDER TRAINER - 67961013](https://jobright.ai/jobs/info/69ef98b316b2612c2a12a662?utm_campaign=1057&utm_source=git)** | Wildwood, FL | On Site | Apr 26 |
 | **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Intern- Learning Solutions- LV Academy](https://jobright.ai/jobs/info/69ec5dbc16b2612c2a12243a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Reading Is Fundamental](http://www.rif.org/)** | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/69ec8f4c16b2612c2a122b5e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Apr 24 |
 | **[Campus](http://campus.edu)** | **[IT Instructor](https://jobright.ai/jobs/info/69a95d24f2055e05d1718502?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Intern-Behavioral Health-Flat Rate](https://jobright.ai/jobs/info/69ec4169dc35f7132c4b646c?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Apr 24 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/69ec26be0a6e09555304ceba?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Apr 24 |
-| ↳ | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/69ec26557820c036924f9780?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Apr 24 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Ethics and Dragons Internship/Co-op](https://jobright.ai/jobs/info/69ec25ae4b0fa35a70781073?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 24 |
-| **[Animation Discovery Studio ®](Www.animationdiscoverystudio.com)** | **[Animation Instructor](https://jobright.ai/jobs/info/69ec3874dc35f7132c4b63a6?utm_campaign=1057&utm_source=git)** | Detroit Metro | On Site | Apr 24 |
-| **[Prisma Health](https://www.prismahealth.org)** | **[Student Intern,Pediatrics,PRN](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb2?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Alumni Outreach](https://jobright.ai/jobs/info/69e02ab94920452a85dd1ef6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 24 |
-| ↳ | **[Intern - Physical Health & Wellness](https://jobright.ai/jobs/info/69ec00cc4b0fa35a70780366?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
