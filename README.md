@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern- Information Technology](https://jobright.ai/jobs/info/69f03064ecbc8c2f731fee32?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
+| **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69f044e2b27fee43e8cd2e8e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
 | **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/69f0133f825a315d7ca30e73?utm_campaign=1057&utm_source=git)** | Charlotte, NC - 915 Pearl Park Way, US | On Site | Apr 27 |
 | **[Goddard Riverside](https://goddard.org)** | **[Young Adult Intern (Works Progress Program)](https://jobright.ai/jobs/info/69f01322d4710347188c5f5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern - Extended Fall 2026](https://jobright.ai/jobs/info/695c48e1f1f8465b79f25bbe?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Apr 25 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | Apr 25 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8:30A-5P](https://jobright.ai/jobs/info/69d02a10cdb525785fba7f56?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
