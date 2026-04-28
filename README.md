@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of South Carolina](https://sc.gov/)** | **[Doctoral Intern Counseling and Psychiatry](https://jobright.ai/jobs/info/69f001ade624fe645d534ac4?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Apr 27 |
+| **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f004ab4b0fa35a7078d755?utm_campaign=1057&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[SRI](http://www.sri.com)** | **[Intern, Center for Health Sciences (Full time summer)](https://jobright.ai/jobs/info/69efffe64b0fa35a7078d54a?utm_campaign=1057&utm_source=git)** | US-CA-Menlo Park | On Site | Apr 27 |
 | ↳ | **[Intern, Center for Health Sciences (Full time summer)](https://jobright.ai/jobs/info/69efffabfbe0994a40eb9e4b?utm_campaign=1057&utm_source=git)** | Menlo Park, CA, US | On Site | Apr 27 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Summer Semester Fitness Internship (Durham, NC)](https://jobright.ai/jobs/info/69effc340a6e095553058a02?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
