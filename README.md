@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Internship Program (Alpharetta, GA)](https://jobright.ai/jobs/info/69f135a88d8d624381a9ae50?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
+| **[CNIB](http://www.cnib.ca/)** | **[Intern, Talent Pool (Youth)](https://jobright.ai/jobs/info/69f12d808d8d624381a9aa51?utm_campaign=1057&utm_source=git)** | Victoria, British Columbia, Canada | Hybrid | Apr 28 |
+| **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Health Scholars Academy (Office of Student Engagement)](https://jobright.ai/jobs/info/69f12d74825a315d7ca3651b?utm_campaign=1057&utm_source=git)** | Kansas City, KS | On Site | Apr 28 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/69f12ccdb27fee43e8cd7946?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 28 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 28 |
 | **[WorkSource Oregon](https://worksourceoregon.org)** | **[Summer Internship - Camp Assistant](https://jobright.ai/jobs/info/69f118ba8feca91f1491e864?utm_campaign=1057&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 28 |
+| **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Apr 28 |
 | **[Bentley University](http://www.bentley.edu/)** | **[Graduate Intern for Center for International Students and Scholars (temporary, part-time)](https://jobright.ai/jobs/info/69b8855156973837413de91a?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Apr 28 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69f10e10825a315d7ca359ac?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 28 |
 | ↳ | **[Campus Intern](https://jobright.ai/jobs/info/69f10df88feca91f1491e235?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 28 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Internship Covington, GA](https://jobright.ai/jobs/info/697932fa88e2b47213bd5264?utm_campaign=1057&utm_source=git)** | Covington, GA | On Site | Apr 27 |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Garden Engagement Seasonal Intern at Common Roots Woodside](https://jobright.ai/jobs/info/69ef7e4e16b2612c2a129d18?utm_campaign=1057&utm_source=git)** | Dartmouth, NS, Canada | On Site | Apr 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Labor and Delivery](https://jobright.ai/jobs/info/69ef73770a6e095553054dd4?utm_campaign=1057&utm_source=git)** | Carmel, Indiana, 46032 | On Site | Apr 27 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69ddc13d4d3bec4144b4dff3?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 27 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
-| **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
-| **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69f06ff88feca91f1491abd3?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
