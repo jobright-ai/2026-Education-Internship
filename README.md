@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Community Engaged Learning (Medical Spanish)](https://jobright.ai/jobs/info/69f0fd398feca91f1491ddcf?utm_campaign=1057&utm_source=git)** | US-VA-Norfolk | On Site | Apr 28 |
+| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern](https://jobright.ai/jobs/info/69ca8f48466f1e133aac4a0c?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Apr 28 |
+| **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Apr 28 |
+| **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Health Scholars Academy (Office of Student Engagement)](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c1?utm_campaign=1057&utm_source=git)** | Kansas City Metro Area, US | On Site | Apr 28 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/69f0ee598feca91f1491d7a3?utm_campaign=1057&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship Program (Alpharetta, GA)](https://jobright.ai/jobs/info/69f0e74bb27fee43e8cd60d9?utm_campaign=1057&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 28 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/69f0e725b27fee43e8cd6024?utm_campaign=1057&utm_source=git)** | Madison, WI, US | Hybrid | Apr 28 |
 | **[Hospital Authority of Miller County](http://www.millercountyhospital.com)** | **[NH STUDENT INTERN](https://jobright.ai/jobs/info/69f0e3a08d8d624381a98ef1?utm_campaign=1057&utm_source=git)** | Edison,GA,US | On Site | Apr 28 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d4047fe63cea7a8b655dd7?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
+| **[Foss Swim School](http://fossswimschool.com)** | **[Instructional Media & Communications Intern (Seasonal)](https://jobright.ai/jobs/info/69e691ea7820c036924d13c6?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 28 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69d7241ce63cea7a8b66e4ee?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 28 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c642ecbc8c2f73201b32?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Apr 28 |
@@ -113,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Clinical-Bachelor-CREATE](https://jobright.ai/jobs/info/69f0302f825a315d7ca31715?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 26 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
-| **[University of Florida](https://www.ufl.edu)** | **[Student Assistant – Tobacco Cessation Referral Data Entry](https://jobright.ai/jobs/info/69f001a416b2612c2a12d1a7?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 26 |
-| **[Child Guidance Resource Centers](https://cgrc.org)** | **[Professional Development Intern](https://jobright.ai/jobs/info/69eff39b58811370cb149eac?utm_campaign=1057&utm_source=git)** | Havertown, PA | On Site | Apr 26 |
-| **[Donegal School District](http://www.donegalsd.org)** | **[Reading Assistant](https://jobright.ai/jobs/info/69f0133becbc8c2f731fe419?utm_campaign=1057&utm_source=git)** | Mt. Joy, PA | On Site | Apr 26 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS PROVIDER TRAINER - 67961013](https://jobright.ai/jobs/info/69ef98b316b2612c2a12a662?utm_campaign=1057&utm_source=git)** | Wildwood, FL | On Site | Apr 26 |
-| **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
