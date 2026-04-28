@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
+| **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/69f0133f825a315d7ca30e73?utm_campaign=1057&utm_source=git)** | Charlotte, NC - 915 Pearl Park Way, US | On Site | Apr 27 |
 | **[Goddard Riverside](https://goddard.org)** | **[Young Adult Intern (Works Progress Program)](https://jobright.ai/jobs/info/69f01322d4710347188c5f5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiefer Counseling](https://www.kiefercounselingct.com/)** | **[Master's Level Clinical Intern](https://jobright.ai/jobs/info/69ecfefb4b0fa35a70783d24?utm_campaign=1057&utm_source=git)** | Terryville, CT | Hybrid | Apr 25 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Master's Level Internships/Practicums](https://jobright.ai/jobs/info/69eccfa158811370cb140a2c?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Apr 25 |
 | **[Ever Fresh Fruit Co](https://everfreshfruit.com)** | **[Training Documentation Intern](https://jobright.ai/jobs/info/69ecfed416b2612c2a123cd2?utm_campaign=1057&utm_source=git)** | Boring, OR | On Site | Apr 25 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Part Time](https://jobright.ai/jobs/info/69d01fa7cfdc6132f94386e1?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Apr 25 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
