@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hospital Authority of Miller County](http://www.millercountyhospital.com)** | **[NH STUDENT INTERN](https://jobright.ai/jobs/info/69f0e3a08d8d624381a98ef1?utm_campaign=1057&utm_source=git)** | Edison,GA,US | On Site | Apr 28 |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d4047fe63cea7a8b655dd7?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69d7241ce63cea7a8b66e4ee?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 28 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 28 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c642ecbc8c2f73201b32?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Talladega College](https://www.talladega.edu)** | **[Summer Institute Student Intern](https://jobright.ai/jobs/info/69ef750f0a6e095553054ff9?utm_campaign=1057&utm_source=git)** | Talladega, AL | On Site | Apr 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/69efa1d64b0fa35a7078aad3?utm_campaign=1057&utm_source=git)** | Gainesville, FL | Hybrid | Apr 26 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6961c2d2f3f4cd132506c815?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Apr 26 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/697cdd3e727747250d578bb1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Apr 26 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c62550bbaf765056da6b?utm_campaign=1057&utm_source=git)** | Longview, TX | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
