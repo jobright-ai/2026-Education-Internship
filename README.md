@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
+| **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
+| **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern- Information Technology](https://jobright.ai/jobs/info/69f03064ecbc8c2f731fee32?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -124,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Nix Companies, Inc.](https://www.nixcompanies.com/)** | **[Skilled Trade Internship](https://jobright.ai/jobs/info/69eeea770a6e0955530533d7?utm_campaign=1057&utm_source=git)** | Poseyville, IN | On Site | Apr 26 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69eeea300a6e0955530532a2?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | Apr 26 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025623](https://jobright.ai/jobs/info/69ef09467820c036924fff33?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Apr 26 |
+| **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Clinical-Bachelor-CREATE](https://jobright.ai/jobs/info/69f0302f825a315d7ca31715?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 26 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec7c30a6e095553052a87?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | ↳ | **[Education Intern - Prestige](https://jobright.ai/jobs/info/69eec66316b2612c2a1275bd?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Assistant – Tobacco Cessation Referral Data Entry](https://jobright.ai/jobs/info/69f001a416b2612c2a12d1a7?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Apr 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 25 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | Apr 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8:30A-5P](https://jobright.ai/jobs/info/69d02a10cdb525785fba7f56?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Apr 25 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Tampa, Summer 2026)](https://jobright.ai/jobs/info/699856dce0bddb6acac75f8c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 25 |
-| **[Kiefer Counseling](https://www.kiefercounselingct.com/)** | **[Master's Level Clinical Intern](https://jobright.ai/jobs/info/69ecfefb4b0fa35a70783d24?utm_campaign=1057&utm_source=git)** | Terryville, CT | Hybrid | Apr 25 |
-| **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Master's Level Internships/Practicums](https://jobright.ai/jobs/info/69eccfa158811370cb140a2c?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Apr 25 |
-| **[Ever Fresh Fruit Co](https://everfreshfruit.com)** | **[Training Documentation Intern](https://jobright.ai/jobs/info/69ecfed416b2612c2a123cd2?utm_campaign=1057&utm_source=git)** | Boring, OR | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
