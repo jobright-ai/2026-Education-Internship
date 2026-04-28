@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f08b2aecbc8c2f731ffa68?utm_campaign=1057&utm_source=git)** | East Hartford, CT | On Site | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 | ↳ | **[Undergraduate Student Research Aide](https://jobright.ai/jobs/info/69efd59f58811370cb148b2b?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Program Assistant](https://jobright.ai/jobs/info/69efd60c4b0fa35a7078bf26?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Catalyst Team Lead](https://jobright.ai/jobs/info/69efd5c14b0fa35a7078bed7?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69efd5b916b2612c2a12bd7d?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Alvernia University](http://www.alvernia.edu/)** | **[Graduate Assistant - Department of Physical Therapy](https://jobright.ai/jobs/info/69efd4340a6e095553057480?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69efab14fbe0994a40eb7910?utm_campaign=1057&utm_source=git)** | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC, US | On Site | Apr 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efaa854b0fa35a7078ad55?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Apr 27 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[Summer 2026 Internship Covington, GA](https://jobright.ai/jobs/info/697932fa88e2b47213bd5264?utm_campaign=1057&utm_source=git)** | Covington, GA | On Site | Apr 27 |
 | **[Ecology Action Centre](https://ecologyaction.ca/)** | **[Garden Engagement Seasonal Intern at Common Roots Woodside](https://jobright.ai/jobs/info/69ef7e4e16b2612c2a129d18?utm_campaign=1057&utm_source=git)** | Dartmouth, NS, Canada | On Site | Apr 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Labor and Delivery](https://jobright.ai/jobs/info/69ef73770a6e095553054dd4?utm_campaign=1057&utm_source=git)** | Carmel, Indiana, 46032 | On Site | Apr 27 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Indigenous Training Internship Program](https://jobright.ai/jobs/info/69ddc13d4d3bec4144b4dff3?utm_campaign=1057&utm_source=git)** | Kincardine, ON | On Site | Apr 27 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/69b6079d06c1ba00c547d888?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[DOD SkillBridge - Various Roles](https://jobright.ai/jobs/info/69ef59ae0a6e095553054431?utm_campaign=1057&utm_source=git)** | Upton, NY | On Site | Apr 27 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPLENDORA INDEPENDENT SCHOOL DISTRICT](https://www.linkedin.com/company/58413524)** | **[Student Teacher/ University Intern](https://jobright.ai/jobs/info/69f052dca4aa3545d8a5df3c?utm_campaign=1057&utm_source=git)** | Splendora, TX | On Site | Apr 25 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/69ed680216b2612c2a1244d4?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | Apr 25 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Assistant Director - Food Services & Dietetic Internship Prg - FT - Days - MRHS](https://jobright.ai/jobs/info/69a273a1b600907a9628c6a1?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Apr 25 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69ed34be58811370cb1414db?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 25 |
-| **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Healthcare Intern - Surgery](https://jobright.ai/jobs/info/69ed34c44b0fa35a70783fd7?utm_campaign=1057&utm_source=git)** | Crosby, MN | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
