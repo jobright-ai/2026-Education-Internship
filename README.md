@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/69f18ffdecbc8c2f73206e8f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186d38d8d624381a9ca9e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | ↳ | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186afb27fee43e8cd98e7?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 28 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carroll School](http://www.carrollschool.org/)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/69efe2ad0a6e095553057d58?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Apr 27 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Workforce Alignment Intern](https://jobright.ai/jobs/info/69efd5b14b0fa35a7078bebf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 27 |
 | **[Burke, Warren, MacKay & Serritella](http://www.burkelaw.com)** | **[2027 Summer Associate Program (Class of 2028)](https://jobright.ai/jobs/info/69cbdea2e1921223acc72efe?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
-| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Board Certified Music Therapist (MT-BC): Case Manager and Internship Supervisor](https://jobright.ai/jobs/info/69f0012afbe0994a40eb9e97?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
