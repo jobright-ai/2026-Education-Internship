@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modular Power Solutions](http://www.modularpowersolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f1d5358feca91f149225d1?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 29 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Apr 29 |
 | **[City Colleges of Chicago-Wilbur Wright College](http://www.ccc.edu/colleges/wright/pages/default.aspx)** | **[Chicago Youth Works - Intern - Wilbur Wright College](https://jobright.ai/jobs/info/69f1ccffecbc8c2f732080d6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[School Secretary (2026-2027 School Year)](https://jobright.ai/jobs/info/69f1c935b27fee43e8cdb2aa?utm_campaign=1057&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
 | **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Public Interpreter Practicum and Internship Opportunity 2025-2026](https://jobright.ai/jobs/info/69f1d3d5825a315d7ca39fc5?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 29 |
 | ↳ | **[Educational Interpreter Practicum and Internship Opportunity 2025-2026](https://jobright.ai/jobs/info/69f1d3adecbc8c2f732081c4?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 29 |
+| **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Summer 2026: NYC Youth Sports Operations/Coaching Internship](https://jobright.ai/jobs/info/69f1d52e8feca91f149225a0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Westminster Public Schools](https://www.westminsterpublicschools.org/)** | **[Instructional Service Coordinator - Childcare 2026-27 School Year **REPOST**](https://jobright.ai/jobs/info/69f1c8a6ecbc8c2f73208017?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Apr 28 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/69f18ffdecbc8c2f73206e8f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186d38d8d624381a9ca9e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 | **[Goddard Riverside](https://goddard.org)** | **[Young Adult Intern (Works Progress Program)](https://jobright.ai/jobs/info/69f01322d4710347188c5f5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Akin (formerly Childhaven)](https://childhaven.org/)** | **[Student Intern - Behavioral Health](https://jobright.ai/jobs/info/69f1536662b48c683879504c?utm_campaign=1057&utm_source=git)** | Vancouver, WA | On Site | Apr 27 |
-| **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f004ab4b0fa35a7078d755?utm_campaign=1057&utm_source=git)** | San Marino, US | On Site | Apr 27 |
-| **[SRI](http://www.sri.com)** | **[Intern, Center for Health Sciences (Full time summer)](https://jobright.ai/jobs/info/69efffe64b0fa35a7078d54a?utm_campaign=1057&utm_source=git)** | US-CA-Menlo Park | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
