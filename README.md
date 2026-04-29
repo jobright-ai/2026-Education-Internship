@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186d38d8d624381a9ca9e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
+| ↳ | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186afb27fee43e8cd98e7?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 28 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 28 |
 | **[Volo Sports](https://www.volosports.com)** | **[Summer 2026: NYC Youth Sports Operations/Coaching Internship](https://jobright.ai/jobs/info/69f179ebecbc8c2f73205bd4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Chicago Youth Works - Intern - Wilbur Wright College](https://jobright.ai/jobs/info/69f173338feca91f14920216?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Preuss Advantage Scholar Academic Specialist - 139426](https://jobright.ai/jobs/info/69f0c41b8d8d624381a977fd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Board Certified Music Therapist (MT-BC): Case Manager and Internship Supervisor](https://jobright.ai/jobs/info/69efe79e58811370cb14983e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69efe77316b2612c2a12c76f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[NAIT (Northern Alberta Institute of Technology)](http://www.nait.ca/)** | **[International Engagement Assistant, International Student Experience](https://jobright.ai/jobs/info/69efe4170a6e095553057eb8?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Apr 27 |
-| **[North Carolina State University](http://www.ncsu.edu)** | **[Graduate Intern for New Student & Family Orientation](https://jobright.ai/jobs/info/69efe2f258811370cb149228?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 27 |
 | **[Carroll School](http://www.carrollschool.org/)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/69efe2ad0a6e095553057d58?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Apr 27 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Workforce Alignment Intern](https://jobright.ai/jobs/info/69efd5b14b0fa35a7078bebf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD, US | Remote | Apr 27 |
 | **[Burke, Warren, MacKay & Serritella](http://www.burkelaw.com)** | **[2027 Summer Associate Program (Class of 2028)](https://jobright.ai/jobs/info/69cbdea2e1921223acc72efe?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Board Certified Music Therapist (MT-BC): Case Manager and Internship Supervisor](https://jobright.ai/jobs/info/69f0012afbe0994a40eb9e97?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Apr 27 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69efede9e624fe645d53448f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
