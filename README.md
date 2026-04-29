@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
+| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Student Clinical Laboratory KMH](https://jobright.ai/jobs/info/69f20a7b8d8d624381a9ed95?utm_campaign=1057&utm_source=git)** | Kenmore, NY | On Site | Apr 29 |
+| **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Attendance Secretary](https://jobright.ai/jobs/info/69f20b2a8feca91f14922def?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | Apr 29 |
 | **[Modular Power Solutions](http://www.modularpowersolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f1d5358feca91f149225d1?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 29 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Apr 29 |
 | **[City Colleges of Chicago-Wilbur Wright College](http://www.ccc.edu/colleges/wright/pages/default.aspx)** | **[Chicago Youth Works - Intern - Wilbur Wright College](https://jobright.ai/jobs/info/69f1ccffecbc8c2f732080d6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Training Design Intern](https://jobright.ai/jobs/info/69d47c44891d7b11cfcfadba?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Apr 28 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Lecturer - Art and Design - INTERNAL ONLY](https://jobright.ai/jobs/info/69f0abdb8feca91f1491bb41?utm_campaign=1057&utm_source=git)** | Bedford, IN | On Site | Apr 28 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f08b2aecbc8c2f731ffa68?utm_campaign=1057&utm_source=git)** | East Hartford, CT | On Site | Apr 28 |
-| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Preuss Advantage Scholar Academic Specialist - 139426](https://jobright.ai/jobs/info/69f0c41b8d8d624381a977fd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69f1c9198d8d624381a9e47d?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | Apr 28 |
 | **[Grandview School District #200](http://gsd200.org)** | **[Teacher Academy Summer Intern Tutors](https://jobright.ai/jobs/info/69f1c92f825a315d7ca39e7d?utm_campaign=1057&utm_source=git)** | Grandview, WA | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69f044e2b27fee43e8cd2e8e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
-| **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
-| **[Goddard Riverside](https://goddard.org)** | **[Young Adult Intern (Works Progress Program)](https://jobright.ai/jobs/info/69f01322d4710347188c5f5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
