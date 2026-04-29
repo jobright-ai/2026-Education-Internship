@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
+| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
 | **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Attendance Secretary](https://jobright.ai/jobs/info/69f20b2a8feca91f14922def?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | Apr 29 |
 | **[Modular Power Solutions](http://www.modularpowersolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f1d5358feca91f149225d1?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 29 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[American Lung Association](http://www.lung.org)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/69f150308d8d624381a9b923?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 28 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 1](https://jobright.ai/jobs/info/69f1500d8feca91f1491fb30?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 28 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69f1ba148d8d624381a9e241?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 28 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Medical Intermediate](https://jobright.ai/jobs/info/69f141d8ecbc8c2f73204f6d?utm_campaign=1057&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO, US | On Site | Apr 28 |
 | **[Campus](http://campus.edu)** | **[English Composition Instructor](https://jobright.ai/jobs/info/69f1412fecbc8c2f73204ebd?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 28 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/69f140d28d8d624381a9b3c6?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | Apr 28 |
 | **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f13bfbb27fee43e8cd816e?utm_campaign=1057&utm_source=git)** | Riverside, CA, US | On Site | Apr 28 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69f1c9198d8d624381a9e47d?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | Apr 28 |
 | **[Grandview School District #200](http://gsd200.org)** | **[Teacher Academy Summer Intern Tutors](https://jobright.ai/jobs/info/69f1c92f825a315d7ca39e7d?utm_campaign=1057&utm_source=git)** | Grandview, WA | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern- Information Technology](https://jobright.ai/jobs/info/69f03064ecbc8c2f731fee32?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
-| **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69f044e2b27fee43e8cd2e8e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
-| **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
