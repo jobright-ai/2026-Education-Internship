@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Research Intern - School of Computer Science - HCII](https://jobright.ai/jobs/info/69f26e15f154d768fbaa6f72?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 29 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 29 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0d8?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Apr 29 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Apr 29 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student Worker - Health & Wellness Intern -- IUP Dining - IUP - Admin](https://jobright.ai/jobs/info/69f25096f154d768fbaa66e2?utm_campaign=1057&utm_source=git)** | Indiana, PA, US, 15705 | On Site | Apr 29 |
@@ -64,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/696f8da83ed06875134a80cb?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[The Southeast Permanente Medical Group](https://www.tspmg.com/)** | **[Intern - Clinical & Health Systems](https://jobright.ai/jobs/info/69f245928feca91f14923fc4?utm_campaign=1057&utm_source=git)** | Georgia, United States | On Site | Apr 29 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Apr 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/69f25c178feca91f14924682?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
+| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69f269a18d8d624381aa0b4b?utm_campaign=1057&utm_source=git)** | Clifton Park, NY | On Site | Apr 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Agentic Programming](https://jobright.ai/jobs/info/69821a80c3101f1400c3c13f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
+| ↳ | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/69f25c178feca91f14924682?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Youth Soccer Competitions Intern - Summer 2026](https://jobright.ai/jobs/info/699d59e381476f6176b630c6?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/69f23334ab4ec4779fff7da1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Central Boston Elder Services](https://centralboston.org/)** | **[Care Manager Intern](https://jobright.ai/jobs/info/69f23327ab4ec4779fff7d5f?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Apr 29 |
@@ -77,9 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Undergraduate Intern – Children’s Programs](https://jobright.ai/jobs/info/69f22a1f8feca91f14923643?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | ↳ | **[Masters-Level Intern - Children’s Programs](https://jobright.ai/jobs/info/69f229fe8d8d624381a9f754?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
-| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Training and Development](https://jobright.ai/jobs/info/69ba887a5697383741401c96?utm_campaign=1057&utm_source=git)** | Buffalo, NY | Hybrid | Apr 29 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Wentzville School District](https://www.wentzville.k12.mo.us/)** | **[Elementary Administrative Intern](https://jobright.ai/jobs/info/69f245a0ab4ec4779fff842d?utm_campaign=1057&utm_source=git)** | Foristell, MO | On Site | Apr 29 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/69f0ee598feca91f1491d7a3?utm_campaign=1057&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC 4 New York Marketing & Digital Design Internships – Academic Year](https://jobright.ai/jobs/info/69f103a48d8d624381a99af3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship Program (Alpharetta, GA)](https://jobright.ai/jobs/info/69f0e74bb27fee43e8cd60d9?utm_campaign=1057&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 28 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community Programs Camp Professional Intern](https://jobright.ai/jobs/info/69f0e725b27fee43e8cd6024?utm_campaign=1057&utm_source=git)** | Madison, WI, US | Hybrid | Apr 28 |
-| **[Hospital Authority of Miller County](http://www.millercountyhospital.com)** | **[NH STUDENT INTERN](https://jobright.ai/jobs/info/69f0e3a08d8d624381a98ef1?utm_campaign=1057&utm_source=git)** | Edison,GA,US | On Site | Apr 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d4047fe63cea7a8b655dd7?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
