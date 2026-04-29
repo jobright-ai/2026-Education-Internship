@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Undergrad, Per Diem](https://jobright.ai/jobs/info/69f166118feca91f1491ff62?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Apr 28 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[License Outpatient Therapist - LMHC or LCSW or Registered Intern - PRN](https://jobright.ai/jobs/info/69f15eeab27fee43e8cd8b49?utm_campaign=1057&utm_source=git)** | STUART,Florida,United States | On Site | Apr 28 |
 | **[Colorado School of Mines](http://www.mines.edu/)** | **[SHAPE Office Intern: Prevention and Confidential Resource](https://jobright.ai/jobs/info/69f153e7ecbc8c2f732054cc?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | Apr 28 |
 | **[Coloplast](https://www.coloplast.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/69f153e68d8d624381a9ba5c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 28 |
@@ -122,6 +123,8 @@ For a complete list, click the following sortable link below:
 | **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Preuss Advantage Scholar Academic Specialist - 139426](https://jobright.ai/jobs/info/69f0c41b8d8d624381a977fd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catholic Schools in the Archdiocese of New York](https://catholicschoolsny.org/)** | **[Early Childhood Program Educational Director - North Manhattan, NYC - Start Date August 2026](https://jobright.ai/jobs/info/69efe23cfbe0994a40eb8f33?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Thrive PEO](https://www.thrivepeo.com)** | **[Summer STEM Outreach Intern](https://jobright.ai/jobs/info/69efe22816b2612c2a12c34c?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Apr 27 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Peer Advising Leader](https://jobright.ai/jobs/info/69efbcdffbe0994a40eb84ff?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 27 |
-| **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efba83e624fe645d53309b?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Apr 27 |
-| **[InReach NC](https://www.inreachnc.org/)** | **[Internship - Assistant Activities Coordinator (PAID) I/DD](https://jobright.ai/jobs/info/69efe4ff16b2612c2a12c5fd?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2715dc35f7132c4b5e43?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
