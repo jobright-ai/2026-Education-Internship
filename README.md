@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
-| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Student Clinical Laboratory KMH](https://jobright.ai/jobs/info/69f20a7b8d8d624381a9ed95?utm_campaign=1057&utm_source=git)** | Kenmore, NY | On Site | Apr 29 |
 | **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Attendance Secretary](https://jobright.ai/jobs/info/69f20b2a8feca91f14922def?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | Apr 29 |
 | **[Modular Power Solutions](http://www.modularpowersolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69f1d5358feca91f149225d1?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 29 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Apr 29 |
@@ -148,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69f1c9198d8d624381a9e47d?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | Apr 28 |
 | **[Grandview School District #200](http://gsd200.org)** | **[Teacher Academy Summer Intern Tutors](https://jobright.ai/jobs/info/69f1c92f825a315d7ca39e7d?utm_campaign=1057&utm_source=git)** | Grandview, WA | On Site | Apr 28 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
 | **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[City Colleges of Chicago-Olive-Harvey College](http://www.ccc.edu/colleges/olive-harvey/pages/default.aspx)** | **[Intern (Chicago Youth Works)- Olive-Harvey College](https://jobright.ai/jobs/info/69f0282ea4aa3545d8a5d46a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/69f044e2b27fee43e8cd2e8e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Apr 27 |
+| **[Santa Clara Unified School District](http://www.santaclarausd.org)** | **[ELPAC Testers/Scorers - Summer 2026 Hiring Pool](https://jobright.ai/jobs/info/69f0136decbc8c2f731fe4b5?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
