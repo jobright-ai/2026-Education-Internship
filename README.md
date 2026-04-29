@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/69f23334ab4ec4779fff7da1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[Central Boston Elder Services](https://centralboston.org/)** | **[Care Manager Intern](https://jobright.ai/jobs/info/69f23327ab4ec4779fff7d5f?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Apr 29 |
+| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/69f231d7825a315d7ca3b39e?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 29 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern - Vermillion Medical Center - Part Time](https://jobright.ai/jobs/info/69f2318c8feca91f14923741?utm_campaign=1057&utm_source=git)** | SD, Vermillion, US | On Site | Apr 29 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Research Intern - School of Computer Science - HCII](https://jobright.ai/jobs/info/69f22b29ab4ec4779fff7aee?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | Apr 29 |
+| **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelor's Level Internship-Paid](https://jobright.ai/jobs/info/69f22a39825a315d7ca3b08d?utm_campaign=1057&utm_source=git)** | Faribault, MN 55021, USA | On Site | Apr 29 |
+| **[Optum](https://www.optum.com/)** | **[Technology Development Program Internship - Eden Prairie, MN](https://jobright.ai/jobs/info/69f22a228feca91f14923661?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
+| **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Undergraduate Intern – Children’s Programs](https://jobright.ai/jobs/info/69f22a1f8feca91f14923643?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
+| ↳ | **[Masters-Level Intern - Children’s Programs](https://jobright.ai/jobs/info/69f229fe8d8d624381a9f754?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
 | ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f08b2aecbc8c2f731ffa68?utm_campaign=1057&utm_source=git)** | East Hartford, CT | On Site | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69f1c9198d8d624381a9e47d?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | Apr 28 |
-| **[Grandview School District #200](http://gsd200.org)** | **[Teacher Academy Summer Intern Tutors](https://jobright.ai/jobs/info/69f1c92f825a315d7ca39e7d?utm_campaign=1057&utm_source=git)** | Grandview, WA | On Site | Apr 28 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/69f051e7825a315d7ca31c51?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Apr 27 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f166288feca91f1491ffad?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Apr 27 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f1661fb27fee43e8cd8d74?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 27 |
-| **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69f043ec2b095843b031205f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 27 |
-| **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
-| **[The Huntington](http://www.huntington.org/)** | **[Youth Summit Intern](https://jobright.ai/jobs/info/69f03643825a315d7ca31831?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
-| **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Healthcare Intern- Information Technology](https://jobright.ai/jobs/info/69f03064ecbc8c2f731fee32?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 27 |
-| **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Volunteer Program Intern](https://jobright.ai/jobs/info/69f028708feca91f14919dac?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
