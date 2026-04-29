@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[License Outpatient Therapist - LMHC or LCSW or Registered Intern - PRN](https://jobright.ai/jobs/info/69f15eeab27fee43e8cd8b49?utm_campaign=1057&utm_source=git)** | STUART,Florida,United States | On Site | Apr 28 |
 | **[Colorado School of Mines](http://www.mines.edu/)** | **[SHAPE Office Intern: Prevention and Confidential Resource](https://jobright.ai/jobs/info/69f153e7ecbc8c2f732054cc?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | Apr 28 |
 | **[Coloplast](https://www.coloplast.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/69f153e68d8d624381a9ba5c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 28 |
 | **[Monroe #1 BOCES](https://www.linkedin.com/company/39254)** | **[Clerical Assistants - for Cooperative Summer School Program](https://jobright.ai/jobs/info/69f153e2ecbc8c2f732054ac?utm_campaign=1057&utm_source=git)** | Henrietta, NY | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efba83e624fe645d53309b?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Apr 27 |
 | **[InReach NC](https://www.inreachnc.org/)** | **[Internship - Assistant Activities Coordinator (PAID) I/DD](https://jobright.ai/jobs/info/69efe4ff16b2612c2a12c5fd?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 27 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS)/ Temporary](https://jobright.ai/jobs/info/69ec2715dc35f7132c4b5e43?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Apr 27 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Grading Assistant](https://jobright.ai/jobs/info/69efd63a58811370cb148ba2?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
