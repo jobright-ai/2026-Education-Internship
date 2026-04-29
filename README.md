@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Youth Soccer Competitions Intern - Summer 2026](https://jobright.ai/jobs/info/699d59e381476f6176b630c6?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/69f23334ab4ec4779fff7da1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Central Boston Elder Services](https://centralboston.org/)** | **[Care Manager Intern](https://jobright.ai/jobs/info/69f23327ab4ec4779fff7d5f?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Apr 29 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/69f231d7825a315d7ca3b39e?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Lecturer - Art and Design - INTERNAL ONLY](https://jobright.ai/jobs/info/69f0abdb8feca91f1491bb41?utm_campaign=1057&utm_source=git)** | Bedford, IN | On Site | Apr 28 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f08b2aecbc8c2f731ffa68?utm_campaign=1057&utm_source=git)** | East Hartford, CT | On Site | Apr 28 |
 | **[Raytheon](http://www.bbn.com)** | **[Intern: Summer 2026 - Global Supply Chain (Onsite)](https://jobright.ai/jobs/info/69f0762f8feca91f1491ac9f?utm_campaign=1057&utm_source=git)** | east hartford, Connecticut, United States of America | On Site | Apr 28 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Due South Internship - WUNC Youth Reporting Internship](https://jobright.ai/jobs/info/69f1c9198d8d624381a9e47d?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
