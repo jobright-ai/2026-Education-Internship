@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc72?utm_campaign=1057&utm_source=git)** | Wakefield, MA | On Site | Apr 29 |
+| **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/69f3221f1f90bd6ae23cdaa8?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 29 |
+| **[Sloane Stecker Physical Therapy PC](https://sloanestecker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f318cb8feca91f149298ed?utm_campaign=1057&utm_source=git)** | Irvington, NY | On Site | Apr 29 |
 | **[Mapleton Public Schools](https://www.mapleton.us)** | **[Demonstration Classroom, Elementary or Secondary Teacher (Interna Candidates Only)](https://jobright.ai/jobs/info/69f2d87eab4ec4779fffd749?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Global Help and Support Operations Content and Development](https://jobright.ai/jobs/info/69f2d828825a315d7ca4104a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 29 |
 | **[Adams and Associates, Inc.](https://www.adamsaai.com/)** | **[Human Services Intern (61539)](https://jobright.ai/jobs/info/69f2cdacecbc8c2f7320db91?utm_campaign=1057&utm_source=git)** | Exeter - Exeter, RI 02822 | On Site | Apr 29 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Undergraduate Intern – Children’s Programs](https://jobright.ai/jobs/info/69f22a1f8feca91f14923643?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | ↳ | **[Masters-Level Intern - Children’s Programs](https://jobright.ai/jobs/info/69f229fe8d8d624381a9f754?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
-| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Wentzville School District](https://www.wentzville.k12.mo.us/)** | **[Elementary Administrative Intern](https://jobright.ai/jobs/info/69f245a0ab4ec4779fff842d?utm_campaign=1057&utm_source=git)** | Foristell, MO | On Site | Apr 29 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Lung Association](http://www.lung.org)** | **[Development Intern - Summer 2026](https://jobright.ai/jobs/info/69f150308d8d624381a9b923?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 28 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 1](https://jobright.ai/jobs/info/69f1500d8feca91f1491fb30?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 28 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69f1ba148d8d624381a9e241?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 28 |
-| **[Campus](http://campus.edu)** | **[English Composition Instructor](https://jobright.ai/jobs/info/69f1412fecbc8c2f73204ebd?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 28 |
-| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/69f140d28d8d624381a9b3c6?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
