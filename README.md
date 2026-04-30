@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af19e31f0a2a568a05f08c?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Apr 30 |
+| **[Fulton County Schools](http://www.fultonschools.org/en)** | **[TAG Career Intern](https://jobright.ai/jobs/info/69f3816a343eef4fb0a9aa14?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Waged GED Program Internship HEBCAC (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bbf09545e08b3dc1f7c146?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f3763958b23a2329da48d9?utm_campaign=1057&utm_source=git)** | US-TN-Nashville | On Site | Apr 30 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69f376236942c746fa69159c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | On Site | Apr 30 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Elementary Math Intervention/Data Specialist 2026-2027 School Year (8103)](https://jobright.ai/jobs/info/69d7ac37f4ea471a51fdee21?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | Apr 30 |
@@ -68,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: US Global Clinical Operations Excellence Innovation & Transformation Intern (Remote)](https://jobright.ai/jobs/info/69bb4bb35697383741414a25?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Life Science](https://jobright.ai/jobs/info/69f35613461b9b613a61fb28?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Spanish](https://jobright.ai/jobs/info/69f358aa6942c746fa690db5?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69f3562b1f90bd6ae23ce807?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Ethnic Studies](https://jobright.ai/jobs/info/69f34e3fc78b9e4518954482?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3da0?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - History](https://jobright.ai/jobs/info/69f34e4b58b23a2329da3d9e?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc72?utm_campaign=1057&utm_source=git)** | Wakefield, MA | On Site | Apr 29 |
@@ -130,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/69f23334ab4ec4779fff7da1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Central Boston Elder Services](https://centralboston.org/)** | **[Care Manager Intern](https://jobright.ai/jobs/info/69f23327ab4ec4779fff7d5f?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Apr 29 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern - Vermillion Medical Center - Part Time](https://jobright.ai/jobs/info/69f2318c8feca91f14923741?utm_campaign=1057&utm_source=git)** | SD, Vermillion, US | On Site | Apr 29 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2dfaa825a315d7ca41224?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Apr 29 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Research Intern - School of Computer Science - HCII](https://jobright.ai/jobs/info/69f22b29ab4ec4779fff7aee?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | Apr 29 |
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelor's Level Internship-Paid](https://jobright.ai/jobs/info/69f22a39825a315d7ca3b08d?utm_campaign=1057&utm_source=git)** | Faribault, MN 55021, USA | On Site | Apr 29 |
 | **[Optum](https://www.optum.com/)** | **[Technology Development Program Internship - Eden Prairie, MN](https://jobright.ai/jobs/info/69f22a228feca91f14923661?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westminster Public Schools](https://www.westminsterpublicschools.org/)** | **[Instructional Service Coordinator - Childcare 2026-27 School Year **REPOST**](https://jobright.ai/jobs/info/69f1c8a6ecbc8c2f73208017?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Apr 28 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/69f18ffdecbc8c2f73206e8f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186d38d8d624381a9ca9e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
-| ↳ | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f186afb27fee43e8cd98e7?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 28 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
