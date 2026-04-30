@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29740f154d768fbaa800c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 29 |
+| **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f2a4b48d8d624381aa1ebc?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Apr 29 |
+| **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29b0c8d8d624381aa1d22?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 29 |
+| **[Eastern Michigan University](http://www.emich.edu/)** | **[LGBT Resource Center Graduate Assistant](https://jobright.ai/jobs/info/69f29b0a8d8d624381aa1d12?utm_campaign=1057&utm_source=git)** | Ypsilanti, MI | On Site | Apr 29 |
+| **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29af5ab4ec4779fffa0dc?utm_campaign=1057&utm_source=git)** | Greater Tampa Bay Area | On Site | Apr 29 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69f29740f154d768fbaa800c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 29 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69f29735ecbc8c2f7320b859?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Apr 29 |
 | **[BridgeBio](http://bridgebio.com)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/69f292f7ecbc8c2f7320b4ea?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[Youth Services Intern](https://jobright.ai/jobs/info/69f292ebecbc8c2f7320b4a4?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 28 |
 | **[WorkSource Oregon](https://worksourceoregon.org)** | **[Summer Internship - Camp Assistant](https://jobright.ai/jobs/info/69f118ba8feca91f1491e864?utm_campaign=1057&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 28 |
 | **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Apr 28 |
-| **[Bentley University](http://www.bentley.edu/)** | **[Graduate Intern for Center for International Students and Scholars (temporary, part-time)](https://jobright.ai/jobs/info/69b8855156973837413de91a?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Apr 28 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/69f10e10825a315d7ca359ac?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 28 |
-| ↳ | **[Campus Intern](https://jobright.ai/jobs/info/69f10df88feca91f1491e235?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Apr 28 |
-| **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Resident Services - Central Office, Hayward](https://jobright.ai/jobs/info/69f10ddc62b48c6838793453?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
