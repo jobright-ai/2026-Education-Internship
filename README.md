@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Clinical Psychology Intern - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/69f2af14825a315d7ca3df68?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Apr 29 |
+| **[Turning Point USA](https://www.tpusa.com)** | **[College Field Program Intern](https://jobright.ai/jobs/info/69f2ada3ecbc8c2f7320bd06?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 29 |
+| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2ad99ab4ec4779fffa4d1?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Apr 29 |
 | **[Ace Electric, Inc](http://aceelectric.net)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69f2a4b48d8d624381aa1ebc?utm_campaign=1057&utm_source=git)** | Valdosta, GA | On Site | Apr 29 |
 | **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29b0c8d8d624381aa1d22?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 29 |
 | **[Eastern Michigan University](http://www.emich.edu/)** | **[LGBT Resource Center Graduate Assistant](https://jobright.ai/jobs/info/69f29b0a8d8d624381aa1d12?utm_campaign=1057&utm_source=git)** | Ypsilanti, MI | On Site | Apr 29 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Undergraduate Intern – Children’s Programs](https://jobright.ai/jobs/info/69f22a1f8feca91f14923643?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | ↳ | **[Masters-Level Intern - Children’s Programs](https://jobright.ai/jobs/info/69f229fe8d8d624381a9f754?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
-| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
+| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Wentzville School District](https://www.wentzville.k12.mo.us/)** | **[Elementary Administrative Intern](https://jobright.ai/jobs/info/69f245a0ab4ec4779fff842d?utm_campaign=1057&utm_source=git)** | Foristell, MO | On Site | Apr 29 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colgate University](http://www.colgate.edu/)** | **[Psychological Science Teaching and Laboratory Intern](https://jobright.ai/jobs/info/69f140ca8d8d624381a9b3a1?utm_campaign=1057&utm_source=git)** | Hamilton, NY | On Site | Apr 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Instructional Design Intern: Training Design & Development Job ID : 276056](https://jobright.ai/jobs/info/69f141e7b27fee43e8cd8434?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Apr 28 |
 | **[Coral Shores Behavioral Health](https://coralshoresbehavioral.com)** | **[License Outpatient Therapist - LMHC or LCSW or Registered Intern - PRN](https://jobright.ai/jobs/info/69f1414a62b48c6838794bcf?utm_campaign=1057&utm_source=git)** | Stuart, FL | On Site | Apr 28 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Apr 28 |
-| **[WorkSource Oregon](https://worksourceoregon.org)** | **[Summer Internship - Camp Assistant](https://jobright.ai/jobs/info/69f118ba8feca91f1491e864?utm_campaign=1057&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Apr 28 |
-| **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
