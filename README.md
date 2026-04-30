@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc72?utm_campaign=1057&utm_source=git)** | Wakefield, MA | On Site | Apr 29 |
 | **[Mapleton Public Schools](https://www.mapleton.us)** | **[Demonstration Classroom, Elementary or Secondary Teacher (Interna Candidates Only)](https://jobright.ai/jobs/info/69f2d87eab4ec4779fffd749?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Global Help and Support Operations Content and Development](https://jobright.ai/jobs/info/69f2d828825a315d7ca4104a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 29 |
 | **[Adams and Associates, Inc.](https://www.adamsaai.com/)** | **[Human Services Intern (61539)](https://jobright.ai/jobs/info/69f2cdacecbc8c2f7320db91?utm_campaign=1057&utm_source=git)** | Exeter - Exeter, RI 02822 | On Site | Apr 29 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Olive Ave Health Center - Master's Degree Level](https://jobright.ai/jobs/info/69f2ea3134c4af7a79ab7e5a?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Apr 29 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern, Global Help and Support Operations Content and Development](https://jobright.ai/jobs/info/69f2f7228d8d624381aa49c3?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 29 |
 | **[Darlington County School District](www.dcsdschools.org)** | **[INTERNAL ONLY - 2026 R2S Summer Reading Camp Related Arts Teacher](https://jobright.ai/jobs/info/69f2cc31ab4ec4779fffc1a3?utm_campaign=1057&utm_source=git)** | Darlington, SC | On Site | Apr 29 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[High School Intern - Education](https://jobright.ai/jobs/info/69f2dff08feca91f14928bb5?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Apr 29 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Clinical Psychology Intern - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/69f2af14825a315d7ca3df68?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Apr 29 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Newport Mental Health](http://www.newportmentalhealth.org/)** | **[Undergraduate Intern – Children’s Programs](https://jobright.ai/jobs/info/69f22a1f8feca91f14923643?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | ↳ | **[Masters-Level Intern - Children’s Programs](https://jobright.ai/jobs/info/69f229fe8d8d624381a9f754?utm_campaign=1057&utm_source=git)** | Middletown, RI | On Site | Apr 29 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f2264d825a315d7ca3b05c?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Apr 29 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
-| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008d8d624381a9f6ff?utm_campaign=1057&utm_source=git)** | Carmel, IN, US | On Site | Apr 29 |
+| ↳ | **[Student Nurse Intern Mother Baby Unit](https://jobright.ai/jobs/info/69f226008feca91f1492353b?utm_campaign=1057&utm_source=git)** | US-IN-Carmel | On Site | Apr 29 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69baa7dd5697383741407be7?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 29 |
 | **[Wentzville School District](https://www.wentzville.k12.mo.us/)** | **[Elementary Administrative Intern](https://jobright.ai/jobs/info/69f245a0ab4ec4779fff842d?utm_campaign=1057&utm_source=git)** | Foristell, MO | On Site | Apr 29 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Alumni and Development Intern](https://jobright.ai/jobs/info/69f20b02ecbc8c2f732088ca?utm_campaign=1057&utm_source=git)** | Lawrenceville | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Faculty Intern Temporary -- Professional Expert](https://jobright.ai/jobs/info/69f1ba148d8d624381a9e241?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Apr 28 |
 | **[Campus](http://campus.edu)** | **[English Composition Instructor](https://jobright.ai/jobs/info/69f1412fecbc8c2f73204ebd?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 28 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/69f140d28d8d624381a9b3c6?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | Apr 28 |
-| **[American Red Cross](http://redcross.org)** | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f13bfbb27fee43e8cd816e?utm_campaign=1057&utm_source=git)** | Riverside, CA, US | On Site | Apr 28 |
-| ↳ | **[Bank of America Student Leaders Intern](https://jobright.ai/jobs/info/69f13be28d8d624381a9b2a8?utm_campaign=1057&utm_source=git)** | San Jose, CA, US | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
