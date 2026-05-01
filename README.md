@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Education, Professional Development, & Innovation](https://jobright.ai/jobs/info/69f4bce381706a5bd2162b62?utm_campaign=1057&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 01 |
+| ↳ | **[Healthcare Administration Intern: Education, Professional Development, & Innovation](https://jobright.ai/jobs/info/69f4bb4943a25828a8d146cc?utm_campaign=1057&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 01 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Georgia](https://jobright.ai/jobs/info/69bb0ad33b74eb1e2c8964b7?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 01 |
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Elementary Level Office /  Principal / Elementary School](https://jobright.ai/jobs/info/699fee1e53d97f23ee657ef5?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | May 01 |
 | **[Legends Global](http://legends.net)** | **[Fall 2026 Graduate Student Internship](https://jobright.ai/jobs/info/69f49c86db88714bcdfaee33?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 01 |
@@ -87,14 +89,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a62667f?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c4?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456981f90bd6ae23d44cf?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697697?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456981f90bd6ae23d44cf?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0923?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3bd?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b4?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f456a76942c746fa697692?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092c?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b4?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563b461b9b613a6266a1?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f4569e1f90bd6ae23d44da?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456a76942c746fa697695?utm_campaign=1057&utm_source=git)** | West Allis, WI | On Site | Apr 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f3763958b23a2329da48d9?utm_campaign=1057&utm_source=git)** | US-TN-Nashville | On Site | Apr 30 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69f376236942c746fa69159c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | On Site | Apr 30 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[Elementary Math Intervention/Data Specialist 2026-2027 School Year (8103)](https://jobright.ai/jobs/info/69d7ac37f4ea471a51fdee21?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | Apr 30 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship HEBCAC](https://jobright.ai/jobs/info/69bab1df3b74eb1e2c88e97f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
-| **[Upptik Gives](https://upptik.com)** | **[Upptik Gives Internships](https://jobright.ai/jobs/info/69f366976942c746fa691094?utm_campaign=1057&utm_source=git)** | Connecticut, United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
