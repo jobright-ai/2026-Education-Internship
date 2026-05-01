@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[In-Home Assisted Living Inc.](http://ihal.ca)** | **[EHS Teacher Assistant Paid Internship](https://jobright.ai/jobs/info/69f501f8db88714bcdfb16ce?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | May 01 |
+| **[Downingtown Area School District](http://www.dasd.org)** | **[10-month Administrative Assistant - Elementary](https://jobright.ai/jobs/info/69f16caf825a315d7ca37b46?utm_campaign=1057&utm_source=git)** | Brantford, Ontario, Canada | On Site | May 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Graduate](https://jobright.ai/jobs/info/69f4f2c243a25828a8d15e13?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 01 |
+| **[Oakton College](http://www.oakton.edu/)** | **[FORGE Grant Project Coordinator - Casual/Temporary, Grant](https://jobright.ai/jobs/info/69f51c53a3d34b4f76f53b49?utm_campaign=1057&utm_source=git)** | Des Plaines, IL | Hybrid | May 01 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Program Coordinating Intern](https://jobright.ai/jobs/info/69f5065112f2811ab5a62918?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 01 |
 | ↳ | **[Workforce Development Intern](https://jobright.ai/jobs/info/69f5065312f2811ab5a62924?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 01 |
 | **[Champaign Park District](https://champaignparks.com)** | **[Summer - Recreation Intern](https://jobright.ai/jobs/info/69f4e43343a25828a8d15a32?utm_campaign=1057&utm_source=git)** | Bresnan Meeting Center - CHAMPAIGN, IL 61821 | On Site | May 01 |
@@ -66,9 +68,11 @@ For a complete list, click the following sortable link below:
 | **[FUUDIE](https://infuudie.com/)** | **[FUUDIE Leadership Internship Program](https://jobright.ai/jobs/info/69f4e36f0b36ff035474fa03?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 01 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/69f4e25912f2811ab5a619cc?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 01 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f5011412f2811ab5a624d1?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | May 01 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69f515c281706a5bd2164b54?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 01 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69f4d5a443a25828a8d156fe?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, United States | On Site | May 01 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | May 01 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Learning and Development - Org/Dev Intern](https://jobright.ai/jobs/info/699f8e0a81476f6176b9379b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 01 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/69f51d1c43a25828a8d16ee1?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 01 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Education Intern - HS](https://jobright.ai/jobs/info/69f506df81706a5bd21646d2?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | May 01 |
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[PSAT Intern](https://jobright.ai/jobs/info/69f4f936a3d34b4f76f52b9c?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 01 |
 | **[CRISTA Ministries](https://crista.org/)** | **[Miracle Ranch - Camp Intern](https://jobright.ai/jobs/info/69f4ccfe12f2811ab5a61186?utm_campaign=1057&utm_source=git)** | Port Orchard, WA | On Site | May 01 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69f4c8d2a3d34b4f76f518ed?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, United States | On Site | May 01 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/69f4e6a80b36ff035474fb28?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 01 |
 | ↳ | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/69f4e76d81706a5bd2163cb2?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 01 |
-| **[YMCA of Greater Houston](https://ymcahouston.org/)** | **[Internship - Corporate Paid](https://jobright.ai/jobs/info/69f4ecc70b36ff035474fc93?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/69f5010012f2811ab5a624b6?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 01 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Healthcare Administration Intern: Education, Professional Development, & Innovation](https://jobright.ai/jobs/info/69f4bce381706a5bd2162b62?utm_campaign=1057&utm_source=git)** | Allentown, PA - 1110 American Parkway, US | On Site | May 01 |
 | ↳ | **[Healthcare Administration Intern: Education, Professional Development, & Innovation](https://jobright.ai/jobs/info/69f4bb4943a25828a8d146cc?utm_campaign=1057&utm_source=git)** | Easton, PA - 1872 St Lukes Blvd, US | On Site | May 01 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/69f49bd0a3d34b4f76f50a35?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 01 |
 | **[Polk Mechanical Company](http://polkmechanical.com)** | **[Polk Internship Program](https://jobright.ai/jobs/info/69a159a9b600907a9627adc9?utm_campaign=1057&utm_source=git)** | Grand Prairie, TX | On Site | May 01 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 01 |
-| **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f9f443a25828a8d15e5a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 01 |
-| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f0eaa3d34b4f76f52961?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | May 01 |
+| **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f0eaa3d34b4f76f52961?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | May 01 |
+| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f9f443a25828a8d15e5a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 01 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[(SCHOOL GROUP ROTATIONS ONLY) Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/69ba6e6a56973837413fdf92?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | May 01 |
 | **[RTI International](http://www.rti.org)** | **[Academic Internship (Unpaid)](https://jobright.ai/jobs/info/69f462f4db88714bcdfad4fa?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 01 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance, Economics, and Accounting (Fall 2026)](https://jobright.ai/jobs/info/69f47eb081706a5bd21607aa?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | May 01 |
@@ -115,17 +118,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44bf?utm_campaign=1057&utm_source=git)** | Hinsdale, IL | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697696?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a62667f?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c4?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a62667f?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0923?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697697?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456981f90bd6ae23d44cf?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b4?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f456a76942c746fa697692?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092c?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697697?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0923?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3bd?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092c?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f456a76942c746fa697692?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b4?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563b461b9b613a6266a1?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f4569e1f90bd6ae23d44da?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456a76942c746fa697695?utm_campaign=1057&utm_source=git)** | West Allis, WI | On Site | Apr 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000004299.CLINICAL ASSOCIATE - INTERN.TJPC - STATE AID](https://jobright.ai/jobs/info/69f3d96dc78b9e4518958436?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[WellPower](https://www.wellpower.org/)** | **[Park Place Intern](https://jobright.ai/jobs/info/69f3d965343eef4fb0a9e90e?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000004302.CLINICAL ASSOCIATE - INTERN.TJPC - STATE AID](https://jobright.ai/jobs/info/69f3d94d461b9b613a6247cd?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3d94658b23a2329da84d8?utm_campaign=1057&utm_source=git)** | Pembroke Pines, FL | On Site | Apr 30 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d9031f90bd6ae23d1ccf?utm_campaign=1057&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
-| **[BWXT](http://www.bwxt.com/)** | **[IT Architecture - AI Training Summer Intern](https://jobright.ai/jobs/info/69f3d8c26942c746fa69556a?utm_campaign=1057&utm_source=git)** | Melbourne FL | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
