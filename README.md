@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/69f44682c78b9e4518959ca3?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Apr 30 |
+| **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Summer Intern at Music Industry Non-Profit](https://jobright.ai/jobs/info/69f43f626942c746fa6971eb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[CT United](https://www.ctunited.com)** | **[Gameday Experience Intern [Summer]](https://jobright.ai/jobs/info/69f42a7258b23a2329da9c8d?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Apr 30 |
 | ↳ | **[Gameday Experience Intern [Fall]](https://jobright.ai/jobs/info/69f42a056942c746fa696ed9?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Apr 30 |
 | **[WellPower](https://www.wellpower.org/)** | **[Park Place Intern](https://jobright.ai/jobs/info/69f423f36942c746fa696d04?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 30 |
@@ -122,15 +124,16 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: US Global Clinical Operations Excellence Innovation & Transformation Intern (Remote)](https://jobright.ai/jobs/info/69bb4bb35697383741414a25?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Clinical Program Coordinator - Primary Care Shepard Park](https://jobright.ai/jobs/info/69d6d1ae48f0c8161d2fb60c?utm_campaign=1057&utm_source=git)** | City of Washington County, DC | On Site | Apr 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Life Science](https://jobright.ai/jobs/info/69f35613461b9b613a61fb28?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69f3562b1f90bd6ae23ce807?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Spanish](https://jobright.ai/jobs/info/69f358aa6942c746fa690db5?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Ethnic Studies](https://jobright.ai/jobs/info/69f34e3fc78b9e4518954482?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69f3562b1f90bd6ae23ce807?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3da0?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - History](https://jobright.ai/jobs/info/69f34e4b58b23a2329da3d9e?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc72?utm_campaign=1057&utm_source=git)** | Wakefield, MA | On Site | Apr 29 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/69f3221f1f90bd6ae23cdaa8?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 29 |
 | **[Sloane Stecker Physical Therapy PC](https://sloanestecker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f318cb8feca91f149298ed?utm_campaign=1057&utm_source=git)** | Irvington, NY | On Site | Apr 29 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Nephrology - Chicago-23952](https://jobright.ai/jobs/info/69ba7af03b74eb1e2c8856e4?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[Mapleton Public Schools](https://www.mapleton.us)** | **[Demonstration Classroom, Elementary or Secondary Teacher (Interna Candidates Only)](https://jobright.ai/jobs/info/69f2d87eab4ec4779fffd749?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern, Global Help and Support Operations Content and Development](https://jobright.ai/jobs/info/69f2d828825a315d7ca4104a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 29 |
 | **[Campbell University, College of Pharmacy & Health Sciences](https://cphs.campbell.edu/)** | **[Academic Success Intern](https://jobright.ai/jobs/info/69f43ac2343eef4fb0aa0338?utm_campaign=1057&utm_source=git)** | Buies Creek, NC | Hybrid | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29af5ab4ec4779fffa0dc?utm_campaign=1057&utm_source=git)** | Greater Tampa Bay Area | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Undergrad, IS](https://jobright.ai/jobs/info/69f2c49934c4af7a79ab60c4?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
 | **[Baker Construction](https://bakerconstruction.com)** | **[Intern](https://jobright.ai/jobs/info/69f29740f154d768fbaa800c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 29 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69f29735ecbc8c2f7320b859?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Apr 29 |
-| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[PRTF Clinical Therapist Intern](https://jobright.ai/jobs/info/69f2bd3c8d8d624381aa3a6e?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Apr 29 |
-| **[BridgeBio](http://bridgebio.com)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/69f292f7ecbc8c2f7320b4ea?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
