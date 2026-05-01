@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BWXT](http://www.bwxt.com/)** | **[IT Architecture - AI Training Summer Intern](https://jobright.ai/jobs/info/69f3e37f461b9b613a624b73?utm_campaign=1057&utm_source=git)** | Melbourne, FL | Hybrid | Apr 30 |
+| **[Campus](http://campus.edu)** | **[Web Development Instructor](https://jobright.ai/jobs/info/69f3dfaa343eef4fb0a9eb6e?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000004299.CLINICAL ASSOCIATE - INTERN.TJPC - STATE AID](https://jobright.ai/jobs/info/69f3d96dc78b9e4518958436?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[WellPower](https://www.wellpower.org/)** | **[Park Place Intern](https://jobright.ai/jobs/info/69f3d965343eef4fb0a9e90e?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Apr 30 |
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000004302.CLINICAL ASSOCIATE - INTERN.TJPC - STATE AID](https://jobright.ai/jobs/info/69f3d94d461b9b613a6247cd?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
@@ -96,12 +98,12 @@ For a complete list, click the following sortable link below:
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Secondary Level Office / Principal / Middle School](https://jobright.ai/jobs/info/699ff977ce78e77b4fe608f6?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: US Global Clinical Operations Excellence Innovation & Transformation Intern (Remote)](https://jobright.ai/jobs/info/69bb4bb35697383741414a25?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Faculty Diversity Internship Program - Life Science](https://jobright.ai/jobs/info/69f35613461b9b613a61fb28?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Ethnic Studies](https://jobright.ai/jobs/info/69f34e3fc78b9e4518954482?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69f3562b1f90bd6ae23ce807?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - Spanish](https://jobright.ai/jobs/info/69f358aa6942c746fa690db5?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
-| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3da0?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Business Administration](https://jobright.ai/jobs/info/69f3562b1f90bd6ae23ce807?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Associate Degree Nursing (RN) Medical Surgical](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3d9f?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Ethnic Studies](https://jobright.ai/jobs/info/69f34e3fc78b9e4518954482?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | ↳ | **[Faculty Diversity Internship Program - History](https://jobright.ai/jobs/info/69f34e4b58b23a2329da3d9e?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
+| ↳ | **[Faculty Diversity Internship Program - Psychology](https://jobright.ai/jobs/info/69f34e4c58b23a2329da3da0?utm_campaign=1057&utm_source=git)** | California, United States | Hybrid | Apr 30 |
 | **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship](https://jobright.ai/jobs/info/69f2f70bab4ec4779fffdc72?utm_campaign=1057&utm_source=git)** | Wakefield, MA | On Site | Apr 29 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/69f3221f1f90bd6ae23cdaa8?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Apr 29 |
 | **[Sloane Stecker Physical Therapy PC](https://sloanestecker.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f318cb8feca91f149298ed?utm_campaign=1057&utm_source=git)** | Irvington, NY | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Apr 29 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/69f269a18d8d624381aa0b4b?utm_campaign=1057&utm_source=git)** | Clifton Park, NY | On Site | Apr 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Agentic Programming](https://jobright.ai/jobs/info/69821a80c3101f1400c3c13f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Adult Program Coordinator Intern (CSLP FWS)](https://jobright.ai/jobs/info/69f330d6343eef4fb0a995ae?utm_campaign=1057&utm_source=git)** | AZ Phoenix, US | On Site | Apr 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/69f25c178feca91f14924682?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
