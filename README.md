@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/69f5b62e81706a5bd21670b3?utm_campaign=1057&utm_source=git)** | Danville, CA | On Site | May 02 |
+| **[Alexandria Soccer Association](https://alexandria-soccer.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69f5d2080b36ff0354752fab?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | May 02 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc67316b2612c2a12ba48?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 02 |
+| **[Rally Enterprises](http://www.rallycamps.com/)** | **[Summer Baseball & Softball Internship – Youth Sports Coach / Camp Counselor / Mamaroneck, NY](https://jobright.ai/jobs/info/69f5d04c43a25828a8d19a52?utm_campaign=1057&utm_source=git)** | Mamaroneck, NY | On Site | May 01 |
 | **[Xavier College Preparatory](https://www.xcp.org)** | **[Intern for Athletic Department](https://jobright.ai/jobs/info/69f58cc843a25828a8d19154?utm_campaign=1057&utm_source=git)** | Avondale, AZ | On Site | May 01 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[Frankenthaler Education Intern](https://jobright.ai/jobs/info/69f5587f0b36ff0354751b4b?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | May 01 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/69f55335a3d34b4f76f54c75?utm_campaign=1057&utm_source=git)** | Honolulu, US | On Site | May 01 |
@@ -119,9 +122,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/69f49bd0a3d34b4f76f50a35?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 01 |
 | **[Polk Mechanical Company](http://polkmechanical.com)** | **[Polk Internship Program](https://jobright.ai/jobs/info/69a159a9b600907a9627adc9?utm_campaign=1057&utm_source=git)** | Grand Prairie, TX | On Site | May 01 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 01 |
-| **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f0eaa3d34b4f76f52961?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | May 01 |
-| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f9f443a25828a8d15e5a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 01 |
+| **[Soccer Shots Richmond](https://www.soccershots.com/richmond/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f9f443a25828a8d15e5a?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 01 |
+| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/69f4f0eaa3d34b4f76f52961?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | May 01 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[(SCHOOL GROUP ROTATIONS ONLY) Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/69ba6e6a56973837413fdf92?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | May 01 |
+| **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Signature Hiring Event (All Contents) - May 16th, 2026 - YES Prep Public Schools](https://jobright.ai/jobs/info/69cdb540cdb525785fb8de65?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[North Allegheny School District](http://www.northallegheny.org)** | **[Library Secretary, I-B](https://jobright.ai/jobs/info/69f5c48e43a25828a8d19941?utm_campaign=1057&utm_source=git)** | Wexford, PA | On Site | May 01 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Finance, Economics, and Accounting (Fall 2026)](https://jobright.ai/jobs/info/69f47eb081706a5bd21607aa?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | May 01 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Dual Credit Adjunct, Biology, District 127](https://jobright.ai/jobs/info/69f5a0890b36ff0354752a02?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | May 01 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a62667f?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Experiential Therapist Internship](https://jobright.ai/jobs/info/69f456981f90bd6ae23d44cf?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0923?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697697?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0923?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b4?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f456a76942c746fa697692?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092c?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f45694343eef4fb0aa092b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3bd?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
