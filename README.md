@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/69f613f9a3d34b4f76f5796a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | May 02 |
 | **[American Hospital Association](https://www.aha.org)** | **[Medical Coding Summer Intern](https://jobright.ai/jobs/info/69d93cb4b67cec4f9b0a08e9?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4422?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
+| **[NV5](http://www.nv5.com)** | **[Survey Student Intern](https://jobright.ai/jobs/info/69a0a2f85218a8167671d053?utm_campaign=1057&utm_source=git)** | Alachua, FL | On Site | May 02 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern – Crew Lead](https://jobright.ai/jobs/info/6984ee1e0f6f7e7a2cdf678f?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | May 02 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/69f5b62e81706a5bd21670b3?utm_campaign=1057&utm_source=git)** | Danville, CA | On Site | May 02 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Vheda Health](http://www.vheda.com)** | **[Intern, Vheda Health Internship Program (Summer 2026)](https://jobright.ai/jobs/info/69f5f2efdb88714bcdfb5708?utm_campaign=1057&utm_source=git)** | Columbia, MD | Hybrid | May 02 |
 | **[Alexandria Soccer Association](https://alexandria-soccer.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69f5d2080b36ff0354752fab?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | May 02 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Summer Internship for Students – Baseball Coach / Camp Counselor / Brooklyn, NY (Mets Camps)](https://jobright.ai/jobs/info/69f5fee181706a5bd2168136?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 01 |
+| ↳ | **[Paid Summer Weeklong Internship for Students – Baseball Coach / Camp Counselor / Mill Valley, CA (June 15–19)](https://jobright.ai/jobs/info/69f6138ab1fc847fc1ae27e0?utm_campaign=1057&utm_source=git)** | Mill Valley, CA | On Site | May 01 |
 | ↳ | **[Summer Baseball & Softball Internship – Youth Sports Coach / Camp Counselor / Mamaroneck, NY](https://jobright.ai/jobs/info/69f5d04c43a25828a8d19a52?utm_campaign=1057&utm_source=git)** | Mamaroneck, NY | On Site | May 01 |
 | **[Xavier College Preparatory](https://www.xcp.org)** | **[Intern for Athletic Department](https://jobright.ai/jobs/info/69f58cc843a25828a8d19154?utm_campaign=1057&utm_source=git)** | Avondale, AZ | On Site | May 01 |
 | **[Duke University](http://www.duke.edu)** | **[The Oral History Intern for Community Engagement](https://jobright.ai/jobs/info/69f5ff8ba3d34b4f76f57357?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 01 |
 | **[Johnson County Community College](http://www.jccc.edu)** | **[Frankenthaler Education Intern](https://jobright.ai/jobs/info/69f5587f0b36ff0354751b4b?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | May 01 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/69f55335a3d34b4f76f54c75?utm_campaign=1057&utm_source=git)** | Honolulu, US | On Site | May 01 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/69f552d581706a5bd2165ed3?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | Hybrid | May 01 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Learning Centers (SLCs) Office Clerk Pool](https://jobright.ai/jobs/info/69f61429a3d34b4f76f579c3?utm_campaign=1057&utm_source=git)** | Lakewood, WA | On Site | May 01 |
 | **[Family Care Center](https://www.fcsprings.com/)** | **[Learning Management System Intern](https://jobright.ai/jobs/info/69f544420b36ff03547516df?utm_campaign=1057&utm_source=git)** | Lone Tree, CO | Remote | May 01 |
 | **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[School Psychologist 2026-2027 School Year - Multiple Openings (8567)](https://jobright.ai/jobs/info/69f5777c43a25828a8d18eb4?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | May 01 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern- Principled Innovation Academy](https://jobright.ai/jobs/info/69f53e090b36ff035475164b?utm_campaign=1057&utm_source=git)** | Campus: Tempe, US | On Site | May 01 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f45693343eef4fb0aa0925?utm_campaign=1057&utm_source=git)** | West Allis, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b5?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c3?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
+| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44bf?utm_campaign=1057&utm_source=git)** | Hinsdale, IL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456a86942c746fa697696?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a62667f?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c4?utm_campaign=1057&utm_source=git)** | Brown Deer, WI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
