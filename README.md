@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | May 02 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Academy BCPS AHS Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bc019145e08b3dc1f7e0a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/69f613f9a3d34b4f76f5796a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | May 02 |
 | **[American Hospital Association](https://www.aha.org)** | **[Medical Coding Summer Intern](https://jobright.ai/jobs/info/69d93cb4b67cec4f9b0a08e9?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4422?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b5?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c3?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
