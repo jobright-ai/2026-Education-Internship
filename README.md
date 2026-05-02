@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/69f4e25912f2811ab5a619cc?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 01 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f5011412f2811ab5a624d1?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | May 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69f515c281706a5bd2164b54?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 01 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6966b48b7a34f5392055339d?utm_campaign=1057&utm_source=git)** | Laredo, TX | On Site | May 01 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/69f4d5a443a25828a8d156fe?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, United States | On Site | May 01 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | May 01 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Learning and Development - Org/Dev Intern](https://jobright.ai/jobs/info/699f8e0a81476f6176b9379b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 01 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dual Credit Adjunct, Educational Work Experience, Grant Community High School](https://jobright.ai/jobs/info/69f5a06043a25828a8d193d1?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | May 01 |
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/69f4727a0b36ff035474c8fa?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | May 01 |
 | **[Alberta Health Services](http://www.albertahealthservices.ca)** | **[Youth Test Shopper - Student Position](https://jobright.ai/jobs/info/69f48587a3d34b4f76f4f66c?utm_campaign=1057&utm_source=git)** | Grande Prairie, Alberta, Canada | On Site | May 01 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f4fb8d0b36ff0354750007?utm_campaign=1057&utm_source=git)** | Fairfield, CT | On Site | Apr 30 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f5018bdb88714bcdfb14f9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f5018bdb88714bcdfb14f9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
+| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/69f4fb8d0b36ff0354750007?utm_campaign=1057&utm_source=git)** | Fairfield, CT | On Site | Apr 30 |
 | **[Hopeless Music Academy](https://solo.to/hopelessmusicacademy)** | **[Summer Intern at Music Industry Non-Profit](https://jobright.ai/jobs/info/69f43f626942c746fa6971eb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f456a76942c746fa697690?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563a461b9b613a626672?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Start Therapist Internship (MSW and LPC)](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3b9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f4563c58b23a2329daa3c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 30 |
 | ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 30 |
-| ↳ | **[Spring 2027 Start Dietitian Internship](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44bf?utm_campaign=1057&utm_source=git)** | Hinsdale, IL | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
