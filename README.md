@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69be6d3f393a1008f7446939?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/69f6a3420b36ff03547560d6?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | Hybrid | May 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Student Associate - College of Law Human Rights Quarterly Summer Internship](https://jobright.ai/jobs/info/69f6d5a50b36ff0354756a15?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | May 02 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/69f68ad681706a5bd2169b3b?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Remote | May 02 |
@@ -88,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Vheda Health](http://www.vheda.com)** | **[Intern, Vheda Health Internship Program (Summer 2026)](https://jobright.ai/jobs/info/69f5f2efdb88714bcdfb5708?utm_campaign=1057&utm_source=git)** | Columbia, MD | Hybrid | May 02 |
 | **[Alexandria Soccer Association](https://alexandria-soccer.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69f5d2080b36ff0354752fab?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | May 02 |
-| **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Summer Internship for Students – Baseball Coach / Camp Counselor / Brooklyn, NY (Mets Camps)](https://jobright.ai/jobs/info/69f5fee181706a5bd2168136?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 01 |
+| **[Rally Enterprises](http://www.rallycamps.com/)** | **[Summer Internship for College Students – Camp Counselor / Sports Coach / New Jersey (West Windsor, North Caldwell, Millburn)](https://jobright.ai/jobs/info/69f653b5b1fc847fc1ae3093?utm_campaign=1057&utm_source=git)** | West Windsor, NJ | On Site | May 01 |
 | ↳ | **[Paid Summer Internship for Students – Camp Counselor / Baseball Coach / Connecticut Camps (June–August 2026)](https://jobright.ai/jobs/info/69f647acdb88714bcdfb5d26?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | May 01 |
-| ↳ | **[Summer Internship for College Students – Camp Counselor / Sports Coach / New Jersey (West Windsor, North Caldwell, Millburn)](https://jobright.ai/jobs/info/69f653b5b1fc847fc1ae3093?utm_campaign=1057&utm_source=git)** | West Windsor, NJ | On Site | May 01 |
+| ↳ | **[Paid Summer Internship for Students – Baseball Coach / Camp Counselor / Brooklyn, NY (Mets Camps)](https://jobright.ai/jobs/info/69f5fee181706a5bd2168136?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 01 |
 | ↳ | **[Paid Summer Internship for College Students – Camp Counselor / Sports Coach / Manhattan, NY (July 13–17 & July 27–31)](https://jobright.ai/jobs/info/69f6f219b1fc847fc1ae4c11?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Paid Summer Weeklong Internship for Students – Baseball Coach / Camp Counselor / Mill Valley, CA (June 15–19)](https://jobright.ai/jobs/info/69f6138ab1fc847fc1ae27e0?utm_campaign=1057&utm_source=git)** | Mill Valley, CA | On Site | May 01 |
 | ↳ | **[Summer Baseball & Softball Internship – Youth Sports Coach / Camp Counselor / Mamaroneck, NY](https://jobright.ai/jobs/info/69f5d04c43a25828a8d19a52?utm_campaign=1057&utm_source=git)** | Mamaroneck, NY | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Arlington STEM / 6hr Pre-K School Assistant / NAEYC / 2026 - 2027 School Year](https://jobright.ai/jobs/info/69f4c79ea3d34b4f76f51897?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | May 01 |
 | ↳ | **[Elementary Level Office /  Principal / Elementary School](https://jobright.ai/jobs/info/699fee1e53d97f23ee657ef5?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | May 01 |
 | **[Legends Global](http://legends.net)** | **[Fall 2026 Graduate Student Internship](https://jobright.ai/jobs/info/69f49c86db88714bcdfaee33?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 01 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Graduate](https://jobright.ai/jobs/info/69f6b43db1fc847fc1ae4400?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
