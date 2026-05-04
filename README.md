@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Student Associate - College of Law Human Rights Quarterly Summer Internship](https://jobright.ai/jobs/info/69f6d5a50b36ff0354756a15?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | May 02 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/69f68ad681706a5bd2169b3b?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Remote | May 02 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/69f6b16d0b36ff03547561b3?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | May 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f7e4a80b36ff03547584a3?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | May 02 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f6b0f6db88714bcdfb74ca?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f6b0f6db88714bcdfb74ca?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f7e4a80b36ff03547584a3?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | May 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f77697582f810f9c8cc028?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | May 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69f6affa81706a5bd216a168?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 02 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Training Production Intern](https://jobright.ai/jobs/info/69d5e077e63cea7a8b665d35?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 02 |
