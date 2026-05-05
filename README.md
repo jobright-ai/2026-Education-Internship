@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Intern (Chicago Youth Works) - Youth District Advisory Council](https://jobright.ai/jobs/info/69fa3de381706a5bd2174981?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | May 05 |
+| **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/69fa3dc10b36ff035476150a?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 05 |
+| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69fa3d01db88714bcdfc1d84?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 05 |
+| **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Adventure Science Center-Program Assistant/Intern](https://jobright.ai/jobs/info/69fa3a4b582f810f9c8d4c35?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | May 05 |
 | **[Hyperproof](https://www.hyperproof.io)** | **[Training and Enablement Intern](https://jobright.ai/jobs/info/69fa3756db88714bcdfc1c1d?utm_campaign=1057&utm_source=git)** | United States | Remote | May 05 |
 | **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fa2a86b1fc847fc1aee915?utm_campaign=1057&utm_source=git)** | Mission Support Center - Atlanta, GA 30318 | On Site | May 05 |
 | **[UrbanPromise Trenton](https://urbanpromisetrenton.org/)** | **[Summer Camp Teaching Internship](https://jobright.ai/jobs/info/69fa28b1a3d34b4f76f6447e?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | May 05 |
@@ -84,8 +88,6 @@ For a complete list, click the following sortable link below:
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69f8f874582f810f9c8cf836?utm_campaign=1057&utm_source=git)** | Chicago, IL, USA | Hybrid | May 04 |
 | ↳ | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69f8f756582f810f9c8cf741?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | May 04 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 04 |
-| **[International Institute of St. Louis](https://www.iistl.org)** | **[Summer 2026 Internship - Unpaid](https://jobright.ai/jobs/info/69f8f16e582f810f9c8cf065?utm_campaign=1057&utm_source=git)** | 3401 Arsenal Street, St. Louis, MO, USA | Hybrid | May 04 |
-| ↳ | **[Fall 2026 Internship - Unpaid](https://jobright.ai/jobs/info/69f8f161db88714bcdfbc5c5?utm_campaign=1057&utm_source=git)** | 3401 Arsenal Street, St. Louis, MO, USA | Hybrid | May 04 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Medicine (ETS) / Temporary](https://jobright.ai/jobs/info/69f8f06c81706a5bd216f0ff?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | On Site | May 04 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Intern, School of Medicine (ETS) / Temporary](https://jobright.ai/jobs/info/69f8f06681706a5bd216f0fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | May 04 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[College Intern, School of Medicine (ETS) / Temporary](https://jobright.ai/jobs/info/69f8f06681706a5bd216f0f7?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson County Community College](http://www.jccc.edu)** | **[Frankenthaler Education Intern](https://jobright.ai/jobs/info/69f5587f0b36ff0354751b4b?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | May 01 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/69f552d581706a5bd2165ed3?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | Hybrid | May 01 |
 | **[Family Care Center](https://www.fcsprings.com/)** | **[Learning Management System Intern](https://jobright.ai/jobs/info/69f544420b36ff03547516df?utm_campaign=1057&utm_source=git)** | Lone Tree, CO | Remote | May 01 |
-| **[Queen Creek Unified School District](http://www.qcusd.org/)** | **[School Psychologist 2026-2027 School Year - Multiple Openings (8567)](https://jobright.ai/jobs/info/69f5777c43a25828a8d18eb4?utm_campaign=1057&utm_source=git)** | Queen Creek, AZ | On Site | May 01 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern- Principled Innovation Academy](https://jobright.ai/jobs/info/69f53e090b36ff035475164b?utm_campaign=1057&utm_source=git)** | Campus: Tempe, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
