@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coastal Roots Farm](https://coastalrootsfarm.org/)** | **[Summer Culinary Eductaor Intern](https://jobright.ai/jobs/info/69fa9696db88714bcdfc380c?utm_campaign=1057&utm_source=git)** | Encinitas,CA,US | On Site | May 05 |
 | **[Maui Jim Sunglasses](http://careers.mauijim.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fa70440b36ff0354762834?utm_campaign=1057&utm_source=git)** | Peoria, Il, US | On Site | May 05 |
 | **[Covenant Health](https://www.covenanthealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/69fa670b81706a5bd21756c0?utm_campaign=1057&utm_source=git)** | Seaside, OR, United States | On Site | May 05 |
 | ↳ | **[Clinical Student Intern](https://jobright.ai/jobs/info/69fa5dcddb88714bcdfc29b6?utm_campaign=1057&utm_source=git)** | Portland, OR, United States | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Academy BCPS AHS Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bc019145e08b3dc1f7e0a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[American Hospital Association](https://www.aha.org)** | **[Medical Coding Summer Intern](https://jobright.ai/jobs/info/69d93cb4b67cec4f9b0a08e9?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4422?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern – Crew Lead](https://jobright.ai/jobs/info/6984ee1e0f6f7e7a2cdf678f?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
