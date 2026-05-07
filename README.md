@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Downingtown Area School District](http://www.dasd.org)** | **[10-month Administrative Assistant - Elementary](https://jobright.ai/jobs/info/69f16caf825a315d7ca37b46?utm_campaign=1057&utm_source=git)** | Brantford, Ontario, Canada | On Site | May 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69fbf6b13802c7621fd8e847?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | May 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/69fbef4f3802c7621fd8e525?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 06 |
 | ↳ | **[HTM Intern](https://jobright.ai/jobs/info/69fbf07aa5949019c55b1da2?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 06 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 06 |
 | ↳ | **[Program Intern- Fall (1634)](https://jobright.ai/jobs/info/69decdab5913ad3398140370?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 06 |
 | **[Meeker & Wright Special Education Cooperative (MAWSECO)](http://www.mawseco.k12.mn.us)** | **[School Psychologist, Delano, MN](https://jobright.ai/jobs/info/69fb6ece38179b6f1ae78769?utm_campaign=1057&utm_source=git)** | Howard Lake, MN | On Site | May 06 |
-| **[Reformed Church in America](https://www.rca.org)** | **[Youth Ministry Internship](https://jobright.ai/jobs/info/69fba6a7d21cf86d1e3d46b2?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | May 06 |
 | **[Mansfield City School District](http://www.tygerpride.com)** | **[Head Wrestling Coach](https://jobright.ai/jobs/info/69fb6735d21cf86d1e3d2e19?utm_campaign=1057&utm_source=git)** | Mansfield, OH | On Site | May 06 |
 | **[Dickinson Public School District](http://www.dickinson.k12.nd.us/)** | **[FALL 2026 Regional After School Program Supervisors](https://jobright.ai/jobs/info/69fb648387a4820e6da87d24?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | May 06 |
 | **[CHAPPAQUA CENTRAL SCHOOL DISTRICT](https://www.chappaquaschools.org/)** | **[BOCES Intern (Must Be BOCES Approved)](https://jobright.ai/jobs/info/69fb56e687a4820e6da875b0?utm_campaign=1057&utm_source=git)** | Chappaqua, NY | On Site | May 06 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Blue](https://www.floridablue.com)** | **[Dillard High School Internship](https://jobright.ai/jobs/info/69fb5159d21cf86d1e3d1e7a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | May 05 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/69fb5125ffa73664aeafe8de?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd01d21cf86d1e3d51ee?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8257?utm_campaign=1057&utm_source=git)** | Rosenberg, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd2387a4820e6da8ad25?utm_campaign=1057&utm_source=git)** | Manvel, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbccd5ffa73664aeb02243?utm_campaign=1057&utm_source=git)** | Humble, TX | Hybrid | May 05 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8257?utm_campaign=1057&utm_source=git)** | Rosenberg, TX | Hybrid | May 05 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbced438179b6f1ae7b054?utm_campaign=1057&utm_source=git)** | Sienna, TX | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
