@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Secondary Director of Campus Operations - YES Prep Public Schools - (SY 26-27)](https://jobright.ai/jobs/info/69fbaa6238179b6f1ae7a805?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[Replit](https://replit.com)** | **[Education Team Intern](https://jobright.ai/jobs/info/69fba923ffa73664aeb01830?utm_campaign=1057&utm_source=git)** | Foster City, CA | On Site | May 06 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Assistant (Professional Development)](https://jobright.ai/jobs/info/69e956ab3aa0c479643a93ee?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 06 |
+| **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02381?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | May 06 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Childcare Intern](https://jobright.ai/jobs/info/69fb9a8438179b6f1ae7a025?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | May 06 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Flex Fights Series](https://flexfights.com/)** | **[Combat Sports Intensive (Internship Program)](https://jobright.ai/jobs/info/69fb91b738179b6f1ae79574?utm_campaign=1057&utm_source=git)** | Bay Shore, NY | On Site | May 06 |
@@ -99,11 +100,19 @@ For a complete list, click the following sortable link below:
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Summer Graduate Intern - Anesthesia](https://jobright.ai/jobs/info/69fb60b538179b6f1ae77d78?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | May 06 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a7dec22f8310ab048af?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | May 06 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69fb6d2518b94b2515be25b1?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | May 06 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd14a38179b6f1ae7b067?utm_campaign=1057&utm_source=git)** | Indian Trail, NC | Hybrid | May 06 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd14938179b6f1ae7b065?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | May 06 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd1ae86d5cd46527d8264?utm_campaign=1057&utm_source=git)** | Steele Creek, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd24e87a4820e6da8ad3b?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd260d21cf86d1e3d520a?utm_campaign=1057&utm_source=git)** | Waxhaw, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd201ffa73664aeb02266?utm_campaign=1057&utm_source=git)** | Huntersville, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd14a38179b6f1ae7b067?utm_campaign=1057&utm_source=git)** | Indian Trail, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd201ffa73664aeb02265?utm_campaign=1057&utm_source=git)** | Concord, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd25fd21cf86d1e3d5209?utm_campaign=1057&utm_source=git)** | Lower Fork, NC | Hybrid | May 06 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd03b18b94b2515be4f7a?utm_campaign=1057&utm_source=git)** | Mooresville, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd25087a4820e6da8ad3c?utm_campaign=1057&utm_source=git)** | Matthews, NC | Hybrid | May 06 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd03d18b94b2515be4f7b?utm_campaign=1057&utm_source=git)** | Eastover, NC | Hybrid | May 06 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd03a18b94b2515be4f79?utm_campaign=1057&utm_source=git)** | Concord, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd261d21cf86d1e3d520b?utm_campaign=1057&utm_source=git)** | Oak Forest, NC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd1af86d5cd46527d8265?utm_campaign=1057&utm_source=git)** | Fort Mill, SC | Hybrid | May 06 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd1faffa73664aeb02263?utm_campaign=1057&utm_source=git)** | Newell, NC | Hybrid | May 06 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcfcc87a4820e6da8ad34?utm_campaign=1057&utm_source=git)** | Pineville, NC | Hybrid | May 06 |
 | **[NACSW – North American Association of Christians in Social Work](http://www.nacsw.org)** | **[CPE Internship Program - Summer 2026 (All Saints)](https://jobright.ai/jobs/info/69fb703886d5cd46527d5c21?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[CPE Internship Program - Summer 2026 (BUMC)](https://jobright.ai/jobs/info/69fb6018d21cf86d1e3d26d7?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 06 |
@@ -131,10 +140,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbced438179b6f1ae7b054?utm_campaign=1057&utm_source=git)** | Sienna, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb5608d21cf86d1e3d22f0?utm_campaign=1057&utm_source=git)** | Prosper, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd6718b94b2515be4f6a?utm_campaign=1057&utm_source=git)** | Pearland, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8253?utm_campaign=1057&utm_source=git)** | Katy, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf74ffa73664aeb02258?utm_campaign=1057&utm_source=git)** | Spring, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb5ea238179b6f1ae77958?utm_campaign=1057&utm_source=git)** | Wylie, TX | Hybrid | May 05 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8253?utm_campaign=1057&utm_source=git)** | Katy, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd02918b94b2515be4f76?utm_campaign=1057&utm_source=git)** | Fuquay-Varina, NC | Hybrid | May 05 |
+| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd24ed21cf86d1e3d5207?utm_campaign=1057&utm_source=git)** | Neuse, NC | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf73ffa73664aeb02256?utm_campaign=1057&utm_source=git)** | Kingwood, WV | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcecc38179b6f1ae7b04f?utm_campaign=1057&utm_source=git)** | League City, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb55fcffa73664aeafeab0?utm_campaign=1057&utm_source=git)** | Irving, TX | Hybrid | May 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3386d5cd46527d8251?utm_campaign=1057&utm_source=git)** | West Lake Hills, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd02b18b94b2515be4f78?utm_campaign=1057&utm_source=git)** | Beaver Creek, NC | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb55ee86d5cd46527d4d60?utm_campaign=1057&utm_source=git)** | McKinney, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf74ffa73664aeb02257?utm_campaign=1057&utm_source=git)** | South Houston, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8255?utm_campaign=1057&utm_source=git)** | Cypress, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd01d21cf86d1e3d51ed?utm_campaign=1057&utm_source=git)** | Copperfield, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbd13e38179b6f1ae7b063?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb5ea238179b6f1ae7795a?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbceca38179b6f1ae7b04e?utm_campaign=1057&utm_source=git)** | Mills County, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd2687a4820e6da8ad29?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb5ea238179b6f1ae77959?utm_campaign=1057&utm_source=git)** | Forney, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb55fcffa73664aeafeab1?utm_campaign=1057&utm_source=git)** | Rowlett, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst](https://jobright.ai/jobs/info/69fb55f587a4820e6da87461?utm_campaign=1057&utm_source=git)** | Princeton, TX | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
