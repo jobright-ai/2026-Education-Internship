@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fc32aa2275c9640f52c014?utm_campaign=1057&utm_source=git)** | Palatine, IL, US | On Site | May 06 |
+| ↳ | **[Alumni Services Program Intern](https://jobright.ai/jobs/info/69fc30d83802c7621fd8ff44?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | May 06 |
 | **[Downingtown Area School District](http://www.dasd.org)** | **[10-month Administrative Assistant - Elementary](https://jobright.ai/jobs/info/69f16caf825a315d7ca37b46?utm_campaign=1057&utm_source=git)** | Brantford, Ontario, Canada | On Site | May 06 |
+| **[The Chicago School](http://thechicagoschool.edu)** | **[Director of Internship Consortium , Pacific Coast Internship Consortium - Southern California Campuses](https://jobright.ai/jobs/info/69fc312676c60e7b70af2734?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
+| ↳ | **[Director of Internship Consortium, Mid Atlantic Internship Consortium - DC Campus](https://jobright.ai/jobs/info/69fc3135a5949019c55b378d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 06 |
 | **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[Extension Agent, 4-H (Assistant, Associate or Full Agent)](https://jobright.ai/jobs/info/69fc143d3802c7621fd8f8b3?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69fbf6b13802c7621fd8e847?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | May 06 |
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Psychologist Intern (205 Days)](https://jobright.ai/jobs/info/69fc0f7d3160b250eb1bbc5e?utm_campaign=1057&utm_source=git)** | Special Education9400 N CENTRAL EXPRESSWAY | On Site | May 06 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CHAPPAQUA CENTRAL SCHOOL DISTRICT](https://www.chappaquaschools.org/)** | **[BOCES Intern (Must Be BOCES Approved)](https://jobright.ai/jobs/info/69fb56e687a4820e6da875b0?utm_campaign=1057&utm_source=git)** | Chappaqua, NY | On Site | May 06 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Summer Student Intern - Tracy Medical Center - PRN](https://jobright.ai/jobs/info/69fb5621ffa73664aeafeafa?utm_campaign=1057&utm_source=git)** | Tracy, MN | On Site | May 05 |
 | **[City of St. Helens](https://www.sthelensoregon.gov)** | **[Seasonal Library Intern (Age 16 to 18)](https://jobright.ai/jobs/info/69fbee84a5949019c55b1984?utm_campaign=1057&utm_source=git)** | St Helens, OR | On Site | May 05 |
-| **[Florida Blue](https://www.floridablue.com)** | **[Dillard High School Internship](https://jobright.ai/jobs/info/69fb5159d21cf86d1e3d1e7a?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | May 05 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/69fb5125ffa73664aeafe8de?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd01d21cf86d1e3d51ee?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8257?utm_campaign=1057&utm_source=git)** | Rosenberg, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd2387a4820e6da8ad25?utm_campaign=1057&utm_source=git)** | Manvel, TX | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
