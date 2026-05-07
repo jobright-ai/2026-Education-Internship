@@ -73,12 +73,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4c6666f063d3d6d2175?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th, US | Hybrid | May 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4c6666f063d3d6d2174?utm_campaign=1057&utm_source=git)** | Dallas - Main, US | Hybrid | May 07 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4c6666f063d3d6d2174?utm_campaign=1057&utm_source=git)** | Dallas - Main, US | Hybrid | May 07 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4c6666f063d3d6d2175?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4bbb113035a9f8ed242?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4bbb113035a9f8ed241?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4b06b788e7e7a5c3ed9?utm_campaign=1057&utm_source=git)** | Atlanta - Lenox, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4b06b788e7e7a5c3edc?utm_campaign=1057&utm_source=git)** | Morristown - South, US | Hybrid | May 07 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4b06b788e7e7a5c3ed9?utm_campaign=1057&utm_source=git)** | Atlanta - Lenox, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4ae938a651755f97f5b?utm_campaign=1057&utm_source=git)** | New York - 1166, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4a25cff890b03f34ded?utm_campaign=1057&utm_source=git)** | Boston - High St, US | Hybrid | May 07 |
 | ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4a25cff890b03f34dee?utm_campaign=1057&utm_source=git)** | Seattle - Fifth Avenue, US | Hybrid | May 07 |
@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[New City Kids](https://newcitykids.org)** | **[Teen Life Internship Coordinator](https://jobright.ai/jobs/info/69fcce965cff890b03f339e1?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | May 07 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcca95938a651755f96a5c?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | May 07 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/69fcc983432a3c4da8dff079?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
+| **[LUCY Outreach](https://www.lucyoutreach.org/)** | **[LUCY littles Summer Camp Internship](https://jobright.ai/jobs/info/69fcfd0e432a3c4da8e00b97?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
@@ -107,10 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
 | ↳ | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fc62b8cf5c6d31006979a8?utm_campaign=1057&utm_source=git)** | Irving, TX, US | Hybrid | May 06 |
 | ↳ | **[Teen Career Exploration Intern](https://jobright.ai/jobs/info/69fc65032e6c421278ddbe63?utm_campaign=1057&utm_source=git)** | Sequim, WA, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec1776c60e7b70af05c5?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02381?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | May 06 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/69fbf6b2a5949019c55b21a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
