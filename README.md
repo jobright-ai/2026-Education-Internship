@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/69fce69c5cff890b03f34454?utm_campaign=1057&utm_source=git)** | Hawaii-Honolulu-Dole Service Center | On Site | May 07 |
+| **[Association of Collegiate Schools of Architecture](https://www.acsa-arch.org)** | **[ACSA Programs Intern – Summer 2026](https://jobright.ai/jobs/info/69fcdfb7432a3c4da8dffc43?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcda7e666f063d3d6d1347?utm_campaign=1057&utm_source=git)** | ND, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Rong](https://jobright.ai/jobs/info/69fcd917b113035a9f8ec1a4?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Sabanayagam](https://jobright.ai/jobs/info/69fcd8ff666f063d3d6d11ed?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
-| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
+| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
+| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
 | **[Team Rehabilitation Physical Therapy](https://team-rehab.com/)** | **[Internship - Birmingham Public Schools Students](https://jobright.ai/jobs/info/69fcad5b432a3c4da8dfe5ed?utm_campaign=1057&utm_source=git)** | Birmingham, MI, US | On Site | May 07 |
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Postgraduate Intern - TCH Pediatric Surgical Departments](https://jobright.ai/jobs/info/69fb65a187a4820e6da87f6e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a77ec22f8310ab0489c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 06 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a86a5b03d40c194d597?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 06 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a4894007a2195de562c?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | May 06 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69ea7fdf3aa0c479643b0622?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
