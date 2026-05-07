@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Downingtown Area School District](http://www.dasd.org)** | **[10-month Administrative Assistant - Elementary](https://jobright.ai/jobs/info/69f16caf825a315d7ca37b46?utm_campaign=1057&utm_source=git)** | Brantford, Ontario, Canada | On Site | May 06 |
+| **[NC State Extension Forestry](https://forestry.ces.ncsu.edu/)** | **[Extension Agent, 4-H (Assistant, Associate or Full Agent)](https://jobright.ai/jobs/info/69fc143d3802c7621fd8f8b3?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69fbf6b13802c7621fd8e847?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | May 06 |
+| **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Psychologist Intern (205 Days)](https://jobright.ai/jobs/info/69fc0f7d3160b250eb1bbc5e?utm_campaign=1057&utm_source=git)** | Special Education9400 N CENTRAL EXPRESSWAY | On Site | May 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/69fbef4f3802c7621fd8e525?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 06 |
 | ↳ | **[HTM Intern](https://jobright.ai/jobs/info/69fbf07aa5949019c55b1da2?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 06 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fbf5593160b250eb1baa11?utm_campaign=1057&utm_source=git)** | Irving, TX | Hybrid | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/69fb5125ffa73664aeafe8de?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | May 05 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd01d21cf86d1e3d51ee?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 05 |
 | ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcd2387a4820e6da8ad25?utm_campaign=1057&utm_source=git)** | Manvel, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbcf3486d5cd46527d8257?utm_campaign=1057&utm_source=git)** | Rosenberg, TX | Hybrid | May 05 |
-| ↳ | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/69fbced438179b6f1ae7b054?utm_campaign=1057&utm_source=git)** | Sienna, TX | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
