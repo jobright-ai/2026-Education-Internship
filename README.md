@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd3039b113035a9f8eed9a?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
+| **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program & Outreach Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69fd2762938a651755f993f9?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Road to College and Career Intern](https://jobright.ai/jobs/info/69fd1ec76b788e7e7a5c52f3?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | May 07 |
 | **[Digital Defenders Inc](www.thedigitaldefenders.org)** | **[Research & Policy Learning Fellow (Summer 2026)](https://jobright.ai/jobs/info/69fd156b6b788e7e7a5c50dc?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | May 07 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd0fff666f063d3d6d2ff1?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO, US | Remote | May 07 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Childcare Intern](https://jobright.ai/jobs/info/69fb9a8438179b6f1ae7a025?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | May 06 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Training Programme Director for Old Age Psychiatry, National](https://jobright.ai/jobs/info/69fbf64e3160b250eb1baaf2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | May 06 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec7ea5949019c55b1550?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
-| **[Flex Fight Series](https://flexfights.com/)** | **[Combat Sports Intensive (Internship Program)](https://jobright.ai/jobs/info/69fb91b738179b6f1ae79574?utm_campaign=1057&utm_source=git)** | Bay Shore, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
