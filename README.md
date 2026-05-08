@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fcf4a0938a651755f97f36?utm_campaign=1057&utm_source=git)** | Manhattan, US | On Site | May 07 |
 | **[GrowWise](https://thegrowwise.com)** | **[Part-Time Teachers & Enrollment Support Intern](https://jobright.ai/jobs/info/69fcf34a432a3c4da8e0060b?utm_campaign=1057&utm_source=git)** | Dublin, CA | On Site | May 07 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Association of Collegiate Schools of Architecture](https://www.acsa-arch.org)** | **[ACSA Programs Intern – Summer 2026](https://jobright.ai/jobs/info/69fcdfb7432a3c4da8dffc43?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcda7e666f063d3d6d1347?utm_campaign=1057&utm_source=git)** | ND, US | On Site | May 07 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Communications Master's Intern](https://jobright.ai/jobs/info/69cdeede366bb95ba55048cf?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | May 07 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
 | ↳ | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fc62b8cf5c6d31006979a8?utm_campaign=1057&utm_source=git)** | Irving, TX, US | Hybrid | May 06 |
 | ↳ | **[Teen Career Exploration Intern](https://jobright.ai/jobs/info/69fc65032e6c421278ddbe63?utm_campaign=1057&utm_source=git)** | Sequim, WA, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec1776c60e7b70af05c5?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/69fbd9abffa73664aeb02381?utm_campaign=1057&utm_source=git)** | Hollywood, MD | On Site | May 06 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/69fbf6b2a5949019c55b21a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
