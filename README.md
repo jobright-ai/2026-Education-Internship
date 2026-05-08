@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winter4Kids](https://winter4kids.org)** | **[Program Intern](https://jobright.ai/jobs/info/69fe107c7714cd50b90fdf6a?utm_campaign=1057&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - LENX / Land Banking](https://jobright.ai/jobs/info/69fe10114b9bbf21744ae263?utm_campaign=1057&utm_source=git)** | Miami FL (Waterford), US | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/69fe0f3052e2b44f558ae30f?utm_campaign=1057&utm_source=git)** | University Park, IL, US | On Site | May 08 |
+| **[Alverno College](http://www.alverno.edu)** | **[Assistant Professor of Community Psychology and Internship Coordinator](https://jobright.ai/jobs/info/69fe0c38ad691a11f34eb591?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 08 |
+| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69fe0a4c6bcf315dc8f542d1?utm_campaign=1057&utm_source=git)** | London, ON, Canada | On Site | May 08 |
 | **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Membership (Unpaid)](https://jobright.ai/jobs/info/69fdf8586bcf315dc8f53f1f?utm_campaign=1057&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fdf62b52e2b44f558ada0f?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
@@ -105,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
-| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
 | **[Team Rehabilitation Physical Therapy](https://team-rehab.com/)** | **[Internship - Birmingham Public Schools Students](https://jobright.ai/jobs/info/69fcad5b432a3c4da8dfe5ed?utm_campaign=1057&utm_source=git)** | Birmingham, MI, US | On Site | May 07 |
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
 | ↳ | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fc62b8cf5c6d31006979a8?utm_campaign=1057&utm_source=git)** | Irving, TX, US | Hybrid | May 06 |
 | ↳ | **[Teen Career Exploration Intern](https://jobright.ai/jobs/info/69fc65032e6c421278ddbe63?utm_campaign=1057&utm_source=git)** | Sequim, WA, US | On Site | May 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Child Center of NY](https://childcenterny.org/)** | **[Site Monitor Intern (Campus Magnet)](https://jobright.ai/jobs/info/69fae3d086d5cd46527d0862?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Assistant Director at Rialto KinderCare](https://jobright.ai/jobs/info/69fbf6b03160b250eb1bac7b?utm_campaign=1057&utm_source=git)** | Bloomington, CA | On Site | May 06 |
 | **[Harper College](https://www.harpercollege.edu/index.php)** | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fbec89a5949019c55b1581?utm_campaign=1057&utm_source=git)** | 1200 W Algonquin Road, Palatine, IL, 60067, US | On Site | May 06 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/69fbf03aa5949019c55b1c9f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 06 |
-| **[Utah State University](http://www.usu.edu)** | **[Duchesne County 4-H Summer Intern](https://jobright.ai/jobs/info/69fbab6618b94b2515be49cf?utm_campaign=1057&utm_source=git)** | Duchesne County, UT | On Site | May 06 |
-| **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Secondary Director of Campus Operations - YES Prep Public Schools - (SY 26-27)](https://jobright.ai/jobs/info/69fbaa6238179b6f1ae7a805?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 06 |
-| **[Replit](https://replit.com)** | **[Education Team Intern](https://jobright.ai/jobs/info/69fba923ffa73664aeb01830?utm_campaign=1057&utm_source=git)** | Foster City, CA | On Site | May 06 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec572f9f6b7cf690f63a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
