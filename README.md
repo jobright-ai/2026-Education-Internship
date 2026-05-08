@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe65fa6bcf315dc8f57688?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69fe65eb52e2b44f558b18e1?utm_campaign=1057&utm_source=git)** | Mesa, AZ, US | On Site | May 08 |
+| ↳ | **[[INTERNSHIPS & TRAINING] Summer 2026 Inspire Greatness Intern Program (On-site, Irvine, CA) - UCI](https://jobright.ai/jobs/info/69fe65854b9bbf21744b1414?utm_campaign=1057&utm_source=git)** | Irvine, CA, US | On Site | May 08 |
+| ↳ | **[Summer Internship - Learning & Development Team](https://jobright.ai/jobs/info/69fe62ac6bcf315dc8f57446?utm_campaign=1057&utm_source=git)** | Portsmouth, NH, US | On Site | May 08 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2026 Clark Capital Internship Program](https://jobright.ai/jobs/info/69fe618a52e2b44f558b14cb?utm_campaign=1057&utm_source=git)** | PA - Philadelphia - 1650 Market Street Floor 53, US | On Site | May 08 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69fe4fb34b9bbf21744b0a11?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe48746bcf315dc8f567b1?utm_campaign=1057&utm_source=git)** | United States | Remote | May 08 |
 | ↳ | **[Training Developer-Skillbridge Intern](https://jobright.ai/jobs/info/69fe486bf363bc4dc339d9b0?utm_campaign=1057&utm_source=git)** | North Charleston, SC, US | On Site | May 08 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
-| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
 | **[Team Rehabilitation Physical Therapy](https://team-rehab.com/)** | **[Internship - Birmingham Public Schools Students](https://jobright.ai/jobs/info/69fcad5b432a3c4da8dfe5ed?utm_campaign=1057&utm_source=git)** | Birmingham, MI, US | On Site | May 07 |
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fc3a333926295db8029f15?utm_campaign=1057&utm_source=git)** | Columbia, MD, US | On Site | May 06 |
 | ↳ | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fc32aa2275c9640f52c014?utm_campaign=1057&utm_source=git)** | Palatine, IL, US | On Site | May 06 |
 | ↳ | **[Alumni Services Program Intern](https://jobright.ai/jobs/info/69fc30d83802c7621fd8ff44?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | May 06 |
-| **[Downingtown Area School District](http://www.dasd.org)** | **[10-month Administrative Assistant - Elementary](https://jobright.ai/jobs/info/69f16caf825a315d7ca37b46?utm_campaign=1057&utm_source=git)** | Brantford, Ontario, Canada | On Site | May 06 |
-| **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Childcare Intern](https://jobright.ai/jobs/info/69fc39e03926295db8029ec7?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | May 06 |
-| **[The Chicago School](http://thechicagoschool.edu)** | **[Director of Internship Consortium , Pacific Coast Internship Consortium - Southern California Campuses](https://jobright.ai/jobs/info/69fc312676c60e7b70af2734?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
-| ↳ | **[Director of Internship Consortium, Mid Atlantic Internship Consortium - DC Campus](https://jobright.ai/jobs/info/69fc3135a5949019c55b378d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 06 |
-| **[The Y in Central Maryland](https://ymaryland.org/)** | **[Family Center Intern - Westminster (Hill)](https://jobright.ai/jobs/info/69fc39d79fc67a0b39f475ae?utm_campaign=1057&utm_source=git)** | Westminster, MD | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
