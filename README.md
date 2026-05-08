@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[Training Developer-Skillbridge Intern](https://jobright.ai/jobs/info/69fe1b9952e2b44f558ae7cf?utm_campaign=1057&utm_source=git)** | North Charleston, SC, US | On Site | May 08 |
+| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Member Experience Researcher](https://jobright.ai/jobs/info/69fe19b952e2b44f558ae70d?utm_campaign=1057&utm_source=git)** | Newport News, Virginia, United States | On Site | May 08 |
+| **[Shalom Austin](https://shalomaustin.org)** | **[Anderson High School Business Practicum Internship](https://jobright.ai/jobs/info/69fe16fb52e2b44f558ae6d1?utm_campaign=1057&utm_source=git)** | Austin,TX,US | On Site | May 08 |
+| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[College Intern](https://jobright.ai/jobs/info/69fe152e4b9bbf21744ae50f?utm_campaign=1057&utm_source=git)** | Peabody, MA, US | On Site | May 08 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - RGV Summer Internship (Immediate Opening)](https://jobright.ai/jobs/info/69fe147852e2b44f558ae57c?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | May 08 |
+| **[Bluum](https://www.bluum.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69fe14786bcf315dc8f54947?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | May 08 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Program Intern](https://jobright.ai/jobs/info/69fe107c7714cd50b90fdf6a?utm_campaign=1057&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - LENX / Land Banking](https://jobright.ai/jobs/info/69fe10114b9bbf21744ae263?utm_campaign=1057&utm_source=git)** | Miami FL (Waterford), US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/69fe0f3052e2b44f558ae30f?utm_campaign=1057&utm_source=git)** | University Park, IL, US | On Site | May 08 |
@@ -117,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
 | **[Breakthrough Central Texas](http://breakthroughctx.org)** | **[Summer Program Fellow (Middle School)](https://jobright.ai/jobs/info/69e9ddac58811370cb12f573?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of North Texas](http://unt.edu)** | **[Adjunct Assistant - Biology](https://jobright.ai/jobs/info/69fbf66a2f9f6b7cf6910378?utm_campaign=1057&utm_source=git)** | Denton, TX | Hybrid | May 06 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library Administration Assistant](https://jobright.ai/jobs/info/69debdce433ac8430e0dc381?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 06 |
 | **[Harper College](https://www.harpercollege.edu/index.php)** | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fbec213160b250eb1ba038?utm_campaign=1057&utm_source=git)** | Palatine, IL, United States | On Site | May 06 |
-| **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[UK College of Public Health and 4H Camp Internship Summer 2026](https://jobright.ai/jobs/info/69fbef073802c7621fd8e406?utm_campaign=1057&utm_source=git)** | Greater Lexington Area | Hybrid | May 06 |
-| **[Rides for Ridgefield](https://rides4ridgefield.org)** | **[Training And Process Digitization Intern](https://jobright.ai/jobs/info/69fbeed63802c7621fd8e2d6?utm_campaign=1057&utm_source=git)** | Ridgefield, CT | On Site | May 06 |
-| **[The US Oncology Network](http://www.usoncology.com/)** | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fbf7313802c7621fd8eac0?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | May 06 |
-| **[The Child Center of NY](https://childcenterny.org/)** | **[Site Monitor Intern (Campus Magnet)](https://jobright.ai/jobs/info/69fae3d086d5cd46527d0862?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Assistant Director at Rialto KinderCare](https://jobright.ai/jobs/info/69fbf6b03160b250eb1bac7b?utm_campaign=1057&utm_source=git)** | Bloomington, CA | On Site | May 06 |
-| **[Harper College](https://www.harpercollege.edu/index.php)** | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fbec89a5949019c55b1581?utm_campaign=1057&utm_source=git)** | 1200 W Algonquin Road, Palatine, IL, 60067, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
