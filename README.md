@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VillageFor](https://villagefor.com/)** | **[Intern](https://jobright.ai/jobs/info/69fe3187ad691a11f34ec422?utm_campaign=1057&utm_source=git)** | United States | Remote | May 08 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe2bd36bcf315dc8f55246?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern- Zeikus](https://jobright.ai/jobs/info/69fe2a6a4b9bbf21744aec38?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe20424b9bbf21744ae811?utm_campaign=1057&utm_source=git)** | Remote/Nationwide, USA, US | Remote | May 08 |
@@ -119,15 +120,15 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
-| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
 | **[Team Rehabilitation Physical Therapy](https://team-rehab.com/)** | **[Internship - Birmingham Public Schools Students](https://jobright.ai/jobs/info/69fcad5b432a3c4da8dfe5ed?utm_campaign=1057&utm_source=git)** | Birmingham, MI, US | On Site | May 07 |
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
 | **[Breakthrough Central Texas](http://breakthroughctx.org)** | **[Summer Program Fellow (Middle School)](https://jobright.ai/jobs/info/69e9ddac58811370cb12f573?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Psychologist Intern (205 Days)](https://jobright.ai/jobs/info/69fc0f7d3160b250eb1bbc5e?utm_campaign=1057&utm_source=git)** | Special Education9400 N CENTRAL EXPRESSWAY | On Site | May 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/69fbef4f3802c7621fd8e525?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 06 |
 | ↳ | **[HTM Intern](https://jobright.ai/jobs/info/69fbf07aa5949019c55b1da2?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 06 |
-| **[Grace Hill](http://www.gracehill.com/)** | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fbf5593160b250eb1baa11?utm_campaign=1057&utm_source=git)** | Irving, TX | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
