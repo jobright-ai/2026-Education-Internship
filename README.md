@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69fe4fb34b9bbf21744b0a11?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe48746bcf315dc8f567b1?utm_campaign=1057&utm_source=git)** | United States | Remote | May 08 |
 | ↳ | **[Training Developer-Skillbridge Intern](https://jobright.ai/jobs/info/69fe486bf363bc4dc339d9b0?utm_campaign=1057&utm_source=git)** | North Charleston, SC, US | On Site | May 08 |
 | ↳ | **[Future Builders Internship Program - LENX / Land Banking](https://jobright.ai/jobs/info/69fe48294b9bbf21744b03df?utm_campaign=1057&utm_source=git)** | Miami, FL, US | On Site | May 08 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[Sobeys](http://www.sobeys.com)** | **[Pharmacy Student-PT](https://jobright.ai/jobs/info/69c5105df7bed33dee4827e1?utm_campaign=1057&utm_source=git)** | Fort Frances, ON | On Site | May 08 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | May 08 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/69fda2ba7714cd50b90fbb9a?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 08 |
 | **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fb219c86d5cd46527d2e59?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 07 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c45ad691a11f34e98c1?utm_campaign=1057&utm_source=git)** | Lausche Building615 West Superior Avenue | On Site | May 07 |
 | ↳ | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c26ad691a11f34e98c0?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | May 07 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
 | **[Breakthrough Central Texas](http://breakthroughctx.org)** | **[Summer Program Fellow (Middle School)](https://jobright.ai/jobs/info/69e9ddac58811370cb12f573?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
