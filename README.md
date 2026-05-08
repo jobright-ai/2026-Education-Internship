@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Road to College and Career Intern](https://jobright.ai/jobs/info/69fd1ec76b788e7e7a5c52f3?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | May 07 |
 | **[Digital Defenders Inc](www.thedigitaldefenders.org)** | **[Research & Policy Learning Fellow (Summer 2026)](https://jobright.ai/jobs/info/69fd156b6b788e7e7a5c50dc?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | May 07 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd0fff666f063d3d6d2ff1?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO, US | Remote | May 07 |
 | **[Turkish Philanthropy Funds](http://www.tpfund.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fd0f3eb113035a9f8ee2e3?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
@@ -71,15 +72,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4bbb113035a9f8ed241?utm_campaign=1057&utm_source=git)** | San Francisco - Embarcadero, US | Hybrid | May 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4b06b788e7e7a5c3edc?utm_campaign=1057&utm_source=git)** | Morristown - South, US | Hybrid | May 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4b06b788e7e7a5c3ed9?utm_campaign=1057&utm_source=git)** | Atlanta - Lenox, US | Hybrid | May 07 |
-| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/69fcf4a25cff890b03f34dee?utm_campaign=1057&utm_source=git)** | Seattle - Fifth Avenue, US | Hybrid | May 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fcf4a0938a651755f97f36?utm_campaign=1057&utm_source=git)** | Manhattan, US | On Site | May 07 |
 | **[GrowWise](https://thegrowwise.com)** | **[Part-Time Teachers & Enrollment Support Intern](https://jobright.ai/jobs/info/69fcf34a432a3c4da8e0060b?utm_campaign=1057&utm_source=git)** | Dublin, CA | On Site | May 07 |
 | **[Lewis & Clark College](https://www.lclark.edu)** | **[Career Accelerator Student Intern](https://jobright.ai/jobs/info/69fceea06b788e7e7a5c3c43?utm_campaign=1057&utm_source=git)** | Undergraduate Campus, US | On Site | May 07 |
@@ -98,17 +95,17 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/69fcbcb3b113035a9f8eb42d?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/69fcdc2f5cff890b03f34106?utm_campaign=1057&utm_source=git)** | Canada | Remote | May 07 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - Department of Atlanta Information Management (AIM)](https://jobright.ai/jobs/info/69fcb4ad666f063d3d6d00b9?utm_campaign=1057&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | May 07 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
-| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcce9c938a651755f96aee?utm_campaign=1057&utm_source=git)** | Minnesota, US | On Site | May 07 |
+| ↳ | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcceaf432a3c4da8dff2df?utm_campaign=1057&utm_source=git)** | Wisconsin, US | On Site | May 07 |
 | **[Team Rehabilitation Physical Therapy](https://team-rehab.com/)** | **[Internship - Birmingham Public Schools Students](https://jobright.ai/jobs/info/69fcad5b432a3c4da8dfe5ed?utm_campaign=1057&utm_source=git)** | Birmingham, MI, US | On Site | May 07 |
 | **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69fcc8dd938a651755f96880?utm_campaign=1057&utm_source=git)** | West Chester, Ohio, United States | Hybrid | May 07 |
 | **[Organon](https://www.organon.com)** | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f141218d8d624381a9b577?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | On Site | May 07 |
 | ↳ | **[Intern Undergraduate (June- July 2026) - Facilities and Locations Hub Coordinator](https://jobright.ai/jobs/info/69f13509b27fee43e8cd7b8d?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
 | ↳ | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fc62b8cf5c6d31006979a8?utm_campaign=1057&utm_source=git)** | Irving, TX, US | Hybrid | May 06 |
 | ↳ | **[Teen Career Exploration Intern](https://jobright.ai/jobs/info/69fc65032e6c421278ddbe63?utm_campaign=1057&utm_source=git)** | Sequim, WA, US | On Site | May 06 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/69fbf6b2a5949019c55b21a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Childcare Intern](https://jobright.ai/jobs/info/69fb9a8438179b6f1ae7a025?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | May 06 |
+| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Training Programme Director for Old Age Psychiatry, National](https://jobright.ai/jobs/info/69fbf64e3160b250eb1baaf2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | May 06 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec7ea5949019c55b1550?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
+| **[Flex Fight Series](https://flexfights.com/)** | **[Combat Sports Intensive (Internship Program)](https://jobright.ai/jobs/info/69fb91b738179b6f1ae79574?utm_campaign=1057&utm_source=git)** | Bay Shore, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
