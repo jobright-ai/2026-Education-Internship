@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Membership (Unpaid)](https://jobright.ai/jobs/info/69fdf8586bcf315dc8f53f1f?utm_campaign=1057&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fdf62b52e2b44f558ada0f?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[Sobeys](http://www.sobeys.com)** | **[Pharmacy Student-PT](https://jobright.ai/jobs/info/69c5105df7bed33dee4827e1?utm_campaign=1057&utm_source=git)** | Fort Frances, ON | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Secondary Director of Campus Operations - YES Prep Public Schools - (SY 26-27)](https://jobright.ai/jobs/info/69fbaa6238179b6f1ae7a805?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[Replit](https://replit.com)** | **[Education Team Intern](https://jobright.ai/jobs/info/69fba923ffa73664aeb01830?utm_campaign=1057&utm_source=git)** | Foster City, CA | On Site | May 06 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[HTM Intern](https://jobright.ai/jobs/info/69fbec572f9f6b7cf690f63a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | May 06 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Assistant (Professional Development)](https://jobright.ai/jobs/info/69e956ab3aa0c479643a93ee?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
