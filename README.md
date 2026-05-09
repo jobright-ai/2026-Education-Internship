@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kings Harbor Church](https://www.kingsharbor.org/)** | **[Student Ministries Intern](https://jobright.ai/jobs/info/69ffb35cc4b08448a0b1943d?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | May 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
 | ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
+| ↳ | **[Student Assistant, Intern JBC Library Administration Assistant](https://jobright.ai/jobs/info/69debdce433ac8430e0dc381?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of International Trade and Investment Intern](https://jobright.ai/jobs/info/69ff476da0eddc08c23986ee?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 09 |
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69fef4dac2ffb31f4535d160?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 09 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Head Start Intern](https://jobright.ai/jobs/info/69feb7e9d0dc596b8d119b8b?utm_campaign=1057&utm_source=git)** | Rockport, IN, US | On Site | May 08 |
 | **[CED](http://www.cedcareers.com)** | **[Internship](https://jobright.ai/jobs/info/69feb7a5373fc1347f2d0727?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Anderson High School Business Practicum Internship](https://jobright.ai/jobs/info/69feb6fdd0dc596b8d119b48?utm_campaign=1057&utm_source=git)** | Austin, TX, US | On Site | May 08 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e805910a6e09555302da26?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Intern - Urban League](https://jobright.ai/jobs/info/69fe828b7714cd50b9101733?utm_campaign=1057&utm_source=git)** | Lexington, MA, US | On Site | May 08 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (Per Diem)](https://jobright.ai/jobs/info/69d5bfe1cdb525785fbd300c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcda7e666f063d3d6d1347?utm_campaign=1057&utm_source=git)** | ND, US | On Site | May 07 |
 | **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Communications Master's Intern](https://jobright.ai/jobs/info/69cdeede366bb95ba55048cf?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Temporary High School Intern- Rong](https://jobright.ai/jobs/info/69fcd917b113035a9f8ec1a4?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Sabanayagam](https://jobright.ai/jobs/info/69fcd8ff666f063d3d6d11ed?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Jyothinagaram](https://jobright.ai/jobs/info/69fcd8f35cff890b03f33e65?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
