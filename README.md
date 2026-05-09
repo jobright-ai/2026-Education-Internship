@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Intern - Urban League](https://jobright.ai/jobs/info/69fe828b7714cd50b9101733?utm_campaign=1057&utm_source=git)** | Lexington, MA, US | On Site | May 08 |
 | **[Amy's Kitchen](http://www.amys.com)** | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69fe6f19f363bc4dc339ec39?utm_campaign=1057&utm_source=git)** | White City, Oregon, United States | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe65fa6bcf315dc8f57688?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69fe65eb52e2b44f558b18e1?utm_campaign=1057&utm_source=git)** | Mesa, AZ, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Culinary Eductaor Intern](https://jobright.ai/jobs/info/69fc4740a90a7f57e848e928?utm_campaign=1057&utm_source=git)** | Encinitas, CA, US | On Site | May 06 |
 | ↳ | **[Summer Intern, Learning & Development](https://jobright.ai/jobs/info/69fc43506e32960ebbbe815b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fc3a333926295db8029f15?utm_campaign=1057&utm_source=git)** | Columbia, MD, US | On Site | May 06 |
-| ↳ | **[Admissions Outreach Intern - Temporary Worker](https://jobright.ai/jobs/info/69fc32aa2275c9640f52c014?utm_campaign=1057&utm_source=git)** | Palatine, IL, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
