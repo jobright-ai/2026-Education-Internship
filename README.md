@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Intern - Urban League](https://jobright.ai/jobs/info/69fe828b7714cd50b9101733?utm_campaign=1057&utm_source=git)** | Lexington, MA, US | On Site | May 08 |
 | **[Amy's Kitchen](http://www.amys.com)** | **[Manufacturing Learning & Development Intern](https://jobright.ai/jobs/info/69fe6f19f363bc4dc339ec39?utm_campaign=1057&utm_source=git)** | White City, Oregon, United States | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe65fa6bcf315dc8f57688?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69fe0a4c6bcf315dc8f542d1?utm_campaign=1057&utm_source=git)** | London, ON, Canada | On Site | May 08 |
 | **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Membership (Unpaid)](https://jobright.ai/jobs/info/69fdf8586bcf315dc8f53f1f?utm_campaign=1057&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fdf62b52e2b44f558ada0f?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 08 |
+| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | May 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[Sobeys](http://www.sobeys.com)** | **[Pharmacy Student-PT](https://jobright.ai/jobs/info/69c5105df7bed33dee4827e1?utm_campaign=1057&utm_source=git)** | Fort Frances, ON | On Site | May 08 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | May 08 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c45ad691a11f34e98c1?utm_campaign=1057&utm_source=git)** | Lausche Building615 West Superior Avenue | On Site | May 07 |
 | ↳ | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c26ad691a11f34e98c0?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd3039b113035a9f8eed9a?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
+| **[Demant](https://www.demant.com/)** | **[Extern](https://jobright.ai/jobs/info/69e0c30440a62c1fa93b4bdd?utm_campaign=1057&utm_source=git)** | Stockbridge, GA | On Site | May 07 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program & Outreach Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69fd2762938a651755f993f9?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Road to College and Career Intern](https://jobright.ai/jobs/info/69fd1ec76b788e7e7a5c52f3?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | May 07 |
 | **[Digital Defenders Inc](www.thedigitaldefenders.org)** | **[Research & Policy Learning Fellow (Summer 2026)](https://jobright.ai/jobs/info/69fd156b6b788e7e7a5c50dc?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | May 07 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
@@ -139,10 +142,10 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 07 |
 | **[Breakthrough Central Texas](http://breakthroughctx.org)** | **[Summer Program Fellow (Middle School)](https://jobright.ai/jobs/info/69e9ddac58811370cb12f573?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | May 07 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/69fc3ceb4ab6391714fd49f6?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
-| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer Camp Intern, San Carlos/Belmont](https://jobright.ai/jobs/info/69fc69c06b788e7e7a5becc5?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burien](https://jobright.ai/jobs/info/69fc69bbb113035a9f8e7fec?utm_campaign=1057&utm_source=git)** | WA, US | On Site | May 06 |
 | ↳ | **[Summer Camp Intern, Saratoga](https://jobright.ai/jobs/info/69fc69db5cff890b03f2fc29?utm_campaign=1057&utm_source=git)** | Saratoga, CA, US | On Site | May 06 |
+| ↳ | **[Summer Camp Intern, Burlingame](https://jobright.ai/jobs/info/69fc6995938a651755f92db5?utm_campaign=1057&utm_source=git)** | Burlingame, CA, US | On Site | May 06 |
 | ↳ | **[Internship 1st Year](https://jobright.ai/jobs/info/69fc699a6b788e7e7a5bec5e?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, US | On Site | May 06 |
 | ↳ | **[Enablement & Training Ops Intern](https://jobright.ai/jobs/info/69fc62b8cf5c6d31006979a8?utm_campaign=1057&utm_source=git)** | Irving, TX, US | Hybrid | May 06 |
 | ↳ | **[Teen Career Exploration Intern](https://jobright.ai/jobs/info/69fc65032e6c421278ddbe63?utm_campaign=1057&utm_source=git)** | Sequim, WA, US | On Site | May 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/69fc578348ae180867213190?utm_campaign=1057&utm_source=git)** | Boston, MA, US | On Site | May 06 |
 | ↳ | **[Intern-Undergraduate](https://jobright.ai/jobs/info/69fc488048ae180867212ab1?utm_campaign=1057&utm_source=git)** | Honolulu, HI, US | On Site | May 06 |
 | ↳ | **[Dillard High School Internship](https://jobright.ai/jobs/info/69fc49fbab1b7e27b9fa3136?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | On Site | May 06 |
-| ↳ | **[Summer Culinary Eductaor Intern](https://jobright.ai/jobs/info/69fc4740a90a7f57e848e928?utm_campaign=1057&utm_source=git)** | Encinitas, CA, US | On Site | May 06 |
-| ↳ | **[Summer Intern, Learning & Development](https://jobright.ai/jobs/info/69fc43506e32960ebbbe815b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 06 |
-| ↳ | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fc3a333926295db8029f15?utm_campaign=1057&utm_source=git)** | Columbia, MD, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
