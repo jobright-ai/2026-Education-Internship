@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
+| ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of International Trade and Investment Intern](https://jobright.ai/jobs/info/69ff476da0eddc08c23986ee?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 09 |
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69fef4dac2ffb31f4535d160?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 09 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe4522f363bc4dc339d4bc?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe2bd36bcf315dc8f55246?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern- Zeikus](https://jobright.ai/jobs/info/69fe2a6a4b9bbf21744aec38?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
+| **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 08 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe20424b9bbf21744ae811?utm_campaign=1057&utm_source=git)** | Remote/Nationwide, USA, US | Remote | May 08 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Training Developer-Skillbridge Intern](https://jobright.ai/jobs/info/69fe1b9952e2b44f558ae7cf?utm_campaign=1057&utm_source=git)** | North Charleston, SC, US | On Site | May 08 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Temporary High School Intern- Rong](https://jobright.ai/jobs/info/69fcd917b113035a9f8ec1a4?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Sabanayagam](https://jobright.ai/jobs/info/69fcd8ff666f063d3d6d11ed?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Jyothinagaram](https://jobright.ai/jobs/info/69fcd8f35cff890b03f33e65?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Tchinda](https://jobright.ai/jobs/info/69fcd8e5938a651755f96fbd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| **[Oklahoma State University](https://go.okstate.edu/)** | **[Associate Dean, Research and Graduate Studies 112643](https://jobright.ai/jobs/info/69dff0a1433ac8430e0e32c2?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | May 07 |
-| **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69f2ec2eecbc8c2f7320f209?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 07 |
-| **[New City Kids](https://newcitykids.org)** | **[Teen Life Internship Coordinator](https://jobright.ai/jobs/info/69fcce965cff890b03f339e1?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
