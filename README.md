@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soteria - Security Solutions & Advisory](http://www.soteria.io)** | **[College/University Internship or Student Teaching](https://jobright.ai/jobs/info/6a00e686238f143e8352a8a9?utm_campaign=1057&utm_source=git)** | Sumter, SC | On Site | May 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a00b43c74b5407dd4679c3c?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 10 |
+| **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
 | **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fb219c86d5cd46527d2e59?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 | **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/6a0061e374b5407dd4678665?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | May 10 |
 | **[Rolling Meadows Park District](https://www.rmparks.org)** | **[Summer Intern - Recreation-Athletics (part-time, seasonal)](https://jobright.ai/jobs/info/6a0061d074b5407dd467865c?utm_campaign=1057&utm_source=git)** | Community Center - Rolling Meadows, IL 60008 | On Site | May 10 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern – JBC Library MakerSpace](https://jobright.ai/jobs/info/69d585ba366bb95ba5545bba?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Administrator Co-op](https://jobright.ai/jobs/info/69ef55defbe0994a40eb5c69?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | May 09 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Youth & Prayer Ministry Intern](https://jobright.ai/jobs/info/69fcf758938a651755f98100?utm_campaign=1057&utm_source=git)** | Lexington, KY, US | Hybrid | May 07 |
 | ↳ | **[Intern Undergraduate (Strategy)](https://jobright.ai/jobs/info/69fcf72e432a3c4da8e00880?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[ST Empower Your Life Student Intern Fall 2026](https://jobright.ai/jobs/info/69fcf6b3432a3c4da8e00853?utm_campaign=1057&utm_source=git)** | Jacksonville, IL, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Chalamalasetty](https://jobright.ai/jobs/info/69fcf5fc666f063d3d6d2277?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Student Intern- Chen](https://jobright.ai/jobs/info/69fcf5c5938a651755f98025?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Zhegrova](https://jobright.ai/jobs/info/69fcf58a666f063d3d6d222f?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
