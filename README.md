@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a00b43c74b5407dd4679c3c?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 10 |
+| **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fb219c86d5cd46527d2e59?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 | **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/6a0061e374b5407dd4678665?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | May 10 |
 | **[Rolling Meadows Park District](https://www.rmparks.org)** | **[Summer Intern - Recreation-Athletics (part-time, seasonal)](https://jobright.ai/jobs/info/6a0061d074b5407dd467865c?utm_campaign=1057&utm_source=git)** | Community Center - Rolling Meadows, IL 60008 | On Site | May 10 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Administrator Co-op](https://jobright.ai/jobs/info/69ef55defbe0994a40eb5c69?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | May 09 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Baltimore City) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69e0f77c40a62c1fa93b5deb?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[Sobeys](http://www.sobeys.com)** | **[Pharmacy Student-PT](https://jobright.ai/jobs/info/69c5105df7bed33dee4827e1?utm_campaign=1057&utm_source=git)** | Fort Frances, ON | On Site | May 08 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Writing Program Coordinator](https://jobright.ai/jobs/info/69e272033ce36005badbe3e7?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | May 08 |
-| **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fb219c86d5cd46527d2e59?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 07 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c45ad691a11f34e98c1?utm_campaign=1057&utm_source=git)** | Lausche Building615 West Superior Avenue | On Site | May 07 |
 | ↳ | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c26ad691a11f34e98c0?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd3039b113035a9f8eed9a?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Zhegrova](https://jobright.ai/jobs/info/69fcf58a666f063d3d6d222f?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Gande](https://jobright.ai/jobs/info/69fcf57e5cff890b03f34edf?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
