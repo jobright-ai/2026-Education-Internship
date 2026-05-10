@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 10 |
 | **[Soteria - Security Solutions & Advisory](http://www.soteria.io)** | **[College/University Internship or Student Teaching](https://jobright.ai/jobs/info/6a00e686238f143e8352a8a9?utm_campaign=1057&utm_source=git)** | Sumter, SC | On Site | May 10 |
+| **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
+| **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a00b43c74b5407dd4679c3c?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 10 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[Kings Harbor Church](https://www.kingsharbor.org/)** | **[Student Ministries Intern](https://jobright.ai/jobs/info/69ffb35cc4b08448a0b1943d?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | May 09 |
+| **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
 | ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
 | **[BWXT](http://www.bwxt.com/)** | **[IT Architecture - AI Training Summer Intern](https://jobright.ai/jobs/info/69f3e37f461b9b613a624b73?utm_campaign=1057&utm_source=git)** | Melbourne, FL | Hybrid | May 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Road to College and Career Intern](https://jobright.ai/jobs/info/69fd1ec76b788e7e7a5c52f3?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | May 07 |
 | **[Digital Defenders Inc](www.thedigitaldefenders.org)** | **[Research & Policy Learning Fellow (Summer 2026)](https://jobright.ai/jobs/info/69fd156b6b788e7e7a5c50dc?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | May 07 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd0fff666f063d3d6d2ff1?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO, US | Remote | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Basic Needs Intern](https://jobright.ai/jobs/info/69fcf75f432a3c4da8e008c4?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US | On Site | May 07 |
-| ↳ | **[Summer Intern - Youth & Prayer Ministry Intern](https://jobright.ai/jobs/info/69fcf758938a651755f98100?utm_campaign=1057&utm_source=git)** | Lexington, KY, US | Hybrid | May 07 |
-| ↳ | **[Intern Undergraduate (Strategy)](https://jobright.ai/jobs/info/69fcf72e432a3c4da8e00880?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
-| ↳ | **[ST Empower Your Life Student Intern Fall 2026](https://jobright.ai/jobs/info/69fcf6b3432a3c4da8e00853?utm_campaign=1057&utm_source=git)** | Jacksonville, IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
