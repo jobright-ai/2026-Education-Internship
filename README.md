@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cyber Defenders](https://www.cyberdefendersprogram.com/)** | **[Cyberdefenders Program Intern](https://jobright.ai/jobs/info/69ffd349c4b08448a0b1996f?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | May 09 |
 | **[Kings Harbor Church](https://www.kingsharbor.org/)** | **[Student Ministries Intern](https://jobright.ai/jobs/info/69ffb35cc4b08448a0b1943d?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | May 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
 | ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Association of Collegiate Schools of Architecture](https://www.acsa-arch.org)** | **[ACSA Programs Intern – Summer 2026](https://jobright.ai/jobs/info/69fcdfb7432a3c4da8dffc43?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | May 07 |
 | **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (Per Diem)](https://jobright.ai/jobs/info/69d5bfe1cdb525785fbd300c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern - Athletes InterVarsity (Focus Ministry)](https://jobright.ai/jobs/info/69fcda7e666f063d3d6d1347?utm_campaign=1057&utm_source=git)** | ND, US | On Site | May 07 |
-| **[Kaiser Permanente Bernard J. Tyson School of Medicine](https://medschool.kp.org)** | **[School of Medicine - Communications Master's Intern](https://jobright.ai/jobs/info/69cdeede366bb95ba55048cf?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
