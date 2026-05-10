@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of International Trade and Investment Intern](https://jobright.ai/jobs/info/69ff476da0eddc08c23986ee?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 09 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3d2ebd316bece1bb93?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69fef4dac2ffb31f4535d160?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 09 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics) 2026- 2027 Masters Level Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/69a7401c2672cb0acb4bac1c?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | May 08 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Gomez Luna](https://jobright.ai/jobs/info/69fcf566938a651755f98006?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Macias](https://jobright.ai/jobs/info/69fcf548432a3c4da8e007bd?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Melendez](https://jobright.ai/jobs/info/69fcf53a5cff890b03f34eac?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Patel](https://jobright.ai/jobs/info/69fcf5375cff890b03f34ea1?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
+| ↳ | **[Temporary High School Intern- Medina](https://jobright.ai/jobs/info/69fcf5376b788e7e7a5c3f4b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Serrano](https://jobright.ai/jobs/info/69fcf5365cff890b03f34e98?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Poojary](https://jobright.ai/jobs/info/69fcf51f6b788e7e7a5c3f40?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fcf4a0938a651755f97f36?utm_campaign=1057&utm_source=git)** | Manhattan, US | On Site | May 07 |
-| **[GrowWise](https://thegrowwise.com)** | **[Part-Time Teachers & Enrollment Support Intern](https://jobright.ai/jobs/info/69fcf34a432a3c4da8e0060b?utm_campaign=1057&utm_source=git)** | Dublin, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
