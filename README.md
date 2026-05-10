@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Administrator Co-op](https://jobright.ai/jobs/info/69ef55defbe0994a40eb5c69?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | May 09 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[Cyber Defenders](https://www.cyberdefendersprogram.com/)** | **[Cyberdefenders Program Intern](https://jobright.ai/jobs/info/69ffd349c4b08448a0b1996f?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | May 09 |
 | **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[Kings Harbor Church](https://www.kingsharbor.org/)** | **[Student Ministries Intern](https://jobright.ai/jobs/info/69ffb35cc4b08448a0b1943d?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | May 09 |
@@ -65,12 +67,13 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | ↳ | **[Student Assistant, Intern JBC Library Administration Assistant](https://jobright.ai/jobs/info/69debdce433ac8430e0dc381?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of International Trade and Investment Intern](https://jobright.ai/jobs/info/69ff476da0eddc08c23986ee?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 09 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3d2ebd316bece1bb93?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/69fef4dac2ffb31f4535d160?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 09 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary High School Intern- Ruiz](https://jobright.ai/jobs/info/69fcf51d432a3c4da8e0077b?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fcf4a0938a651755f97f36?utm_campaign=1057&utm_source=git)** | Manhattan, US | On Site | May 07 |
 | **[GrowWise](https://thegrowwise.com)** | **[Part-Time Teachers & Enrollment Support Intern](https://jobright.ai/jobs/info/69fcf34a432a3c4da8e0060b?utm_campaign=1057&utm_source=git)** | Dublin, CA | On Site | May 07 |
-| **[Catalyst Counseling, LLC](https://www.catalystcounselingllc.org)** | **[Clinical Counseling Intern Coordinator](https://jobright.ai/jobs/info/69ff49c4a0eddc08c23988b8?utm_campaign=1057&utm_source=git)** | West Chester, OH, US | On Site | May 07 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[Association of Collegiate Schools of Architecture](https://www.acsa-arch.org)** | **[ACSA Programs Intern – Summer 2026](https://jobright.ai/jobs/info/69fcdfb7432a3c4da8dffc43?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
