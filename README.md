@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
+| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2d9cba8ac8e70ff66e73a?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 10 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fdf62b52e2b44f558ada0f?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 08 |
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df52?utm_campaign=1057&utm_source=git)** | Stillwater, MN | On Site | May 08 |
 | **[Penn State University](http://psu.edu)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/69feb1d21161630dd3b016a2?utm_campaign=1057&utm_source=git)** | Penn State University Park, US | On Site | May 08 |
-| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/69c52e1baa3c2c1995dfb378?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | May 08 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
