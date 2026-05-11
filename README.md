@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Euro School of Tennis](https://euroschooloftennis.com/)** | **[Sports Camp Program Intern](https://jobright.ai/jobs/info/6a0238cafa1aa73213d97e84?utm_campaign=1057&utm_source=git)** | Fremont, CA, US | On Site | May 11 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern High School](https://jobright.ai/jobs/info/6a02255f238f143e83530ca2?utm_campaign=1057&utm_source=git)** | Banner Research (10515 W Sante Fe Dr), US | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f5ddf52f1450d84782f?utm_campaign=1057&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
 | **[Hartwick College](http://www.hartwick.edu/)** | **[Football Staff Intern](https://jobright.ai/jobs/info/6a021f073053db70a117487d?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | May 11 |
@@ -74,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 10 |
 | **[Soteria - Security Solutions & Advisory](http://www.soteria.io)** | **[College/University Internship or Student Teaching](https://jobright.ai/jobs/info/6a00e686238f143e8352a8a9?utm_campaign=1057&utm_source=git)** | Sumter, SC | On Site | May 10 |
+| **[California State University - East Bay](https://www.csueastbay.edu)** | **[SEVIS Records Coordinator & Student Engagement Advisor](https://jobright.ai/jobs/info/6938ea77b95c305f206e2bb9?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | May 10 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 10 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | May 10 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a00b43c74b5407dd4679c3c?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 10 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69e95681e0cd471b2f13ca8d?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 10 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[INTERNSHIPS & TRAINING] Summer 2026 Inspire Greatness Intern Program (On-site, Irvine, CA) - UCI](https://jobright.ai/jobs/info/69fe65854b9bbf21744b1414?utm_campaign=1057&utm_source=git)** | Irvine, CA, US | On Site | May 08 |
 | ↳ | **[Summer Internship - Learning & Development Team](https://jobright.ai/jobs/info/69fe62ac6bcf315dc8f57446?utm_campaign=1057&utm_source=git)** | Portsmouth, NH, US | On Site | May 08 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Clark Capital Internship Program](https://jobright.ai/jobs/info/69fe618a52e2b44f558b14cb?utm_campaign=1057&utm_source=git)** | PA - Philadelphia - 1650 Market Street Floor 53, US | On Site | May 08 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern-EN](https://jobright.ai/jobs/info/6a0233bec2ffb31f4536ae4e?utm_campaign=1057&utm_source=git)** | Whippany, NJ | On Site | May 08 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Summer Assistant Group Leader (CS 300)](https://jobright.ai/jobs/info/69fb2c17d21cf86d1e3d0b90?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 08 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69fe4fb34b9bbf21744b0a11?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 08 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Assistant (Professional Development)](https://jobright.ai/jobs/info/69e956ab3aa0c479643a93ee?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 08 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe4664ad691a11f34ec9fb?utm_campaign=1057&utm_source=git)** | San Jose, CA, US | On Site | May 08 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69feb2bb1161630dd3b01b4a?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 08 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe4522f363bc4dc339d4bc?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
-| **[Mission Edge](https://www.missionedge.org)** | **[Includ(Ed) Summer Internship Opportunity](https://jobright.ai/jobs/info/6a022e54c2ffb31f4536a58d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 08 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe2bd36bcf315dc8f55246?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern- Zeikus](https://jobright.ai/jobs/info/69fe2a6a4b9bbf21744aec38?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[College Intern](https://jobright.ai/jobs/info/69fe152e4b9bbf21744ae50f?utm_campaign=1057&utm_source=git)** | Peabody, MA, US | On Site | May 08 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - RGV Summer Internship (Immediate Opening)](https://jobright.ai/jobs/info/69fe147852e2b44f558ae57c?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | May 08 |
 | **[Bluum](https://www.bluum.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69fe14786bcf315dc8f54947?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | May 08 |
-| **[Winter4Kids](https://winter4kids.org)** | **[Program Intern](https://jobright.ai/jobs/info/69fe107c7714cd50b90fdf6a?utm_campaign=1057&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
