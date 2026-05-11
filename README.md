@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f5ddf52f1450d84782f?utm_campaign=1057&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
+| **[Hartwick College](http://www.hartwick.edu/)** | **[Football Staff Intern](https://jobright.ai/jobs/info/6a021f073053db70a117487d?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | May 11 |
+| **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Fall '26 Readrise Undergraduate Leadership Intern](https://jobright.ai/jobs/info/6a021da2fa1aa73213d96b6b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | May 11 |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Fall (1634)](https://jobright.ai/jobs/info/69decdab5913ad3398140370?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 11 |
 | **[American Psychological Association](http://apa.org/)** | **[Internships at APA - EDI Program Support and Operations Internship](https://jobright.ai/jobs/info/6a02098ddf52f1450d846f91?utm_campaign=1057&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 11 |
 | ↳ | **[Internships at APA - Workforce Studies Internship](https://jobright.ai/jobs/info/6a020955238f143e835300ad?utm_campaign=1057&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 11 |
 | **[Miami Valley Child Development Centers, Inc.](https://www.mvcdc.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a0206bbc2ffb31f453692df?utm_campaign=1057&utm_source=git)** | Dayton, OH, US | On Site | May 11 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a02056b238f143e8352fe35?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 11 |
 | **[Santander](https://www.santander.com/)** | **[Intern - CSU NY](https://jobright.ai/jobs/info/6a02019edf52f1450d846a7c?utm_campaign=1057&utm_source=git)** | Madison Ave Corp, US | On Site | May 11 |
 | **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
+| **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2d9cba8ac8e70ff66e73a?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bluum](https://www.bluum.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69fe14786bcf315dc8f54947?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | May 08 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Program Intern](https://jobright.ai/jobs/info/69fe107c7714cd50b90fdf6a?utm_campaign=1057&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/69fe0f3052e2b44f558ae30f?utm_campaign=1057&utm_source=git)** | University Park, IL, US | On Site | May 08 |
-| **[Alverno College](http://www.alverno.edu)** | **[Assistant Professor of Community Psychology and Internship Coordinator](https://jobright.ai/jobs/info/69fe0c38ad691a11f34eb591?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 08 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69fe0a4c6bcf315dc8f542d1?utm_campaign=1057&utm_source=git)** | London, ON, Canada | On Site | May 08 |
-| **[Nokia](http://www.nokia.com)** | **[Learning Technical Editor Co-op/Intern](https://jobright.ai/jobs/info/69feb6491161630dd3b026f4?utm_campaign=1057&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 08 |
-| **[Guest Supply](https://www.guestsupply.com/home.aspx)** | **[Internship - GWW - FP - SSMG - US](https://jobright.ai/jobs/info/69e1b50640a62c1fa93b9c74?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | May 08 |
-| **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Membership (Unpaid)](https://jobright.ai/jobs/info/69fdf8586bcf315dc8f53f1f?utm_campaign=1057&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
