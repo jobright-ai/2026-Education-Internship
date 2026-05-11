@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Aviation, Undergraduate Intern, Finance (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e07df52f1450d8499e5?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
+| ↳ | **[Austin Aviation, Undergraduate Intern, Airport Affairs (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e03c2ffb31f4536bf68?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6a0242c5df52f1450d84923c?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, US | Remote | May 11 |
+| **[Maryland Institute College of Art](http://www.mica.edu/)** | **[Summer Orientation Intern](https://jobright.ai/jobs/info/6a0242b3df52f1450d8491f5?utm_campaign=1057&utm_source=git)** | Baltimore, MD, US | On Site | May 11 |
+| **[Upper Mattaponi Tribe](https://umitribe.org)** | **[Natural Resources Education & Outreach Intern](https://jobright.ai/jobs/info/6a024020fa1aa73213d98622?utm_campaign=1057&utm_source=git)** | Government Office, King William, VA, US | On Site | May 11 |
 | **[Euro School of Tennis](https://euroschooloftennis.com/)** | **[Sports Camp Program Intern](https://jobright.ai/jobs/info/6a0238cafa1aa73213d97e84?utm_campaign=1057&utm_source=git)** | Fremont, CA, US | On Site | May 11 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern High School](https://jobright.ai/jobs/info/6a02255f238f143e83530ca2?utm_campaign=1057&utm_source=git)** | Banner Research (10515 W Sante Fe Dr), US | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f5ddf52f1450d84782f?utm_campaign=1057&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 08 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe20424b9bbf21744ae811?utm_campaign=1057&utm_source=git)** | Remote/Nationwide, USA, US | Remote | May 08 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Member Experience Researcher](https://jobright.ai/jobs/info/69fe19b952e2b44f558ae70d?utm_campaign=1057&utm_source=git)** | Newport News, Virginia, United States | On Site | May 08 |
-| **[Shalom Austin](https://shalomaustin.org)** | **[Anderson High School Business Practicum Internship](https://jobright.ai/jobs/info/69fe16fb52e2b44f558ae6d1?utm_campaign=1057&utm_source=git)** | Austin,TX,US | On Site | May 08 |
-| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[College Intern](https://jobright.ai/jobs/info/69fe152e4b9bbf21744ae50f?utm_campaign=1057&utm_source=git)** | Peabody, MA, US | On Site | May 08 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - RGV Summer Internship (Immediate Opening)](https://jobright.ai/jobs/info/69fe147852e2b44f558ae57c?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | May 08 |
-| **[Bluum](https://www.bluum.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69fe14786bcf315dc8f54947?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
