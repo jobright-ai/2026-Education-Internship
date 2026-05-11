@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Intern High School](https://jobright.ai/jobs/info/6a02255f238f143e83530ca2?utm_campaign=1057&utm_source=git)** | Banner Research (10515 W Sante Fe Dr), US | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f5ddf52f1450d84782f?utm_campaign=1057&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
 | **[Hartwick College](http://www.hartwick.edu/)** | **[Football Staff Intern](https://jobright.ai/jobs/info/6a021f073053db70a117487d?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | May 11 |
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Fall '26 Readrise Undergraduate Leadership Intern](https://jobright.ai/jobs/info/6a021da2fa1aa73213d96b6b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | May 11 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[BWXT](http://www.bwxt.com/)** | **[IT Architecture - AI Training Summer Intern](https://jobright.ai/jobs/info/69f3e37f461b9b613a624b73?utm_campaign=1057&utm_source=git)** | Melbourne, FL | Hybrid | May 09 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Mission Services](https://jobright.ai/jobs/info/69e2956a5c44d4710fe25c7a?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | May 09 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern JBC Library](https://jobright.ai/jobs/info/69d585a2cdb525785fbd188f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
-| ↳ | **[Student Assistant, Intern JBC Library Administration Assistant](https://jobright.ai/jobs/info/69debdce433ac8430e0dc381?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[JDP Program Coordinator (Administrative Support Coordinator II)](https://jobright.ai/jobs/info/69e2ac43be46fa3a4ef58259?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | May 09 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer 2026 MA Office of International Trade and Investment Intern](https://jobright.ai/jobs/info/69ff476da0eddc08c23986ee?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 09 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3d2ebd316bece1bb93?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 09 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -145,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe4664ad691a11f34ec9fb?utm_campaign=1057&utm_source=git)** | San Jose, CA, US | On Site | May 08 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/69feb2bb1161630dd3b01b4a?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 08 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe4522f363bc4dc339d4bc?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
+| **[Mission Edge](https://www.missionedge.org)** | **[Includ(Ed) Summer Internship Opportunity](https://jobright.ai/jobs/info/6a022e54c2ffb31f4536a58d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 08 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe2bd36bcf315dc8f55246?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern- Zeikus](https://jobright.ai/jobs/info/69fe2a6a4b9bbf21744aec38?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
 | **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - RGV Summer Internship (Immediate Opening)](https://jobright.ai/jobs/info/69fe147852e2b44f558ae57c?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | May 08 |
 | **[Bluum](https://www.bluum.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69fe14786bcf315dc8f54947?utm_campaign=1057&utm_source=git)** | Markham, Ontario, Canada | On Site | May 08 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Program Intern](https://jobright.ai/jobs/info/69fe107c7714cd50b90fdf6a?utm_campaign=1057&utm_source=git)** | 44 Breakneck Road, Vernon Township, NJ, USA | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/69fe0f3052e2b44f558ae30f?utm_campaign=1057&utm_source=git)** | University Park, IL, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
