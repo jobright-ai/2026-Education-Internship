@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Branch Banking Business Student Intern - Early Careers (Undergraduate)](https://jobright.ai/jobs/info/69bb2c683b74eb1e2c899b48?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 10 |
 | **[Soteria - Security Solutions & Advisory](http://www.soteria.io)** | **[College/University Internship or Student Teaching](https://jobright.ai/jobs/info/6a00e686238f143e8352a8a9?utm_campaign=1057&utm_source=git)** | Sumter, SC | On Site | May 10 |
 | **[Integral Consulting Inc.](https://www.integral-corp.com)** | **[Learning & Growth Intern](https://jobright.ai/jobs/info/69e28e2ebe46fa3a4ef57ae0?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern-Information Technology & Data Analytics-Summer 2026](https://jobright.ai/jobs/info/69fd6c26ad691a11f34e98c0?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Camden County Summer Intern](https://jobright.ai/jobs/info/69fd3039b113035a9f8eed9a?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
 | **[Demant](https://www.demant.com/)** | **[Extern](https://jobright.ai/jobs/info/69e0c30440a62c1fa93b4bdd?utm_campaign=1057&utm_source=git)** | Stockbridge, GA | On Site | May 07 |
-| **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program & Outreach Intern (Volunteer Internship)](https://jobright.ai/jobs/info/69fd2762938a651755f993f9?utm_campaign=1057&utm_source=git)** | United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
