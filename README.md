@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Psychological Association](http://apa.org/)** | **[Internships at APA - EDI Program Support and Operations Internship](https://jobright.ai/jobs/info/6a02098ddf52f1450d846f91?utm_campaign=1057&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 11 |
+| ↳ | **[Internships at APA - Workforce Studies Internship](https://jobright.ai/jobs/info/6a020955238f143e835300ad?utm_campaign=1057&utm_source=git)** | Washington, District of Columbia, United States | Remote | May 11 |
+| **[Miami Valley Child Development Centers, Inc.](https://www.mvcdc.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a0206bbc2ffb31f453692df?utm_campaign=1057&utm_source=git)** | Dayton, OH, US | On Site | May 11 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a02056b238f143e8352fe35?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 11 |
 | **[Santander](https://www.santander.com/)** | **[Intern - CSU NY](https://jobright.ai/jobs/info/6a02019edf52f1450d846a7c?utm_campaign=1057&utm_source=git)** | Madison Ave Corp, US | On Site | May 11 |
-| **[Hartwick College](http://www.hartwick.edu/)** | **[Football Staff Intern](https://jobright.ai/jobs/info/6a02014b3053db70a1173b94?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | May 11 |
 | **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69b2d9cba8ac8e70ff66e73a?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/69fb80f4d21cf86d1e3d373f?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | May 08 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69f5585f0b36ff0354751b24?utm_campaign=1057&utm_source=git)** | Makawao, HI | On Site | May 08 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Monticello Education Intern - Peoria PlayHouse Children's Museum](https://jobright.ai/jobs/info/69febcc01161630dd3b041f9?utm_campaign=1057&utm_source=git)** | PEORIA PLAYHOUSE - PEORIA, IL 61603 | On Site | May 08 |
-| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | ↳ | **[Community Recreation Intern](https://jobright.ai/jobs/info/69febcb31161630dd3b041a0?utm_campaign=1057&utm_source=git)** | NOBLE ADMINISTRATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
+| ↳ | **[Dance Educator Intern](https://jobright.ai/jobs/info/69febcb3d0dc596b8d119f43?utm_campaign=1057&utm_source=git)** | LAKEVIEW RECREATION CENTER - PEORIA, IL 61614 | On Site | May 08 |
 | **[Salem Community College](http://www.salemcc.edu/)** | **[Student Affairs Summer Intern](https://jobright.ai/jobs/info/69febc85373fc1347f2d0ac3?utm_campaign=1057&utm_source=git)** | 460 Hollywood Ave - Carneys Point, NJ 08069 | On Site | May 08 |
 | **[Youth Music Project](https://www.youthmusicproject.org)** | **[Teen Internship](https://jobright.ai/jobs/info/69febc7951699d6e54ef4001?utm_campaign=1057&utm_source=git)** | YMP - West Linn, OR 97068 | On Site | May 08 |
 | **[Northwest Bible Church](https://nwbible.org)** | **[Student Ministry Intern](https://jobright.ai/jobs/info/69febc5d15859e57591cf5d8?utm_campaign=1057&utm_source=git)** | Northwest Bible Church - Dallas, TX 75225 | On Site | May 08 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Summer (1633)](https://jobright.ai/jobs/info/69de81615913ad339813d809?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 08 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Nursing Intern](https://jobright.ai/jobs/info/69fe20424b9bbf21744ae811?utm_campaign=1057&utm_source=git)** | Remote/Nationwide, USA, US | Remote | May 08 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[Training Developer-Skillbridge Intern](https://jobright.ai/jobs/info/69fe1b9952e2b44f558ae7cf?utm_campaign=1057&utm_source=git)** | North Charleston, SC, US | On Site | May 08 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Member Experience Researcher](https://jobright.ai/jobs/info/69fe19b952e2b44f558ae70d?utm_campaign=1057&utm_source=git)** | Newport News, Virginia, United States | On Site | May 08 |
 | **[Shalom Austin](https://shalomaustin.org)** | **[Anderson High School Business Practicum Internship](https://jobright.ai/jobs/info/69fe16fb52e2b44f558ae6d1?utm_campaign=1057&utm_source=git)** | Austin,TX,US | On Site | May 08 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[College Intern](https://jobright.ai/jobs/info/69fe152e4b9bbf21744ae50f?utm_campaign=1057&utm_source=git)** | Peabody, MA, US | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Learning Technical Editor Co-op/Intern](https://jobright.ai/jobs/info/69feb6491161630dd3b026f4?utm_campaign=1057&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 08 |
 | **[Guest Supply](https://www.guestsupply.com/home.aspx)** | **[Internship - GWW - FP - SSMG - US](https://jobright.ai/jobs/info/69e1b50640a62c1fa93b9c74?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | May 08 |
 | **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Membership (Unpaid)](https://jobright.ai/jobs/info/69fdf8586bcf315dc8f53f1f?utm_campaign=1057&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Orientation & Mobility (O&M) Internship](https://jobright.ai/jobs/info/69fdf62b52e2b44f558ada0f?utm_campaign=1057&utm_source=git)** | NY, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
