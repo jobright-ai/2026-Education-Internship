@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a038f0622395b6dc6d95e6e?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 12 |
+| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[INTERNSHIP - CHILDREN'S SERVICES Your Role at SARRC Internship Requirements Location Salary Hours Work Environment Our Story If you have interest in any of the following fields, we encourage you to apply:](https://jobright.ai/jobs/info/6a0393de7c753c287f6e8a97?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 12 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0393c022395b6dc6d963cc?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 12 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a038e3fbc4184089f2339b9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | May 12 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 12 |
 | **[Bowman Consulting](https://bowman.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a038507bc4184089f233211?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | May 12 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02ca04bc4184089f22c5f4?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c8486c07461fe16fdc7e?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NACSW – North American Association of Christians in Social Work](http://www.nacsw.org)** | **[Research Intern Psychology](https://jobright.ai/jobs/info/6a02cd71ed6a637463f49934?utm_campaign=1057&utm_source=git)** | Akron, OH | Hybrid | May 10 |
 | **[CHRISTUS Health](https://www.gsmc.org)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | May 10 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian III, Intern Prg](https://jobright.ai/jobs/info/699ffe2fce78e77b4fe61755?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 10 |
-| **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/6a0061e374b5407dd4678665?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
