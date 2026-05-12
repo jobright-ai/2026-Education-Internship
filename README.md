@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a0365f17c753c287f6e692b?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
+| **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69e74f2df8fa2f3ec32a6d66?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | May 12 |
+| **[Amon Carter Museum](http://www.cartermuseum.org)** | **[Community Teaching Intern College](https://jobright.ai/jobs/info/6a035947ed6a637463f4f03e?utm_campaign=1057&utm_source=git)** | Amon Carter Museum of American Art - Fort Worth, TX 76107 | On Site | May 12 |
 | **[First Presbyterian Church of Dallas](https://fpcdallas.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0355b222395b6dc6d93736?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[Fond du Lac County](http://www.fdlco.wi.gov)** | **[4-H Youth Development Summer Intern](https://jobright.ai/jobs/info/6a0355927c753c287f6e5ed1?utm_campaign=1057&utm_source=git)** | 160 S. Macy Street, Fond du Lac, WI, 54935, US | On Site | May 12 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341fa7c753c287f6e5516?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 12 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Summer 2026 Duggan Academy Student Intern](https://jobright.ai/jobs/info/6a0337eb7c753c287f6e4bc0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 12 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Educational Outreach Internship](https://jobright.ai/jobs/info/6a02d0d6ed6a637463f4a1dd?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 12 |
 | **[Domus Kids](https://www.domuskids.org)** | **[BJRC Summer Intern](https://jobright.ai/jobs/info/6a02a8506c07461fe16fc48e?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | May 11 |
 | **[Livermore Area Recreation and Park District](http://www.larpd.org)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a02a82af3d6cc51d636f31e?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 11 |
 | ↳ | **[Recreation Intern](https://jobright.ai/jobs/info/6a02a825bc4184089f22ae57?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 11 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 10 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | May 10 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Western University](http://Twu.ca)** | **[Tenure-Track Faculty Position in New Testament](https://jobright.ai/jobs/info/69ba7aa906c1ba00c54c7882?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | May 09 |
 | **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/6a02ce4bed6a637463f49caf?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 09 |
-| **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer College Intern](https://jobright.ai/jobs/info/69a836c27ac93962b707f7cc?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | May 09 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c18ff3d6cc51d637004d?utm_campaign=1057&utm_source=git)** | Berks County, PA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
