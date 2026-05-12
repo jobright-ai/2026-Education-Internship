@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341fa7c753c287f6e5516?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 12 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 12 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 12 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
 | ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
-| **[La Sierra University](http://www.lasierra.edu/)** | **[Residence Hall, Resident Assistant (RA) '26-'27](https://jobright.ai/jobs/info/6a02c43e7c753c287f6e094b?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | May 09 |
-| **[BWXT](http://www.bwxt.com/)** | **[IT Architecture - AI Training Summer Intern](https://jobright.ai/jobs/info/69f3e37f461b9b613a624b73?utm_campaign=1057&utm_source=git)** | Melbourne, FL | Hybrid | May 09 |
-| **[CHRISTUS Health](https://www.gsmc.org)** | **[Student Intern - Mission Services](https://jobright.ai/jobs/info/69e2956a5c44d4710fe25c7a?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
