@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Presbyterian Church of Dallas](https://fpcdallas.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0355b222395b6dc6d93736?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 12 |
+| **[Fond du Lac County](http://www.fdlco.wi.gov)** | **[4-H Youth Development Summer Intern](https://jobright.ai/jobs/info/6a0355927c753c287f6e5ed1?utm_campaign=1057&utm_source=git)** | 160 S. Macy Street, Fond du Lac, WI, 54935, US | On Site | May 12 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341fa7c753c287f6e5516?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 12 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 12 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 12 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
+| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a0349e822395b6dc6d92fb4?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
+| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
@@ -74,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0279923053db70a11782aa?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 11 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a026211c2ffb31f4536cf2b?utm_campaign=1057&utm_source=git)** | Brampton, ON, CA | On Site | May 11 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Training Specialist Intern 2026](https://jobright.ai/jobs/info/6a025949fa1aa73213d99a8d?utm_campaign=1057&utm_source=git)** | Radford Virginia | On Site | May 11 |
-| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Aviation, Undergraduate Intern, Finance (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e07df52f1450d8499e5?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
-| ↳ | **[Austin Aviation, Undergraduate Intern, Airport Affairs (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e03c2ffb31f4536bf68?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Aviation, Undergraduate Intern, Airport Affairs (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e03c2ffb31f4536bf68?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
 | **[Fair Lawn Public Schools](https://fairlawnschools.org/)** | **[Summer Intern - Technology Department](https://jobright.ai/jobs/info/6a030b08ed6a637463f4be17?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | May 11 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Sessional instructors for the SCPA Division of Music teaching courses in Fall 2026 and Winter 2027](https://jobright.ai/jobs/info/6a03133b7c753c287f6e38ee?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 11 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6a0312bced6a637463f4c726?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | May 11 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69e015294920452a85dd1932?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | May 11 |
 | **[CommuniCare](https://www.communicaresa.org/)** | **[Student Internship (SI2603 - NIC)](https://jobright.ai/jobs/info/6a02fc576c07461fe16fefdc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 11 |
 | **[Santander](https://www.santander.com/)** | **[Intern - CSU NY](https://jobright.ai/jobs/info/6a02019edf52f1450d846a7c?utm_campaign=1057&utm_source=git)** | Madison Ave Corp, US | On Site | May 11 |
+| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | May 11 |
 | **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
 | **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02ca04bc4184089f22c5f4?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c8486c07461fe16fdc7e?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | May 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/6a02ce4bed6a637463f49caf?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 09 |
 | **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer College Intern](https://jobright.ai/jobs/info/69a836c27ac93962b707f7cc?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | May 09 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c18ff3d6cc51d637004d?utm_campaign=1057&utm_source=git)** | Berks County, PA | On Site | May 09 |
-| **[Kings Harbor Church](https://www.kingsharbor.org/)** | **[Student Ministries Intern](https://jobright.ai/jobs/info/69ffb35cc4b08448a0b1943d?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | May 09 |
-| **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 09 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d56a0eddc08c2399d37?utm_campaign=1057&utm_source=git)** | Riffe Tower 0777 South High Street, Columbus, OH, United States | On Site | May 09 |
-| ↳ | **[DVS Student Programs - Unpaid Internship Opportunities - General Application -  Spring/Summer/Fall 2026](https://jobright.ai/jobs/info/69ff9d50a0eddc08c2399d34?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
