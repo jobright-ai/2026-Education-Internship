@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a026211c2ffb31f4536cf2b?utm_campaign=1057&utm_source=git)** | Brampton, ON, CA | On Site | May 11 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Training Specialist Intern 2026](https://jobright.ai/jobs/info/6a025949fa1aa73213d99a8d?utm_campaign=1057&utm_source=git)** | Radford Virginia | On Site | May 11 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Aviation, Undergraduate Intern, Finance (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e07df52f1450d8499e5?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
 | ↳ | **[Austin Aviation, Undergraduate Intern, Airport Affairs (Hire in Process/please do not apply) By Invitation Only](https://jobright.ai/jobs/info/6a024e03c2ffb31f4536bf68?utm_campaign=1057&utm_source=git)** | AUS Administration Building (Admin), US | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - eLearning Content Development](https://jobright.ai/jobs/info/69fe4522f363bc4dc339d4bc?utm_campaign=1057&utm_source=git)** | Okemos, MI, US | Hybrid | May 08 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Educator Internship (Fall 2026)](https://jobright.ai/jobs/info/69fe2bd36bcf315dc8f55246?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern- Zeikus](https://jobright.ai/jobs/info/69fe2a6a4b9bbf21744aec38?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | On Site | May 08 |
-| **[California State University San Marcos](https://csusm.edu)** | **[Director of Student Conduct and Ethical Development, Student Affairs](https://jobright.ai/jobs/info/69e1714640a62c1fa93b8852?utm_campaign=1057&utm_source=git)** | San Marcos, CA | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
