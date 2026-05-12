@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a038f0622395b6dc6d95e6e?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 12 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a038e3fbc4184089f2339b9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | May 12 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 12 |
+| **[Bowman Consulting](https://bowman.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a038507bc4184089f233211?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | May 12 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0384706c07461fe1704cab?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 12 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
 | **[Clemson University](http://www.clemson.edu)** | **[4-H Summer Program Intern](https://jobright.ai/jobs/info/6a03783922395b6dc6d94cbe?utm_campaign=1057&utm_source=git)** | Clemson, SC | On Site | May 12 |
 | **[YMCA of Montclair](https://www.montclairymca.org/)** | **[Nature/Science Internship](https://jobright.ai/jobs/info/6a0372316c07461fe1703ea3?utm_campaign=1057&utm_source=git)** | Montclair, NJ, US | On Site | May 12 |
@@ -73,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
+| **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69e74f4de0cd471b2f12ac7a?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | May 12 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Summer 2026 Duggan Academy Student Intern](https://jobright.ai/jobs/info/6a0337eb7c753c287f6e4bc0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 12 |
 | **[Domus Kids](https://www.domuskids.org)** | **[BJRC Summer Intern](https://jobright.ai/jobs/info/6a02a8506c07461fe16fc48e?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | May 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.gsmc.org)** | **[Registered Nuse I - Nursing Internship](https://jobright.ai/jobs/info/69e4737c9b6eb37e26f7a711?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | May 10 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clin Dietitian III, Intern Prg](https://jobright.ai/jobs/info/699ffe2fce78e77b4fe61755?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 | **[Vista College Prep](http://www.vistacollegeprep.org)** | **[Student Teacher/Student Intern/Practicum Student](https://jobright.ai/jobs/info/6a0061e374b5407dd4678665?utm_campaign=1057&utm_source=git)** | VCP MetroNorth Elementary - Phoenix, AZ 85029 | On Site | May 10 |
-| **[Rolling Meadows Park District](https://www.rmparks.org)** | **[Summer Intern - Recreation-Athletics (part-time, seasonal)](https://jobright.ai/jobs/info/6a0061d074b5407dd467865c?utm_campaign=1057&utm_source=git)** | Community Center - Rolling Meadows, IL 60008 | On Site | May 10 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 10 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern – JBC Library MakerSpace](https://jobright.ai/jobs/info/69d585ba366bb95ba5545bba?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | May 09 |
-| **[Nixon Peabody LLP](http://www.nixonpeabody.com/)** | **[2027 Summer Associate: Healthcare](https://jobright.ai/jobs/info/69c8043f1b5ad02887391758?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | May 09 |
-| **[Utah State University](http://www.usu.edu)** | **[4-H Youth State Leadership Intern](https://jobright.ai/jobs/info/6a02c807bc4184089f22be78?utm_campaign=1057&utm_source=git)** | SLC Metro Area | Hybrid | May 09 |
-| **[Trinity Western University](http://Twu.ca)** | **[Tenure-Track Faculty Position in New Testament](https://jobright.ai/jobs/info/69ba7aa906c1ba00c54c7882?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
