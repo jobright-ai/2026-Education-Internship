@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of Montclair](https://www.montclairymca.org/)** | **[Nature/Science Internship](https://jobright.ai/jobs/info/6a0372316c07461fe1703ea3?utm_campaign=1057&utm_source=git)** | Montclair, NJ, US | On Site | May 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a0365f17c753c287f6e692b?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69e74f2df8fa2f3ec32a6d66?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | May 12 |
 | **[Amon Carter Museum](http://www.cartermuseum.org)** | **[Community Teaching Intern College](https://jobright.ai/jobs/info/6a035947ed6a637463f4f03e?utm_campaign=1057&utm_source=git)** | Amon Carter Museum of American Art - Fort Worth, TX 76107 | On Site | May 12 |
@@ -113,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69b2d9cba8ac8e70ff66e73a?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69b2dbfdad360c0340a7d3b5?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[SERVANT LEADER INTERN](https://jobright.ai/jobs/info/6a02d4f26c07461fe16fe278?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | ↳ | **[Fall 2026 GCS Student Teacher/Intern Placement Application - By Invitation Only!](https://jobright.ai/jobs/info/6a02d51ced6a637463f4a3e6?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | **[LOGAN HOCKING LOCAL SCHOOL DISTRICT](http://lhsd.k12.oh.us)** | **[Summer School - Work-Study Coordinator 2026 - LHS](https://jobright.ai/jobs/info/6a0329e4f3d6cc51d6373c82?utm_campaign=1057&utm_source=git)** | Logan, OH | On Site | May 10 |
@@ -133,12 +134,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02ca04bc4184089f22c5f4?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c8486c07461fe16fdc7e?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | May 10 |
-| **[Replit](https://replit.com)** | **[Education Team Intern](https://jobright.ai/jobs/info/6a02cd7fed6a637463f49976?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | Hybrid | May 10 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69e95681e0cd471b2f13ca8d?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 10 |
 | **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 10 |
 | **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
