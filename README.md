@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Puentes de Salud](https://www.puentesdesalud.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9e?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | May 12 |
+| **[Graduate School of Leadership and Change | Antioch University](https://www.antioch.edu/gslc)** | **[Assistant to ACTS - S. Schuster-Bacon [Work Study]](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
+| **[Greece Central School District](http://greece-notes1.greece.k12.ny.us)** | **[ECHS and Career Academy  School Year Student Intern](https://jobright.ai/jobs/info/6a03c5847c753c287f6ea236?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | May 12 |
+| ↳ | **[ECHS and Career Academy  Summer Student Intern](https://jobright.ai/jobs/info/6a03c44f8ecfd93cd9c117bb?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | May 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69e95681e0cd471b2f13ca8d?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 12 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a03a901f3d6cc51d6378c8f?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 12 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Graduate Programming Coordinator (Grad Assistantship)](https://jobright.ai/jobs/info/6a03a85abc4184089f234ac1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 12 |
@@ -87,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Summer 2026 Duggan Academy Student Intern](https://jobright.ai/jobs/info/6a0337eb7c753c287f6e4bc0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 12 |
 | **[Domus Kids](https://www.domuskids.org)** | **[BJRC Summer Intern](https://jobright.ai/jobs/info/6a02a8506c07461fe16fc48e?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | May 11 |
-| **[Livermore Area Recreation and Park District](http://www.larpd.org)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/6a02a82af3d6cc51d636f31e?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 11 |
-| ↳ | **[Recreation Intern](https://jobright.ai/jobs/info/6a02a825bc4184089f22ae57?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 11 |
+| **[Livermore Area Recreation and Park District](http://www.larpd.org)** | **[Recreation Intern](https://jobright.ai/jobs/info/6a02a825bc4184089f22ae57?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 11 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/69cd7b56891d7b11cfcb932d?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 11 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study – Student Assistant (Student Financial Aid)](https://jobright.ai/jobs/info/6a03b5798ecfd93cd9c112f0?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | May 11 |
 | ↳ | **[OPS Clinical Research Internship](https://jobright.ai/jobs/info/6a03b5886c07461fe1706f16?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | May 11 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 10 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | May 10 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02ca04bc4184089f22c5f4?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c8486c07461fe16fdc7e?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | May 10 |
-| **[Monte Nido](https://montenido.co/website)** | **[Intern](https://jobright.ai/jobs/info/68e65c2e1852e62f0081ab8a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | May 10 |
-| **[Prometric](https://www.prometric.com)** | **[Assessment Solutions Intern](https://jobright.ai/jobs/info/698fa6a76ea51a7610f21020?utm_campaign=1057&utm_source=git)** | United States | Remote | May 10 |
-| **[Atlanta Mission](https://atlantamission.org)** | **[Atlanta Mission Ministry Internship: Volunteer Engagement Intern](https://jobright.ai/jobs/info/69fb219c86d5cd46527d2e59?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
