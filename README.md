@@ -96,7 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a0349e822395b6dc6d92fb4?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 12 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d944?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | May 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69e74f4de0cd471b2f12ac7a?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Influential](https://influential.co/)** | **[Learning & Development Operations Intern](https://jobright.ai/jobs/info/6a030c2322395b6dc6d907ce?utm_campaign=1057&utm_source=git)** | LA Metro Area | Remote | May 11 |
 | **[Winter4Kids](https://winter4kids.org)** | **[Summer Program Intern](https://jobright.ai/jobs/info/6a030ad27c753c287f6e2df2?utm_campaign=1057&utm_source=git)** | Vernon, NJ | On Site | May 11 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern High School](https://jobright.ai/jobs/info/6a02255f238f143e83530ca2?utm_campaign=1057&utm_source=git)** | Banner Research (10515 W Sante Fe Dr), US | On Site | May 11 |
-| **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0304bced6a637463f4b91d?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a021f5ddf52f1450d84782f?utm_campaign=1057&utm_source=git)** | BC Cityplace, US | On Site | May 11 |
 | **[Hartwick College](http://www.hartwick.edu/)** | **[Football Staff Intern](https://jobright.ai/jobs/info/6a021f073053db70a117487d?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | May 11 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[National Kids Program and Data Internship](https://jobright.ai/jobs/info/6a0303aaf3d6cc51d63725d9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 11 |
