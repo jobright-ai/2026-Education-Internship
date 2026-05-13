@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a04f6524373b07358a386a8?utm_campaign=1057&utm_source=git)** | Chicago, US | On Site | May 13 |
+| **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Van Sickle Academy Summer Internship - HS students only](https://jobright.ai/jobs/info/6a04f2b34373b07358a3848f?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - University of Houston](https://jobright.ai/jobs/info/6a04e6ebf3d6cc51d63844cf?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | ↳ | **[Campus Chapter Intern - University of North Carolina at Chapel Hill](https://jobright.ai/jobs/info/6a04e6cdbc4184089f240926?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a04e6c7f3d6cc51d63844c5?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e2cb013770bd5361cda121?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Remote | May 13 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69de80a7e34484770f1a26af?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | May 13 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- River Region](https://jobright.ai/jobs/info/6a04dad36c07461fe17111ec?utm_campaign=1057&utm_source=git)** | Luling - New Orleans Region - Louisiana, US | On Site | May 13 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Music Department (Fall 2026 - Spring 2027)](https://jobright.ai/jobs/info/6a04f2724373b07358a38409?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | May 13 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Infectious Diseases](https://jobright.ai/jobs/info/6a04ce86f3d6cc51d6382f43?utm_campaign=1057&utm_source=git)** | Boston, US | On Site | May 13 |
 | **[Maryland Physicians Care](http://www.mpcmedicaid.com)** | **[Intern, Population Health](https://jobright.ai/jobs/info/6a04caa2bc4184089f23ee4f?utm_campaign=1057&utm_source=git)** | Linthicum,MD,US | Remote | May 13 |
 | **[Dominican University](http://www.dom.edu/)** | **[Campus Experience Intern - Campus Experience Team](https://jobright.ai/jobs/info/6a04c9c24373b07358a36cdf?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aquilini Group](https://www.aquilini.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0279923053db70a11782aa?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 11 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank](https://jobright.ai/jobs/info/6a041a397c753c287f6ecbd3?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | May 11 |
 | **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - CSU NY](https://jobright.ai/jobs/info/6a041406bc4184089f237e35?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 11 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Learning Technology Intern - 6 months](https://jobright.ai/jobs/info/6a041061f3d6cc51d637bf4b?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | May 11 |
-| **[YMCA of Montclair](https://www.montclairymca.org/)** | **[Nature/Science Internship](https://jobright.ai/jobs/info/6a03b54dbc4184089f235353?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | May 11 |
-| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a026211c2ffb31f4536cf2b?utm_campaign=1057&utm_source=git)** | Brampton, ON, CA | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
