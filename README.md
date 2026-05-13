@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[USU Bastian Ag Center Youth Livestock Intern](https://jobright.ai/jobs/info/6a0475b4f811a0436960a954?utm_campaign=1057&utm_source=git)** | South Jordan, Utah | On Site | May 13 |
+| **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
@@ -96,13 +99,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 12 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a0349e822395b6dc6d92fb4?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
+| **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 12 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d944?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69e74f4de0cd471b2f12ac7a?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Intern, Education Institute Summer Training Operations](https://jobright.ai/jobs/info/69e06030cf5a9e0c33c8610d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Summer 2026 Duggan Academy Student Intern](https://jobright.ai/jobs/info/6a0337eb7c753c287f6e4bc0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 12 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for New Student Programs](https://jobright.ai/jobs/info/69bcd0ef4828227293fed036?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 11 |
 | ↳ | **[Graduate Intern for Accessibility Services](https://jobright.ai/jobs/info/69b26d7fa8ac8e70ff664ecc?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[SERVANT LEADER INTERN](https://jobright.ai/jobs/info/6a02d4f26c07461fe16fe278?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
-| ↳ | **[Fall 2026 GCS Student Teacher/Intern Placement Application - By Invitation Only!](https://jobright.ai/jobs/info/6a02d51ced6a637463f4a3e6?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
-| **[LOGAN HOCKING LOCAL SCHOOL DISTRICT](http://lhsd.k12.oh.us)** | **[Summer School - Work-Study Coordinator 2026 - LHS](https://jobright.ai/jobs/info/6a0329e4f3d6cc51d6373c82?utm_campaign=1057&utm_source=git)** | Logan, OH | On Site | May 10 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e805910a6e09555302da26?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
