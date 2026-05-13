@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Riverside](https://rivco.org)** | **[Department of Waste Resources Student Intern](https://jobright.ai/jobs/info/6a03d258f811a04369605e4a?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | May 12 |
+| **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
+| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc47f3d6cc51d6379f12?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 12 |
+| ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc46f3d6cc51d6379f11?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 12 |
 | **[Puentes de Salud](https://www.puentesdesalud.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9e?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | May 12 |
 | **[Graduate School of Leadership and Change | Antioch University](https://www.antioch.edu/gslc)** | **[Assistant to ACTS - S. Schuster-Bacon [Work Study]](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
 | **[Greece Central School District](http://greece-notes1.greece.k12.ny.us)** | **[ECHS and Career Academy  School Year Student Intern](https://jobright.ai/jobs/info/6a03c5847c753c287f6ea236?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | May 12 |
@@ -139,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e805910a6e09555302da26?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 10 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/6a02c6d8bc4184089f22ba8b?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | May 10 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a02bc187c753c287f6e0193?utm_campaign=1057&utm_source=git)** | Seaside, OR | On Site | May 10 |
 | **[Utah State University](http://www.usu.edu)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/6a02ceffed6a637463f49f97?utm_campaign=1057&utm_source=git)** | Cache County, UT | Hybrid | May 10 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 | ↳ | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 10 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | May 10 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c875bc4184089f22bfca?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02ca04bc4184089f22c5f4?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c8486c07461fe16fdc7e?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
