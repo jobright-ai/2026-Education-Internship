@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Spring 2027)](https://jobright.ai/jobs/info/6a04a91df811a0436960d61a?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 13 |
+| **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Visiting Intern Summer 2026](https://jobright.ai/jobs/info/6a04a42bbc4184089f23d459?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | May 13 |
+| ↳ | **[Visiting Intern Summer 2026](https://jobright.ai/jobs/info/6a04a12dbc4184089f23d236?utm_campaign=1057&utm_source=git)** | Hoboken, NJ - Main Campus, US | On Site | May 13 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | May 13 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrative Intern - Matheny-Withrow Elementary School](https://jobright.ai/jobs/info/6a048ccb7c753c287f6f0c07?utm_campaign=1057&utm_source=git)** | Matheny-Withrow Elementary School - Springfield, Illinois | On Site | May 13 |
 | ↳ | **[Secondary Administrative Intern - PCW](https://jobright.ai/jobs/info/6a048cc8f811a0436960c19f?utm_campaign=1057&utm_source=git)** | Putnam City West High School - Oklahoma City, Oklahoma | On Site | May 13 |
@@ -64,12 +67,13 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[Trinity Western University](http://Twu.ca)** | **[Tenure-Track Faculty Position in New Testament](https://jobright.ai/jobs/info/69ba7aa906c1ba00c54c7882?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Miami Valley Child Development Centers, Inc.](https://www.mvcdc.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a0206bbc2ffb31f453692df?utm_campaign=1057&utm_source=git)** | Dayton, OH, US | On Site | May 11 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/69e015294920452a85dd1932?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | May 11 |
 | **[CommuniCare](https://www.communicaresa.org/)** | **[Student Internship (SI2603 - NIC)](https://jobright.ai/jobs/info/6a02fc576c07461fe16fefdc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 11 |
-| **[Santander](https://www.santander.com/)** | **[Intern - CSU NY](https://jobright.ai/jobs/info/6a02019edf52f1450d846a7c?utm_campaign=1057&utm_source=git)** | Madison Ave Corp, US | On Site | May 11 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | May 11 |
-| **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
-| **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
