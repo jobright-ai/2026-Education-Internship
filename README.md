@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
+| ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
+| **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[Trinity Western University](http://Twu.ca)** | **[Tenure-Track Faculty Position in New Testament](https://jobright.ai/jobs/info/69ba7aa906c1ba00c54c7882?utm_campaign=1057&utm_source=git)** | Langley, BC | On Site | May 12 |
 | **[County of Riverside](https://rivco.org)** | **[Department of Waste Resources Student Intern](https://jobright.ai/jobs/info/6a03d258f811a04369605e4a?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[SERVANT LEADER INTERN](https://jobright.ai/jobs/info/6a02d4f26c07461fe16fe278?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | ↳ | **[Fall 2026 GCS Student Teacher/Intern Placement Application - By Invitation Only!](https://jobright.ai/jobs/info/6a02d51ced6a637463f4a3e6?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | **[LOGAN HOCKING LOCAL SCHOOL DISTRICT](http://lhsd.k12.oh.us)** | **[Summer School - Work-Study Coordinator 2026 - LHS](https://jobright.ai/jobs/info/6a0329e4f3d6cc51d6373c82?utm_campaign=1057&utm_source=git)** | Logan, OH | On Site | May 10 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Education Intern (Unpaid)](https://jobright.ai/jobs/info/69e805910a6e09555302da26?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 10 |
-| **[More Gardens! Fund](http://moregardens.org)** | **[Environmental Art and Art Education Summer Intern NYC - Unpaid](https://jobright.ai/jobs/info/6a014d0afa1aa73213d922fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
-| **[Utah State University](http://www.usu.edu)** | **[Extension Youth Programs - Career Readiness in 4-H Intern - Logan, Cache County](https://jobright.ai/jobs/info/6a02ceffed6a637463f49f97?utm_campaign=1057&utm_source=git)** | Cache County, UT | Hybrid | May 10 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Part Time](https://jobright.ai/jobs/info/69f3d91cc78b9e4518958287?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
-| ↳ | **[Psychology Intern-Psychiatry](https://jobright.ai/jobs/info/69efc6e5e624fe645d533698?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
