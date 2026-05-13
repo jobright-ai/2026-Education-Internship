@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[b1BANK](https://b1bank.com)** | **[b1 Foundation Intern](https://jobright.ai/jobs/info/6a040180f3d6cc51d637b6e1?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA, US | On Site | May 12 |
 | **[County of Riverside](https://rivco.org)** | **[Department of Waste Resources Student Intern](https://jobright.ai/jobs/info/6a03d258f811a04369605e4a?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/69b2dbfdad360c0340a7d3b5?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[SERVANT LEADER INTERN](https://jobright.ai/jobs/info/6a02d4f26c07461fe16fe278?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | ↳ | **[Fall 2026 GCS Student Teacher/Intern Placement Application - By Invitation Only!](https://jobright.ai/jobs/info/6a02d51ced6a637463f4a3e6?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 | **[LOGAN HOCKING LOCAL SCHOOL DISTRICT](http://lhsd.k12.oh.us)** | **[Summer School - Work-Study Coordinator 2026 - LHS](https://jobright.ai/jobs/info/6a0329e4f3d6cc51d6373c82?utm_campaign=1057&utm_source=git)** | Logan, OH | On Site | May 10 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Exercise Science Student Intern - Department of Public Safety](https://jobright.ai/jobs/info/69f17f358feca91f14920956?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 10 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | May 10 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor of Undergraduate Human Resource Development (HRD), McAllen, Texas](https://jobright.ai/jobs/info/691e0af509cc522e877353aa?utm_campaign=1057&utm_source=git)** | McAllen, TX | On Site | May 10 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c85b6c07461fe16fdcc0?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | May 10 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02cef2ed6a637463f49f49?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c6bc6c07461fe16fd606?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | May 10 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a02c3e2f3d6cc51d637070d?utm_campaign=1057&utm_source=git)** | Lancaster County, PA | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
