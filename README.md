@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - University of Houston](https://jobright.ai/jobs/info/6a04e6ebf3d6cc51d63844cf?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
+| ↳ | **[Campus Chapter Intern - University of North Carolina at Chapel Hill](https://jobright.ai/jobs/info/6a04e6cdbc4184089f240926?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
+| ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a04e6c7f3d6cc51d63844c5?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
+| **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Diversity & Inclusion Services - Summer Internship](https://jobright.ai/jobs/info/6a04e59e7c753c287f6f48b3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | May 13 |
+| **[Bay de Noc Community College](http://www.baycollege.edu/)** | **[Science Learning Assistant 2026-2027 - IM](https://jobright.ai/jobs/info/6a04e35a22395b6dc6da1b7d?utm_campaign=1057&utm_source=git)** | Iron Mountain, MI | On Site | May 13 |
+| **[Operation Food Search](https://www.operationfoodsearch.org/)** | **[Child Nutrition Summer Intern](https://jobright.ai/jobs/info/6a04e27522395b6dc6da1a7f?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | May 13 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69dfa8ef14bf245fc7a6cf84?utm_campaign=1057&utm_source=git)** | Knoxville, TN | Remote | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Black & Green Internship: Nature Programs Interns (Paid)](https://jobright.ai/jobs/info/6a04e01022395b6dc6da1834?utm_campaign=1057&utm_source=git)** | Tualatin Hills Nature Center - Beaverton, OR | On Site | May 13 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/6a04dda1bc4184089f2402bf?utm_campaign=1057&utm_source=git)** | Beth Israel Deaconess Medical Center, US | On Site | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69e2cb013770bd5361cda121?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Remote | May 13 |
@@ -93,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Learning Technology Intern - 6 months](https://jobright.ai/jobs/info/6a041061f3d6cc51d637bf4b?utm_campaign=1057&utm_source=git)** | San Carlos, CA | On Site | May 11 |
 | **[YMCA of Montclair](https://www.montclairymca.org/)** | **[Nature/Science Internship](https://jobright.ai/jobs/info/6a03b54dbc4184089f235353?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | May 11 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a026211c2ffb31f4536cf2b?utm_campaign=1057&utm_source=git)** | Brampton, ON, CA | On Site | May 11 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Training Specialist Intern 2026](https://jobright.ai/jobs/info/6a025949fa1aa73213d99a8d?utm_campaign=1057&utm_source=git)** | Radford Virginia | On Site | May 11 |
-| **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN COORDINATOR-BAS](https://jobright.ai/jobs/info/6a0412fc6c07461fe1709497?utm_campaign=1057&utm_source=git)** | Palm Bay, FL | On Site | May 11 |
-| **[Fair Lawn Public Schools](https://fairlawnschools.org/)** | **[Summer Intern - Technology Department](https://jobright.ai/jobs/info/6a030b08ed6a637463f4be17?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | May 11 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Sessional instructors for the SCPA Division of Music teaching courses in Fall 2026 and Winter 2027](https://jobright.ai/jobs/info/6a03133b7c753c287f6e38ee?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 11 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6a0312bced6a637463f4c726?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | May 11 |
-| **[Equinix](http://www.equinix.com)** | **[Ops Enablement Intern](https://jobright.ai/jobs/info/6a040eeaf3d6cc51d637bb06?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | May 11 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6a0242c5df52f1450d84923c?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, US | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
