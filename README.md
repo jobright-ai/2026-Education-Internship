@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | May 13 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Administrative Intern - Matheny-Withrow Elementary School](https://jobright.ai/jobs/info/6a048ccb7c753c287f6f0c07?utm_campaign=1057&utm_source=git)** | Matheny-Withrow Elementary School - Springfield, Illinois | On Site | May 13 |
+| ↳ | **[Secondary Administrative Intern - PCW](https://jobright.ai/jobs/info/6a048cc8f811a0436960c19f?utm_campaign=1057&utm_source=git)** | Putnam City West High School - Oklahoma City, Oklahoma | On Site | May 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[USU Bastian Ag Center Youth Livestock Intern](https://jobright.ai/jobs/info/6a0475b4f811a0436960a954?utm_campaign=1057&utm_source=git)** | South Jordan, Utah | On Site | May 13 |
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Oklahoma](https://jobright.ai/jobs/info/69d5bed2e63cea7a8b6635ec?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/698da0f278b4502f12a45941?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | May 11 |
 | **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a01edc3238f143e8352f408?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 11 |
 | **[ASML](https://www.asml.com)** | **[Co-Op - Learning Specialist -Fall 2026 (Internship)](https://jobright.ai/jobs/info/69ab916e2747003c3d51106f?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | May 11 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a01ec71df52f1450d846295?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | May 11 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 11 |
-| **[Guilford County Schools](http://www.gcsnc.com)** | **[SERVANT LEADER INTERN](https://jobright.ai/jobs/info/6a02d4f26c07461fe16fe278?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
