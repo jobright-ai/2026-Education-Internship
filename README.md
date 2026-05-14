@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for LGBTQ+ Initiatives](https://jobright.ai/jobs/info/69e9419758811370cb12c2ae?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 14 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
+| **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
+| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
+| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
 | **[TDECU](https://www.tdecu.org/)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6a05e4b07c753c287f6fcaa3?utm_campaign=1057&utm_source=git)** | Post Oak Corporate Office, US | Hybrid | May 14 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Education Learning Events Intern](https://jobright.ai/jobs/info/6a05e392320bff2205ea5883?utm_campaign=1057&utm_source=git)** | Glenview,IL,US | Hybrid | May 14 |
 | **[The Cove Church](http://covechurch.org)** | **[Cove Kids Intern](https://jobright.ai/jobs/info/6a05e1dcbc4184089f2487b6?utm_campaign=1057&utm_source=git)** | Statesville, North Carolina, United States | On Site | May 14 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc47f3d6cc51d6379f12?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 12 |
-| ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc46f3d6cc51d6379f11?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 12 |
-| **[Puentes de Salud](https://www.puentesdesalud.org)** | **[Summer Education Intern](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9e?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | May 12 |
-| **[Graduate School of Leadership and Change | Antioch University](https://www.antioch.edu/gslc)** | **[Assistant to ACTS - S. Schuster-Bacon [Work Study]](https://jobright.ai/jobs/info/6a03c67d22395b6dc6d97d9f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | May 12 |
-| **[Greece Central School District](http://greece-notes1.greece.k12.ny.us)** | **[ECHS and Career Academy  School Year Student Intern](https://jobright.ai/jobs/info/6a03c5847c753c287f6ea236?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | May 12 |
-| ↳ | **[ECHS and Career Academy  Summer Student Intern](https://jobright.ai/jobs/info/6a03c44f8ecfd93cd9c117bb?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | May 12 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69e95681e0cd471b2f13ca8d?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
