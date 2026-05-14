@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - University of North Carolina at Chapel Hill](https://jobright.ai/jobs/info/6a051820f3d6cc51d6386892?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | May 13 |
+| ↳ | **[Campus Chapter Intern - University of Houston](https://jobright.ai/jobs/info/6a0517d1bc4184089f242b8c?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 13 |
+| ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a0517c44373b07358a3a0bc?utm_campaign=1057&utm_source=git)** | Alabama, United States | On Site | May 13 |
+| **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Creative Operations, Strategy Execution & Cybersecurity](https://jobright.ai/jobs/info/6a050da06c07461fe171356f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 13 |
 | ↳ | **[Student Intern, Infectious Diseases](https://jobright.ai/jobs/info/6a0509a4bc4184089f2423af?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Student Skills Assistant](https://jobright.ai/jobs/info/6a0504e2f3d6cc51d6385ebb?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | May 13 |
@@ -107,13 +111,15 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b5?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | May 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d944?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/69e74f4de0cd471b2f12ac7a?utm_campaign=1057&utm_source=git)** | Huntington, VT | On Site | May 12 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69b13ff6d04c69566c735bac?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 12 |
-| **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Summer 2026 Duggan Academy Student Intern](https://jobright.ai/jobs/info/6a0337eb7c753c287f6e4bc0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | May 12 |
-| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for New Student Programs](https://jobright.ai/jobs/info/69bcd0ef4828227293fed036?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 11 |
-| ↳ | **[Graduate Intern for Accessibility Services](https://jobright.ai/jobs/info/69b26d7fa8ac8e70ff664ecc?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 11 |
-| **[N Street Village](http://www.nstreetvillage.org/)** | **[Practicum Placement (Intern/Student Placement)](https://jobright.ai/jobs/info/69efa85c16b2612c2a12aab4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
