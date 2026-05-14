@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Summer Internship](https://jobright.ai/jobs/info/6a06166b6c07461fe171c315?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Middle School Internship Program 26-27](https://jobright.ai/jobs/info/6a0616666c07461fe171c2ee?utm_campaign=1057&utm_source=git)** | Equality Charter School - Bronx, New York | On Site | May 14 |
+| **[Legends Global](http://legends.net)** | **[Fall 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/6a06165e6c07461fe171c2c2?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
+| ↳ | **[Fall 2026 Graduate Student Internship](https://jobright.ai/jobs/info/6a06162df3d6cc51d638ee00?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern WeGo Together for Kids](https://jobright.ai/jobs/info/6a0616017c753c287f6fef5e?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | May 14 |
+| **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Youth Program Intern - Summer 2026](https://jobright.ai/jobs/info/6a0613c1f3d6cc51d638eac4?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | May 14 |
+| **[Colorado School of Mines](http://www.mines.edu/)** | **[SHAPE Office Intern: Prevention and Confidential Resource](https://jobright.ai/jobs/info/6a0611ca7c753c287f6feb3c?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | May 14 |
+| **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a0611877c753c287f6fe9c9?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | May 14 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Lab Technician Intern](https://jobright.ai/jobs/info/6a06112cbc4184089f24a7b8?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 14 |
+| **[Meharry Medical College](http://www.mmc.edu/)** | **[Summer Intern - Urban League](https://jobright.ai/jobs/info/6a060be2a88ea73abf7f66fb?utm_campaign=1057&utm_source=git)** | Nashville Metro | On Site | May 14 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for LGBTQ+ Initiatives](https://jobright.ai/jobs/info/69e9419758811370cb12c2ae?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
 | **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
 | ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
-| **[TDECU](https://www.tdecu.org/)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6a05e4b07c753c287f6fcaa3?utm_campaign=1057&utm_source=git)** | Post Oak Corporate Office, US | Hybrid | May 14 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 14 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Education Learning Events Intern](https://jobright.ai/jobs/info/6a05e392320bff2205ea5883?utm_campaign=1057&utm_source=git)** | Glenview,IL,US | Hybrid | May 14 |
 | **[The Cove Church](http://covechurch.org)** | **[Cove Kids Intern](https://jobright.ai/jobs/info/6a05e1dcbc4184089f2487b6?utm_campaign=1057&utm_source=git)** | Statesville, North Carolina, United States | On Site | May 14 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern WeGo Together for Kids](https://jobright.ai/jobs/info/6a05e11d7c753c287f6fc888?utm_campaign=1057&utm_source=git)** | Wheaton, Illinois, United States | On Site | May 14 |
@@ -126,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Grower Relations](https://jobright.ai/jobs/info/69af6b636b21de023e608d9b?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | May 13 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Lab Technician Intern](https://jobright.ai/jobs/info/69e7e293f8fa2f3ec32aa237?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 13 |
 | **[Gulf Coast Authority](https://www.linkedin.com/company/1440118)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a04b2056c07461fe170fdb7?utm_campaign=1057&utm_source=git)** | Washburn Tunnel (Pasadena, TX), US | On Site | May 13 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde137495006450952653?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | May 13 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Spring 2027)](https://jobright.ai/jobs/info/6a04a91df811a0436960d61a?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 13 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Visiting Intern Summer 2026](https://jobright.ai/jobs/info/6a04a12dbc4184089f23d236?utm_campaign=1057&utm_source=git)** | Hoboken, NJ - Main Campus, US | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e932?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | May 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b5?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf774950064509525e3?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | May 13 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
-| ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
-| **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
-| **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a03cc47f3d6cc51d6379f12?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
