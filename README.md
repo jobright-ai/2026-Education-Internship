@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a05585c7c753c287f6f8b0b?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Program Assistant - Intern (#022095) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fe97c753c287f6f8759?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
 | ↳ | **[Program Assistant - Intern (#022096) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fdd6c07461fe17158ef?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Special Education Intern - Summer 2026](https://jobright.ai/jobs/info/6a0533ced954223d386e9e75?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a0365f17c753c287f6e692b?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69e74f2df8fa2f3ec32a6d66?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | May 12 |
-| **[Amon Carter Museum of American Art](http://www.cartermuseum.org)** | **[Community Teaching Intern College](https://jobright.ai/jobs/info/6a035947ed6a637463f4f03e?utm_campaign=1057&utm_source=git)** | Amon Carter Museum of American Art - Fort Worth, TX 76107 | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
