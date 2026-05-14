@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Special Education Intern - Summer 2026](https://jobright.ai/jobs/info/6a0533ced954223d386e9e75?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | May 13 |
+| **[Simpson Housing LLLP / Simpson Property Group LLC](https://www.simpsonhousing.com)** | **[Intern](https://jobright.ai/jobs/info/6a0532bd6c07461fe1714b99?utm_campaign=1057&utm_source=git)** | Peabody, MA | On Site | May 13 |
 | **[Grayslake Community High School District 127](https://www.d127.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0523e9bc4184089f24325f?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | May 13 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/6a05215bf3d6cc51d6386efb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information & Technology Undergraduate Internship](https://jobright.ai/jobs/info/6a0521077c753c287f6f707e?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | Hybrid | May 13 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - University of North Carolina at Chapel Hill](https://jobright.ai/jobs/info/6a051820f3d6cc51d6386892?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | May 13 |
 | ↳ | **[Campus Chapter Intern - University of Houston](https://jobright.ai/jobs/info/6a0517d1bc4184089f242b8c?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 13 |
 | ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a0517c44373b07358a3a0bc?utm_campaign=1057&utm_source=git)** | Alabama, United States | On Site | May 13 |
+| **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | May 13 |
 | **[Versant Media](https://versantmedia.com)** | **[Versant Academic Year Internships: Creative Operations, Strategy Execution & Cybersecurity](https://jobright.ai/jobs/info/6a050da06c07461fe171356f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 13 |
 | ↳ | **[Student Intern, Infectious Diseases](https://jobright.ai/jobs/info/6a0509a4bc4184089f2423af?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 13 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visiting Intern Summer 2026](https://jobright.ai/jobs/info/6a04a12dbc4184089f23d236?utm_campaign=1057&utm_source=git)** | Hoboken, NJ - Main Campus, US | On Site | May 13 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/69e6ab69e0cd471b2f127192?utm_campaign=1057&utm_source=git)** | Buffalo-Niagara Area | On Site | May 13 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | May 13 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrative Intern - Matheny-Withrow Elementary School](https://jobright.ai/jobs/info/6a048ccb7c753c287f6f0c07?utm_campaign=1057&utm_source=git)** | Matheny-Withrow Elementary School - Springfield, Illinois | On Site | May 13 |
 | ↳ | **[Secondary Administrative Intern - PCW](https://jobright.ai/jobs/info/6a048cc8f811a0436960c19f?utm_campaign=1057&utm_source=git)** | Putnam City West High School - Oklahoma City, Oklahoma | On Site | May 13 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[USU Bastian Ag Center Youth Livestock Intern](https://jobright.ai/jobs/info/6a0475b4f811a0436960a954?utm_campaign=1057&utm_source=git)** | South Jordan, Utah | On Site | May 13 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b5?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf774950064509525e3?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | May 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Presbyterian Church of Dallas](https://fpcdallas.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0355b222395b6dc6d93736?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[Fond du Lac County](http://www.fdlco.wi.gov)** | **[4-H Youth Development Summer Intern](https://jobright.ai/jobs/info/6a0355927c753c287f6e5ed1?utm_campaign=1057&utm_source=git)** | 160 S. Macy Street, Fond du Lac, WI, 54935, US | On Site | May 12 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341fa7c753c287f6e5516?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 12 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 12 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 12 |
-| **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
-| **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a0349e822395b6dc6d92fb4?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
-| **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
