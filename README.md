@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b20b0a6e09555303d27d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
+| **[Lancaster-Lebanon IU13](https://www.iu13.org/)** | **[Part-time School Psychologist Intern: 25/26 and 26/27 School Year](https://jobright.ai/jobs/info/6a05af5c7c753c287f6faa0a?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | May 14 |
 | **[TAU Investment Management](http://tau-investment.com)** | **[Summer Intern/Associate](https://jobright.ai/jobs/info/6a05a686320bff2205ea337c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 14 |
 | **[Holly](https://www.hollygov.com/)** | **[Learning and Enablement Intern](https://jobright.ai/jobs/info/6a05872ef3d6cc51d638996e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Student Intern - John Jay Legal Services](https://jobright.ai/jobs/info/6a057187bc4184089f2453ae?utm_campaign=1057&utm_source=git)** | White Plains, NY 10603, USA | On Site | May 13 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a04e6c7f3d6cc51d63844c5?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Diversity & Inclusion Services - Summer Internship](https://jobright.ai/jobs/info/6a04e59e7c753c287f6f48b3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | May 13 |
 | **[Bay de Noc Community College](http://www.baycollege.edu/)** | **[Science Learning Assistant 2026-2027 - IM](https://jobright.ai/jobs/info/6a04e35a22395b6dc6da1b7d?utm_campaign=1057&utm_source=git)** | Iron Mountain, MI | On Site | May 13 |
-| **[Operation Food Search](https://www.operationfoodsearch.org/)** | **[Child Nutrition Summer Intern](https://jobright.ai/jobs/info/6a04e27522395b6dc6da1a7f?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69dfa8ef14bf245fc7a6cf84?utm_campaign=1057&utm_source=git)** | Knoxville, TN | Remote | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Black & Green Internship: Nature Programs Interns (Paid)](https://jobright.ai/jobs/info/6a04e01022395b6dc6da1834?utm_campaign=1057&utm_source=git)** | Tualatin Hills Nature Center - Beaverton, OR | On Site | May 13 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/6a04dda1bc4184089f2402bf?utm_campaign=1057&utm_source=git)** | Beth Israel Deaconess Medical Center, US | On Site | May 13 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a038e3fbc4184089f2339b9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | May 12 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 12 |
 | **[Bowman Consulting](https://bowman.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a038507bc4184089f233211?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | May 12 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0384706c07461fe1704cab?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
