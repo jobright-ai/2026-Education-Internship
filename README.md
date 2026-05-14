@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Data Informatics, LLC](https://datainformatics.com/)** | **[Summer Intern - Training](https://jobright.ai/jobs/info/6a05dd5abc4184089f24844b?utm_campaign=1057&utm_source=git)** | Raleigh, NC, US | On Site | May 14 |
+| **[Tampa International Forest Products, LLC](http://tifp.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a05d8c9f3d6cc51d638bc9f?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | May 14 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[OREM Science Education and Internship Program: Business and Contracting Fellow](https://jobright.ai/jobs/info/6a05d11cf3d6cc51d638b71c?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | May 14 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a05d0586c07461fe1718bfd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Youth Programs Intern](https://jobright.ai/jobs/info/69ea21ba58811370cb1319b1?utm_campaign=1057&utm_source=git)** | Sandy, UT | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a03a901f3d6cc51d6378c8f?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 12 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Graduate Programming Coordinator (Grad Assistantship)](https://jobright.ai/jobs/info/6a03a85abc4184089f234ac1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 12 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[INTERNSHIP - CHILDREN'S SERVICES Your Role at SARRC Internship Requirements Location Salary Hours Work Environment Our Story If you have interest in any of the following fields, we encourage you to apply:](https://jobright.ai/jobs/info/6a0393de7c753c287f6e8a97?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 12 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0393c022395b6dc6d963cc?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 12 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a038e3fbc4184089f2339b9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
