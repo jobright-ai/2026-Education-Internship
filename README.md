@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a056d7c7c753c287f6f92ba?utm_campaign=1057&utm_source=git)** | California-Fontana-Fontana Medical Offices 3/Hospital Specialty Svcs | On Site | May 13 |
+| **[South Carolina Department of Corrections](www.JoinSCDC.com)** | **[Program Assistant - Intern (#022095) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a0568a2fbf3d169d3c5eb79?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | May 13 |
+| ↳ | **[Program Assistant - Intern (#022096) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a056857a88ea73abf7f0e31?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | May 13 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a05585c7c753c287f6f8b0b?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 13 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Program Assistant - Intern (#022095) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fe97c753c287f6f8759?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
 | ↳ | **[Program Assistant - Intern (#022096) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fdd6c07461fe17158ef?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
 | **[Clemson University](http://www.clemson.edu)** | **[4-H Summer Program Intern](https://jobright.ai/jobs/info/6a03783922395b6dc6d94cbe?utm_campaign=1057&utm_source=git)** | Clemson, SC | On Site | May 12 |
 | **[YMCA of Montclair](https://www.montclairymca.org/)** | **[Nature/Science Internship](https://jobright.ai/jobs/info/6a0372316c07461fe1703ea3?utm_campaign=1057&utm_source=git)** | Montclair, NJ, US | On Site | May 12 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a0365f17c753c287f6e692b?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 12 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 12 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69e74f2df8fa2f3ec32a6d66?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
