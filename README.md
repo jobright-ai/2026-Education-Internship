@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAU Investment Management](http://tau-investment.com)** | **[Summer Intern/Associate](https://jobright.ai/jobs/info/6a05a686320bff2205ea337c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 14 |
 | **[Holly](https://www.hollygov.com/)** | **[Learning and Enablement Intern](https://jobright.ai/jobs/info/6a05872ef3d6cc51d638996e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Student Intern - John Jay Legal Services](https://jobright.ai/jobs/info/6a057187bc4184089f2453ae?utm_campaign=1057&utm_source=git)** | White Plains, NY 10603, USA | On Site | May 13 |
 | **[Western DuPage Special Recreation Association (WDSRA)](https://www.wdsra.com)** | **[Therapeutic Recreation Intern](https://jobright.ai/jobs/info/6a05716c6c07461fe17165ff?utm_campaign=1057&utm_source=git)** | Carol Stream, IL 60188-2103, USA | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Ministry and Service](https://jobright.ai/jobs/info/69ab95be2747003c3d511c20?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 12 |
 | **[Bowman Consulting](https://bowman.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a038507bc4184089f233211?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | May 12 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0384706c07461fe1704cab?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 12 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
