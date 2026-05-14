@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grayslake Community High School District 127](https://www.d127.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0523e9bc4184089f24325f?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | May 13 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/6a05215bf3d6cc51d6386efb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 13 |
+| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information & Technology Undergraduate Internship](https://jobright.ai/jobs/info/6a0521077c753c287f6f707e?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | Hybrid | May 13 |
+| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Medical Economics)](https://jobright.ai/jobs/info/6a0520ae6c07461fe17141a3?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | May 13 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - University of North Carolina at Chapel Hill](https://jobright.ai/jobs/info/6a051820f3d6cc51d6386892?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Hybrid | May 13 |
 | ↳ | **[Campus Chapter Intern - University of Houston](https://jobright.ai/jobs/info/6a0517d1bc4184089f242b8c?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | May 13 |
 | ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a0517c44373b07358a3a0bc?utm_campaign=1057&utm_source=git)** | Alabama, United States | On Site | May 13 |
@@ -118,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[FYW Summer Administrative Intern](https://jobright.ai/jobs/info/6a04288ef3d6cc51d637cfee?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | ↳ | **[Research and Editing - Student Hourly](https://jobright.ai/jobs/info/6a042875bc4184089f238ddc?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | May 13 |
 | **[Gun for Glory Shooting Academy](http://www.gunforglory.in/)** | **[Internship](https://jobright.ai/jobs/info/6a0424fff811a0436960878e?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 13 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
-| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2b?utm_campaign=1057&utm_source=git)** | Beaver, UT, US | On Site | May 13 |
+| ↳ | **[TRY 4-H Adventures Program Intern](https://jobright.ai/jobs/info/6a0421b3f3d6cc51d637cd2c?utm_campaign=1057&utm_source=git)** | US-UT-Beaver | On Site | May 13 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Healing Justice Intern](https://jobright.ai/jobs/info/6a0413cc7c753c287f6ec233?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Office of Advocacy and Education Peer Educator (Fall)](https://jobright.ai/jobs/info/6a03d217bc4184089f235f71?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 12 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a03ce3ebc4184089f235db1?utm_campaign=1057&utm_source=git)** | US-ME-Brewer | On Site | May 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a033b326c07461fe1701dfd?utm_campaign=1057&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 12 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Quality Assurance](https://jobright.ai/jobs/info/6a0349e822395b6dc6d92fb4?utm_campaign=1057&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 12 |
 | **[BGIS](https://www.bgis.com)** | **[Indigenous Student Co-Op/Intern Employment Program 2026](https://jobright.ai/jobs/info/6966a8d85ad3a93f8231f8c8?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 12 |
-| **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | May 12 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d944?utm_campaign=1057&utm_source=git)** | Rockaway, NJ | On Site | May 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01bdfaeda6ff598d952?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | May 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe012dfaeda6ff598d91b?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
