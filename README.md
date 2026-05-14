@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Program Assistant - Intern (#022095) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fe97c753c287f6f8759?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
+| ↳ | **[Program Assistant - Intern (#022096) Classification & Inmate Records, Columbia (RICHLAND)](https://jobright.ai/jobs/info/6a054fdd6c07461fe17158ef?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 13 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Special Education Intern - Summer 2026](https://jobright.ai/jobs/info/6a0533ced954223d386e9e75?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | May 13 |
 | **[Simpson Housing LLLP / Simpson Property Group LLC](https://www.simpsonhousing.com)** | **[Intern](https://jobright.ai/jobs/info/6a0532bd6c07461fe1714b99?utm_campaign=1057&utm_source=git)** | Peabody, MA | On Site | May 13 |
 | **[Grayslake Community High School District 127](https://www.d127.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0523e9bc4184089f24325f?utm_campaign=1057&utm_source=git)** | Grayslake, IL | On Site | May 13 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | May 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69e74f2df8fa2f3ec32a6d66?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | May 12 |
 | **[Amon Carter Museum of American Art](http://www.cartermuseum.org)** | **[Community Teaching Intern College](https://jobright.ai/jobs/info/6a035947ed6a637463f4f03e?utm_campaign=1057&utm_source=git)** | Amon Carter Museum of American Art - Fort Worth, TX 76107 | On Site | May 12 |
-| **[First Presbyterian Church of Dallas](https://fpcdallas.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0355b222395b6dc6d93736?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 12 |
-| **[Fond du Lac County](http://www.fdlco.wi.gov)** | **[4-H Youth Development Summer Intern](https://jobright.ai/jobs/info/6a0355927c753c287f6e5ed1?utm_campaign=1057&utm_source=git)** | 160 S. Macy Street, Fond du Lac, WI, 54935, US | On Site | May 12 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
