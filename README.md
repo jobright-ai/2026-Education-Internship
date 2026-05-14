@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[P.L. Marketing, Inc.](https://plmarketing.net)** | **[Training and Development Internship](https://jobright.ai/jobs/info/6a062442320bff2205ea8fab?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | May 14 |
+| **[Matthews™](https://www.matthews.com/)** | **[Summer Training Admin Intern (ENC)](https://jobright.ai/jobs/info/6a0624427c753c287f6ffb04?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
+| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/6a061f9e320bff2205ea865f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, ON, CA | On Site | May 14 |
+| **[Atlanta Community Food Bank](https://www.acfb.org/)** | **[Year-Round Intern Position - Education and Outreach](https://jobright.ai/jobs/info/6a061ae3bc4184089f24b2e7?utm_campaign=1057&utm_source=git)** | Atlanta,GA,US | On Site | May 14 |
+| **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Center for Student Engagement Graduate Student Intern](https://jobright.ai/jobs/info/6a061a6a320bff2205ea8348?utm_campaign=1057&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Summer Internship](https://jobright.ai/jobs/info/6a06166b6c07461fe171c315?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Middle School Internship Program 26-27](https://jobright.ai/jobs/info/6a0616666c07461fe171c2ee?utm_campaign=1057&utm_source=git)** | Equality Charter School - Bronx, New York | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Fall 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/6a06165e6c07461fe171c2c2?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
@@ -71,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
-| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
-| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 14 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Education Learning Events Intern](https://jobright.ai/jobs/info/6a05e392320bff2205ea5883?utm_campaign=1057&utm_source=git)** | Glenview,IL,US | Hybrid | May 14 |
 | **[The Cove Church](http://covechurch.org)** | **[Cove Kids Intern](https://jobright.ai/jobs/info/6a05e1dcbc4184089f2487b6?utm_campaign=1057&utm_source=git)** | Statesville, North Carolina, United States | On Site | May 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | May 13 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cceefecfdc6132f9414e97?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe02cdfaeda6ff598d991?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | May 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
