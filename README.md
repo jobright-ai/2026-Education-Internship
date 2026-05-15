@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0393de7c753c287f6e8a97?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 15 |
+| **[City of Greenbelt, Maryland](https://www.greenbeltmd.gov)** | **[Kinder Camp Intern](https://jobright.ai/jobs/info/6a076d1f939a5f01db94f551?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | May 15 |
 | **[Klear Vision Enterprise](https://klearvisionenterprise.com/)** | **[Video Content & Platform Education Intern](https://jobright.ai/jobs/info/6a076988939a5f01db94f1b1?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Clinical Training & Development Internship](https://jobright.ai/jobs/info/6a0769043b54ed42d74cd0fc?utm_campaign=1057&utm_source=git)** | Bristol, CT 06010, USA | On Site | May 15 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Sports Analytics Summer Internship](https://jobright.ai/jobs/info/6a0767ec3b54ed42d74cd0a1?utm_campaign=1057&utm_source=git)** | DO-ASSMT,RESEARCH, & EVAL - St Louis Park, Minnesota | On Site | May 15 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4e?utm_campaign=1057&utm_source=git)** | Central Unified School District Fresno Fresno County, CA California | On Site | May 15 |
 | ↳ | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4b?utm_campaign=1057&utm_source=git)** | 5652 W. Gettysburg, Fresno, California, 93722-5334, US | On Site | May 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f96186f4685987c97d?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c97a?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c979?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | May 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c97a?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f76186f4685987c978?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Mental Performance Intern](https://jobright.ai/jobs/info/6a074599939a5f01db94dc0e?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
 | **[Benco Dental](https://www.benco.com/)** | **[Instructional Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a074582a203b1052e438f95?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
@@ -96,13 +98,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a5?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | ↳ | **[Continuing Legal Education Intern](https://jobright.ai/jobs/info/69fa013db1fc847fc1aedad2?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Operations Intern](https://jobright.ai/jobs/info/6a0705444a0a6a7e7d821100?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
-| **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f20d?utm_campaign=1057&utm_source=git)** | Redondo Beach, California | On Site | May 15 |
-| ↳ | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f211?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 15 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc7?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 15 |
-| ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc9?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
+| **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f211?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 15 |
+| ↳ | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f20d?utm_campaign=1057&utm_source=git)** | Redondo Beach, California | On Site | May 15 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc9?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
+| ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc7?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 15 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad8e?utm_campaign=1057&utm_source=git)** | Walnut Creek, California | On Site | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fd?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fe?utm_campaign=1057&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fe?utm_campaign=1057&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fd?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Franvest Capital Partners](http://www.franvest.ca/)** | **[Classroom Content Intern](https://jobright.ai/jobs/info/6a0730ed6186f4685987bbae?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | Remote | May 15 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/6a0701fc4a0a6a7e7d81ff8c?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | May 15 |
 | ↳ | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/6a0701fa4a0a6a7e7d81ff73?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | May 15 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/69e635f13cfd986aa6f841e0?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
 | ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a0701089f57175bd581dc2c?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[MBA Summer Intern – Provider Operations & Strategy](https://jobright.ai/jobs/info/6a070096078fec52738a5299?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 15 |
-| **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/69f91e1fdb88714bcdfbde54?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
-| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a07008d078fec52738a5222?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
+| **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a07008d078fec52738a5222?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
+| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/69f91e1fdb88714bcdfbde54?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
 | **[Nashville Zoo](https://www.nashvillezoo.org)** | **[Education Internship](https://jobright.ai/jobs/info/69f532e20b36ff0354751261?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | May 15 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a06fe919f57175bd581cf43?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/69e639c73aa0c47964392b36?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nashoba Brooks School](https://www.nashobabrooks.org)** | **[Auxiliary Programs Intern](https://jobright.ai/jobs/info/6a0641837c753c287f701366?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | May 14 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Sessional instructors for the SCPA Division of Music teaching courses in Fall 2026 and Winter 2027](https://jobright.ai/jobs/info/6a03133b7c753c287f6e38ee?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 14 |
 | **[Athene](https://www.athene.com/)** | **[Corporate Well-being Intern (Part-Time)](https://jobright.ai/jobs/info/6a063e4dbc4184089f24d5fa?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | May 14 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Instructional Systems Designer Intern](https://jobright.ai/jobs/info/6a063c70320bff2205eaa5ee?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | May 14 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Education Intern - HS](https://jobright.ai/jobs/info/6a067e1e6c07461fe1720b5f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
