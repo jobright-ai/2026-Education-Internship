@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- River Region](https://jobright.ai/jobs/info/6a07166b9f57175bd581fd29?utm_campaign=1057&utm_source=git)** | Luling, LA | On Site | May 15 |
 | **[Data Informatics, LLC](https://datainformatics.com/)** | **[Summer Intern - Training](https://jobright.ai/jobs/info/6a070eb94a0a6a7e7d822bfd?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 15 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b44a0a6a7e7d8218af?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
-| ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a5?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | ↳ | **[Continuing Legal Education Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a9?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
+| ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a5?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | ↳ | **[Continuing Legal Education Intern](https://jobright.ai/jobs/info/69fa013db1fc847fc1aedad2?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Operations Intern](https://jobright.ai/jobs/info/6a0705444a0a6a7e7d821100?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f211?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 15 |
@@ -84,14 +85,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/69e639c73aa0c47964392b36?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 15 |
 | **[BridgeBio](http://bridgebio.com)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/6a06fcbf24dcb03739f1c160?utm_campaign=1057&utm_source=git)** | San Francisco - 1800 Owens | Hybrid | May 15 |
 | ↳ | **[FP&A Summer Intern](https://jobright.ai/jobs/info/6a06fcbd24dcb03739f1c150?utm_campaign=1057&utm_source=git)** | San Francisco, CA/Hybrid | Hybrid | May 15 |
-| **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/698a4d9d4db8972cecff8c54?utm_campaign=1057&utm_source=git)** | U.S. Remote (Part-Time) | Remote | May 15 |
-| ↳ | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a06fc151f7fa33581c97e4f?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
+| **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a06fc151f7fa33581c97e4f?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
+| ↳ | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/698a4d9d4db8972cecff8c54?utm_campaign=1057&utm_source=git)** | U.S. Remote (Part-Time) | Remote | May 15 |
 | **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Events / Campus Logistics College Intern](https://jobright.ai/jobs/info/6a06fb4a152f493123c4a861?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens | On Site | May 15 |
 | **[Clarity](https://clarityapp.io)** | **[Skillbridge Internships](https://jobright.ai/jobs/info/6a06fb489f57175bd581bd68?utm_campaign=1057&utm_source=git)** | Herndon, VA | On Site | May 15 |
 | ↳ | **[Skillbridge Internships](https://jobright.ai/jobs/info/6a06fb489f57175bd581bd6b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
+| **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a07223b24dcb03739f2228d?utm_campaign=1057&utm_source=git)** | Connecticut | On Site | May 15 |
+| ↳ | **[Aspire Internship Program](https://jobright.ai/jobs/info/69fb704cd21cf86d1e3d3284?utm_campaign=1057&utm_source=git)** | Trumbull, Connecticut, United States | On Site | May 15 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - High School - Remote - Nationwide](https://jobright.ai/jobs/info/6a06fac94a0a6a7e7d81d82d?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Summer Operations Intern (Unpaid)](https://jobright.ai/jobs/info/69a0a8080836fe79d861a9da?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[NYSA Student Support Intern](https://jobright.ai/jobs/info/69a6a8def707784310b0072e?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Missions College Intern](https://jobright.ai/jobs/info/6a07208a24dcb03739f21f19?utm_campaign=1057&utm_source=git)** | South Florida | On Site | May 15 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Internships at CMT](https://jobright.ai/jobs/info/68c7bbc4f42a830e1c7e7062?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | May 15 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Student Support Intern](https://jobright.ai/jobs/info/69a6a8def707784310b0072e?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 15 |
+| **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69efe7c216b2612c2a12c893?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | May 15 |
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Corporate Training and Development Intern](https://jobright.ai/jobs/info/6a06ee1238dbee7915cf7c41?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Refugee Resettlement / Education Liaison Intern](https://jobright.ai/jobs/info/6a06e8a4b897ee41d2831366?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 15 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern: Education Specialist - Mild/Moderate Teacher](https://jobright.ai/jobs/info/6a06cb9a4b07a86277877147?utm_campaign=1057&utm_source=git)** | Vista Unified School District Vista San Diego County, CA California | On Site | May 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAON, Inc.](https://www.aaon.com)** | **[Technical Academy Lab Technician Intern](https://jobright.ai/jobs/info/6a06112cbc4184089f24a7b8?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 14 |
 | **[Meharry Medical College](http://www.mmc.edu/)** | **[Summer Intern - Urban League](https://jobright.ai/jobs/info/6a060be2a88ea73abf7f66fb?utm_campaign=1057&utm_source=git)** | Nashville Metro | On Site | May 14 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for LGBTQ+ Initiatives](https://jobright.ai/jobs/info/69e9419758811370cb12c2ae?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 14 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
-| **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
-| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
-| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
-| **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
