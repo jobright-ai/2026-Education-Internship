@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[After School Matters](http://www.afterschoolmatters.org/)** | **[Summer Internship - Field Supervisor](https://jobright.ai/jobs/info/6a068466bc4184089f250239?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/6a067039a88ea73abf7fbe72?utm_campaign=1057&utm_source=git)** | New Berlin, WI | On Site | May 14 |
 | **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Soccer Shots High School Senior Internship](https://jobright.ai/jobs/info/6a066ff8f3d6cc51d63939fb?utm_campaign=1057&utm_source=git)** | Middletown, PA | On Site | May 14 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a065ad3a88ea73abf7fb1f1?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | May 14 |
 | **[HealthRIGHT 360](https://www.healthright360.org)** | **[Training and Apprenticeship Program](https://jobright.ai/jobs/info/6a0657017c753c287f70260b?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | May 14 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 14 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 14 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 14 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 14 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a06505d6c07461fe171f272?utm_campaign=1057&utm_source=git)** | Carlsbad Municipal School District | On Site | May 14 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a064bd6320bff2205eab1c9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/6a0644b1f3d6cc51d63918ad?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
@@ -71,8 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Research Intern - College of Engineering - Electrical and Computer Engineering](https://jobright.ai/jobs/info/6a064118bc4184089f24d82d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
 | **[Athene](https://www.athene.com/)** | **[Corporate Well-being Intern (Part-Time)](https://jobright.ai/jobs/info/6a063e4dbc4184089f24d5fa?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | May 14 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Instructional Systems Designer Intern](https://jobright.ai/jobs/info/6a063c70320bff2205eaa5ee?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | May 14 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f968a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | May 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f9689?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | May 14 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Education Intern - HS](https://jobright.ai/jobs/info/6a067e1e6c07461fe1720b5f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | May 14 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f9689?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | May 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f968a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | May 14 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Health Scholars Academy (Office of Student Engagement)](https://jobright.ai/jobs/info/6a0656f9320bff2205eabce3?utm_campaign=1057&utm_source=git)** | Kansas City, KS | On Site | May 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Horticulture & Youth Programs Intern - Emery County](https://jobright.ai/jobs/info/6a0638f1a88ea73abf7f95c3?utm_campaign=1057&utm_source=git)** | Castle Dale, UT, US | On Site | May 14 |
 | ↳ | **[Extension Horticulture & Youth Programs Intern - Emery County](https://jobright.ai/jobs/info/6a0638f0a88ea73abf7f95c2?utm_campaign=1057&utm_source=git)** | US-UT-Castle Dale | On Site | May 14 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
-| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
-| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | May 14 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 14 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Education Learning Events Intern](https://jobright.ai/jobs/info/6a05e392320bff2205ea5883?utm_campaign=1057&utm_source=git)** | Glenview,IL,US | Hybrid | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Chapter Intern - University of Alabama](https://jobright.ai/jobs/info/6a04e6c7f3d6cc51d63844c5?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | On Site | May 13 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bd?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | May 13 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Student Diversity & Inclusion Services - Summer Internship](https://jobright.ai/jobs/info/6a04e59e7c753c287f6f48b3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | May 13 |
-| **[Bay de Noc Community College](http://www.baycollege.edu/)** | **[Science Learning Assistant 2026-2027 - IM](https://jobright.ai/jobs/info/6a04e35a22395b6dc6da1b7d?utm_campaign=1057&utm_source=git)** | Iron Mountain, MI | On Site | May 13 |
-| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69dfa8ef14bf245fc7a6cf84?utm_campaign=1057&utm_source=git)** | Knoxville, TN | Remote | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
