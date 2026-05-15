@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noggin Guru](https://www.nogginguru.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/6a073b94a203b1052e438c4c?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | May 15 |
 | **[Allegacy Financial](https://www.allegacy.org)** | **[Student Assistant Intern – Business Services (Commercial Lending & Treasury Management)](https://jobright.ai/jobs/info/6a0730516186f4685987ba3f?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | May 15 |
 | **[Coty](https://www.coty.com/)** | **[Intern, Retail Excellence](https://jobright.ai/jobs/info/69cde7f7398fb071abf7dd2c?utm_campaign=1057&utm_source=git)** | Miami, FL | Hybrid | May 15 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Secondary Administrative Intern-Capps](https://jobright.ai/jobs/info/6a072fc16186f4685987b92e?utm_campaign=1057&utm_source=git)** | James L. Capps Middle School - Warr Acres, Oklahoma | On Site | May 15 |
@@ -66,17 +68,18 @@ For a complete list, click the following sortable link below:
 | **[Data Informatics, LLC](https://datainformatics.com/)** | **[Summer Intern - Training](https://jobright.ai/jobs/info/6a070eb94a0a6a7e7d822bfd?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 15 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/699bc872e0bddb6acaca9191?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b44a0a6a7e7d8218af?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
-| ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a5?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | ↳ | **[Continuing Legal Education Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a9?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
+| ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a0706b34a0a6a7e7d8218a5?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | ↳ | **[Continuing Legal Education Intern](https://jobright.ai/jobs/info/69fa013db1fc847fc1aedad2?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 15 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Operations Intern](https://jobright.ai/jobs/info/6a0705444a0a6a7e7d821100?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
-| **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f20d?utm_campaign=1057&utm_source=git)** | Redondo Beach, California | On Site | May 15 |
-| ↳ | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f211?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 15 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc9?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
-| ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc7?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 15 |
+| **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f211?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 15 |
+| ↳ | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704be9f57175bd581f20d?utm_campaign=1057&utm_source=git)** | Redondo Beach, California | On Site | May 15 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc7?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a0704879f57175bd581efc9?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Non-Paid)](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad8e?utm_campaign=1057&utm_source=git)** | Walnut Creek, California | On Site | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fd?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fe?utm_campaign=1057&utm_source=git)** | Oakville | Hybrid | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fe?utm_campaign=1057&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a07044a24dcb03739f1e1fd?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
+| **[Franvest Capital Partners](http://www.franvest.ca/)** | **[Classroom Content Intern](https://jobright.ai/jobs/info/6a0730ed6186f4685987bbae?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | Remote | May 15 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/6a0701fc4a0a6a7e7d81ff8c?utm_campaign=1057&utm_source=git)** | Redwood City, California, United States | Hybrid | May 15 |
 | ↳ | **[Intern, Clinical Trial Operations](https://jobright.ai/jobs/info/6a0701fa4a0a6a7e7d81ff73?utm_campaign=1057&utm_source=git)** | Redwood City, CA | Hybrid | May 15 |
 | **[Hyperproof](https://www.hyperproof.io)** | **[Training and Enablement Intern](https://jobright.ai/jobs/info/69fa3756db88714bcdfc1c1d?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/69e635f13cfd986aa6f841e0?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
 | ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a0701089f57175bd581dc2c?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[MBA Summer Intern – Provider Operations & Strategy](https://jobright.ai/jobs/info/6a070096078fec52738a5299?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 15 |
-| **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a07008d078fec52738a5222?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
-| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/69f91e1fdb88714bcdfbde54?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
+| **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/69f91e1fdb88714bcdfbde54?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 15 |
+| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a07008d078fec52738a5222?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 15 |
 | **[Nashville Zoo](https://www.nashvillezoo.org)** | **[Education Internship](https://jobright.ai/jobs/info/69f532e20b36ff0354751261?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | May 15 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a06fe919f57175bd581cf43?utm_campaign=1057&utm_source=git)** | New York | On Site | May 15 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/69e639c73aa0c47964392b36?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 15 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Events / Campus Logistics College Intern](https://jobright.ai/jobs/info/6a06fb4a152f493123c4a861?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens | On Site | May 15 |
 | **[Clarity](https://clarityapp.io)** | **[Skillbridge Internships](https://jobright.ai/jobs/info/6a06fb489f57175bd581bd68?utm_campaign=1057&utm_source=git)** | Herndon, VA | On Site | May 15 |
 | ↳ | **[Skillbridge Internships](https://jobright.ai/jobs/info/6a06fb489f57175bd581bd6b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
-| **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/69fb704cd21cf86d1e3d3284?utm_campaign=1057&utm_source=git)** | Trumbull, Connecticut, United States | On Site | May 15 |
-| ↳ | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a07223b24dcb03739f2228d?utm_campaign=1057&utm_source=git)** | Connecticut | On Site | May 15 |
+| **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a07223b24dcb03739f2228d?utm_campaign=1057&utm_source=git)** | Connecticut | On Site | May 15 |
+| ↳ | **[Aspire Internship Program](https://jobright.ai/jobs/info/69fb704cd21cf86d1e3d3284?utm_campaign=1057&utm_source=git)** | Trumbull, Connecticut, United States | On Site | May 15 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - High School - Remote - Nationwide](https://jobright.ai/jobs/info/6a06fac94a0a6a7e7d81d82d?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Summer Operations Intern (Unpaid)](https://jobright.ai/jobs/info/69a0a8080836fe79d861a9da?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Missions College Intern](https://jobright.ai/jobs/info/6a07208a24dcb03739f21f19?utm_campaign=1057&utm_source=git)** | South Florida | On Site | May 15 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[AI Communications & Digital Media Intern (Student Position)](https://jobright.ai/jobs/info/6a06cdb1b897ee41d2830ab4?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 14 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a065ad3a88ea73abf7fb1f1?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | May 14 |
 | **[HealthRIGHT 360](https://www.healthright360.org)** | **[Training and Apprenticeship Program](https://jobright.ai/jobs/info/6a0657017c753c287f70260b?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | May 14 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 14 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 14 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 14 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 14 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a06505d6c07461fe171f272?utm_campaign=1057&utm_source=git)** | Carlsbad Municipal School District | On Site | May 14 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a064bd6320bff2205eab1c9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 14 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/6a0644b1f3d6cc51d63918ad?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
@@ -131,8 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Athene](https://www.athene.com/)** | **[Corporate Well-being Intern (Part-Time)](https://jobright.ai/jobs/info/6a063e4dbc4184089f24d5fa?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | May 14 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Instructional Systems Designer Intern](https://jobright.ai/jobs/info/6a063c70320bff2205eaa5ee?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | May 14 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Education Intern - HS](https://jobright.ai/jobs/info/6a067e1e6c07461fe1720b5f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | May 14 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f9689?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | May 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a063a60a88ea73abf7f968a?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | May 14 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Health Scholars Academy (Office of Student Engagement)](https://jobright.ai/jobs/info/6a0656f9320bff2205eabce3?utm_campaign=1057&utm_source=git)** | Kansas City, KS | On Site | May 14 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Horticulture & Youth Programs Intern - Emery County](https://jobright.ai/jobs/info/6a0638f1a88ea73abf7f95c3?utm_campaign=1057&utm_source=git)** | Castle Dale, UT, US | On Site | May 14 |
 | ↳ | **[Extension Horticulture & Youth Programs Intern - Emery County](https://jobright.ai/jobs/info/6a0638f0a88ea73abf7f95c2?utm_campaign=1057&utm_source=git)** | US-UT-Castle Dale | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Summer Internship](https://jobright.ai/jobs/info/6a06166b6c07461fe171c315?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Middle School Internship Program 26-27](https://jobright.ai/jobs/info/6a0616666c07461fe171c2ee?utm_campaign=1057&utm_source=git)** | Equality Charter School - Bronx, New York | On Site | May 14 |
 | **[Legends Global](http://legends.net)** | **[Fall 2026 Undergraduate Student Internship](https://jobright.ai/jobs/info/6a06165e6c07461fe171c2c2?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
-| ↳ | **[Fall 2026 Graduate Student Internship](https://jobright.ai/jobs/info/6a06162df3d6cc51d638ee00?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
