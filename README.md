@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Corporate Training and Development Intern](https://jobright.ai/jobs/info/6a06ee1238dbee7915cf7c41?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Refugee Resettlement / Education Liaison Intern](https://jobright.ai/jobs/info/6a06e8a4b897ee41d2831366?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 15 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern: Education Specialist - Mild/Moderate Teacher](https://jobright.ai/jobs/info/6a06cb9a4b07a86277877147?utm_campaign=1057&utm_source=git)** | Vista Unified School District Vista San Diego County, CA California | On Site | May 15 |
 | ↳ | **[Intern: Education Specialist - Mild/Moderate Teacher](https://jobright.ai/jobs/info/6a06cb974b07a86277877146?utm_campaign=1057&utm_source=git)** | 1234 Arcadia Ave., Vista, California, 92084-3404, US | On Site | May 15 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Peer Leader](https://jobright.ai/jobs/info/6a06028ef3d6cc51d638deff?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 14 |
 | **[Portland General Electric](http://www.portlandgeneral.com)** | **[PGE Summer Intern – Graduate Technical Intern – Operations Training Program](https://jobright.ai/jobs/info/6a060204bc4184089f249f35?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[SY 27 Extended Learning Student Intern](https://jobright.ai/jobs/info/6a05fa4c320bff2205ea6a61?utm_campaign=1057&utm_source=git)** | TEACHING & LEARNING - HOLYOKE, Massachusetts | On Site | May 14 |
-| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
-| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d5?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 14 |
+| ↳ | **[Instructional Systems Designer Intern (SoarTech)](https://jobright.ai/jobs/info/6a05f95ef3d6cc51d638d5d6?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 14 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | May 14 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | May 14 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Education Learning Events Intern](https://jobright.ai/jobs/info/6a05e392320bff2205ea5883?utm_campaign=1057&utm_source=git)** | Glenview,IL,US | Hybrid | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 13 |
 | ↳ | **[Student Intern, Infectious Diseases](https://jobright.ai/jobs/info/6a0509a4bc4184089f2423af?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern - Extended Fall 2026](https://jobright.ai/jobs/info/695c52ec22c9dc0d3d544816?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 13 |
-| **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Student Skills Assistant](https://jobright.ai/jobs/info/6a0504e2f3d6cc51d6385ebb?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
