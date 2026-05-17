@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 17 |
 | **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern - Students](https://jobright.ai/jobs/info/6a0a370a6186f4685988fe38?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | May 17 |
 | **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a0a2ab28f3e371eb61876ac?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | On Site | May 17 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment – Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6a0a23563b54ed42d74dec16?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 17 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
 | ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d4?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d06939a5f01db957ca8?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Dauch](www.Dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ec27014b0fa35a707810e6?utm_campaign=1057&utm_source=git)** | Ridgway, PA | On Site | May 16 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a082aca403fc339507eb51a?utm_campaign=1057&utm_source=git)** | Pleasantville,NY,US | On Site | May 16 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 15 |
@@ -137,11 +138,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ac?utm_campaign=1057&utm_source=git)** | New York, New York | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4aa?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ab?utm_campaign=1057&utm_source=git)** | Frisco, Texas | Hybrid | May 15 |
-| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4e?utm_campaign=1057&utm_source=git)** | Central Unified School District Fresno Fresno County, CA California | On Site | May 15 |
-| ↳ | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4b?utm_campaign=1057&utm_source=git)** | 5652 W. Gettysburg, Fresno, California, 93722-5334, US | On Site | May 15 |
+| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4b?utm_campaign=1057&utm_source=git)** | 5652 W. Gettysburg, Fresno, California, 93722-5334, US | On Site | May 15 |
+| ↳ | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4e?utm_campaign=1057&utm_source=git)** | Central Unified School District Fresno Fresno County, CA California | On Site | May 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f96186f4685987c97d?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c979?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c97a?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | Hybrid | May 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f86186f4685987c979?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | May 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0745f76186f4685987c978?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Mental Performance Intern](https://jobright.ai/jobs/info/6a074599939a5f01db94dc0e?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
 | **[Benco Dental](https://www.benco.com/)** | **[Instructional Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a074582a203b1052e438f95?utm_campaign=1057&utm_source=git)** | United States | Remote | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- River Region](https://jobright.ai/jobs/info/6a07166b9f57175bd581fd29?utm_campaign=1057&utm_source=git)** | Luling, LA | On Site | May 15 |
 | **[Data Informatics, LLC](https://datainformatics.com/)** | **[Summer Intern - Training](https://jobright.ai/jobs/info/6a070eb94a0a6a7e7d822bfd?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 15 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/699bc872e0bddb6acaca9191?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
-| **[TurbineOne](https://turbineone.com/ )** | **[SkillBridge Fellowship](https://jobright.ai/jobs/info/6a0741296186f4685987c6af?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Remote | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
