@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One Community Health](https://www.onecommunityhealth.org/)** | **[Outreach Internship (Summer Opportunity)](https://jobright.ai/jobs/info/6a0a9519403fc339507f7759?utm_campaign=1057&utm_source=git)** | Hood River, OR | On Site | May 17 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[2L IP Summer Associates and First Year Associates for 2027 – Intellectual Property Department](https://jobright.ai/jobs/info/6998f9cae0bddb6acac7eaf6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 17 |
 | **[Meat Institute](https://www.meatinstitute.org)** | **[Member Experience Intern - Students](https://jobright.ai/jobs/info/6a0a370a6186f4685988fe38?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | May 17 |
 | **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a0a2ab28f3e371eb61876ac?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | On Site | May 17 |
@@ -75,20 +76,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 16 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development Undergraduate Intern](https://jobright.ai/jobs/info/6a088d48939a5f01db95a36c?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | May 16 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f3403fc339507ede28?utm_campaign=1057&utm_source=git)** | Kobuk | On Site | May 16 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445ba?utm_campaign=1057&utm_source=git)** | Noatak | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 16 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a2?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | May 16 |
-| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a5?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | May 16 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
-| ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d4?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 16 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a5?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | May 16 |
+| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a2?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | May 16 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d4?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 16 |
+| ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d06939a5f01db957ca8?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | **[Dauch](www.Dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ec27014b0fa35a707810e6?utm_campaign=1057&utm_source=git)** | Ridgway, PA | On Site | May 16 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a082aca403fc339507eb51a?utm_campaign=1057&utm_source=git)** | Pleasantville,NY,US | On Site | May 16 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Secondary Administrative Intern-Capps](https://jobright.ai/jobs/info/6a072fc16186f4685987b92e?utm_campaign=1057&utm_source=git)** | James L. Capps Middle School - Warr Acres, Oklahoma | On Site | May 15 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | May 15 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Econ Ed Student Board 2026 Internship](https://jobright.ai/jobs/info/6a0727079f57175bd5820520?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 15 |
-| **[Ochsner Health](https://www.ochsner.org/)** | **[STEM Pathfinder Summer Program Intern- River Region](https://jobright.ai/jobs/info/6a07166b9f57175bd581fd29?utm_campaign=1057&utm_source=git)** | Luling, LA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
