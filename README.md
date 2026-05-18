@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Receiving & Mechanic Measurements, Onsite](https://jobright.ai/jobs/info/6a0365f17c753c287f6e692b?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 18 |
+| **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern-INT](https://jobright.ai/jobs/info/6a0b47b60411d7417a1aefb3?utm_campaign=1057&utm_source=git)** | 4721 Hargrove Rd, Raleigh, NC, 27616, US | On Site | May 18 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Mental Health Education Intern](https://jobright.ai/jobs/info/6a0b473a22d0d34036c8a4a7?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Remote | May 18 |
+| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Artificial Intelligence Trainer Intern](https://jobright.ai/jobs/info/6a0b41e822d0d34036c8a023?utm_campaign=1057&utm_source=git)** | Duryea, Pennsylvania, United States | On Site | May 18 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
 | **[Fry's Electronics](http://www.frys.com/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a0b3f24a235d749afa83206?utm_campaign=1057&utm_source=git)** | Lutz | On Site | May 18 |
@@ -92,20 +96,20 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | May 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 16 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f3403fc339507ede28?utm_campaign=1057&utm_source=git)** | Kobuk | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445ba?utm_campaign=1057&utm_source=git)** | Noatak | On Site | May 16 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 16 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a5?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | May 16 |
-| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a2?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | May 16 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a2?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | May 16 |
+| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a5?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | May 16 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
 | ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d4?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d06939a5f01db957ca8?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
 | **[Dauch](http://www.Dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ec27014b0fa35a707810e6?utm_campaign=1057&utm_source=git)** | Ridgway, PA | On Site | May 16 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a082aca403fc339507eb51a?utm_campaign=1057&utm_source=git)** | Pleasantville,NY,US | On Site | May 16 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern School Psychologist - 2026-2027 school year](https://jobright.ai/jobs/info/6a07582da203b1052e439c49?utm_campaign=1057&utm_source=git)** | 550 Blumont St., Laguna Beach, California, 92651-2356, US | On Site | May 15 |
 | **[SSA Marine](http://www.ssamarine.com/)** | **[Intern-Learning & Development](https://jobright.ai/jobs/info/6a0757d68f3e371eb6175e7d?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b3939a5f01db94e4b0?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ab?utm_campaign=1057&utm_source=git)** | Frisco, Texas | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4ac?utm_campaign=1057&utm_source=git)** | New York, New York | Hybrid | May 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4aa?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee | Hybrid | May 15 |
-| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[**IN-HOUSE ONLY** Teacher Intern Mentor (ELIGIBILITY POOL)](https://jobright.ai/jobs/info/6a074a1a6186f4685987ce4e?utm_campaign=1057&utm_source=git)** | Central Unified School District Fresno Fresno County, CA California | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
