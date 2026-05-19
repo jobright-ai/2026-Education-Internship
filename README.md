@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Information Technology Summer High School Intern](https://jobright.ai/jobs/info/6a0cca35a235d749afa908cf?utm_campaign=1057&utm_source=git)** | Corse Early Childhood Center - Burlington, Iowa | On Site | May 19 |
+| **[Michigan AFL-CIO](http://www.miaflcio.org)** | **[Communication Associate (Internship)](https://jobright.ai/jobs/info/6a0cc2fa22d0d34036c97da7?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | May 19 |
+| **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Intern, Student Co-Op (RT)](https://jobright.ai/jobs/info/6a0cc2c2a235d749afa900fa?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, 02111-1552 | On Site | May 19 |
+| ↳ | **[Intern, Student Co-Op (PFT)](https://jobright.ai/jobs/info/6a0cc291a235d749afa900df?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, 02111-1552 | On Site | May 19 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Organizational Learning (Fall 2026)](https://jobright.ai/jobs/info/6a0cbd364d9320363687b756?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 19 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a0cbbdd963f7a67d95dafb2?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | May 19 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0cb2710411d7417a1bb736?utm_campaign=1057&utm_source=git)** | Harris Center - Sedalia, MO 65301 | On Site | May 19 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Internship Program - Fall 2026 Marketing, Intl Card Services - Toronto, Ontario, CN](https://jobright.ai/jobs/info/6a0cb2300411d7417a1bb70a?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
@@ -75,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Design and Development Intern](https://jobright.ai/jobs/info/6a0c8ddb963f7a67d95d8ded?utm_campaign=1057&utm_source=git)** | Remote - United States, US | Remote | May 19 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c8c0422d0d34036c95550?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Hybrid | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c8b2a963f7a67d95d8ad2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Hybrid | May 19 |
+| **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c642ecbc8c2f73201b32?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | May 19 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Classroom Aide Student Intern – General Education (2026-27 SY)](https://jobright.ai/jobs/info/6a0c85bba235d749afa8d7f6?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | May 19 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics - Oncology](https://jobright.ai/jobs/info/6a0c8340963f7a67d95d87bd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69f036f22b095843b0311ea8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | May 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
 | ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | **[Fry's Electronics](http://www.frys.com/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a0b3f24a235d749afa83206?utm_campaign=1057&utm_source=git)** | Lutz | On Site | May 18 |
-| **[Accelint](https://accelint.com)** | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f084d9320363686ec20?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
-| ↳ | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f024d9320363686ec1d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Wellness Specialist Intern- 12 Month Full-Time Paid Internship](https://jobright.ai/jobs/info/6a0b3da3538d03366dc8314b?utm_campaign=1057&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 18 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a074504939a5f01db94db32?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 18 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a0802293b54ed42d74d3b39?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | May 18 |
-| **[KCI](http://www.kci.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a0b2bbfa235d749afa8245a?utm_campaign=1057&utm_source=git)** | US-TX-San Antonio | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
