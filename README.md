@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0ba0dd0411d7417a1b2f9e?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 18 |
+| ↳ | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0ba09a538d03366dc877c2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 18 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Learning and Development](https://jobright.ai/jobs/info/6a0ba04722d0d34036c8e73e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 18 |
+| **[MercyOne](https://www.mercyone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0b9d3b4d93203636872dd2?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | May 18 |
+| **[Fitesa Simpsonville](http://www.fitesa.com)** | **[Technical Training Intern](https://jobright.ai/jobs/info/6a0b994e538d03366dc8745d?utm_campaign=1057&utm_source=git)** | Washougal,WA,US | On Site | May 18 |
 | **[Chadwick School](http://www.chadwickschool.org)** | **[Alumni Relations and Advancement Intern](https://jobright.ai/jobs/info/6a0b962b0411d7417a1b2a98?utm_campaign=1057&utm_source=git)** | Chadwick School - Palos Verdes Peninsula, CA 90274 | On Site | May 18 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6a0b9527963f7a67d95d1732?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | May 18 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6a0b9433538d03366dc87070?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern-INT](https://jobright.ai/jobs/info/6a0b47b60411d7417a1aefb3?utm_campaign=1057&utm_source=git)** | 4721 Hargrove Rd, Raleigh, NC, 27616, US | On Site | May 18 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Mental Health Education Intern](https://jobright.ai/jobs/info/6a0b473a22d0d34036c8a4a7?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Remote | May 18 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Artificial Intelligence Trainer Intern](https://jobright.ai/jobs/info/6a0b41e822d0d34036c8a023?utm_campaign=1057&utm_source=git)** | Duryea, Pennsylvania, United States | On Site | May 18 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
-| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
+| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | **[Fry's Electronics](http://www.frys.com/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a0b3f24a235d749afa83206?utm_campaign=1057&utm_source=git)** | Lutz | On Site | May 18 |
 | **[Accelint](https://accelint.com)** | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f084d9320363686ec20?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | ↳ | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f024d9320363686ec1d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d4?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | May 16 |
 | ↳ | **[College Internship (ETS) / Temporary](https://jobright.ai/jobs/info/6a084e8e939a5f01db9580d5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d06939a5f01db957ca8?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
-| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Center for the Future of the American University](https://jobright.ai/jobs/info/6a084d05939a5f01db957ca4?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work](https://jobright.ai/jobs/info/6a01eec3df52f1450d84642f?utm_campaign=1057&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | **[Dauch](http://www.Dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ec27014b0fa35a707810e6?utm_campaign=1057&utm_source=git)** | Ridgway, PA | On Site | May 16 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a082aca403fc339507eb51a?utm_campaign=1057&utm_source=git)** | Pleasantville,NY,US | On Site | May 16 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a0509d57c753c287f6f62c6?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 15 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[Tch Intern AIT](https://jobright.ai/jobs/info/6a0810b98f3e371eb617cf93?utm_campaign=1057&utm_source=git)** | Crosspointe Elementary - Boynton Beach, Florida | On Site | May 15 |
-| ↳ | **[Asst Para II / Elem Title I (INTERN)](https://jobright.ai/jobs/info/6a0810b3a203b1052e4410ad?utm_campaign=1057&utm_source=git)** | Northboro Elementary - West Palm Beach, Florida | On Site | May 15 |
-| **[International Institute of New England](https://iine.org/)** | **[Education Services (ESOL) Internship](https://jobright.ai/jobs/info/6a080b3c6186f46859884f53?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | May 15 |
-| **[New York State Department of Civil Service](http://www.cs.ny.gov/)** | **[Training Assistant Student Internship](https://jobright.ai/jobs/info/6a0806188f3e371eb617c9b7?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | May 15 |
-| **[Fred Finch Youth & Family Services](https://www.fredfinch.org)** | **[Graduate Student Clinical Intern](https://jobright.ai/jobs/info/69efe77316b2612c2a12c76f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
