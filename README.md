@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
+| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
+| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0c5833a235d749afa8be15?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Youth Sports Management & Coaching Internship - Summer 2026](https://jobright.ai/jobs/info/6a0c12f20411d7417a1b5b97?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
 | **[Code Ninjas Harrisburg-Mechanicsburg](http://www.codeninjas.com/pa-harrisburg)** | **[Future Opening: Kids Coding Mentor Internship](https://jobright.ai/jobs/info/6a0c0c3e4d9320363687595f?utm_campaign=1057&utm_source=git)** | East Cobb, GA | On Site | May 19 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | May 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 16 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f3403fc339507ede28?utm_campaign=1057&utm_source=git)** | Kobuk | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445ba?utm_campaign=1057&utm_source=git)** | Noatak | On Site | May 16 |
+| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 16 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a2?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | May 16 |
-| ↳ | **[Extension Community Health & Wellness Intern - Davis County](https://jobright.ai/jobs/info/6a084fa78f3e371eb617f3a5?utm_campaign=1057&utm_source=git)** | US-UT-Kaysville | On Site | May 16 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
