@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brigham Young University](http://www.byu.edu)** | **[Adjunct Teaching - Kennedy Center - IAS 399R: Academic Internship (International Area Studies)](https://jobright.ai/jobs/info/6a0caada538d03366dc8fafb?utm_campaign=1057&utm_source=git)** | Provo, UT, US | On Site | May 19 |
 | **[Code Ninjas (Tampa-Carrollwood)](https://www.codeninjas.com/fl-tampa-carrollwood)** | **[Future Opening: Kids Coding Mentor Internship](https://jobright.ai/jobs/info/6a0ca0c04d9320363687a38c?utm_campaign=1057&utm_source=git)** | Snellville, GA | On Site | May 19 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c9eaba235d749afa8e8d3?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | May 19 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0c9891a235d749afa8e585?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 19 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c609c4d93203636877869?utm_campaign=1057&utm_source=git)** | Remote - Illinois, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c60994d93203636877867?utm_campaign=1057&utm_source=git)** | Remote - Wisconsin, US | Remote | May 19 |
-| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
-| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
+| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
+| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0c5833a235d749afa8be15?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Youth Sports Management & Coaching Internship - Summer 2026](https://jobright.ai/jobs/info/6a0c12f20411d7417a1b5b97?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Chadwick School](http://www.chadwickschool.org)** | **[Alumni Relations and Advancement Intern](https://jobright.ai/jobs/info/6a0b962b0411d7417a1b2a98?utm_campaign=1057&utm_source=git)** | Chadwick School - Palos Verdes Peninsula, CA 90274 | On Site | May 18 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6a0b9433538d03366dc87070?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
 | **[Ingram Content Group](http://ingramcontent.com)** | **[Summer Internship (Library Services)](https://jobright.ai/jobs/info/6a0b928e4d93203636872757?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | May 18 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - High School](https://jobright.ai/jobs/info/6a0b8b9f22d0d34036c8d9dc?utm_campaign=1057&utm_source=git)** | Chesterfield, MO | On Site | May 18 |
 | **[Propelis](https://propelis.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6a0b8681538d03366dc86764?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0b8145963f7a67d95d09d7?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | May 18 |
 | ↳ | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0b81420411d7417a1b1b49?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | May 18 |
