@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Facility Intern](https://jobright.ai/jobs/info/6a0cd518538d03366dc91b41?utm_campaign=1057&utm_source=git)** | 500 REMINGTON BLVD, BOLINGBROOK, Illinois, 60440 | On Site | May 19 |
+| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Austin Aviation – High School Intern, Planning & Development (HIRE IN PROCESS / PLEASE DO NOT APPLY – By Invitation Only)](https://jobright.ai/jobs/info/6a0cd4e022d0d34036c98cd4?utm_campaign=1057&utm_source=git)** | AUS Planning and Development Building (P&D), US | On Site | May 19 |
+| **[The Indianapolis Public Library](http://www.indypl.org/)** | **[Hrly Financial Literacy Programs Intern](https://jobright.ai/jobs/info/6a0ccc4aa235d749afa909e0?utm_campaign=1057&utm_source=git)** | 1502 - Program Development Services Area, Indianapolis, IN, US | On Site | May 19 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Information Technology Summer High School Intern](https://jobright.ai/jobs/info/6a0cca35a235d749afa908cf?utm_campaign=1057&utm_source=git)** | Corse Early Childhood Center - Burlington, Iowa | On Site | May 19 |
 | **[Michigan AFL-CIO](http://www.miaflcio.org)** | **[Communication Associate (Internship)](https://jobright.ai/jobs/info/6a0cc2fa22d0d34036c97da7?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | May 19 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Intern, Student Co-Op (RT)](https://jobright.ai/jobs/info/6a0cc2c2a235d749afa900fa?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, 02111-1552 | On Site | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern-INT](https://jobright.ai/jobs/info/6a0b47b60411d7417a1aefb3?utm_campaign=1057&utm_source=git)** | 4721 Hargrove Rd, Raleigh, NC, 27616, US | On Site | May 18 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Mental Health Education Intern](https://jobright.ai/jobs/info/6a0b473a22d0d34036c8a4a7?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Remote | May 18 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Artificial Intelligence Trainer Intern](https://jobright.ai/jobs/info/6a0b41e822d0d34036c8a023?utm_campaign=1057&utm_source=git)** | Duryea, Pennsylvania, United States | On Site | May 18 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
-| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
-| **[Fry's Electronics](http://www.frys.com/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a0b3f24a235d749afa83206?utm_campaign=1057&utm_source=git)** | Lutz | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
