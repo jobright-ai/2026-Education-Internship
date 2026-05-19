@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benco Dental](https://www.benco.com/)** | **[Instructional Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0c6d474d932036368780ca?utm_campaign=1057&utm_source=git)** | Pittston, PA | Remote | May 19 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6195a235d749afa8c246?utm_campaign=1057&utm_source=git)** | 1970 West Broad Street, Columbus, Ohio 43223 | On Site | May 19 |
 | ↳ | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6193a235d749afa8c243?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 19 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Pike Engineering](https://pikeengineering.com)** | **[Student Intern-INT](https://jobright.ai/jobs/info/6a0b47b60411d7417a1aefb3?utm_campaign=1057&utm_source=git)** | 4721 Hargrove Rd, Raleigh, NC, 27616, US | On Site | May 18 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Mental Health Education Intern](https://jobright.ai/jobs/info/6a0b473a22d0d34036c8a4a7?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Remote | May 18 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Artificial Intelligence Trainer Intern](https://jobright.ai/jobs/info/6a0b41e822d0d34036c8a023?utm_campaign=1057&utm_source=git)** | Duryea, Pennsylvania, United States | On Site | May 18 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
-| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
+| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | **[Fry's Electronics](http://www.frys.com/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a0b3f24a235d749afa83206?utm_campaign=1057&utm_source=git)** | Lutz | On Site | May 18 |
 | **[Accelint](https://accelint.com)** | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f084d9320363686ec20?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
 | ↳ | **[Training Analyst Internship (SoarTech)](https://jobright.ai/jobs/info/6a0b3f024d9320363686ec1d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 18 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | May 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 16 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f3403fc339507ede28?utm_campaign=1057&utm_source=git)** | Kobuk | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
