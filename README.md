@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](http://www.duke.edu)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a0cbbdd963f7a67d95dafb2?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | May 19 |
+| **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0cb2710411d7417a1bb736?utm_campaign=1057&utm_source=git)** | Harris Center - Sedalia, MO 65301 | On Site | May 19 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Internship Program - Fall 2026 Marketing, Intl Card Services - Toronto, Ontario, CN](https://jobright.ai/jobs/info/6a0cb2300411d7417a1bb70a?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Adjunct Teaching - Kennedy Center - IAS 399R: Academic Internship (International Area Studies)](https://jobright.ai/jobs/info/6a0caada538d03366dc8fafb?utm_campaign=1057&utm_source=git)** | Provo, UT, US | On Site | May 19 |
 | **[Code Ninjas (Tampa-Carrollwood)](https://www.codeninjas.com/fl-tampa-carrollwood)** | **[Future Opening: Kids Coding Mentor Internship](https://jobright.ai/jobs/info/6a0ca0c04d9320363687a38c?utm_campaign=1057&utm_source=git)** | Snellville, GA | On Site | May 19 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c9eaba235d749afa8e8d3?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | May 19 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c609c4d93203636877869?utm_campaign=1057&utm_source=git)** | Remote - Illinois, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c60994d93203636877867?utm_campaign=1057&utm_source=git)** | Remote - Wisconsin, US | Remote | May 19 |
-| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
-| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
+| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
+| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0c5833a235d749afa8be15?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Youth Sports Management & Coaching Internship - Summer 2026](https://jobright.ai/jobs/info/6a0c12f20411d7417a1b5b97?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a074504939a5f01db94db32?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 18 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a0802293b54ed42d74d3b39?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | May 18 |
 | **[KCI](http://www.kci.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a0b2bbfa235d749afa8245a?utm_campaign=1057&utm_source=git)** | US-TX-San Antonio | On Site | May 18 |
-| **[Goodwill Industries of Central Florida, Inc.](https://www.goodwillcfl.org)** | **[Learning and Development Intern (42034)](https://jobright.ai/jobs/info/6a0b2708538d03366dc822f4?utm_campaign=1057&utm_source=git)** | S Orange Blossom Trail Headquarters - Orlando, FL 32809 | On Site | May 18 |
-| **[Foodlink](http://foodlinkny.org/)** | **[Summer Meals Intern](https://jobright.ai/jobs/info/6a0b26be538d03366dc822bd?utm_campaign=1057&utm_source=git)** | Rochester,NY,US | On Site | May 18 |
-| **[BLACKCLOAK](https://www.blackcloak.io)** | **[SkillBridge Internship - Incident Responder](https://jobright.ai/jobs/info/6897a9db8c6d6b442678fd42?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
