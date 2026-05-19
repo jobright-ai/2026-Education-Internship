@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6195a235d749afa8c246?utm_campaign=1057&utm_source=git)** | 1970 West Broad Street, Columbus, Ohio 43223 | On Site | May 19 |
+| ↳ | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6193a235d749afa8c243?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 19 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c609c4d93203636877869?utm_campaign=1057&utm_source=git)** | Remote - Illinois, US | Remote | May 19 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c60994d93203636877867?utm_campaign=1057&utm_source=git)** | Remote - Wisconsin, US | Remote | May 19 |
 | **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
 | ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0c5833a235d749afa8be15?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
@@ -124,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Wellness Specialist Intern- 12 Month Full-Time Paid Internship](https://jobright.ai/jobs/info/6a0b3da3538d03366dc8314b?utm_campaign=1057&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 18 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a074504939a5f01db94db32?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 18 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - High School](https://jobright.ai/jobs/info/6a0b3990963f7a67d95cd14d?utm_campaign=1057&utm_source=git)** | United States, Chesterfield, MO, RGA HQ, US | On Site | May 18 |
-| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Student Worker - CDO Intern](https://jobright.ai/jobs/info/6a0b3278538d03366dc82966?utm_campaign=1057&utm_source=git)** | Delaware, OH, US | On Site | May 18 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a0802293b54ed42d74d3b39?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | May 18 |
 | **[KCI](http://www.kci.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a0b2bbfa235d749afa8245a?utm_campaign=1057&utm_source=git)** | US-TX-San Antonio | On Site | May 18 |
 | **[Goodwill Industries of Central Florida, Inc.](https://www.goodwillcfl.org)** | **[Learning and Development Intern (42034)](https://jobright.ai/jobs/info/6a0b2708538d03366dc822f4?utm_campaign=1057&utm_source=git)** | S Orange Blossom Trail Headquarters - Orlando, FL 32809 | On Site | May 18 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[PC Construction Company](https://pcconstruction.com)** | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | May 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68c63d2ddb52c07d28845b4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | May 16 |
 | **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations Paid Internship- Kobuk, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868f3403fc339507ede28?utm_campaign=1057&utm_source=git)** | Kobuk | On Site | May 16 |
-| ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445ba?utm_campaign=1057&utm_source=git)** | Noatak | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bb?utm_campaign=1057&utm_source=git)** | Noatak , AK, US | On Site | May 16 |
 | ↳ | **[NANA High School Intern, Shareholder Relations Paid Internship- Noatak, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/6a0868eca203b1052e4445bd?utm_campaign=1057&utm_source=git)** | US-AK-Noatak | On Site | May 16 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 16 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f97c753c287f6e5513?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
