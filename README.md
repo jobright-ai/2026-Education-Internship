@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Riverside](https://rivco.org)** | **[Department of Waste Resources Student Internship](https://jobright.ai/jobs/info/6a0d0d96538d03366dc93c3e?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | May 19 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d0b7fa235d749afa93090?utm_campaign=1057&utm_source=git)** | Nationwide, US | On Site | May 19 |
+| **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0d09580411d7417a1bee8f?utm_campaign=1057&utm_source=git)** | Sedalia, MO | On Site | May 19 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a0d076922d0d34036c9b1a1?utm_campaign=1057&utm_source=git)** | Bolingbrook, IL | On Site | May 19 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Principal Internship SY 26/27](https://jobright.ai/jobs/info/6a0d004aa235d749afa92a1a?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | May 19 |
 | **[Minnesota Urology](https://mnurology.com)** | **[Summer Student Intern, Clinical Research (mid-May-mid-Aug )](https://jobright.ai/jobs/info/6a0cfff70411d7417a1be8d5?utm_campaign=1057&utm_source=git)** | Bloomington,MN,US | On Site | May 19 |
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/6a0656f9bc4184089f24eaff?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midland University](http://www.midlandu.edu/)** | **[Graduate Assistant - Athletic Communications](https://jobright.ai/jobs/info/6a0b6a800411d7417a1b09dd?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | May 18 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment – Program Development Specialist Intern (CNHCP) (NFWS)](https://jobright.ai/jobs/info/6a0b8c71538d03366dc86974?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 18 |
 | **[MedTrials, Inc.](https://www.medtrials.com)** | **[Intern](https://jobright.ai/jobs/info/6a0b60f30411d7417a1b0458?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
-| **[Trinity Services Inc.](https://www.trinityservices.org)** | **[Summer Intern- Family Counseling Center](https://jobright.ai/jobs/info/6a0b5feea235d749afa84b45?utm_campaign=1057&utm_source=git)** | Joliet, IL, 60435, United States | On Site | May 18 |
-| **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a0611877c753c287f6fe9c9?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | May 18 |
-| **[Center on Budget and Policy Priorities](http://www.cbpp.org/)** | **[Fall 2026 Equity, Inclusion, and Belonging Intern](https://jobright.ai/jobs/info/6a0b5e34a235d749afa8493f?utm_campaign=1057&utm_source=git)** | Washington, DC, Washington, DC, US | Hybrid | May 18 |
-| ↳ | **[Fall 2026 Equity, Inclusion, and Belonging Intern](https://jobright.ai/jobs/info/6a0b5e30a235d749afa84935?utm_campaign=1057&utm_source=git)** | United States-Remote, US | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
