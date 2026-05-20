@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alta Equipment Group](https://altg.com)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0def7547fea1610bca5473?utm_campaign=1057&utm_source=git)** | Davie, FL | On Site | May 20 |
+| **[Clínica Monseñor Oscar A. Romero](https://clinicaromero.com/)** | **[Workforce Development - Intern](https://jobright.ai/jobs/info/6a0dea6783d7144289813d12?utm_campaign=1057&utm_source=git)** | Los Angeles , California, United States | Hybrid | May 20 |
+| **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 20 |
+| **[Allstate Peterbilt Group](https://www.allstatepeterbilt.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0de48c83d7144289813963?utm_campaign=1057&utm_source=git)** | St Louis Park, Minnesota, United States | On Site | May 20 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6a0de254beb4d73cb622c924?utm_campaign=1057&utm_source=git)** | Boston | Hybrid | May 20 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Math/Computer Science Teacher 26-27 SY (also accepting Intern Eligible Candidate applications)](https://jobright.ai/jobs/info/6a0de1bd80bf0430c7626e57?utm_campaign=1057&utm_source=git)** | 255 W. Stanley Avenue, Ventura, California, 93001-2716, US | On Site | May 20 |
 | ↳ | **[Math/Computer Science Teacher 26-27 SY (also accepting Intern Eligible Candidate applications)](https://jobright.ai/jobs/info/6a0de1bb80bf0430c7626e56?utm_campaign=1057&utm_source=git)** | Ventura Unified School District Ventura Ventura County, CA California | On Site | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0ba09a538d03366dc877c2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 18 |
 | **[Fitesa Simpsonville](http://www.fitesa.com)** | **[Technical Training Intern](https://jobright.ai/jobs/info/6a0b994e538d03366dc8745d?utm_campaign=1057&utm_source=git)** | Washougal,WA,US | On Site | May 18 |
 | **[Chadwick School](http://www.chadwickschool.org)** | **[Alumni Relations and Advancement Intern](https://jobright.ai/jobs/info/6a0b962b0411d7417a1b2a98?utm_campaign=1057&utm_source=git)** | Chadwick School - Palos Verdes Peninsula, CA 90274 | On Site | May 18 |
-| **[SGS & Co](https://www.sgsco.com/)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6a0b9433538d03366dc87070?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
-| **[Ingram Content Group](http://ingramcontent.com)** | **[Summer Internship (Library Services)](https://jobright.ai/jobs/info/6a0b928e4d93203636872757?utm_campaign=1057&utm_source=git)** | La Vergne, TN | On Site | May 18 |
-| **[Propelis](https://propelis.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6a0b8681538d03366dc86764?utm_campaign=1057&utm_source=git)** | United States | Remote | May 18 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0b8145963f7a67d95d09d7?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
