@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern-Finance & Accounting](https://jobright.ai/jobs/info/6a0dce7c47fea1610bca3fd1?utm_campaign=1057&utm_source=git)** | 265 Peachtree Center Ave NE, Atlanta, GA, 30303, US | On Site | May 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/6a0dc24983d71442898121ff?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0db48447fea1610bca2eae?utm_campaign=1057&utm_source=git)** | Davie, FL, USA | On Site | May 20 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Fire Rescue Student Intern (Temporary)](https://jobright.ai/jobs/info/6a0dae4c83d7144289811721?utm_campaign=1057&utm_source=git)** | 2472 Clower Lane, Bartow, FL, 33830, US | On Site | May 20 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0c93af538d03366dc8ec86?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Community Outreach & Education DuPage](https://jobright.ai/jobs/info/6a0c93910411d7417a1ba15f?utm_campaign=1057&utm_source=git)** | Wheaton, Illinois, United States | On Site | May 19 |
 | **[Community College of Beaver County](http://www.ccbc.edu/)** | **[Summer Intern - Institutional Research and Data Analytics](https://jobright.ai/jobs/info/6a0c92d54d93203636879afc?utm_campaign=1057&utm_source=git)** | Monaca, PA 15061, USA | Hybrid | May 19 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c8e5d4d93203636879714?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Hybrid | May 19 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Design and Development Intern](https://jobright.ai/jobs/info/6a0c8ddb963f7a67d95d8ded?utm_campaign=1057&utm_source=git)** | Remote - United States, US | Remote | May 19 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c8c0422d0d34036c95550?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Hybrid | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c8b2a963f7a67d95d8ad2?utm_campaign=1057&utm_source=git)** | Illinois, United States | Hybrid | May 19 |
