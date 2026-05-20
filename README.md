@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | May 20 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0d597b538d03366dc95ecb?utm_campaign=1057&utm_source=git)** | California-Anaheim-Orange Co Anaheim Medical Center | On Site | May 19 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d3fcaa235d749afa94743?utm_campaign=1057&utm_source=git)** | United States | Remote | May 19 |
 | **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6915150b6f36db06ef04b7aa?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | May 19 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Student Mortgage Development Intern](https://jobright.ai/jobs/info/6a0d1f690411d7417a1bf825?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | May 19 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0d1cdca235d749afa937b5?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | May 19 |
-| **[County of Riverside](https://rivco.org)** | **[Department of Waste Resources Student Internship](https://jobright.ai/jobs/info/6a0d0d96538d03366dc93c3e?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | May 19 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d0b7fa235d749afa93090?utm_campaign=1057&utm_source=git)** | Nationwide, US | On Site | May 19 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0d09580411d7417a1bee8f?utm_campaign=1057&utm_source=git)** | Sedalia, MO | On Site | May 19 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a0d076922d0d34036c9b1a1?utm_campaign=1057&utm_source=git)** | Bolingbrook, IL | On Site | May 19 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/6a0656f9bc4184089f24eaff?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0ceff7963f7a67d95dd3ef?utm_campaign=1057&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 19 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Student Mortgage Development Intern](https://jobright.ai/jobs/info/6a0cef2a4d9320363687da8b?utm_campaign=1057&utm_source=git)** | Lincoln, NE 68512, USA | On Site | May 19 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6a0d537a0411d7417a1c1450?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | May 19 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/6a0d531622d0d34036c9d20a?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6a0d531622d0d34036c9d20a?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | May 19 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/6a0d537a0411d7417a1c1450?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | May 19 |
 | **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0cebfd4d9320363687d899?utm_campaign=1057&utm_source=git)** | Mendota Heights,MN,US | On Site | May 19 |
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Principal Internship SY 26/27](https://jobright.ai/jobs/info/6a0ce78a22d0d34036c99f28?utm_campaign=1057&utm_source=git)** | Carlsbad Municipal School District | On Site | May 19 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[CEI Student Intern - Pellissippi Earn & Learn Program - Transportation Market](https://jobright.ai/jobs/info/6a0ce6a40411d7417a1bda94?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | May 19 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c609c4d93203636877869?utm_campaign=1057&utm_source=git)** | Remote - Illinois, US | Remote | May 19 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c60994d93203636877867?utm_campaign=1057&utm_source=git)** | Remote - Wisconsin, US | Remote | May 19 |
-| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
-| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
+| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
+| ↳ | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ad?utm_campaign=1057&utm_source=git)** | Site 1 - Main (M) - Campus, US | On Site | May 19 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a0c5833a235d749afa8be15?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Youth Sports Management & Coaching Internship - Summer 2026](https://jobright.ai/jobs/info/6a0c12f20411d7417a1b5b97?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 19 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
