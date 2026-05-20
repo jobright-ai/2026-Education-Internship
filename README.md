@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Nations](https://www.un.org/)** | **[Intern, Humanitarian-Development-Peace Nexus Academy (Remote)](https://jobright.ai/jobs/info/6a0dfbe9c152ac7824481dd9?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | May 20 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of Applied Research](https://jobright.ai/jobs/info/69f2d307ab4ec4779fffcb2e?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | May 20 |
 | **[Alta Equipment Group](https://altg.com)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0def7547fea1610bca5473?utm_campaign=1057&utm_source=git)** | Davie, FL | On Site | May 20 |
 | **[Clínica Monseñor Oscar A. Romero](https://clinicaromero.com/)** | **[Workforce Development - Intern](https://jobright.ai/jobs/info/6a0dea6783d7144289813d12?utm_campaign=1057&utm_source=git)** | Los Angeles , California, United States | Hybrid | May 20 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 20 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Blessing Health](https://www.blessinghealth.org/)** | **[SUMMER 2026 INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6a0ddbdfbeb4d73cb622c049?utm_campaign=1057&utm_source=git)** | QUINCY, IL | On Site | May 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Enterprise Learning Intern](https://jobright.ai/jobs/info/6a0ddb2847fea1610bca4460?utm_campaign=1057&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 20 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern-Finance & Accounting](https://jobright.ai/jobs/info/6a0dce7c47fea1610bca3fd1?utm_campaign=1057&utm_source=git)** | 265 Peachtree Center Ave NE, Atlanta, GA, 30303, US | On Site | May 20 |
+| **[Life.Church](http://www.life.church)** | **[Life.Church Central Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e1b?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | May 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Pre-College Residential Life Intern - Pre-College Programs - Division of Student Affairs](https://jobright.ai/jobs/info/6a0dc24983d71442898121ff?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0db48447fea1610bca2eae?utm_campaign=1057&utm_source=git)** | Davie, FL, USA | On Site | May 20 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Fire Rescue Student Intern (Temporary)](https://jobright.ai/jobs/info/6a0dae4c83d7144289811721?utm_campaign=1057&utm_source=git)** | 2472 Clower Lane, Bartow, FL, 33830, US | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for New Student Programs](https://jobright.ai/jobs/info/6a0bcfa1963f7a67d95d3282?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | May 18 |
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Student Support Counselor Intern (26-27) - YES Prep North Central Secondary](https://jobright.ai/jobs/info/6a0bbd7f963f7a67d95d2be6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 18 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0ba0dd0411d7417a1b2f9e?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 18 |
-| ↳ | **[Intern Undergraduate - Neurology Clinical Research - Temporary](https://jobright.ai/jobs/info/6a0ba09a538d03366dc877c2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | May 18 |
-| **[Fitesa Simpsonville](http://www.fitesa.com)** | **[Technical Training Intern](https://jobright.ai/jobs/info/6a0b994e538d03366dc8745d?utm_campaign=1057&utm_source=git)** | Washougal,WA,US | On Site | May 18 |
-| **[Chadwick School](http://www.chadwickschool.org)** | **[Alumni Relations and Advancement Intern](https://jobright.ai/jobs/info/6a0b962b0411d7417a1b2a98?utm_campaign=1057&utm_source=git)** | Chadwick School - Palos Verdes Peninsula, CA 90274 | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
