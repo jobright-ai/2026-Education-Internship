@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kansas City Public Schools](https://www.kcpublicschools.org/)** | **[Summer 2026 KCPS District Internship Coach](https://jobright.ai/jobs/info/6a0e1bbb09ecfd704b3e602a?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | May 20 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6a0e1bad09ecfd704b3e5ffc?utm_campaign=1057&utm_source=git)** | Central Administration - Department of Special Education - Del Valle, Texas | On Site | May 20 |
+| **[Dartmouth College](http://dartmouth.edu)** | **[Music Department Post-Bacc Intern.](https://jobright.ai/jobs/info/6a0e19a009ecfd704b3e5d81?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | May 20 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a0e198380bf0430c762960b?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | May 20 |
+| ↳ | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a0e197e47fea1610bca6f9c?utm_campaign=1057&utm_source=git)** | Davidson,NC,US | On Site | May 20 |
+| **[Doyon, Limited](http://www.doyon.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a0e15c647fea1610bca6a67?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 20 |
+| **[Replit](https://replit.com)** | **[Education Team Intern](https://jobright.ai/jobs/info/6a0e143c83d714428981547c?utm_campaign=1057&utm_source=git)** | Foster City, CA | On Site | May 20 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Online Learning Intern, Knight Center for Journalism, Moody College of Communication](https://jobright.ai/jobs/info/6a0e13f5beb4d73cb622e892?utm_campaign=1057&utm_source=git)** | 300 W. Dean Keeton, RM 3.212 | On Site | May 20 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[STEM Ambassador Intern - School of Computer Science](https://jobright.ai/jobs/info/6a0e0a25c152ac78244827e3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 20 |
 | **[PwC](http://pwc.com)** | **[Advisory Intern](https://jobright.ai/jobs/info/6a0e097c80bf0430c7628ad2?utm_campaign=1057&utm_source=git)** | Kingston, OK | On Site | May 20 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e097b80bf0430c7628ac0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 20 |
@@ -97,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a0d2f92a235d749afa940a9?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 19 |
 | **[Oak Hill (Legal name: CT Institute for the Blind)](https://oakhillct.org/)** | **[Summer Intern - Special Education Teacher(s)](https://jobright.ai/jobs/info/6a0d2bff963f7a67d95df315?utm_campaign=1057&utm_source=git)** | Connecticut, United States | On Site | May 19 |
 | **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0d235e0411d7417a1bfafa?utm_campaign=1057&utm_source=git)** | Mendota Heights, MN | On Site | May 19 |
-| **[Union Bank & Trust](http://www.ubt.com)** | **[Student Mortgage Development Intern](https://jobright.ai/jobs/info/6a0d1f690411d7417a1bf825?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | May 19 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics HawkVision Intern](https://jobright.ai/jobs/info/6a0d1cdca235d749afa937b5?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | May 19 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d0b7fa235d749afa93090?utm_campaign=1057&utm_source=git)** | Nationwide, US | On Site | May 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eleanor's Legacy](https://www.eleanorslegacy.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0c74e822d0d34036c94739?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Youth Opportunity Board (YOB) Summer Internship Program](https://jobright.ai/jobs/info/6a0c74380411d7417a1b8b7b?utm_campaign=1057&utm_source=git)** | City Hall - Administration 776 NE 125 St North Miami, FL | On Site | May 19 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d4285154f00230c6d2eb63?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | May 19 |
-| **[Benco Dental](https://www.benco.com/)** | **[Instructional Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0c6d474d932036368780ca?utm_campaign=1057&utm_source=git)** | Pittston, PA | Remote | May 19 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6195a235d749afa8c246?utm_campaign=1057&utm_source=git)** | 1970 West Broad Street, Columbus, Ohio 43223 | On Site | May 19 |
-| ↳ | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a0c6193a235d749afa8c243?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 19 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0c609d4d9320363687786b?utm_campaign=1057&utm_source=git)** | Remote - Minnesota, US | Remote | May 19 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c609c4d93203636877869?utm_campaign=1057&utm_source=git)** | Remote - Illinois, US | Remote | May 19 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a0c60994d93203636877867?utm_campaign=1057&utm_source=git)** | Remote - Wisconsin, US | Remote | May 19 |
-| **[Tallahassee State College](http://www.tcc.fl.edu/)** | **[Volunteer/Intern Adult Education](https://jobright.ai/jobs/info/6a0c520c963f7a67d95d65ac?utm_campaign=1057&utm_source=git)** | Site 2 - Gadsden Service Center (GSC) - Campus, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
