@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a0e960b12f8b43cf39788bc?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Applied Research Internship, Brookings Metro (Job ID: 2026-3865)](https://jobright.ai/jobs/info/6a0e72f847fea1610bcaa59b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Research & Project Coordination Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3862)](https://jobright.ai/jobs/info/6a0e72e009ecfd704b3e91ce?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | ↳ | **[Fall 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3850)](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232419?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brigham Young University](http://www.byu.edu)** | **[Adjunct Teaching - Kennedy Center - IAS 399R: Academic Internship (International Area Studies)](https://jobright.ai/jobs/info/6a0caada538d03366dc8fafb?utm_campaign=1057&utm_source=git)** | Provo, UT, US | On Site | May 19 |
 | **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[EOP PCD College Access Intern summer 2026, Commuter (Tutor- Counselor)](https://jobright.ai/jobs/info/6a0d63ff22d0d34036c9da0c?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
 | ↳ | **[EOP PCD College Access Intern summer 2026, Residential (Tutor- Counselor)](https://jobright.ai/jobs/info/6a0d648b538d03366dc96358?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
-| **[Code Ninjas (Tampa-Carrollwood)](https://www.codeninjas.com/fl-tampa-carrollwood)** | **[Future Opening: Kids Coding Mentor Internship](https://jobright.ai/jobs/info/6a0ca0c04d9320363687a38c?utm_campaign=1057&utm_source=git)** | Snellville, GA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
