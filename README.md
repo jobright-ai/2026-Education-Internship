@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3850)](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232419?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Student Assistants - Anatomy Lab (Summer)](https://jobright.ai/jobs/info/6a0e5acac152ac78244861d8?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 20 |
 | **[Reading Is Fundamental](http://www.rif.org/)** | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/6a0e58a747fea1610bca9a26?utm_campaign=1057&utm_source=git)** | Washington DC, DC, US | Hybrid | May 20 |
 | ↳ | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/6a0e58a047fea1610bca9a25?utm_campaign=1057&utm_source=git)** | US-DC-Washington DC | Hybrid | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c9eaba235d749afa8e8d3?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | May 19 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0c9891a235d749afa8e585?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 19 |
 | **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Intern, Student Co-Op (RT)](https://jobright.ai/jobs/info/6a0c983d538d03366dc8efde?utm_campaign=1057&utm_source=git)** | Tufts Medical Center, US | On Site | May 19 |
-| **[Memphis-Shelby County Schools](http://www.scsk12.org)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6a0c9755963f7a67d95d988e?utm_campaign=1057&utm_source=git)** | Bond Building | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
