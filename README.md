@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Work-Study](https://jobright.ai/jobs/info/6a0e4476c152ac782448531e?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 20 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Per Diem Student Intern - NYU Langone Orthopedic Hospital *As Needed Monday - Friday 9:00 AM - 5:00 PM*](https://jobright.ai/jobs/info/6a0e3ccb83d71442898176bb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 20 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6a0e3c5fc152ac7824484f44?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | May 20 |
+| **[Union Bank & Trust](http://www.ubt.com)** | **[Student Mortgage Development Intern](https://jobright.ai/jobs/info/6a0e376ac152ac7824484ad6?utm_campaign=1057&utm_source=git)** | Lincoln, NE 68512, USA | On Site | May 20 |
 | **[aQua Dialysis](https://bosonhealth.applicantpro.com/jobs/)** | **[Clinical Research Site Operations Intern](https://jobright.ai/jobs/info/6a0e353d09ecfd704b3e7092?utm_campaign=1057&utm_source=git)** | Houston,TX,US | On Site | May 20 |
 | **[NCAA](https://www.ncaa.org)** | **[Coordinator of Academic Support and Student-Athlete Welfare (Intern)](https://jobright.ai/jobs/info/6a0e3424c152ac78244847f5?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | May 20 |
 | **[MSD of Warren Township](https://www.warren.k12.in.us/)** | **[Adult Education Summer Intern](https://jobright.ai/jobs/info/6a0e31f0beb4d73cb622ffaa?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0c93af538d03366dc8ec86?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Community Outreach & Education DuPage](https://jobright.ai/jobs/info/6a0c93910411d7417a1ba15f?utm_campaign=1057&utm_source=git)** | Wheaton, Illinois, United States | On Site | May 19 |
 | **[Community College of Beaver County](http://www.ccbc.edu/)** | **[Summer Intern - Institutional Research and Data Analytics](https://jobright.ai/jobs/info/6a0c92d54d93203636879afc?utm_campaign=1057&utm_source=git)** | Monaca, PA 15061, USA | Hybrid | May 19 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Design and Development Intern](https://jobright.ai/jobs/info/6a0c8ddb963f7a67d95d8ded?utm_campaign=1057&utm_source=git)** | Remote - United States, US | Remote | May 19 |
-| **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c642ecbc8c2f73201b32?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | May 19 |
-| **[Thompson School District](https://www.thompsonschools.org)** | **[Classroom Aide Student Intern – General Education (2026-27 SY)](https://jobright.ai/jobs/info/6a0c85bba235d749afa8d7f6?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | May 19 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Skilled Trades Experience Pathway High School Intern-5](https://jobright.ai/jobs/info/69d4047fe63cea7a8b655dd7?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
