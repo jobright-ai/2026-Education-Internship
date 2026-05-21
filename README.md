@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3850)](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232419?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Applied Research Internship, Brookings Metro (Job ID: 2026-3865)](https://jobright.ai/jobs/info/6a0e72f847fea1610bcaa59b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
+| ↳ | **[Fall 2026, Research & Project Coordination Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3862)](https://jobright.ai/jobs/info/6a0e72e009ecfd704b3e91ce?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
+| ↳ | **[Fall 2026, Research Internship, Center for Universal Education, Global Economy and Development (Job ID: 2026-3850)](https://jobright.ai/jobs/info/6a0e6e30beb4d73cb6232419?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Student Assistants - Anatomy Lab (Summer)](https://jobright.ai/jobs/info/6a0e5acac152ac78244861d8?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 20 |
 | **[Reading Is Fundamental](http://www.rif.org/)** | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/6a0e58a747fea1610bca9a26?utm_campaign=1057&utm_source=git)** | Washington DC, DC, US | Hybrid | May 20 |
 | ↳ | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/6a0e58a047fea1610bca9a25?utm_campaign=1057&utm_source=git)** | US-DC-Washington DC | Hybrid | May 20 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6915150b6f36db06ef04b7aa?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | May 19 |
 | **[Paradise Valley Unified School District](https://www.pvschools.net)** | **[2026-27 TOA/Administrative Intern (Reposted) - Various Locations](https://jobright.ai/jobs/info/6a0d31470411d7417a1c0062?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a0d2f92a235d749afa940a9?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | May 19 |
+| **[Legal Aid Ontario](https://www.legalaid.on.ca/)** | **[2027/28 Articling Student - Family (Ottawa) - French Bilingual](https://jobright.ai/jobs/info/6a0e7df547fea1610bcaa8d3?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
 | **[Oak Hill (Legal name: CT Institute for the Blind)](https://oakhillct.org/)** | **[Summer Intern - Special Education Teacher(s)](https://jobright.ai/jobs/info/6a0d2bff963f7a67d95df315?utm_campaign=1057&utm_source=git)** | Connecticut, United States | On Site | May 19 |
 | **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0d235e0411d7417a1bfafa?utm_campaign=1057&utm_source=git)** | Mendota Heights, MN | On Site | May 19 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[EOP PCD College Access Intern summer 2026, Commuter (Tutor- Counselor)](https://jobright.ai/jobs/info/6a0d63ff22d0d34036c9da0c?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
 | ↳ | **[EOP PCD College Access Intern summer 2026, Residential (Tutor- Counselor)](https://jobright.ai/jobs/info/6a0d648b538d03366dc96358?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 19 |
 | **[Code Ninjas (Tampa-Carrollwood)](https://www.codeninjas.com/fl-tampa-carrollwood)** | **[Future Opening: Kids Coding Mentor Internship](https://jobright.ai/jobs/info/6a0ca0c04d9320363687a38c?utm_campaign=1057&utm_source=git)** | Snellville, GA | On Site | May 19 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c9eaba235d749afa8e8d3?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | May 19 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0c9891a235d749afa8e585?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 19 |
-| **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Intern, Student Co-Op (RT)](https://jobright.ai/jobs/info/6a0c983d538d03366dc8efde?utm_campaign=1057&utm_source=git)** | Tufts Medical Center, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
