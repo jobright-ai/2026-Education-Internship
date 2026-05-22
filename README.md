@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Geffen School of Medicine at UCLA](http://medschool.ucla.edu/)** | **[Undergraduate Summer Intern - Mobile Device Team](https://jobright.ai/jobs/info/6a10209a12f8b43cf39831c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | May 22 |
+| **[Mentoring Alliance](https://thementoringalliance.com)** | **[Summer Camp Intern (Tyler, TX)](https://jobright.ai/jobs/info/6a101b3a619335383fb309a3?utm_campaign=1057&utm_source=git)** | Tyler, TX | On Site | May 22 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for LGBTQ+ Initiatives](https://jobright.ai/jobs/info/69e9419758811370cb12c2ae?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 22 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/6a0ffded83d71442898239c0?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | May 21 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Education Access & Community Partnerships Intern (5-20hrs/week)](https://jobright.ai/jobs/info/6a0ffdbc619335383fb30088?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 21 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Center for Student Engagement Graduate Student Intern](https://jobright.ai/jobs/info/6a0fe20583d714428982338c?utm_campaign=1057&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | May 21 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fade783d7144289822239?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Supplemental Instruction Leader - Accounting (Fall)](https://jobright.ai/jobs/info/6a0fad689f654b3359ce792b?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 21 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | May 21 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a101d8a9f654b3359ce9ba6?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Learning Experience Intern- One Way Office](https://jobright.ai/jobs/info/6a0fa1d69f654b3359ce74f1?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | May 21 |
 | ↳ | **[Learning Experience Intern- One Way Office](https://jobright.ai/jobs/info/6a0fbd8b12f8b43cf398161e?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | May 21 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0f931280bf0430c76352cb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 21 |
@@ -117,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[STEM Ambassador Intern - School of Computer Science](https://jobright.ai/jobs/info/6a0e1f0f80bf0430c7629bea?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6a0e1bad09ecfd704b3e5ffc?utm_campaign=1057&utm_source=git)** | Central Administration - Department of Special Education - Del Valle, Texas | On Site | May 20 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Music Department Post-Bacc Intern.](https://jobright.ai/jobs/info/6a0e19a009ecfd704b3e5d81?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | May 20 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a0e198380bf0430c762960b?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | May 20 |
 | **[Doyon, Limited](http://www.doyon.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a0e15c647fea1610bca6a67?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 20 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Online Learning Intern, Knight Center for Journalism, Moody College of Communication](https://jobright.ai/jobs/info/6a0e13f5beb4d73cb622e892?utm_campaign=1057&utm_source=git)** | 300 W. Dean Keeton, RM 3.212 | On Site | May 20 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[STEM Ambassador Intern - School of Computer Science](https://jobright.ai/jobs/info/6a0e0a25c152ac78244827e3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 20 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UHI](https://linktr.ee/thinkuhi)** | **[Student Intern International Programme Liaison *Open to UHI Students Only* (UHI Inverness)](https://jobright.ai/jobs/info/6a0da83909ecfd704b3e1671?utm_campaign=1057&utm_source=git)** | Inverness, FL | On Site | May 20 |
 | **[Precision Castparts](http://precast.com)** | **[Intern, Training and Development (Co-Op)](https://jobright.ai/jobs/info/69f118e3b27fee43e8cd7485?utm_campaign=1057&utm_source=git)** | Lake Oswego, OR | On Site | May 20 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/69d3ef02e63cea7a8b654fd8?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | May 20 |
-| **[Water Management & Plumbing Skill Council](http://www.ipssc.in)** | **[Apprentice Research And Learning Resources](https://jobright.ai/jobs/info/6a0db13980bf0430c76252a3?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 20 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a0e2a7247fea1610bca7af2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 19 |
-| ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a0e2a2983d714428981691d?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | May 19 |
-| **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6915150b6f36db06ef04b7aa?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | May 19 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a103022619335383fb30f4c?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
