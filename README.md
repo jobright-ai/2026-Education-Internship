@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elekta](http://elekta.com/)** | **[Educational Administration Intern- Atlanta, GA](https://jobright.ai/jobs/info/6a107f3a619335383fb32d5e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 22 |
+| **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a10490f12f8b43cf3983ef7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 22 |
 | **[David Geffen School of Medicine at UCLA](http://medschool.ucla.edu/)** | **[Undergraduate Summer Intern - Mobile Device Team](https://jobright.ai/jobs/info/6a10209a12f8b43cf39831c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0db48447fea1610bca2eae?utm_campaign=1057&utm_source=git)** | Davie, FL, USA | On Site | May 20 |
 | **[University of Notre Dame](nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0faf2483d714428982231d?utm_campaign=1057&utm_source=git)** | Notre Dame, IN, US | On Site | May 20 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services-Prince Georges County) 2026-2027 Masters Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/69ba7be856973837413fea1b?utm_campaign=1057&utm_source=git)** | Suitland, MD | On Site | May 20 |
-| **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Fire Rescue Student Intern (Temporary)](https://jobright.ai/jobs/info/6a0dae4c83d7144289811721?utm_campaign=1057&utm_source=git)** | 2472 Clower Lane, Bartow, FL, 33830, US | On Site | May 20 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d420c6cfdc6132f9457f13?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
