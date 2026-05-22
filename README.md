@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Water Management & Plumbing Skill Council](http://www.ipssc.in)** | **[Apprentice Research And Learning Resources](https://jobright.ai/jobs/info/6a0db13980bf0430c76252a3?utm_campaign=1057&utm_source=git)** | Delhi, NY | On Site | May 20 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a0e2a7247fea1610bca7af2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 19 |
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a0e2a2983d714428981691d?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | May 19 |
-| **[Grand Canyon University](http://www.gcu.edu/)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d3fcaa235d749afa94743?utm_campaign=1057&utm_source=git)** | United States | Remote | May 19 |
+| **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6915150b6f36db06ef04b7aa?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
