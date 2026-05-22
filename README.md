@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Teacher, SDC Mod/Severe (TK-2nd Grade) - WTH ** Intern Eligible**](https://jobright.ai/jobs/info/6a10a7d1619335383fb3401e?utm_campaign=1057&utm_source=git)** | Lake Elsinore Unified School District Lake Elsinore Riverside County, CA California | On Site | May 22 |
+| ↳ | **[Teacher, SDC Mod/Severe (TK-2nd Grade) - WTH ** Intern Eligible**](https://jobright.ai/jobs/info/6a10a7cc619335383fb3401b?utm_campaign=1057&utm_source=git)** | 545 Chaney St., Lake Elsinore, California, 92530-2723, US | On Site | May 22 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Intern – Evaluation & Research (Career and Technical Education)](https://jobright.ai/jobs/info/6a10a27d9f654b3359ced26d?utm_campaign=1057&utm_source=git)** | Department of Career & Technical Education - Little Rock, Arkansas | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a109f6112f8b43cf39866f9?utm_campaign=1057&utm_source=git)** | Burr Ridge, US | On Site | May 22 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a109ce483d7144289827760?utm_campaign=1057&utm_source=git)** | Allentown, PA, US | On Site | May 22 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/6a109cbc12f8b43cf39865d6?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 22 |
@@ -66,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10818483d7144289826a3d?utm_campaign=1057&utm_source=git)** | Midland, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 | **[Elekta](http://elekta.com/)** | **[Educational Administration Intern- Atlanta, GA](https://jobright.ai/jobs/info/6a107f3a619335383fb32d5e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 22 |
 | **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of Applied Research](https://jobright.ai/jobs/info/69f2d307ab4ec4779fffcb2e?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | May 20 |
 | **[Alta Equipment Group](https://altg.com)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0def7547fea1610bca5473?utm_campaign=1057&utm_source=git)** | Davie, FL | On Site | May 20 |
 | **[Tulsa Community Foundation](https://tulsacf.org)** | **[THEC Intern](https://jobright.ai/jobs/info/6a108da29f654b3359ceca58?utm_campaign=1057&utm_source=git)** | Tulsa,OK,US | On Site | May 20 |
-| **[Clínica Monseñor Oscar A. Romero](https://clinicaromero.com/)** | **[Workforce Development - Intern](https://jobright.ai/jobs/info/6a0dea6783d7144289813d12?utm_campaign=1057&utm_source=git)** | Los Angeles , California, United States | Hybrid | May 20 |
-| **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 20 |
-| **[Allstate Peterbilt Group](https://www.allstatepeterbilt.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0de48c83d7144289813963?utm_campaign=1057&utm_source=git)** | St Louis Park, Minnesota, United States | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
