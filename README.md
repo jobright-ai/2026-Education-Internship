@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fade783d7144289822239?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
+| **[University of Oklahoma](http://www.ou.edu)** | **[Supplemental Instruction Leader - Accounting (Fall)](https://jobright.ai/jobs/info/6a0fad689f654b3359ce792b?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 21 |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | May 21 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Learning Experience Intern- One Way Office](https://jobright.ai/jobs/info/6a0fa1d69f654b3359ce74f1?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | May 21 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a0f931280bf0430c76352cb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | May 21 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a0f876e9f654b3359ce6a63?utm_campaign=1057&utm_source=git)** | Davidson,NC,US | On Site | May 21 |
 | **[AIDS Services of Dallas](https://aidsdallas.org)** | **[ASD Emerging Leaders Fellowship Program](https://jobright.ai/jobs/info/6a0f87359f654b3359ce6a18?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | May 21 |
@@ -132,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Life.Church](http://www.life.church)** | **[Life.Church Central Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e1b?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | May 20 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Wage GED Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69d7241ce63cea7a8b66e4ee?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | May 20 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Internship - Technical Training and Technical Support](https://jobright.ai/jobs/info/6a0db48447fea1610bca2eae?utm_campaign=1057&utm_source=git)** | Davie, FL, USA | On Site | May 20 |
+| **[University of Notre Dame](nd.edu)** | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a0faf2483d714428982231d?utm_campaign=1057&utm_source=git)** | Notre Dame, IN, US | On Site | May 20 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services-Prince Georges County) 2026-2027 Masters Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/69ba7be856973837413fea1b?utm_campaign=1057&utm_source=git)** | Suitland, MD | On Site | May 20 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Fire Rescue Student Intern (Temporary)](https://jobright.ai/jobs/info/6a0dae4c83d7144289811721?utm_campaign=1057&utm_source=git)** | 2472 Clower Lane, Bartow, FL, 33830, US | On Site | May 20 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d420c6cfdc6132f9457f13?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Principal Internship SY 26/27](https://jobright.ai/jobs/info/6a0e6142beb4d73cb6231e7e?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | May 19 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d0b7fa235d749afa93090?utm_campaign=1057&utm_source=git)** | Nationwide, US | On Site | May 19 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0d09580411d7417a1bee8f?utm_campaign=1057&utm_source=git)** | Sedalia, MO | On Site | May 19 |
-| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Student Assistant (Enrollment Management IT)](https://jobright.ai/jobs/info/6a0e3422c152ac78244847dc?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | May 19 |
-| **[Minnesota Urology](https://mnurology.com)** | **[Summer Student Intern, Clinical Research (mid-May-mid-Aug )](https://jobright.ai/jobs/info/6a0cfff70411d7417a1be8d5?utm_campaign=1057&utm_source=git)** | Bloomington,MN,US | On Site | May 19 |
-| **[City of Ottawa / Ville d’Ottawa](http://ottawa.ca)** | **[Intern Student, Planning](https://jobright.ai/jobs/info/6a0656f9bc4184089f24eaff?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 19 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0ceff7963f7a67d95dd3ef?utm_campaign=1057&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 19 |
-| **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0cebfd4d9320363687d899?utm_campaign=1057&utm_source=git)** | Mendota Heights,MN,US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
