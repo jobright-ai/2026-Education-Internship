@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6a0e1bad09ecfd704b3e5ffc?utm_campaign=1057&utm_source=git)** | Central Administration - Department of Special Education - Del Valle, Texas | On Site | May 20 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Music Department Post-Bacc Intern.](https://jobright.ai/jobs/info/6a0e19a009ecfd704b3e5d81?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | May 20 |
 | **[Doyon, Limited](http://www.doyon.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a0e15c647fea1610bca6a67?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 20 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Online Learning Intern, Knight Center for Journalism, Moody College of Communication](https://jobright.ai/jobs/info/6a0e13f5beb4d73cb622e892?utm_campaign=1057&utm_source=git)** | 300 W. Dean Keeton, RM 3.212 | On Site | May 20 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[STEM Ambassador Intern - School of Computer Science](https://jobright.ai/jobs/info/6a0e0a25c152ac78244827e3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 20 |
-| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e097b80bf0430c7628ac0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 20 |
-| **[UNDP](http://www.undp.org)** | **[Intern, Humanitarian-Development-Peace Nexus Academy (Remote)](https://jobright.ai/jobs/info/6a0e085a80bf0430c7628987?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
