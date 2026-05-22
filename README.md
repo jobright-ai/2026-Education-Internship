@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - AI Learning Experience Researcher (LXR)](https://jobright.ai/jobs/info/6a0feb4072b52f7225f40fa9?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | May 21 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Center for Student Engagement Graduate Student Intern](https://jobright.ai/jobs/info/6a0fe20583d714428982338c?utm_campaign=1057&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | May 21 |
 | **[Long Island Rough Riders](http://www.liroughriders.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6a0fdaf380bf0430c7636b53?utm_campaign=1057&utm_source=git)** | Uniondale, NY | On Site | May 21 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fb9de83d7144289822737?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a0e2a2983d714428981691d?utm_campaign=1057&utm_source=git)** | Davidson, NC | On Site | May 19 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0d3fcaa235d749afa94743?utm_campaign=1057&utm_source=git)** | United States | Remote | May 19 |
 | **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6915150b6f36db06ef04b7aa?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | May 19 |
+| **[Paradise Valley Unified School District](https://www.pvschools.net)** | **[2026-27 TOA/Administrative Intern (Reposted) - Various Locations](https://jobright.ai/jobs/info/6a0d31470411d7417a1c0062?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
