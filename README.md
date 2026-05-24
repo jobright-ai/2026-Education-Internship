@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 | **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3ad8b6942c746fa693788?utm_campaign=1057&utm_source=git)** | Doral, FL | On Site | May 22 |
