@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1348b469bd827926af7ef3?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1347a612f8b43cf398ebf9?utm_campaign=1057&utm_source=git)** | California-Los Angeles-West Los Angeles Medical Center | On Site | May 24 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a12e4d69f654b3359cf4af5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b6619335383fb3b2d8?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 24 |
@@ -92,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Academic Travel Abroad](https://academic-travel.com)** | **[Intern, Custom Programs](https://jobright.ai/jobs/info/6a10de6a619335383fb35189?utm_campaign=1057&utm_source=git)** | Washington,DC,US | Hybrid | May 22 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a10dd679fdbf21f36cb1360?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166e83d714428982a6a2?utm_campaign=1057&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Learning and Organizational Development Intern](https://jobright.ai/jobs/info/6a0f79a09f654b3359ce6331?utm_campaign=1057&utm_source=git)** | Richland County, SC | On Site | May 21 |
 | **[Learners Edge](https://learnersedge.pk/)** | **[Instructional Operations Intern](https://jobright.ai/jobs/info/6a0f70ca72b52f7225f3deef?utm_campaign=1057&utm_source=git)** | Eagan, MN 55121, USA | Remote | May 21 |
 | **[GRAND Mental Health](https://www.grandmh.com/)** | **[Internship & Practicum Specialist, I](https://jobright.ai/jobs/info/6a0f70bf72b52f7225f3dee6?utm_campaign=1057&utm_source=git)** | Tulsa, OK 74135, USA | Remote | May 21 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern](https://jobright.ai/jobs/info/6a0f6e8d83d71442898200ae?utm_campaign=1057&utm_source=git)** | Amarillo | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
