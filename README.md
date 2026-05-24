@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a12838269bd827926af60a2?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 23 |
 | **[#FirstGenTalks](https://www.linkedin.com/company/109248245)** | **[Community Engagement and Outreach Intern](https://jobright.ai/jobs/info/6a1270b712f8b43cf398ca2d?utm_campaign=1057&utm_source=git)** | Atlanta Metro | Hybrid | May 23 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d609fdbf21f36cb5e4d?utm_campaign=1057&utm_source=git)** | New York | On Site | May 23 |
 | ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d599fdbf21f36cb5e48?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 23 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Academic Travel Abroad](https://academic-travel.com)** | **[Intern, Custom Programs](https://jobright.ai/jobs/info/6a10de6a619335383fb35189?utm_campaign=1057&utm_source=git)** | Washington,DC,US | Hybrid | May 22 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a10dd679fdbf21f36cb1360?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166e83d714428982a6a2?utm_campaign=1057&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
+| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
 | **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -114,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10818483d7144289826a3d?utm_campaign=1057&utm_source=git)** | Midland, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 | **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3ad8b6942c746fa693788?utm_campaign=1057&utm_source=git)** | Doral, FL | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Idara-e-Taleem-o-Aagahi (ITA)](https://itacec.org/)** | **[Intern/Facilitator Kitab Gari](https://jobright.ai/jobs/info/6a0f67da72b52f7225f3d8d4?utm_campaign=1057&utm_source=git)** | Regional Municipality of Peel, Ontario, Canada | On Site | May 21 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Teacher, SDC Mild/Moderate Alternative Ed (Intern Eligible) - RCE](https://jobright.ai/jobs/info/6a0f414a80bf0430c7632153?utm_campaign=1057&utm_source=git)** | Lake Elsinore Unified School District Lake Elsinore Riverside County, CA California | On Site | May 21 |
 | ↳ | **[Teacher, SDC Mild/Moderate Alternative Ed (Intern Eligible) - RCE](https://jobright.ai/jobs/info/6a0f414a80bf0430c7632154?utm_campaign=1057&utm_source=git)** | 545 Chaney St., Lake Elsinore, California, 92530-2723, US | On Site | May 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/696f8da83ed06875134a80cb?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
