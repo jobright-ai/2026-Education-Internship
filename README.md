@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a12838269bd827926af60a2?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 23 |
 | **[#FirstGenTalks](https://www.linkedin.com/company/109248245)** | **[Community Engagement and Outreach Intern](https://jobright.ai/jobs/info/6a1270b712f8b43cf398ca2d?utm_campaign=1057&utm_source=git)** | Atlanta Metro | Hybrid | May 23 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d609fdbf21f36cb5e4d?utm_campaign=1057&utm_source=git)** | New York | On Site | May 23 |
 | ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d599fdbf21f36cb5e48?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 23 |
@@ -72,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Child Development Intern](https://jobright.ai/jobs/info/6a11b9059f654b3359cf1b82?utm_campaign=1057&utm_source=git)** | Campus: Tempe | On Site | May 23 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Academy BCPS AHS Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bc019145e08b3dc1f7e0a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | May 23 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/6a110d2a9f654b3359cef91d?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 23 |
+| **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Elementary Level Office /  Principal / Elementary School](https://jobright.ai/jobs/info/699fee1e53d97f23ee657ef5?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | May 23 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/6982a80d0f6f7e7a2cdbf996?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | May 23 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Community Collaborations Intern](https://jobright.ai/jobs/info/6a116abd9fdbf21f36cb3c25?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a11320883d714428982ad37?utm_campaign=1057&utm_source=git)** | Hawaii-Honolulu-Moanalua Ancillary Building | On Site | May 22 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -115,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10818483d7144289826a3d?utm_campaign=1057&utm_source=git)** | Midland, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 | **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3ad8b6942c746fa693788?utm_campaign=1057&utm_source=git)** | Doral, FL | On Site | May 22 |
