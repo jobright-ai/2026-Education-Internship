@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a12675469bd827926af5bc8?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 23 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d609fdbf21f36cb5e4d?utm_campaign=1057&utm_source=git)** | New York | On Site | May 23 |
 | ↳ | **[Innovation & Strategic Initiatives Intern](https://jobright.ai/jobs/info/6a125d599fdbf21f36cb5e48?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | May 23 |
 | **[Beach Cities Learning](https://beachcitieslc.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a124fe683d714428982d941?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ, US | On Site | May 23 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Be. Org](https://www.thebeorg.com/)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | May 21 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Teacher, RSP Mild/Moderate (Intern Eligible) - TCH](https://jobright.ai/jobs/info/6a0f3a4f80bf0430c7631d3c?utm_campaign=1057&utm_source=git)** | Lake Elsinore Unified School District Lake Elsinore Riverside County, CA California | On Site | May 21 |
 | ↳ | **[Teacher, RSP Mild/Moderate (Intern Eligible) - TCH](https://jobright.ai/jobs/info/6a0f3a4d80bf0430c7631d3b?utm_campaign=1057&utm_source=git)** | 545 Chaney St., Lake Elsinore, California, 92530-2723, US | On Site | May 21 |
-| **[Wayne County Michigan](http://www.waynecounty.com)** | **[Student Intern 2(890174)](https://jobright.ai/jobs/info/6a0f33ca619335383fb29da1?utm_campaign=1057&utm_source=git)** | 33175 Ann Arbor Trl, Westland, MI, 48185, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
