@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b6619335383fb3b2d8?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 24 |
+| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b5619335383fb3b2d7?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 24 |
 | **[Osage Nation](https://www.osagenation-nsn.gov/)** | **[Child Care Internship](https://jobright.ai/jobs/info/6a129f2383d714428982eb6d?utm_campaign=1057&utm_source=git)** | Pawhuska - Pawhuska, OK 74056 | On Site | May 23 |
 | **[Higher Ground Youth & Family Services](http://www.highergroundoc.org)** | **[Human Trafficking Prevention Intern](https://jobright.ai/jobs/info/6a129e4069bd827926af6470?utm_campaign=1057&utm_source=git)** | Lincoln Park - Anaheim, CA 92805 | On Site | May 23 |
 | **[Goodman Theatre](http://www.goodmantheatre.org/)** | **[Education and Engagement Intern](https://jobright.ai/jobs/info/6a129e01619335383fb3af3a?utm_campaign=1057&utm_source=git)** | Goodman Theatre - Chicago, IL 60601 | On Site | May 23 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a10f9b09f654b3359cef213?utm_campaign=1057&utm_source=git)** | Willowbrook, IL | On Site | May 22 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 | **[IMEG](http://www.imegcorp.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a1073829f654b3359cebec3?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | May 22 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3ad8b6942c746fa693788?utm_campaign=1057&utm_source=git)** | Doral, FL | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHARLES COUNTY PUBLIC SCHOOLS](https://teachcharlescounty.com/)** | **[Matthew Henson Middle School.Administrative Intern.2340](https://jobright.ai/jobs/info/6a0f69a89f654b3359ce5938?utm_campaign=1057&utm_source=git)** | 3535 Livingston Rd, Indian Head, MD, 20640, US | On Site | May 21 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Kinesiology (Student Assistant)](https://jobright.ai/jobs/info/69f269a0f154d768fbaa6c53?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | May 21 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0f4ee572b52f7225f3ca33?utm_campaign=1057&utm_source=git)** | LA - 701 Poydras St. Ste. 420  New Orleans, LA 70139, US | On Site | May 21 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6966afd27a34f53920552d87?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | May 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - STAC, NYC (Sociotechnical Alignment Center)](https://jobright.ai/jobs/info/6a0eb8049f654b3359ce076b?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
