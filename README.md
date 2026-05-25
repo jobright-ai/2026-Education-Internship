@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a13f85c619335383fb3f16c?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 25 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a13f16b83d7144289832a0c?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 24 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Summer Day Camp Dance Specialist - Woburn](https://jobright.ai/jobs/info/6a13c54258ee291d8052d2aa?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | May 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1347a612f8b43cf398ebf9?utm_campaign=1057&utm_source=git)** | California-Los Angeles-West Los Angeles Medical Center | On Site | May 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Onsite](https://jobright.ai/jobs/info/6a13a3ab69bd827926af8947?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 24 |
@@ -89,24 +91,25 @@ For a complete list, click the following sortable link below:
 | **[Cobb](https://www.cobb-vantress.com)** | **[Cobb Summer 2026 Internship - Georgia](https://jobright.ai/jobs/info/69bb0ad33b74eb1e2c8964b7?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a13e3f89f654b3359cf7bfa?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | May 23 |
 | **[Action Property Management](http://actionlife.com)** | **[Summer College Internship](https://jobright.ai/jobs/info/6a110d2a9f654b3359cef91d?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 23 |
-| **[Fort Wayne Community Schools](http://www.fortwayneschools.org/)** | **[Elementary Level Office /  Principal / Elementary School](https://jobright.ai/jobs/info/699fee1e53d97f23ee657ef5?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | May 23 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/6982a80d0f6f7e7a2cdbf996?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | May 23 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Community Collaborations Intern](https://jobright.ai/jobs/info/6a116abd9fdbf21f36cb3c25?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a11320883d714428982ad37?utm_campaign=1057&utm_source=git)** | Hawaii-Honolulu-Moanalua Ancillary Building | On Site | May 22 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[Student Assistants - Anatomy Lab (Summer)](https://jobright.ai/jobs/info/6a0e5acac152ac78244861d8?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 22 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/6a12718b69bd827926af5d22?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | May 22 |
 | **[Community Unit School District 300](http://D300.org)** | **[D300 Business Internship Course Instructor](https://jobright.ai/jobs/info/6a13d57012f8b43cf3990a1b?utm_campaign=1057&utm_source=git)** | Hampshire, IL | Hybrid | May 22 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a13f46858ee291d8052e390?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | May 22 |
 | **[Lakeside](https://www.lakesidepharma.com.mx)** | **[Religious Life Intern 2026](https://jobright.ai/jobs/info/6a13234d12f8b43cf398e7de?utm_campaign=1057&utm_source=git)** | 43440, OH, US | On Site | May 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[La Posada Intern](https://jobright.ai/jobs/info/6a13233a12f8b43cf398e7b0?utm_campaign=1057&utm_source=git)** | Chicago, IL, US | On Site | May 22 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Child Development Intern](https://jobright.ai/jobs/info/6a13897c619335383fb3d056?utm_campaign=1057&utm_source=git)** | Campus: Tempe, US | On Site | May 22 |
 | **[Academic Travel Abroad](https://academic-travel.com)** | **[Intern, Custom Programs](https://jobright.ai/jobs/info/6a10de6a619335383fb35189?utm_campaign=1057&utm_source=git)** | Washington,DC,US | Hybrid | May 22 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a10dd679fdbf21f36cb1360?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 22 |
+| **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a13f7da83d7144289832de5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166e83d714428982a6a2?utm_campaign=1057&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
+| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a10f9b09f654b3359cef213?utm_campaign=1057&utm_source=git)** | Willowbrook, IL | On Site | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fb9de83d7144289822737?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 21 |
 | **[Weave](http://www.getweave.com)** | **[Instructional Design - Intern](https://jobright.ai/jobs/info/6a0fb0be12f8b43cf39811a6?utm_campaign=1057&utm_source=git)** | Lehi, UT | Hybrid | May 21 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fb0be9f654b3359ce7b82?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | May 21 |
-| ↳ | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fb0bd9f654b3359ce7b80?utm_campaign=1057&utm_source=git)** | San Jose, CA | Hybrid | May 21 |
-| ↳ | **[Education Research & Strategy Intern](https://jobright.ai/jobs/info/6a0fade783d7144289822239?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | May 21 |
-| **[University of Oklahoma](http://www.ou.edu)** | **[Supplemental Instruction Leader - Accounting (Fall)](https://jobright.ai/jobs/info/6a0fad689f654b3359ce792b?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
