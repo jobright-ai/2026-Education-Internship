@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1461c1dc845f4be5bd1ee9?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 25 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Summer Coastal Classroom High School Internship](https://jobright.ai/jobs/info/6a1442dd738a270c8bfa74d3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a142a11128680351d95cfd9?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a142a0e128680351d95cfd8?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[David Geffen School of Medicine at UCLA](http://medschool.ucla.edu/)** | **[Undergraduate Summer Intern - Mobile Device Team](https://jobright.ai/jobs/info/6a10209a12f8b43cf39831c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | May 22 |
 | **[Mentoring Alliance](https://thementoringalliance.com)** | **[Summer Camp Intern (Tyler, TX)](https://jobright.ai/jobs/info/6a101b3a619335383fb309a3?utm_campaign=1057&utm_source=git)** | Tyler, TX | On Site | May 22 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for LGBTQ+ Initiatives](https://jobright.ai/jobs/info/69e9419758811370cb12c2ae?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | May 22 |
+| **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a13ca1f9fdbf21f36cba213?utm_campaign=1057&utm_source=git)** | West Jordan, UT | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
