@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/6a148184128680351d95dcf9?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI, US | On Site | May 25 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a147df2c48b503aeffbf0ec?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 25 |
 | **[Larchmont Charter School](https://www.larchmontcharter.org/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a147da2c48b503aeffbf0d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA 90004 | On Site | May 25 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Summer Coastal Classroom High School Internship](https://jobright.ai/jobs/info/6a1442dd738a270c8bfa74d3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a142a11128680351d95cfd9?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
@@ -114,11 +113,11 @@ For a complete list, click the following sortable link below:
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a10dd679fdbf21f36cb1360?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 22 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a13f7da83d7144289832de5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | May 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166e83d714428982a6a2?utm_campaign=1057&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
+| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a10f9b09f654b3359cef213?utm_campaign=1057&utm_source=git)** | Willowbrook, IL | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3ad8b6942c746fa693788?utm_campaign=1057&utm_source=git)** | Doral, FL | On Site | May 22 |
 | ↳ | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3d94658b23a2329da84d8?utm_campaign=1057&utm_source=git)** | Pembroke Pines, FL | On Site | May 22 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 22 |
+| **[David Geffen School of Medicine at UCLA](http://medschool.ucla.edu/)** | **[Undergraduate Summer Intern - Mobile Device Team](https://jobright.ai/jobs/info/6a10209a12f8b43cf39831c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
