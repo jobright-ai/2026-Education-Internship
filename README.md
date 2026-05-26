@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a155f49128680351d960c2d?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
+| **[Bel](https://www.groupe-bel.com/)** | **[Intern - Learning Content & AI Enablement](https://jobright.ai/jobs/info/69fac22e18b94b2515bdc39e?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 26 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a155f29738a270c8bfaace5?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
 | **[Epworth Children & Family Services](https://www.epworth.org/)** | **[Older Youth Services Intern](https://jobright.ai/jobs/info/6a155d37554b0e12c0582085?utm_campaign=1057&utm_source=git)** | Epworth Drop-In Center - Normandy - St. Louis, MO 63121 | On Site | May 26 |
 | **[Renewa](https://www.renewa.com)** | **[Land High School Intern](https://jobright.ai/jobs/info/6a155d34738a270c8bfaab75?utm_campaign=1057&utm_source=git)** | Houston, TX 77056 | On Site | May 26 |
 | **[Qalam](https://www.qalam.institute)** | **[Academy Intern](https://jobright.ai/jobs/info/6a1521a6554b0e12c0580f31?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | May 25 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a10f9b09f654b3359cef213?utm_campaign=1057&utm_source=git)** | Willowbrook, IL | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Nutrition & Wellness Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/6a10875369bd827926aeeec9?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 22 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10818483d7144289826a3d?utm_campaign=1057&utm_source=git)** | Midland, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
