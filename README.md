@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fafe5d18b94b2515bde3c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a157f3e0073182bd92aa481?utm_campaign=1057&utm_source=git)** | West Chicago, IL | On Site | May 26 |
 | **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
-| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
-| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9f1935fa61b3c686a4?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | May 26 |
 | ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9c1935fa61b3c686a0?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 26 |
 | **[Pinkerton Academy](https://www.pinkertonacademy.org)** | **[Intern/Student Teacher/Observer](https://jobright.ai/jobs/info/6a1579fd1935fa61b3c685c1?utm_campaign=1057&utm_source=git)** | Derry, NH | On Site | May 26 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Athletics Academic Services Intern](https://jobright.ai/jobs/info/6a1116ee619335383fb36aa3?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
