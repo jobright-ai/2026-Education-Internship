@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a14ee84c48b503aeffc0341?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 25 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/6a14d4bd128680351d95eb85?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI | On Site | May 25 |
 | **[Foresters Financial](http://www.foresters.com/)** | **[US New Business Summer Student](https://jobright.ai/jobs/info/6a14bca8738a270c8bfa8949?utm_campaign=1057&utm_source=git)** | Toronto, CA | Hybrid | May 25 |
 | **[Areyvut](https://www.areyvut.org)** | **[2026 Summer Intern – Areyvut](https://jobright.ai/jobs/info/6a1491f2554b0e12c057f6fe?utm_campaign=1057&utm_source=git)** | Bergenfield, NJ | Hybrid | May 25 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/6a148184128680351d95dcf9?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI, US | On Site | May 25 |
 | **[Larchmont Charter School](https://www.larchmontcharter.org/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a147da2c48b503aeffbf0d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA 90004 | On Site | May 25 |
 | **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Summer Coastal Classroom High School Internship](https://jobright.ai/jobs/info/6a1442dd738a270c8bfa74d3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 25 |
+| **[Mosaic Pediatric Therapy](https://mosaictherapy.com)** | **[Clinical Behavior Analyst in Training (1000+ hours completed)](https://jobright.ai/jobs/info/68c2a7ae5adaee6c9bda2fb7?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 25 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a142a11128680351d95cfd9?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 25 |
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a142a0e128680351d95cfd8?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 25 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Coastal Outreach Intern](https://jobright.ai/jobs/info/698644a58ca8121a3a687622?utm_campaign=1057&utm_source=git)** | Oyster Bay Cove, NY | On Site | May 25 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10818483d7144289826a3d?utm_campaign=1057&utm_source=git)** | Midland, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817f83d7144289826a38?utm_campaign=1057&utm_source=git)** | Houston, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817c83d7144289826a34?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | Hybrid | May 22 |
+| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
