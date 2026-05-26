@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a150aa9dc845f4be5bd3bf9?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 25 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern Trauma Services](https://jobright.ai/jobs/info/6a14d4bd128680351d95eb85?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI | On Site | May 25 |
 | **[Foresters Financial](http://www.foresters.com/)** | **[US New Business Summer Student](https://jobright.ai/jobs/info/6a14bca8738a270c8bfa8949?utm_campaign=1057&utm_source=git)** | Toronto, CA | Hybrid | May 25 |
 | **[Areyvut](https://www.areyvut.org)** | **[2026 Summer Intern – Areyvut](https://jobright.ai/jobs/info/6a1491f2554b0e12c057f6fe?utm_campaign=1057&utm_source=git)** | Bergenfield, NJ | Hybrid | May 25 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116f09f654b3359cefe03?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | May 22 |
-| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
-| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| **[CAE](http://www.cae.com)** | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b5?utm_campaign=1057&utm_source=git)** | Dallas, US | On Site | May 22 |
+| ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7899fdbf21f36cb11b6?utm_campaign=1057&utm_source=git)** | Whippany, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7869fdbf21f36cb11b2?utm_campaign=1057&utm_source=git)** | Mesa, US | On Site | May 22 |
 | ↳ | **[Courseware Developer – Civil Aviation Training, Intern](https://jobright.ai/jobs/info/6a10d7859fdbf21f36cb11b1?utm_campaign=1057&utm_source=git)** | Lake Nona, FL, USA, US | On Site | May 22 |
 | **[Busey](https://www.busey.com/home/home)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6a10f9b09f654b3359cef213?utm_campaign=1057&utm_source=git)** | Willowbrook, IL | On Site | May 22 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/6a10c78c9fdbf21f36cb09c8?utm_campaign=1057&utm_source=git)** | Boston-MA, US | Hybrid | May 22 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Learning Operations Intern – Data & Platform Quality](https://jobright.ai/jobs/info/6a10c4fc69bd827926af0557?utm_campaign=1057&utm_source=git)** | United States,United States | Remote | May 22 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d712f8b43cf398738a?utm_campaign=1057&utm_source=git)** | Williston, VT, USA | On Site | May 22 |
-| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987386?utm_campaign=1057&utm_source=git)** | Alexandria, VA, USA | On Site | May 22 |
+| ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d312f8b43cf3987384?utm_campaign=1057&utm_source=git)** | Richmond, VA, USA | On Site | May 22 |
 | ↳ | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a10c4d112f8b43cf3987382?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, USA | On Site | May 22 |
 | **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[2026 Fall - Student Work Placement - IT and Cyber](https://jobright.ai/jobs/info/6a10f8c083d7144289829981?utm_campaign=1057&utm_source=git)** | Ontario, Canada | Hybrid | May 22 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[High School Teacher FT - CTE Internship (2026-2027)](https://jobright.ai/jobs/info/6a10c0a669bd827926af0434?utm_campaign=1057&utm_source=git)** | JATC North | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a32?utm_campaign=1057&utm_source=git)** | El Paso, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a30?utm_campaign=1057&utm_source=git)** | San Antonio, Texas | Hybrid | May 22 |
 | ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817983d7144289826a31?utm_campaign=1057&utm_source=git)** | Austin, Texas | Hybrid | May 22 |
-| ↳ | **[Intern - Student Information Systems - Temporary (Immediate Opening)](https://jobright.ai/jobs/info/6a10817683d7144289826a2b?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
