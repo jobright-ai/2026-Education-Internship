@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
+| **[Denver Public Schools](http://carson.dpsk12.org)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a1617ab0073182bd92afe83?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 26 |
+| **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160aa8a429fd279da950ef?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160aa6a429fd279da950ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 26 |
 | **[Avista Senior Living](https://avistaseniorliving.com)** | **[Student Intern Mesa Public Schools students ONLY](https://jobright.ai/jobs/info/6a160840554b0e12c05889ac?utm_campaign=1057&utm_source=git)** | Mesa, AZ 85215 | On Site | May 26 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a160793128680351d967180?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer School Intern](https://jobright.ai/jobs/info/6a1604a4dc845f4be5bdba4a?utm_campaign=1057&utm_source=git)** | District Wide - All Buildings - Neosho, Missouri | On Site | May 26 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Sustaining Intern Fall 2026](https://jobright.ai/jobs/info/6a15edae1935fa61b3c6cd99?utm_campaign=1057&utm_source=git)** | US-GA-Tifton | On Site | May 26 |
 | **[Denver Public Schools](http://carson.dpsk12.org)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a15ed54554b0e12c0587583?utm_campaign=1057&utm_source=git)** | Denver, CO, United States | On Site | May 26 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Technology and Economic Development, Onsite](https://jobright.ai/jobs/info/6a13a3ab69bd827926af8947?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | May 24 |
 | **[HCA Florida St. Petersburg Hospital](https://stpetegeneral.com/)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69da2179869c7e25d85a0f9f?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | May 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a13ba8812f8b43cf398fed6?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | May 24 |
-| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a12e4d69f654b3359cf4af5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | May 24 |
 | **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b6619335383fb3b2d8?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 24 |
 | ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b5619335383fb3b2d7?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rundle Schools](https://www.rundle.ab.ca)** | **[Teacher Intern](https://jobright.ai/jobs/info/6a13faf312f8b43cf3991610?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 22 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Child Development Intern](https://jobright.ai/jobs/info/6a13897c619335383fb3d056?utm_campaign=1057&utm_source=git)** | Campus: Tempe, US | On Site | May 22 |
 | **[Academic Travel Abroad](https://academic-travel.com)** | **[Intern, Custom Programs](https://jobright.ai/jobs/info/6a10de6a619335383fb35189?utm_campaign=1057&utm_source=git)** | Washington,DC,US | Hybrid | May 22 |
-| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a10dd679fdbf21f36cb1360?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 22 |
-| **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a13f7da83d7144289832de5?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | May 22 |
-| **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166e83d714428982a6a2?utm_campaign=1057&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
-| ↳ | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a1116eb9fdbf21f36cb2c71?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
