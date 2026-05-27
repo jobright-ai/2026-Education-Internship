@@ -66,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a91a5b03d40c194d5a3?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a86a5b03d40c194d596?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | May 27 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a16fd855b0a497d52107300?utm_campaign=1057&utm_source=git)** | Melville - New York, US | Hybrid | May 27 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/6a16fabdd6a04f21602e1888?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/6a16fabdd6a04f21602e1888?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a2e94007a2195de55d8?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | May 27 |
 | **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/6a16f3b9f45c6530ce9a7570?utm_campaign=1057&utm_source=git)** | US | Remote | May 27 |
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecb11430333075ccb84c?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | On Site | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a13ba8812f8b43cf398fed6?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | May 24 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | May 24 |
 | **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b6619335383fb3b2d8?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 24 |
+| ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a12b2b5619335383fb3b2d7?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
