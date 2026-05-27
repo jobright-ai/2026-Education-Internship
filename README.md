@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1623a9128680351d9684c1?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
+| **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a16372c554b0e12c058a4ac?utm_campaign=1057&utm_source=git)** | San Diego,  California | On Site | May 26 |
 | **[Taylor Farms](http://www.taylorfarms.com)** | **[Summer 2026 Internship Program - United States](https://jobright.ai/jobs/info/6a1620e8128680351d968348?utm_campaign=1057&utm_source=git)** | California, United States | On Site | May 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[Denver Public Schools](http://carson.dpsk12.org)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a1617ab0073182bd92afe83?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | May 26 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
