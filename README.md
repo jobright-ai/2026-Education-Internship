@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[La Clínica de La Raza](https://laclinica.org/)** | **[QI Summer Internship](https://jobright.ai/jobs/info/6a176465b091c7417c4fe1fd?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 27 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/6a1755e2b091c7417c4fdb11?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 27 |
-| **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a174360f45c6530ce9aac65?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | May 27 |
 | **[Dua Health](www.duahealth.co)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/6a174236f45c6530ce9aabc1?utm_campaign=1057&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Academic Relations Student Intern](https://jobright.ai/jobs/info/69fb8e8118b94b2515be34d3?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | May 27 |
 | **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a1733f79005d858e94f708d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 27 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoW SkillBridge Internship - Program Management](https://jobright.ai/jobs/info/69faf18086d5cd46527d13d2?utm_campaign=1057&utm_source=git)** | Beavercreek, OH | On Site | May 26 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Sustaining Intern Fall 2026](https://jobright.ai/jobs/info/6a15edae1935fa61b3c6cd99?utm_campaign=1057&utm_source=git)** | US-GA-Tifton | On Site | May 26 |
 | **[Denver Public Schools](http://carson.dpsk12.org)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a15ed54554b0e12c0587583?utm_campaign=1057&utm_source=git)** | Denver, CO, United States | On Site | May 26 |
-| **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc61?utm_campaign=1057&utm_source=git)** | St. Louis, MO 63017 | On Site | May 26 |
-| ↳ | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc62?utm_campaign=1057&utm_source=git)** | Town and Country, Missouri | On Site | May 26 |
+| **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc62?utm_campaign=1057&utm_source=git)** | Town and Country, Missouri | On Site | May 26 |
+| ↳ | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc61?utm_campaign=1057&utm_source=git)** | St. Louis, MO 63017 | On Site | May 26 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Instructor - NTLD Framework for Teaching District Intern Credential Program 2026-2027 - Temporary Assignment](https://jobright.ai/jobs/info/6a15e6e40073182bd92ae04f?utm_campaign=1057&utm_source=git)** | 6200 S. Mooney Blvd., Visalia, California, 93278-5091, US | On Site | May 26 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | May 26 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Stipend Remote  Research Intern LM](https://jobright.ai/jobs/info/6a15d1cd0073182bd92ad18f?utm_campaign=1057&utm_source=git)** | Home/Remote Office Location, US | Remote | May 26 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fafe5d18b94b2515bde3c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a157f3e0073182bd92aa481?utm_campaign=1057&utm_source=git)** | West Chicago, IL | On Site | May 26 |
 | **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
-| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
-| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9f1935fa61b3c686a4?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | May 26 |
 | ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9c1935fa61b3c686a0?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 26 |
 | **[Pinkerton Academy](https://www.pinkertonacademy.org)** | **[Intern/Student Teacher/Observer](https://jobright.ai/jobs/info/6a1579fd1935fa61b3c685c1?utm_campaign=1057&utm_source=git)** | Derry, NH | On Site | May 26 |
