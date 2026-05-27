@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gasser Chair](http://gasserchair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a174360f45c6530ce9aac65?utm_campaign=1057&utm_source=git)** | Youngstown, OH | On Site | May 27 |
 | **[Dua Health](www.duahealth.co)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/6a174236f45c6530ce9aabc1?utm_campaign=1057&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Academic Relations Student Intern](https://jobright.ai/jobs/info/69fb8e8118b94b2515be34d3?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | May 27 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern- Facilities](https://jobright.ai/jobs/info/6a17348ab091c7417c4fbdd7?utm_campaign=1057&utm_source=git)** | Newton-MA, US | On Site | May 27 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fafe5d18b94b2515bde3c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a157f3e0073182bd92aa481?utm_campaign=1057&utm_source=git)** | West Chicago, IL | On Site | May 26 |
 | **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
-| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
-| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
+| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9f1935fa61b3c686a4?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | May 26 |
 | ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9c1935fa61b3c686a0?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 26 |
 | **[Pinkerton Academy](https://www.pinkertonacademy.org)** | **[Intern/Student Teacher/Observer](https://jobright.ai/jobs/info/6a1579fd1935fa61b3c685c1?utm_campaign=1057&utm_source=git)** | Derry, NH | On Site | May 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Program Steering (International Student)](https://jobright.ai/jobs/info/6a140aca35df33047ace13fc?utm_campaign=1057&utm_source=git)** | United States of America-Alabama-Vance | On Site | May 25 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Internship - Rotational Management Training Program](https://jobright.ai/jobs/info/6a13f85c619335383fb3f16c?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | May 25 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Summer Day Camp Dance Specialist - Woburn](https://jobright.ai/jobs/info/6a13c54258ee291d8052d2aa?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | May 24 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a1347a612f8b43cf398ebf9?utm_campaign=1057&utm_source=git)** | California-Los Angeles-West Los Angeles Medical Center | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
