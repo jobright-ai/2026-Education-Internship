@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a17800f5b0a497d5210cef0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 27 |
+| **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Spring 2027](https://jobright.ai/jobs/info/6a177b95f45c6530ce9ad228?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | May 27 |
 | **[Archdiocese of Baltimore](https://www.archbalt.org/)** | **[Internship for CCHD](https://jobright.ai/jobs/info/6a177a1af45c6530ce9ad181?utm_campaign=1057&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 27 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education ECSE Preschool Teacher & Interns](https://jobright.ai/jobs/info/6a1776e781fe455c705a941e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | May 27 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - High School (Meetings & Events) - Remote - Nationwide](https://jobright.ai/jobs/info/6a1775375b0a497d5210cb4f?utm_campaign=1057&utm_source=git)** | Sacramento, California | Remote | May 27 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Larchmont Charter School](https://www.larchmontcharter.org/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a147da2c48b503aeffbf0d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA 90004 | On Site | May 25 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/69faaeb318b94b2515bdbe6a?utm_campaign=1057&utm_source=git)** | Canton, MA | On Site | May 25 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/68d757ee61a175619f8c9258?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | May 25 |
-| **[City Parks Foundation](http://www.cityparksfoundation.org)** | **[Summer Coastal Classroom High School Internship](https://jobright.ai/jobs/info/6a1442dd738a270c8bfa74d3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 25 |
-| **[Mosaic Pediatric Therapy](https://mosaictherapy.com)** | **[Clinical Behavior Analyst in Training (1000+ hours completed)](https://jobright.ai/jobs/info/68c2a7ae5adaee6c9bda2fb7?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
