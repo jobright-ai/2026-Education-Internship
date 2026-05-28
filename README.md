@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2027)](https://jobright.ai/jobs/info/6a14824cdc845f4be5bd2484?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 28 |
+| **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/6a181b0f3c1a380237ac1542?utm_campaign=1057&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Collision (Fall 2026)](https://jobright.ai/jobs/info/6a180f1f6be92a6820d15383?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | May 28 |
 | **[Beazer Homes](http://beazer.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a1802cd54962c1bb4b06684?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 28 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a17fcdf81f8da15dc7d4ee2?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | May 28 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth Autism](https://www.cahumanservices.org)** | **[Career Readiness and Employment Internship](https://jobright.ai/jobs/info/6a15b7cd554b0e12c0585303?utm_campaign=1057&utm_source=git)** | RIchmond, VA, US | On Site | May 26 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Non-Affiliated Student Intern / CREDIT Center / Data Analysis / Summer-2](https://jobright.ai/jobs/info/6a15b6ca128680351d963a17?utm_campaign=1057&utm_source=git)** | Prairie View, TX, US | On Site | May 26 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Non-Affiliated Student Intern / CREDIT Center / Data Analysis / Summer-2](https://jobright.ai/jobs/info/6a15b6bcdc845f4be5bd8256?utm_campaign=1057&utm_source=git)** | Prairie View, TX, US | On Site | May 26 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 Summer Associate Internship – Global Markets, Quantitative Research & Trading](https://jobright.ai/jobs/info/69fb105987a4820e6da84622?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Early Childhood Centers of Excellence](https://jobright.ai/jobs/info/6a159e930073182bd92ab22e?utm_campaign=1057&utm_source=git)** | Manchester,  NH, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
