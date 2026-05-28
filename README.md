@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBRE](https://www.cbre.com)** | **[Training Program Intern- Contract Support Associate](https://jobright.ai/jobs/info/6a17ac84f45c6530ce9aeb56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
+| **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
+| **[CHOC Children's](http://www.choc.org/)** | **[Clinical Research Coordinator - Intern](https://jobright.ai/jobs/info/6a17a4659005d858e94fb952?utm_campaign=1057&utm_source=git)** | Main Campus - Orange, US | On Site | May 27 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern Endocrinology](https://jobright.ai/jobs/info/6a179a969005d858e94fb60f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a17800f5b0a497d5210cef0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 27 |
 | **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Spring 2027](https://jobright.ai/jobs/info/6a177b95f45c6530ce9ad228?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renewa](https://www.renewa.com)** | **[Land High School Intern](https://jobright.ai/jobs/info/6a155d34738a270c8bfaab75?utm_campaign=1057&utm_source=git)** | Houston, TX 77056 | On Site | May 26 |
 | **[Qalam](https://www.qalam.institute)** | **[Academy Intern](https://jobright.ai/jobs/info/6a1521a6554b0e12c0580f31?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | May 25 |
 | **[Foresters Financial](http://www.foresters.com/)** | **[US New Business Summer Student](https://jobright.ai/jobs/info/6a14bca8738a270c8bfa8949?utm_campaign=1057&utm_source=git)** | Toronto, CA | Hybrid | May 25 |
-| **[Areyvut](https://www.areyvut.org)** | **[2026 Summer Intern – Areyvut](https://jobright.ai/jobs/info/6a1491f2554b0e12c057f6fe?utm_campaign=1057&utm_source=git)** | Bergenfield, NJ | Hybrid | May 25 |
-| **[Larchmont Charter School](https://www.larchmontcharter.org/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a147da2c48b503aeffbf0d2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA 90004 | On Site | May 25 |
-| **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/69faaeb318b94b2515bdbe6a?utm_campaign=1057&utm_source=git)** | Canton, MA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
