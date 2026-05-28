@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69f2ec2eecbc8c2f7320f209?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 28 |
+| **[VO2 Partners, LLC](http://www.vo2partners.com)** | **[MBA Intern, Asset Management and Investment Banking](https://jobright.ai/jobs/info/6a187c67c2a87d6cd3df19a9?utm_campaign=1057&utm_source=git)** | United States | Remote | May 28 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Education Abroad Intern (Student Wage)](https://jobright.ai/jobs/info/6a187595dbc80963f934431d?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, US | On Site | May 28 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a1872d1c2a87d6cd3df1416?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 28 |
 | **[Royal Switchgear](https://www.royalswitchgear.com/)** | **[Summer Intern- Training](https://jobright.ai/jobs/info/6a186fee6243320e8d164772?utm_campaign=1057&utm_source=git)** | 4251 Turin Drive, Bessemer, AL, USA | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | May 26 |
 | ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d4a429fd279da97a3d?utm_campaign=1057&utm_source=git)** | Mountain View Office | On Site | May 26 |
 | **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 26 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a164f930073182bd92b1fd8?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 26 |
-| **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a16372c554b0e12c058a4ac?utm_campaign=1057&utm_source=git)** | San Diego,  California | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
