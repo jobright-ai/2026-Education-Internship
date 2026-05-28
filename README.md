@@ -149,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Gannon University](http://www.gannon.edu/)** | **[LDCE Student Intern](https://jobright.ai/jobs/info/6a18044aba12bb0249bb6374?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | May 27 |
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[UNC Student Guest Experience summer intern: Carolina Dining Services](https://jobright.ai/jobs/info/6a17fb2e81f8da15dc7d4d75?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | May 27 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a169c4d1935fa61b3c729de?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | May 27 |
-| **[Kelly Tutors](www.kellytutors.com)** | **[Publishing Intern (Flexible, 3-10hrs/week)](https://jobright.ai/jobs/info/6a168d1d1b2f6918b0e32b95?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 26 |
 | **[Dominican University](https://www.dom.edu)** | **[Library Instruction Internship](https://jobright.ai/jobs/info/6a167c981935fa61b3c72002?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | May 26 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167851128680351d96b264?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
 | **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a165519a429fd279da97c12?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | May 26 |
 | ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d4a429fd279da97a3d?utm_campaign=1057&utm_source=git)** | Mountain View Office | On Site | May 26 |
 | **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 26 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a164f930073182bd92b1fd8?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
