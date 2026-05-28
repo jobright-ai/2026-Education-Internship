@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Collision (Fall 2026)](https://jobright.ai/jobs/info/6a180f1f6be92a6820d15383?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | May 28 |
 | **[Beazer Homes](http://beazer.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a1802cd54962c1bb4b06684?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 28 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a17fcdf81f8da15dc7d4ee2?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | May 28 |
 | **[Abacus Technology Corporation](http://www.abacustech.com)** | **[Internship Opportunities - Summer 2026 - Racial Justice Internship Program](https://jobright.ai/jobs/info/6a17dd13b091c7417c501f1c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a17cce881fe455c705abed6?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 27 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca3081fe455c705abd78?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 27 |
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca2e81fe455c705abd75?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 27 |
-| **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
-| ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[2024 Summer Experiential Internship (SEI) Program / June 3rd - August 16](https://jobright.ai/jobs/info/6a17fbe1c8110e28b75b1ddb?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Non-Affiliated Student Intern / CREDIT Center / Data Analysis / Summer-2](https://jobright.ai/jobs/info/6a15b6bcdc845f4be5bd8256?utm_campaign=1057&utm_source=git)** | Prairie View, TX, US | On Site | May 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 Summer Associate Internship – Global Markets, Quantitative Research & Trading](https://jobright.ai/jobs/info/69fb105987a4820e6da84622?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Early Childhood Centers of Excellence](https://jobright.ai/jobs/info/6a159e930073182bd92ab22e?utm_campaign=1057&utm_source=git)** | Manchester,  NH, US | On Site | May 26 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
