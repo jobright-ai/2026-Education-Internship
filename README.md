@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[Education Abroad Intern (Student Wage)](https://jobright.ai/jobs/info/6a187595dbc80963f934431d?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, US | On Site | May 28 |
+| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a1872d1c2a87d6cd3df1416?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 28 |
+| **[Royal Switchgear](https://www.royalswitchgear.com/)** | **[Summer Intern- Training](https://jobright.ai/jobs/info/6a186fee6243320e8d164772?utm_campaign=1057&utm_source=git)** | 4251 Turin Drive, Bessemer, AL, USA | On Site | May 28 |
+| **[The US Oncology Network](http://www.usoncology.com/)** | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fbf7313802c7621fd8eac0?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | May 28 |
+| **[Thiel College](http://www.thiel.edu/)** | **[Assistant Women's Lacrosse Coach Internship](https://jobright.ai/jobs/info/6a186ac66243320e8d1641dc?utm_campaign=1057&utm_source=git)** | Greenville, PA | On Site | May 28 |
+| **[Javara](https://www.javararesearch.com)** | **[Clinical Research Internship & Seasonal Support](https://jobright.ai/jobs/info/6a186a9a17492d3a389b5dc6?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | On Site | May 28 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a1868d0dbc80963f93435fc?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 28 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a1868cfdbc80963f93435fb?utm_campaign=1057&utm_source=git)** | New York | On Site | May 28 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Public Health Internship (Fall 2026)](https://jobright.ai/jobs/info/6a18683317492d3a389b593c?utm_campaign=1057&utm_source=git)** | Lincoln, NE, US | On Site | May 28 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2027)](https://jobright.ai/jobs/info/6a14824cdc845f4be5bd2484?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/6a181b0f3c1a380237ac1542?utm_campaign=1057&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Collision (Fall 2026)](https://jobright.ai/jobs/info/6a180f1f6be92a6820d15383?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | May 28 |
-| **[Highlight](http://highlighttech.com/)** | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c2c181fe455c705ab9cd?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | **[Immanuel](https://www.immanuel.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a17b59b1430333075cd36ef?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Training Program Intern- Contract Support Associate](https://jobright.ai/jobs/info/6a17ac84f45c6530ce9aeb56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 26 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a164f930073182bd92b1fd8?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 26 |
 | **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a16372c554b0e12c058a4ac?utm_campaign=1057&utm_source=git)** | San Diego,  California | On Site | May 26 |
-| **[Taylor Farms](http://www.taylorfarms.com)** | **[Summer 2026 Internship Program - United States](https://jobright.ai/jobs/info/6a1620e8128680351d968348?utm_campaign=1057&utm_source=git)** | California, United States | On Site | May 26 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
-| **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
