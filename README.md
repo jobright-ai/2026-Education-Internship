@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
-| ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a17cce881fe455c705abed6?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 27 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca3081fe455c705abd78?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 27 |
+| ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca2e81fe455c705abd75?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Enrichment Program Intern](https://jobright.ai/jobs/info/6a17c21cb091c7417c50145a?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ed. Specialist Instructor, NTLD, IMPACT Intern Credential Program 2026-2027 - Temporary Assignment](https://jobright.ai/jobs/info/6a172a665b0a497d52109132?utm_campaign=1057&utm_source=git)** | Tulare County Office Of Education Visalia Tulare County, CA California | On Site | May 27 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Graduate Student Intern](https://jobright.ai/jobs/info/6a1710aff45c6530ce9a848a?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 27 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Facility Intern](https://jobright.ai/jobs/info/6a170f13b091c7417c4fa2c0?utm_campaign=1057&utm_source=git)** | ADVENTHEALTH 6061 S WILLOW, Greenwood Village, Colorado, US | On Site | May 27 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Home & Community Intern](https://jobright.ai/jobs/info/6a1709ccf45c6530ce9a81ee?utm_campaign=1057&utm_source=git)** | US-UT-Logan | Hybrid | May 27 |
 | **[Southwest Ontario Aboriginal Health Access Centre](https://soahac.on.ca/)** | **[FT Contract Summer Internship – Child Care](https://jobright.ai/jobs/info/6a1705779005d858e94f5138?utm_campaign=1057&utm_source=git)** | 449 Hill St, London, ON N6B 1E5, Canada | On Site | May 27 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Undergraduate Intern - MCCC GI Oncology Research](https://jobright.ai/jobs/info/6a1703a51430333075ccc547?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Hybrid | May 27 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
 | **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
 | ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9f1935fa61b3c686a4?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | May 26 |
-| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9c1935fa61b3c686a0?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
