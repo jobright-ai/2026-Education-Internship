@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Enrichment Program Intern](https://jobright.ai/jobs/info/6a17c21cb091c7417c50145a?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c1ecda08264614c90186?utm_campaign=1057&utm_source=git)** | Madison, VA | On Site | May 27 |
+| ↳ | **[International Alumni Relations Program Intern](https://jobright.ai/jobs/info/6a17c1e11430333075cd3d4b?utm_campaign=1057&utm_source=git)** | Madison, WI | Remote | May 27 |
+| ↳ | **[Enrichment Program Intern](https://jobright.ai/jobs/info/6a17c1a65b0a497d5210f0a0?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| **[Immanuel](https://www.immanuel.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a17b59b1430333075cd36ef?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Training Program Intern- Contract Support Associate](https://jobright.ai/jobs/info/6a17ac84f45c6530ce9aeb56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
 | **[CHOC Children's](http://www.choc.org/)** | **[Clinical Research Coordinator - Intern](https://jobright.ai/jobs/info/6a17a4659005d858e94fb952?utm_campaign=1057&utm_source=git)** | Main Campus - Orange, US | On Site | May 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Design, Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a17bf2d5b0a497d5210ede5?utm_campaign=1057&utm_source=git)** | Sparks, NV | On Site | May 27 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern Endocrinology](https://jobright.ai/jobs/info/6a179a969005d858e94fb60f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a17800f5b0a497d5210cef0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 27 |
 | **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Spring 2027](https://jobright.ai/jobs/info/6a177b95f45c6530ce9ad228?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | May 27 |
@@ -81,8 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ed. Specialist Instructor, NTLD, IMPACT Intern Credential Program 2026-2027 - Temporary Assignment](https://jobright.ai/jobs/info/6a172a665b0a497d52109132?utm_campaign=1057&utm_source=git)** | Tulare County Office Of Education Visalia Tulare County, CA California | On Site | May 27 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Graduate Student Intern](https://jobright.ai/jobs/info/6a1710aff45c6530ce9a848a?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 27 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Facility Intern](https://jobright.ai/jobs/info/6a170f13b091c7417c4fa2c0?utm_campaign=1057&utm_source=git)** | ADVENTHEALTH 6061 S WILLOW, Greenwood Village, Colorado, US | On Site | May 27 |
-| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Home & Community Intern](https://jobright.ai/jobs/info/6a1709d2f45c6530ce9a81ef?utm_campaign=1057&utm_source=git)** | Logan, UT, US | Hybrid | May 27 |
-| ↳ | **[Extension Home & Community Intern](https://jobright.ai/jobs/info/6a1709ccf45c6530ce9a81ee?utm_campaign=1057&utm_source=git)** | US-UT-Logan | Hybrid | May 27 |
+| **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Home & Community Intern](https://jobright.ai/jobs/info/6a1709ccf45c6530ce9a81ee?utm_campaign=1057&utm_source=git)** | US-UT-Logan | Hybrid | May 27 |
 | **[Southwest Ontario Aboriginal Health Access Centre](https://soahac.on.ca/)** | **[FT Contract Summer Internship – Child Care](https://jobright.ai/jobs/info/6a1705779005d858e94f5138?utm_campaign=1057&utm_source=git)** | 449 Hill St, London, ON N6B 1E5, Canada | On Site | May 27 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Undergraduate Intern - MCCC GI Oncology Research](https://jobright.ai/jobs/info/6a1703a51430333075ccc547?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | Hybrid | May 27 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 27 |
@@ -118,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160acd1935fa61b3c6e23d?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 26 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160aa8a429fd279da950ef?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160aa6a429fd279da950ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 26 |
 | **[Avista Senior Living](https://avistaseniorliving.com)** | **[Student Intern Mesa Public Schools students ONLY](https://jobright.ai/jobs/info/6a160840554b0e12c05889ac?utm_campaign=1057&utm_source=git)** | Mesa, AZ 85215 | On Site | May 26 |
@@ -126,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoW SkillBridge Internship - Program Management](https://jobright.ai/jobs/info/69faf18086d5cd46527d13d2?utm_campaign=1057&utm_source=git)** | Beavercreek, OH | On Site | May 26 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Sustaining Intern Fall 2026](https://jobright.ai/jobs/info/6a15edae1935fa61b3c6cd99?utm_campaign=1057&utm_source=git)** | US-GA-Tifton | On Site | May 26 |
 | **[Denver Public Schools](http://carson.dpsk12.org)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/6a15ed54554b0e12c0587583?utm_campaign=1057&utm_source=git)** | Denver, CO, United States | On Site | May 26 |
-| **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc61?utm_campaign=1057&utm_source=git)** | St. Louis, MO 63017 | On Site | May 26 |
-| ↳ | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc62?utm_campaign=1057&utm_source=git)** | Town and Country, Missouri | On Site | May 26 |
+| **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc62?utm_campaign=1057&utm_source=git)** | Town and Country, Missouri | On Site | May 26 |
+| ↳ | **[Internship Program (40058)](https://jobright.ai/jobs/info/6a15eb491935fa61b3c6cc61?utm_campaign=1057&utm_source=git)** | St. Louis, MO 63017 | On Site | May 26 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Instructor - NTLD Framework for Teaching District Intern Credential Program 2026-2027 - Temporary Assignment](https://jobright.ai/jobs/info/6a15e6e40073182bd92ae04f?utm_campaign=1057&utm_source=git)** | 6200 S. Mooney Blvd., Visalia, California, 93278-5091, US | On Site | May 26 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | May 26 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Stipend Remote  Research Intern LM](https://jobright.ai/jobs/info/6a15d1cd0073182bd92ad18f?utm_campaign=1057&utm_source=git)** | Home/Remote Office Location, US | Remote | May 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9f1935fa61b3c686a4?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | May 26 |
 | ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a157b9c1935fa61b3c686a0?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 26 |
-| **[Pinkerton Academy](https://www.pinkertonacademy.org)** | **[Intern/Student Teacher/Observer](https://jobright.ai/jobs/info/6a1579fd1935fa61b3c685c1?utm_campaign=1057&utm_source=git)** | Derry, NH | On Site | May 26 |
-| **[The Nelson-Atkins Museum of Art](http://www.nelson-atkins.org)** | **[Digital Interpretation Intern (UMKC Mellon Humanities Internship Program)](https://jobright.ai/jobs/info/6a1579b71935fa61b3c685a3?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | May 26 |
-| **[Hope In Her, Inc.](www.hopeinherinc.com)** | **[Intern](https://jobright.ai/jobs/info/6a1578f6a429fd279da8f4eb?utm_campaign=1057&utm_source=git)** | United States | Remote | May 26 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Intern - Learning Content & AI Enablement](https://jobright.ai/jobs/info/69fac22e18b94b2515bdc39e?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 26 |
-| **[Epworth Children & Family Services](https://www.epworth.org/)** | **[Older Youth Services Intern](https://jobright.ai/jobs/info/6a155d37554b0e12c0582085?utm_campaign=1057&utm_source=git)** | Epworth Drop-In Center - Normandy - St. Louis, MO 63121 | On Site | May 26 |
-| **[Renewa](https://www.renewa.com)** | **[Land High School Intern](https://jobright.ai/jobs/info/6a155d34738a270c8bfaab75?utm_campaign=1057&utm_source=git)** | Houston, TX 77056 | On Site | May 26 |
-| **[Qalam](https://www.qalam.institute)** | **[Academy Intern](https://jobright.ai/jobs/info/6a1521a6554b0e12c0580f31?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | May 25 |
-| **[Foresters Financial](http://www.foresters.com/)** | **[US New Business Summer Student](https://jobright.ai/jobs/info/6a14bca8738a270c8bfa8949?utm_campaign=1057&utm_source=git)** | Toronto, CA | Hybrid | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
