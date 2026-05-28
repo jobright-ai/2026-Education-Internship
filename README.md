@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Topgolf](https://topgolf.com/us/)** | **[Golf Intern](https://jobright.ai/jobs/info/6a189a6154a441713ae86508?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | May 28 |
+| ↳ | **[Golf Intern - Summer Academy](https://jobright.ai/jobs/info/6a1899d9c2a87d6cd3df2eaf?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | May 28 |
+| **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a1895b5dbc80963f934589c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 28 |
+| **[KIPP North Carolina Public Schools](http://kippnc.org/join-our-team/)** | **[Part-Time Student Enrollment Data Intern (Summer – Remote)](https://jobright.ai/jobs/info/6a1892826243320e8d165e0c?utm_campaign=1057&utm_source=git)** | Remote Worker - N/A | Remote | May 28 |
+| ↳ | **[Part-Time Student Enrollment Data Intern (Summer – Remote)](https://jobright.ai/jobs/info/6a1892816243320e8d165e0b?utm_campaign=1057&utm_source=git)** | USA | Remote | May 28 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69f2ec2eecbc8c2f7320f209?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[VO2 Partners, LLC](http://www.vo2partners.com)** | **[MBA Intern, Asset Management and Investment Banking](https://jobright.ai/jobs/info/6a187c67c2a87d6cd3df19a9?utm_campaign=1057&utm_source=git)** | United States | Remote | May 28 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Education Abroad Intern (Student Wage)](https://jobright.ai/jobs/info/6a187595dbc80963f934431d?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, US | On Site | May 28 |
@@ -121,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[La Clínica de La Raza](https://laclinica.org/)** | **[QI Summer Internship](https://jobright.ai/jobs/info/6a176465b091c7417c4fe1fd?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | May 27 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/6a1755e2b091c7417c4fdb11?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 27 |
+| **[University of Michigan](https://www.umich.edu)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a189695c2a87d6cd3df2d57?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 27 |
 | **[Dua Health](www.duahealth.co)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/6a174236f45c6530ce9aabc1?utm_campaign=1057&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Academic Relations Student Intern](https://jobright.ai/jobs/info/69fb8e8118b94b2515be34d3?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | May 27 |
 | **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a1733f79005d858e94f708d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a169c4d1935fa61b3c729de?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | May 27 |
 | **[Dominican University](https://www.dom.edu)** | **[Library Instruction Internship](https://jobright.ai/jobs/info/6a167c981935fa61b3c72002?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | May 26 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167851128680351d96b264?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 26 |
-| **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a165519a429fd279da97c12?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
-| ↳ | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a165515a429fd279da97c0a?utm_campaign=1057&utm_source=git)** | Oakville | Hybrid | May 26 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | May 26 |
-| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d4a429fd279da97a3d?utm_campaign=1057&utm_source=git)** | Mountain View Office | On Site | May 26 |
-| **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | May 26 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a164f930073182bd92b1fd8?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
