@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Student Engagement Intern (Remote, USA)](https://jobright.ai/jobs/info/6a1837bb6243320e8d161a44?utm_campaign=1057&utm_source=git)** | United States | Remote | May 28 |
+| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a1833d36243320e8d161970?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | May 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2027)](https://jobright.ai/jobs/info/6a14824cdc845f4be5bd2484?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/6a181b0f3c1a380237ac1542?utm_campaign=1057&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Collision (Fall 2026)](https://jobright.ai/jobs/info/6a180f1f6be92a6820d15383?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | May 28 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a17cce881fe455c705abed6?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 27 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca3081fe455c705abd78?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 27 |
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca2e81fe455c705abd75?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 27 |
-| **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
-| ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[2024 Summer Experiential Internship (SEI) Program / June 3rd - August 16](https://jobright.ai/jobs/info/6a17fbe1c8110e28b75b1ddb?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Notre Dame Graduate / Student Intern](https://jobright.ai/jobs/info/6a15bb6edc845f4be5bd84be?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | May 26 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Early Childhood Centers of Excellence](https://jobright.ai/jobs/info/6a15ba5f554b0e12c0585489?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | May 26 |
 | **[Commonwealth Autism](https://www.cahumanservices.org)** | **[Career Readiness and Employment Internship](https://jobright.ai/jobs/info/6a15b7cd554b0e12c0585303?utm_campaign=1057&utm_source=git)** | RIchmond, VA, US | On Site | May 26 |
-| **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[Non-Affiliated Student Intern / CREDIT Center / Data Analysis / Summer-2](https://jobright.ai/jobs/info/6a15b6ca128680351d963a17?utm_campaign=1057&utm_source=git)** | Prairie View, TX, US | On Site | May 26 |
-| **[East Texas A&M University](https://www.etamu.edu)** | **[Non-Affiliated Student Intern / CREDIT Center / Data Analysis / Summer-2](https://jobright.ai/jobs/info/6a15b6bcdc845f4be5bd8256?utm_campaign=1057&utm_source=git)** | Prairie View, TX, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
