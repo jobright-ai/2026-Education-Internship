@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beazer Homes](http://beazer.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a1802cd54962c1bb4b06684?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | May 28 |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a17fcdf81f8da15dc7d4ee2?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | May 28 |
 | **[Abacus Technology Corporation](http://www.abacustech.com)** | **[Internship Opportunities - Summer 2026 - Racial Justice Internship Program](https://jobright.ai/jobs/info/6a17dd13b091c7417c501f1c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a17cce881fe455c705abed6?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 27 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca3081fe455c705abd78?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 27 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[2024 Summer Experiential Internship (SEI) Program / June 3rd - August 16](https://jobright.ai/jobs/info/6a17fbe1c8110e28b75b1ddb?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | May 27 |
 | ↳ | **[Enrichment Program Intern](https://jobright.ai/jobs/info/6a17c21cb091c7417c50145a?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c1ecda08264614c90186?utm_campaign=1057&utm_source=git)** | Madison, VA | On Site | May 27 |
 | ↳ | **[International Alumni Relations Program Intern](https://jobright.ai/jobs/info/6a17c1e11430333075cd3d4b?utm_campaign=1057&utm_source=git)** | Madison, WI | Remote | May 27 |
@@ -109,6 +112,8 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Community Programs Professional Intern](https://jobright.ai/jobs/info/69fb281c87a4820e6da85ae0?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Supply Chain Management (Summer 2027)](https://jobright.ai/jobs/info/6a14819dc48b503aeffbf1a3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 27 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a16d691d6a04f21602e0c52?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[Gannon University](http://www.gannon.edu/)** | **[LDCE Student Intern](https://jobright.ai/jobs/info/6a18044aba12bb0249bb6374?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | May 27 |
+| **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[UNC Student Guest Experience summer intern: Carolina Dining Services](https://jobright.ai/jobs/info/6a17fb2e81f8da15dc7d4d75?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | May 27 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a169c4d1935fa61b3c729de?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | May 27 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Publishing Intern (Flexible, 3-10hrs/week)](https://jobright.ai/jobs/info/6a168d1d1b2f6918b0e32b95?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 26 |
 | **[Dominican University](http://www.dom.edu/)** | **[Library Instruction Internship](https://jobright.ai/jobs/info/6a167c981935fa61b3c72002?utm_campaign=1057&utm_source=git)** | River Forest, IL | On Site | May 26 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 Summer Associate Internship – Global Markets, Quantitative Research & Trading](https://jobright.ai/jobs/info/69fb105987a4820e6da84622?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Early Childhood Centers of Excellence](https://jobright.ai/jobs/info/6a159e930073182bd92ab22e?utm_campaign=1057&utm_source=git)** | Manchester,  NH, US | On Site | May 26 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | May 26 |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/69fb1c2fe1560008411565b8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fafe5d18b94b2515bde3c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a157f3e0073182bd92aa481?utm_campaign=1057&utm_source=git)** | West Chicago, IL | On Site | May 26 |
-| **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
-| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
