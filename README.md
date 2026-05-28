@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abacus Technology Corporation](http://www.abacustech.com)** | **[Internship Opportunities - Summer 2026 - Racial Justice Internship Program](https://jobright.ai/jobs/info/6a17dd13b091c7417c501f1c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a17cce881fe455c705abed6?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 27 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca3081fe455c705abd78?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | May 27 |
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a17ca2e81fe455c705abd75?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 27 |
-| **[Highlight](http://highlighttech.com/)** | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
-| ↳ | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| **[Highlight](http://highlighttech.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/6a17c3a61430333075cd3f45?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[Affinity Program Intern](https://jobright.ai/jobs/info/6a17c3a6f45c6530ce9af806?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Diverse Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c3a41430333075cd3f43?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/6a17c39581fe455c705abaa9?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[Enrichment Program Intern](https://jobright.ai/jobs/info/6a17c21cb091c7417c50145a?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | May 27 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a161b28dc845f4be5bdc754?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 26 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a161252a429fd279da95522?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
 | ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16124fa429fd279da9551f?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
-| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| **[Best Buddies International](http://bestbuddies.org/)** | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e3?utm_campaign=1057&utm_source=git)** | Dallas, Dallas, TX, US | On Site | May 26 |
+| ↳ | **[Intern, Programs (Summer)](https://jobright.ai/jobs/info/6a16118f1935fa61b3c6e5e2?utm_campaign=1057&utm_source=git)** | Austin, Austin, TX, US | On Site | May 26 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Intern Coordinator – Summer Youth Employment Program](https://jobright.ai/jobs/info/6a160c84dc845f4be5bdbed4?utm_campaign=1057&utm_source=git)** | Belle Isle Nature Center, 176 Lakeside, Detroit, MI | On Site | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Mavs Academy Intern](https://jobright.ai/jobs/info/6a160b74dc845f4be5bdbe6a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | May 26 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/69fafe5d18b94b2515bde3c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a157f3e0073182bd92aa481?utm_campaign=1057&utm_source=git)** | West Chicago, IL | On Site | May 26 |
 | **[Job One](https://jobonekc.org)** | **[Summer Internship - Job Coach](https://jobright.ai/jobs/info/6a157dc2128680351d961c68?utm_campaign=1057&utm_source=git)** | Independence, MO | On Site | May 26 |
-| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b12?utm_campaign=1057&utm_source=git)** | Ithaca, NY, US | On Site | May 26 |
-| ↳ | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
+| **[Racker](https://www.racker.org)** | **[Ithaca Preschool Volunteer/ Internship](https://jobright.ai/jobs/info/6a157c14128680351d961b15?utm_campaign=1057&utm_source=git)** | Owego, NY, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
