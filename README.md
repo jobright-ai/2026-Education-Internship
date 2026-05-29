@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Ag Education and Leadership School-Year Internship](https://jobright.ai/jobs/info/6a18f5ebabc8f63abac7d896?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 28 |
 | **[Execaire Aviation](https://execaireaviation.com)** | **[Organizational Development & Training Intern](https://jobright.ai/jobs/info/6a18e63dc2a87d6cd3df5a93?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | On Site | May 28 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a18e55d54a441713ae88f25?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a18e184c2a87d6cd3df592a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | Hybrid | May 28 |
 | **[Big Blue Swim School](https://www.bigblueswimschool.com/)** | **[Summer Enrollment Specialist (Part-Time Intern) — Big Blue Swim School](https://jobright.ai/jobs/info/6a18df61dbc80963f93483af?utm_campaign=1057&utm_source=git)** | 23 West Center Street, Orem, UT, USA | Remote | May 28 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a18de7417492d3a389ba7e0?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Intern (Ben Towne Center: Evans Lab)](https://jobright.ai/jobs/info/6a18d72517492d3a389ba06a?utm_campaign=1057&utm_source=git)** | Seattle, WA, US | On Site | May 28 |
 | **[Bachem](https://www.bachem.com/)** | **[Intern - Training/Learning & Development](https://jobright.ai/jobs/info/6a18cf9c54a441713ae88422?utm_campaign=1057&utm_source=git)** | Vista, CA | On Site | May 28 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Intern](https://jobright.ai/jobs/info/6a18cbfcabc8f63abac7c506?utm_campaign=1057&utm_source=git)** | US-NY-New York | On Site | May 28 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Design, Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a17bf2d5b0a497d5210ede5?utm_campaign=1057&utm_source=git)** | Sparks, NV | On Site | May 27 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern Endocrinology](https://jobright.ai/jobs/info/6a179a969005d858e94fb60f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 27 |
+| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/69c14bf179e36d3a847dea7e?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | May 27 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a17800f5b0a497d5210cef0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | May 27 |
-| **[Tempe Union High School District](https://www.tempeunion.org)** | **[Student Teachers/Observation Students/Internship Students - Spring 2027](https://jobright.ai/jobs/info/6a177b95f45c6530ce9ad228?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | May 27 |
 | **[Archdiocese of Baltimore](https://www.archbalt.org/)** | **[Internship for CCHD](https://jobright.ai/jobs/info/6a177a1af45c6530ce9ad181?utm_campaign=1057&utm_source=git)** | Baltimore, Maryland, United States | On Site | May 27 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Special Education ECSE Preschool Teacher & Interns](https://jobright.ai/jobs/info/6a1776e781fe455c705a941e?utm_campaign=1057&utm_source=git)** | Fremont, MO | On Site | May 27 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - High School (Meetings & Events) - Remote - Nationwide](https://jobright.ai/jobs/info/6a1775375b0a497d5210cb4f?utm_campaign=1057&utm_source=git)** | Sacramento, California | Remote | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a86a5b03d40c194d596?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | May 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/6a16fabdd6a04f21602e1888?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a2e94007a2195de55d8?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | May 27 |
-| **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/6a16f3b9f45c6530ce9a7570?utm_campaign=1057&utm_source=git)** | US | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
