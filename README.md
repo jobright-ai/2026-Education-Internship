@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Group Leader Intern (Fall)](https://jobright.ai/jobs/info/6a19315854a441713ae8b240?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 28 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Ag Education and Leadership School-Year Internship](https://jobright.ai/jobs/info/6a18f5ebabc8f63abac7d896?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 28 |
 | **[Execaire Aviation](https://execaireaviation.com)** | **[Organizational Development & Training Intern](https://jobright.ai/jobs/info/6a18e63dc2a87d6cd3df5a93?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | On Site | May 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/6a18e184c2a87d6cd3df592a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | Hybrid | May 28 |
@@ -125,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Academic Success Initiatives Videography Intern](https://jobright.ai/jobs/info/6a181b0f3c1a380237ac1542?utm_campaign=1057&utm_source=git)** | University of Kansas Lawrence Campus | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Collision (Fall 2026)](https://jobright.ai/jobs/info/6a180f1f6be92a6820d15383?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | May 28 |
 | **[Radio Free Asia](http://www.rfa.org)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a18df5954a441713ae88d98?utm_campaign=1057&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 27 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | May 27 |
 | **[Immanuel](https://www.immanuel.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a17b59b1430333075cd36ef?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Training Program Intern- Contract Support Associate](https://jobright.ai/jobs/info/6a17ac84f45c6530ce9aeb56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a91a5b03d40c194d5a3?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | May 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a86a5b03d40c194d596?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | May 27 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/6a16fabdd6a04f21602e1888?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/69c27a2e94007a2195de55d8?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
