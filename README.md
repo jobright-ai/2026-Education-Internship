@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[San Antonio River Authority](https://www.sariverauthority.org)** | **[Education & Engagement Intern](https://jobright.ai/jobs/info/6a19cfe32b206f3955eb0b40?utm_campaign=1057&utm_source=git)** | San Antonio, TX, US | On Site | May 29 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Intern – Conference and Event Services – Division of Student Affairs](https://jobright.ai/jobs/info/6a19ee03e24ef365258286d4?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 29 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a19e9496b135014dbc87084?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 29 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[UMASS Internship](https://jobright.ai/jobs/info/6a19ced7547e292ae1394e55?utm_campaign=1057&utm_source=git)** | Springfield, MA 01104, USA | On Site | May 29 |
+| **[San Antonio River Authority](https://www.sariverauthority.org)** | **[Education & Engagement Intern](https://jobright.ai/jobs/info/6a19cfe32b206f3955eb0b40?utm_campaign=1057&utm_source=git)** | San Antonio, TX, US | On Site | May 29 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Road to College and Career Intern](https://jobright.ai/jobs/info/69fd1ec76b788e7e7a5c52f3?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | May 29 |
 | **[The Confederated Tribes of Grand Ronde](https://www.grandronde.org)** | **[College Intern - Youth Enrichment](https://jobright.ai/jobs/info/6a19cc48547e292ae1394da1?utm_campaign=1057&utm_source=git)** | Grand Ronde, OR 97347, USA | Hybrid | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Teacher, SDC Mod/Severe (TK - 2nd Grade) - DGE ** Intern Eligible**](https://jobright.ai/jobs/info/6a19c663e24ef365258276ce?utm_campaign=1057&utm_source=git)** | Lake Elsinore Unified School District Lake Elsinore Riverside County, CA California | On Site | May 29 |
@@ -76,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e13bc36c20aa114954013c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | May 29 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68fad5443c99cc1d96026a94?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | May 27 |
 | **[Immanuel](https://www.immanuel.com)** | **[High School Intern](https://jobright.ai/jobs/info/6a17b59b1430333075cd36ef?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Training Program Intern- Contract Support Associate](https://jobright.ai/jobs/info/6a17ac84f45c6530ce9aeb56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
-| **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a17aaee81fe455c705aade8?utm_campaign=1057&utm_source=git)** | Tulsa, OK, US | On Site | May 27 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Design, Manufacturing (Fall 2026)](https://jobright.ai/jobs/info/6a17bf2d5b0a497d5210ede5?utm_campaign=1057&utm_source=git)** | Sparks, NV | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
