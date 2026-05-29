@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton Early College Academy](http://www.daytonearlycollege.org)** | **[FREEDOM SCHOOLS SERVANT LEADER INTERN (SLI) 2026](https://jobright.ai/jobs/info/6a19a72ec2a87d6cd3dfa44e?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | May 29 |
+| **[Eva's Village](https://www.evasvillage.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/68f22d23cb0abf15612f50a9?utm_campaign=1057&utm_source=git)** | Paterson, NJ, US | On Site | May 29 |
+| **[Santa Fe College](http://www.sfcollege.edu/)** | **[International Admissions Intern](https://jobright.ai/jobs/info/6a199da16b135014dbc84644?utm_campaign=1057&utm_source=git)** | Northwest Campus - Gainesville, FL, US | On Site | May 29 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Intern (Ben Towne Center: Evans Lab)](https://jobright.ai/jobs/info/6a19945cc2a87d6cd3df9919?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 29 |
 | **[Yale University](https://www.yale.edu)** | **[Intern New Haven Promise](https://jobright.ai/jobs/info/6a198e8f2b206f3955eae915?utm_campaign=1057&utm_source=git)** | Lab For Medic, Pediat, United States of America | Hybrid | May 29 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
-| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
-| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a19397ac2a87d6cd3df8112?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | May 29 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6a19373854a441713ae8b787?utm_campaign=1057&utm_source=git)** | California-Los Angeles-West Los Angeles Medical Center | On Site | May 28 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Group Leader Intern (Fall)](https://jobright.ai/jobs/info/6a19315854a441713ae8b240?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 28 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a185ff0dbc80963f9343299?utm_campaign=1057&utm_source=git)** | New England Baptist Hospital | On Site | May 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a185c7adbc80963f9342f64?utm_campaign=1057&utm_source=git)** | Downers Grove, IL, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 28 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 28 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | May 28 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b65c2a87d6cd3defe2b?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | May 28 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b64c2a87d6cd3defe1e?utm_campaign=1057&utm_source=git)** | US-UT | On Site | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/6a1755e2b091c7417c4fdb11?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[Save the Children US](http://savethechildren.org)** | **[Learning Outcomes Intern (I&E)](https://jobright.ai/jobs/info/6a11166b83d714428982a694?utm_campaign=1057&utm_source=git)** | United States | Remote | May 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Programming Graduate Intern](https://jobright.ai/jobs/info/6a189695c2a87d6cd3df2d57?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | May 27 |
-| **[Dua Health](www.duahealth.co)** | **[Community Partnerships Intern](https://jobright.ai/jobs/info/6a174236f45c6530ce9aabc1?utm_campaign=1057&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 27 |
-| **[High Tech High](http://www.hightechhigh.org/)** | **[Education Specialist Apprentice (Intern)](https://jobright.ai/jobs/info/6a1733f79005d858e94f708d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | May 27 |
-| **[Avista Senior Living](https://avistaseniorliving.com)** | **[Student Intern Mesa Public Schools students ONLY](https://jobright.ai/jobs/info/6a1733779005d858e94f6e9e?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
