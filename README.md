@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a185ff0dbc80963f9343299?utm_campaign=1057&utm_source=git)** | New England Baptist Hospital | On Site | May 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a185c7adbc80963f9342f64?utm_campaign=1057&utm_source=git)** | Downers Grove, IL, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 28 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | May 28 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b65c2a87d6cd3defe2b?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | May 28 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b64c2a87d6cd3defe1e?utm_campaign=1057&utm_source=git)** | US-UT | On Site | May 28 |
