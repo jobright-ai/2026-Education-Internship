@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/6a1a45876b135014dbc89569?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
+| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1a3c2b9111f771d1a0b6dc?utm_campaign=1057&utm_source=git)** | 470 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | May 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a1a2117c2a87d6cd3dfdbb4?utm_campaign=1057&utm_source=git)** | Tustin, CA | On Site | May 29 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0cb2710411d7417a1bb736?utm_campaign=1057&utm_source=git)** | Harris Center - Sedalia, MO 65301 | On Site | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern Counselor I](https://jobright.ai/jobs/info/6a1a138e547e292ae1396cb6?utm_campaign=1057&utm_source=git)** | 41914 50th St West, Quartz Hill, California, 93536, US | On Site | May 29 |
@@ -77,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a19bdd16b135014dbc85d37?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 29 |
 | ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a19bdab6b135014dbc85cd5?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 29 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Mental Performance Intern](https://jobright.ai/jobs/info/6a19bd919111f771d1a0802c?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 29 |
-| **[Dayton Early College Academy](http://www.daytonearlycollege.org)** | **[FREEDOM SCHOOLS SERVANT LEADER INTERN (SLI) 2026](https://jobright.ai/jobs/info/6a19a72ec2a87d6cd3dfa44e?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | May 29 |
-| **[Ever Fresh Fruit Co](https://everfreshfruit.com)** | **[Training Documentation Intern](https://jobright.ai/jobs/info/6a1a3353547e292ae1397987?utm_campaign=1057&utm_source=git)** | Boring, OR | On Site | May 29 |
 | **[Eva's Village](https://www.evasvillage.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/68f22d23cb0abf15612f50a9?utm_campaign=1057&utm_source=git)** | Paterson, NJ, US | On Site | May 29 |
 | **[Santa Fe College](http://www.sfcollege.edu/)** | **[International Admissions Intern](https://jobright.ai/jobs/info/6a199da16b135014dbc84644?utm_campaign=1057&utm_source=git)** | Northwest Campus - Gainesville, FL, US | On Site | May 29 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Intern (Ben Towne Center: Evans Lab)](https://jobright.ai/jobs/info/6a19945cc2a87d6cd3df9919?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 29 |
