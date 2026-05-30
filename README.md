@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Intern – Conference and Event Services – Division of Student Affairs](https://jobright.ai/jobs/info/6a1b0f71547e292ae139c047?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 30 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Summer Intern 2026](https://jobright.ai/jobs/info/6a1b01d8e24ef3652582e72f?utm_campaign=1057&utm_source=git)** | New York City, NY | On Site | May 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3d2ebd316bece1bb93?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 30 |
 | **[Nokia](http://www.nokia.com)** | **[Learning Technical Editor Co-op/Intern](https://jobright.ai/jobs/info/69feb6491161630dd3b026f4?utm_campaign=1057&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 30 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a1a2117c2a87d6cd3dfdbb4?utm_campaign=1057&utm_source=git)** | Tustin, CA | On Site | May 29 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a0cb2710411d7417a1bb736?utm_campaign=1057&utm_source=git)** | Harris Center - Sedalia, MO 65301 | On Site | May 29 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern Counselor I](https://jobright.ai/jobs/info/6a1a138e547e292ae1396cb6?utm_campaign=1057&utm_source=git)** | 41914 50th St West, Quartz Hill, California, 93536, US | On Site | May 29 |
+| **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Community Health Education Intern](https://jobright.ai/jobs/info/69bc670f4828227293fe35b5?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | May 29 |
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/6a1a0f18547e292ae13967ba?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | May 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Designer, Sales & Delivery Learning (Fall 2026)](https://jobright.ai/jobs/info/6a1a2b462b206f3955eb3117?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | May 29 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a1a0cf9547e292ae139657f?utm_campaign=1057&utm_source=git)** | Tustin, CA, US | On Site | May 29 |
@@ -98,13 +100,13 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
-| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
-| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a19397ac2a87d6cd3df8112?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | May 29 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Group Leader Intern (Fall)](https://jobright.ai/jobs/info/6a19315854a441713ae8b240?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 28 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Ag Education and Leadership School-Year Internship](https://jobright.ai/jobs/info/6a18f5ebabc8f63abac7d896?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Instructional Design Intern for the Graduate School of Education](https://jobright.ai/jobs/info/6a185987dbc80963f93426f2?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | May 28 |
 | ↳ | **[Instructional Design Intern for the Graduate School of Education](https://jobright.ai/jobs/info/6a185986dbc80963f93426ea?utm_campaign=1057&utm_source=git)** | US-NY-New York | On Site | May 28 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a18596b17492d3a389b4943?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | May 28 |
-| ↳ | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a18596617492d3a389b4935?utm_campaign=1057&utm_source=git)** | US | Remote | May 28 |
-| **[Reading Is Fundamental](http://www.rif.org/)** | **[Programs and Community Engagement Intern](https://jobright.ai/jobs/info/6a1858b16243320e8d162be8?utm_campaign=1057&utm_source=git)** | Washington DC, DC, US | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
