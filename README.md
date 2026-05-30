@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a1a9d879111f771d1a0d560?utm_campaign=1057&utm_source=git)** | Trumbull, Connecticut, United States | On Site | May 30 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1a68359111f771d1a0c80c?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/6a1a64056b135014dbc8a0bc?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | May 29 |
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/6a1a45876b135014dbc89569?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
@@ -91,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e13bc36c20aa114954013c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | May 29 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development](https://jobright.ai/jobs/info/6a1856ad17492d3a389b4645?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Administration, Per Diem, Shift Varies](https://jobright.ai/jobs/info/6a1855e8dbc80963f93422a4?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | May 28 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Internship and Career Coordinator / Coach, Barclays Program](https://jobright.ai/jobs/info/6a1854576243320e8d16297d?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 28 |
-| **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[LEAP Internship Coordinator](https://jobright.ai/jobs/info/6a1850c917492d3a389b43fc?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
