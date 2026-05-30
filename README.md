@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern](https://jobright.ai/jobs/info/6a0f6e8d83d71442898200ae?utm_campaign=1057&utm_source=git)** | Amarillo | On Site | May 29 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1a68359111f771d1a0c80c?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/6a1a64056b135014dbc8a0bc?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | May 29 |
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/6a1a45876b135014dbc89569?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
@@ -81,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a19bdd16b135014dbc85d37?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | May 29 |
 | ↳ | **[Graduate Development Program (GDP) - Health & Life Sciences (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6a19bdab6b135014dbc85cd5?utm_campaign=1057&utm_source=git)** | New York | Hybrid | May 29 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Mental Performance Intern](https://jobright.ai/jobs/info/6a19bd919111f771d1a0802c?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | May 29 |
+| **[Dartmouth College](http://dartmouth.edu)** | **[Music Department Post-Bacc Intern.](https://jobright.ai/jobs/info/6a1a9450c2a87d6cd3e00083?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | May 29 |
 | **[Eva's Village](https://www.evasvillage.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/68f22d23cb0abf15612f50a9?utm_campaign=1057&utm_source=git)** | Paterson, NJ, US | On Site | May 29 |
 | **[Santa Fe College](http://www.sfcollege.edu/)** | **[International Admissions Intern](https://jobright.ai/jobs/info/6a199da16b135014dbc84644?utm_campaign=1057&utm_source=git)** | Northwest Campus - Gainesville, FL, US | On Site | May 29 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/69c40d5933eecf31079428cb?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | May 29 |
@@ -91,13 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e13bc36c20aa114954013c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | May 29 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
-| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
-| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
+| ↳ | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a19397ac2a87d6cd3df8112?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | May 29 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Volunteer Experience and Group Leader Intern (Fall)](https://jobright.ai/jobs/info/6a19315854a441713ae8b240?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | May 28 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Ag Education and Leadership School-Year Internship](https://jobright.ai/jobs/info/6a18f5ebabc8f63abac7d896?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | May 28 |
@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a185ff0dbc80963f9343299?utm_campaign=1057&utm_source=git)** | New England Baptist Hospital | On Site | May 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a185c7adbc80963f9342f64?utm_campaign=1057&utm_source=git)** | Downers Grove, IL, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 28 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | May 28 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b65c2a87d6cd3defe2b?utm_campaign=1057&utm_source=git)** | UNAVAILABLE, UT, US | On Site | May 28 |
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b64c2a87d6cd3defe1e?utm_campaign=1057&utm_source=git)** | US-UT | On Site | May 28 |
