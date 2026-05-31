@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Admissions Program Intern](https://jobright.ai/jobs/info/6a1bee932b206f3955ebb487?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 31 |
 | **[Durango School District 9-R](https://www.durangoschools.org/)** | **[2026/2027 Digital Media/Broadcast Journalism Teacher, Durango High School, 0.5 FTE](https://jobright.ai/jobs/info/6a1bcd299111f771d1a12924?utm_campaign=1057&utm_source=git)** | Durango, CO | On Site | May 30 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Customized for You Internship (3-5hrs/week)](https://jobright.ai/jobs/info/6a1bc4082b206f3955eba97b?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 30 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship - Summer 2027](https://jobright.ai/jobs/info/6a1b9c8c9111f771d1a11e19?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 30 |
@@ -109,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | May 29 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a185ff0dbc80963f9343299?utm_campaign=1057&utm_source=git)** | New England Baptist Hospital | On Site | May 28 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6a185c7adbc80963f9342f64?utm_campaign=1057&utm_source=git)** | Downers Grove, IL, US | On Site | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | May 28 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | May 28 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
