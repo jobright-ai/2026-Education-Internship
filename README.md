@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gateway Engineers](http://gatewayengineers.com)** | **[Freshman Internship - Summer 2027](https://jobright.ai/jobs/info/6a1b9c8c9111f771d1a11e19?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | May 30 |
 | **[Douglas School District](https://www.dsdk12.net/)** | **[Elementary Administrative Intern Position (26-27 school year)](https://jobright.ai/jobs/info/6a1b3989e24ef3652582f6e9?utm_campaign=1057&utm_source=git)** | Barstow, CA | On Site | May 30 |
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a1b1b0e6b135014dbc8da51?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | May 30 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Summer Intern 2026](https://jobright.ai/jobs/info/6a1b01d8e24ef3652582e72f?utm_campaign=1057&utm_source=git)** | New York City, NY | On Site | May 30 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
 | **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extension Connect United Build Engage (CUBE) Intern](https://jobright.ai/jobs/info/6a185b64c2a87d6cd3defe1e?utm_campaign=1057&utm_source=git)** | US-UT | On Site | May 28 |
 | ↳ | **[Extension Family & Consumer Science Intern - Washington County](https://jobright.ai/jobs/info/6a185b376243320e8d1632bc?utm_campaign=1057&utm_source=git)** | Hurricane, UT, US | On Site | May 28 |
 | ↳ | **[Extension Family & Consumer Science Intern - Washington County](https://jobright.ai/jobs/info/6a185b356243320e8d1632aa?utm_campaign=1057&utm_source=git)** | US-UT-Hurricane | On Site | May 28 |
-| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a185a246243320e8d162fdd?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
