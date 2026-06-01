@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a1d53b76b135014dbc95cf0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/6a1d437bc2a87d6cd3e0aef6?utm_campaign=1057&utm_source=git)** | San Francisco, California | On Site | Jun 01 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[College Intern Tutor](https://jobright.ai/jobs/info/6a1d35477c457b279080e69f?utm_campaign=1057&utm_source=git)** | Pomona Unified School District Pomona Los Angeles County, CA California | On Site | Jun 01 |
 | **[Rafiki Coalition for Health and Wellness](https://www.rafikicoalition.org)** | **[Practicum Student Internship (MFT, CFT)](https://jobright.ai/jobs/info/6a1d280e6b135014dbc952da?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | May 31 |
@@ -66,14 +67,14 @@ For a complete list, click the following sortable link below:
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1d0b7cc2a87d6cd3e0a1a8?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 31 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a1ce5799111f771d1a16870?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1ce047e24ef365258356dd?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | May 31 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 31 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 31 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 31 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 31 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a1c84622b206f3955ebd415?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 31 |
 | **[Classical Charter Schools](http://www.classicalcharterschools.org)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6a1c7828e24ef36525833e5d?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 31 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 31 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69e2b1fa3770bd5361cd9900?utm_campaign=1057&utm_source=git)** | US-CO-Greeley | On Site | May 31 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167843202ae849ed8d38ab?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
-| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1ad2396b135014dbc8c231?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | May 31 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1ad2396b135014dbc8c231?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | May 31 |
+| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167851128680351d96b264?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Admissions Program Intern](https://jobright.ai/jobs/info/6a1bee932b206f3955ebb487?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 31 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Customized for You Internship (3-5hrs/week)](https://jobright.ai/jobs/info/6a1bc4082b206f3955eba97b?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 30 |
@@ -128,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69dff60a14bf245fc7a6efaa?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Golf Intern - Summer Academy](https://jobright.ai/jobs/info/6a1899d9c2a87d6cd3df2eaf?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | May 28 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Children's Services](https://jobright.ai/jobs/info/6a1895b5dbc80963f934589c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 28 |
 | **[KIPP North Carolina Public Schools](http://kippnc.org/join-our-team/)** | **[Part-Time Student Enrollment Data Intern (Summer – Remote)](https://jobright.ai/jobs/info/6a1892826243320e8d165e0c?utm_campaign=1057&utm_source=git)** | Remote Worker - N/A | Remote | May 28 |
-| ↳ | **[Part-Time Student Enrollment Data Intern (Summer – Remote)](https://jobright.ai/jobs/info/6a1892816243320e8d165e0b?utm_campaign=1057&utm_source=git)** | USA | Remote | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
