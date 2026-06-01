@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mesivta Yesodei Yeshurun](http://www.touro.edu)** | **[Intern - Liberty Partnerships Program](https://jobright.ai/jobs/info/6a1d10449111f771d1a17656?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | May 31 |
+| ↳ | **[Intern - Liberty Partnerships Program](https://jobright.ai/jobs/info/6a1d10439111f771d1a17653?utm_campaign=1057&utm_source=git)** | US-NY-New York | On Site | May 31 |
+| **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1d0b7cc2a87d6cd3e0a1a8?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 31 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a1ce5799111f771d1a16870?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1ce047e24ef365258356dd?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | May 31 |
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 31 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Guest Supply](https://www.guestsupply.com/home.aspx)** | **[Internship - GWW - FP - SSMG - US](https://jobright.ai/jobs/info/69e1b50640a62c1fa93b9c74?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | May 30 |
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df55?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | May 30 |
 | **[Nokia](http://www.nokia.com)** | **[Learning Technical Editor Co-op/Intern](https://jobright.ai/jobs/info/69feb6491161630dd3b026f4?utm_campaign=1057&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 30 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[HSC Student Intern](https://jobright.ai/jobs/info/6a1ac258c2a87d6cd3e01136?utm_campaign=1057&utm_source=git)** | Amarillo | On Site | May 30 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e18edeacc736112f5c4247?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 30 |
 | **[Definity](https://www.definityfinancial.com/)** | **[CI Communications, Training & Change Management - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6721161630dd3b027a6?utm_campaign=1057&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 30 |
 | **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a1a9d879111f771d1a0d560?utm_campaign=1057&utm_source=git)** | Trumbull, Connecticut, United States | On Site | May 30 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69dff60a14bf245fc7a6efaa?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | May 29 |
 | **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531c0?utm_campaign=1057&utm_source=git)** | Gulfport, MS | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time Student Enrollment Data Intern (Summer – Remote)](https://jobright.ai/jobs/info/6a1892816243320e8d165e0b?utm_campaign=1057&utm_source=git)** | USA | Remote | May 28 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern, Neurology](https://jobright.ai/jobs/info/69f2ec2eecbc8c2f7320f209?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Education Abroad Intern (Student Wage)](https://jobright.ai/jobs/info/6a187595dbc80963f934431d?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, US | On Site | May 28 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a1872d1c2a87d6cd3df1416?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | May 28 |
-| **[The US Oncology Network](http://www.usoncology.com/)** | **[Internship (Columbia Research)](https://jobright.ai/jobs/info/69fbf7313802c7621fd8eac0?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
