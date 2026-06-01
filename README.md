@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Private Equity Summer Intern (MBA Required-NYC based only)](https://jobright.ai/jobs/info/6a1db4bb9111f771d1a1a4df?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Remote | Jun 01 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/6a1db4b93e538a28c204b452?utm_campaign=1057&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC, US | On Site | Jun 01 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[OREM Science Education and Internship Program: Business and Contracting Fellow](https://jobright.ai/jobs/info/6a1da4adc2a87d6cd3e0c972?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | Jun 01 |
 | **[Partners In Health](http://www.pih.org/)** | **[Teaching Assistant Intern, Humanities and Social Sciences](https://jobright.ai/jobs/info/6a0edaac9f654b3359ce14de?utm_campaign=1057&utm_source=git)** | University, MS | On Site | Jun 01 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Fall)](https://jobright.ai/jobs/info/6a1d9ce16b135014dbc971b4?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Jun 01 |
@@ -74,14 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1d0b7cc2a87d6cd3e0a1a8?utm_campaign=1057&utm_source=git)** | Westerville, OH | Remote | May 31 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Multicultural Watershed Public Education Intern](https://jobright.ai/jobs/info/6a1ce5799111f771d1a16870?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 31 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Special Projects Intern (Volunteer/Remote)](https://jobright.ai/jobs/info/6a1ce047e24ef365258356dd?utm_campaign=1057&utm_source=git)** | 480 Olde Worthington Rd, Westerville, OH 43082, USA | Remote | May 31 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 31 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 31 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | May 31 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | May 31 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Public Health Internship Opportunities](https://jobright.ai/jobs/info/6a1c84622b206f3955ebd415?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 31 |
 | **[Classical Charter Schools](http://www.classicalcharterschools.org)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6a1c7828e24ef36525833e5d?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 31 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 31 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69e2b1fa3770bd5361cd9900?utm_campaign=1057&utm_source=git)** | US-CO-Greeley | On Site | May 31 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1ad2396b135014dbc8c231?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | May 31 |
-| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167843202ae849ed8d38ab?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
+| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167851128680351d96b264?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Admissions Program Intern](https://jobright.ai/jobs/info/6a1bee932b206f3955ebb487?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 31 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Customized for You Internship (3-5hrs/week)](https://jobright.ai/jobs/info/6a1bc4082b206f3955eba97b?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 30 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[College Summer Intern 2026](https://jobright.ai/jobs/info/6a1b01d8e24ef3652582e72f?utm_campaign=1057&utm_source=git)** | New York City, NY | On Site | May 30 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Summer Intern – Conference and Event Services – Division of Student Affairs](https://jobright.ai/jobs/info/6a1b0f71547e292ae139c047?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | May 30 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fc3d2ebd316bece1bb93?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | May 30 |
-| **[Guest Supply](https://www.guestsupply.com/home.aspx)** | **[Internship - GWW - FP - SSMG - US](https://jobright.ai/jobs/info/69e1b50640a62c1fa93b9c74?utm_campaign=1057&utm_source=git)** | Somerset, NJ | On Site | May 30 |
 | **[Sevita](https://sevitahealth.com)** | **[Behavior Technician Internship](https://jobright.ai/jobs/info/69b044ed0b2db6275c03df55?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | May 30 |
 | **[Nokia](http://www.nokia.com)** | **[Learning Technical Editor Co-op/Intern](https://jobright.ai/jobs/info/69feb6491161630dd3b026f4?utm_campaign=1057&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 30 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e18edeacc736112f5c4247?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | May 30 |
@@ -132,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | May 29 |
 | **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69d0c592891d7b11cfcdf4d9?utm_campaign=1057&utm_source=git)** | Mount Hood Medical Center campus | On Site | May 29 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Senior Director of Development, University Initiatives (Administrator II)](https://jobright.ai/jobs/info/69dff60a14bf245fc7a6efaa?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | May 29 |
-| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
-| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
+| **[Lincoln Hills Development Corporation (LHDC)](https://www.lhdc.org/)** | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d1bc4184089f24e9ea?utm_campaign=1057&utm_source=git)** | Corydon,IN,US | On Site | May 29 |
 | ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a0655d16c07461fe171f6f7?utm_campaign=1057&utm_source=git)** | English,IN,US | On Site | May 29 |
+| ↳ | **[Head Start Intern](https://jobright.ai/jobs/info/6a1895e617492d3a389b7c02?utm_campaign=1057&utm_source=git)** | Rockport,IN,US | On Site | May 29 |
 | **[FirstSteps for Kids, Inc.](https://www.firststepsforkids.com)** | **[2026 Summer Intern (Volunteer)](https://jobright.ai/jobs/info/6a194aed35b73c4d92f32189?utm_campaign=1057&utm_source=git)** | South Bay LA | On Site | May 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Ohio State Highway Patrol Testing & Assessment](https://jobright.ai/jobs/info/6a193c9c9111f771d1a050d6?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 29 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a193b93fee8f340243531bf?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phillips Academy](http://www.andover.edu/Pages/default.aspx)** | **[2026-2027 Post-Baccalaureate Intern](https://jobright.ai/jobs/info/6a18acbfdbc80963f93467fd?utm_campaign=1057&utm_source=git)** | Andover, MA, US | On Site | May 28 |
 | **[ALPFA Inc - Association of Latino Professionals For America](http://alpfa.org)** | **[Student Initiatives Intern (Learning & Development) - Remote (TX, FL, SC, PA)](https://jobright.ai/jobs/info/6a18a372dbc80963f934620f?utm_campaign=1057&utm_source=git)** | Austin, TX | Remote | May 28 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Paid Summer Intern Golf Instructor](https://jobright.ai/jobs/info/6a18c993c2a87d6cd3df4c6d?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 28 |
-| ↳ | **[Golf Intern](https://jobright.ai/jobs/info/6a189a6154a441713ae86508?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
