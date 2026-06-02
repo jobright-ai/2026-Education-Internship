@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern/Co-op](https://jobright.ai/jobs/info/6a1e40c2a507373dff6b9920?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 01 |
-| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a185a246243320e8d162fdd?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a19abc8f63abac772ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
+| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a246243320e8d162fdd?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a236243320e8d162fd7?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a19abc8f63abac772ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Intern Experience](https://jobright.ai/jobs/info/6a1e1629b524ae49285aa9e1?utm_campaign=1057&utm_source=git)** | Newberg, OR | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Public Programs (Paid) Intern](https://jobright.ai/jobs/info/6a1e3158b524ae49285ab29a?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[Fall 2026 Hatch Show Print Education and Administration (Paid) Intern](https://jobright.ai/jobs/info/6a1e3086c2a87d6cd3e10768?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Hennepin County Library](http://www.hclib.org)** | **[Internship: Best Buy Teen Tech Center Teen Tech Squad](https://jobright.ai/jobs/info/6a1dde4de24ef3652583a7eb?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jun 01 |
 | **[Adagio Health](https://www.adagiohealth.org)** | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/6a1ddbcde24ef3652583a706?utm_campaign=1057&utm_source=git)** | Indiana, PA | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Museum Education (Paid) Intern](https://jobright.ai/jobs/info/6a1dd8316b135014dbc98e6f?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
-| ↳ | **[Fall 2026 Hatch Show Print Education and Administration (Paid) Intern](https://jobright.ai/jobs/info/6a1dd82fb524ae49285a8f30?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | ↳ | **[Fall 2026 Public Programs (Paid) Intern](https://jobright.ai/jobs/info/6a1dd82f9111f771d1a1b6da?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
+| ↳ | **[Fall 2026 Hatch Show Print Education and Administration (Paid) Intern](https://jobright.ai/jobs/info/6a1dd82fb524ae49285a8f30?utm_campaign=1057&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | **[Camino Nuevo Charter Academy](https://www.caminonuevo.org)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a1dd318e24ef3652583a328?utm_campaign=1057&utm_source=git)** | Home Support Office - Los Angeles, CA 90026 | On Site | Jun 01 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Boston Kids Program and Coaching Internship-Summer](https://jobright.ai/jobs/info/6a1dfc49e24ef3652583b55e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jun 01 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/6a1db4b93e538a28c204b452?utm_campaign=1057&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC, US | On Site | Jun 01 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Classical Charter Schools](http://www.classicalcharterschools.org)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6a1c7828e24ef36525833e5d?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | May 31 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | May 31 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69e2b1fa3770bd5361cd9900?utm_campaign=1057&utm_source=git)** | US-CO-Greeley | On Site | May 31 |
-| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167851128680351d96b264?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
-| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1ad2396b135014dbc8c231?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | May 31 |
+| **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a1ad2396b135014dbc8c231?utm_campaign=1057&utm_source=git)** | New York, NY, US | Remote | May 31 |
+| ↳ | **[SkillSpring Intern-High School Program](https://jobright.ai/jobs/info/6a167843202ae849ed8d38ab?utm_campaign=1057&utm_source=git)** | Manhattan SNF - New York, NY | Remote | May 31 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69abf9697e1fab39d383c224?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Admissions Program Intern](https://jobright.ai/jobs/info/6a1bee932b206f3955ebb487?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | May 31 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Customized for You Internship (3-5hrs/week)](https://jobright.ai/jobs/info/6a1bc4082b206f3955eba97b?utm_campaign=1057&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 30 |
