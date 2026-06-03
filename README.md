@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/6a1fb1fe804915678116bd05?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Jun 02 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 02 |
 | **[BrainStorm](http://www.brainstorminc.com/)** | **[Internship / Learning Experience](https://jobright.ai/jobs/info/6a1fab04804915678116ba8d?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | Jun 02 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a1faa8ddce5db1256d16e37?utm_campaign=1057&utm_source=git)** | Oak Bluffs-MA, US | On Site | Jun 02 |
 | **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/6a1f95c0a507373dff6c1f43?utm_campaign=1057&utm_source=git)** | CT - New London AIC - New London, CT 06320 | On Site | Jun 02 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a1a5daec2a87d6cd3dff30f?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | Jun 02 |
 | **[Making Opportunity Count](https://www.mocinc.org/)** | **[Digital Navigator Intern - Summer Temporary Role](https://jobright.ai/jobs/info/6a1f59e2c5277c00c648579a?utm_campaign=1057&utm_source=git)** | Fitchburg, MA | On Site | Jun 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[FALL INTERNSHIP](https://jobright.ai/jobs/info/6a1f4bb909442629a6859329?utm_campaign=1057&utm_source=git)** | 100 ESLINGER WAY, SANFORD, FL | On Site | Jun 02 |
-| **[International Child Art Foundation](https://icaf.org)** | **[Summer 2026 Internship – ICAF & World Children’s Festival (Washington, DC - Full-time)](https://jobright.ai/jobs/info/6a1f420e09442629a6858e37?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jun 02 |
 | **[Detroit Wayne Mental Health Authority](https://www.dwihn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a1f3da380491567811683ee?utm_campaign=1057&utm_source=git)** | Detroit, MI, US | On Site | Jun 02 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a1f3721dce5db1256d134e5?utm_campaign=1057&utm_source=git)** | Villanova, PA | On Site | Jun 02 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Intern](https://jobright.ai/jobs/info/6a1f3720a507373dff6befa1?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jun 02 |
@@ -112,18 +113,17 @@ For a complete list, click the following sortable link below:
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/695d21b0fbd62a0a6565b6f1?utm_campaign=1057&utm_source=git)** | Pleasanton, CA 94566 | Hybrid | Jun 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Photography Teaching Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/6a030ac6f3d6cc51d6372a5b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/6a1e5cd509442629a685369e?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Jun 01 |
-| **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1e56c08049156781162fbd?utm_campaign=1057&utm_source=git)** | U.S. Remote (Part-Time) | Remote | Jun 01 |
-| ↳ | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 01 |
-| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a185a236243320e8d162fd7?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a19abc8f63abac772ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a246243320e8d162fdd?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
+| **[Springboard](https://www.springboard.com)** | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1651d1a429fd279da9773b?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 01 |
+| ↳ | **[Medical Assistant Research & Content Internship](https://jobright.ai/jobs/info/6a1e56c08049156781162fbd?utm_campaign=1057&utm_source=git)** | U.S. Remote (Part-Time) | Remote | Jun 01 |
+| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a185a19abc8f63abac772ee?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a160ad11935fa61b3c6e242?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a246243320e8d162fdd?utm_campaign=1057&utm_source=git)** | US-WA-Othello | On Site | Jun 01 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a185a236243320e8d162fd7?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 01 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern/Co-op](https://jobright.ai/jobs/info/6a1e40c2a507373dff6b9920?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 01 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Intern Experience](https://jobright.ai/jobs/info/6a1e1629b524ae49285aa9e1?utm_campaign=1057&utm_source=git)** | Newberg, OR | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Public Programs (Paid) Intern](https://jobright.ai/jobs/info/6a1e3158b524ae49285ab29a?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | ↳ | **[Fall 2026 Hatch Show Print Education and Administration (Paid) Intern](https://jobright.ai/jobs/info/6a1e3086c2a87d6cd3e10768?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 01 |
 | **[Archdiocese of Baltimore](https://www.archbalt.org/)** | **[Part-Time CCHD Intern(NE)](https://jobright.ai/jobs/info/6a1e11d1c2a87d6cd3e0fda5?utm_campaign=1057&utm_source=git)** | Baltimore, Maryland, United States | On Site | Jun 01 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 01 |
 | **[Juno](https://joinjuno.com)** | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a1e0507e24ef3652583b900?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 01 |
 | ↳ | **[2026 Pre-Law Internship](https://jobright.ai/jobs/info/6a1e0502e24ef3652583b8fc?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 01 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Summer Student Research Intern](https://jobright.ai/jobs/info/6a1dfef8b524ae49285aa0c1?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Jun 01 |
