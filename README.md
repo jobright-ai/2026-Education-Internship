@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215b0cc00e701fe836e1ac?utm_campaign=1057&utm_source=git)** | Berks County, PA | On Site | Jun 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b20b0a6e09555303d27d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[Waystar](http://www.waystar.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69cc3c8a8130af1ac8337556?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Jun 04 |
 | **[AI495.com](http://www.ai-495.com)** | **[Software Engineering Instructor Intern ($21.00 US/Hour)](https://jobright.ai/jobs/info/6a213f57902d19201c7b6bfe?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Jun 04 |
 | **[COMMUNITY ACTION PROGRAM BELKNAP- MERRIMACK COUNTIES](https://www.bm-cap.org)** | **[ECE Teacher Student Internship](https://jobright.ai/jobs/info/6a210cb2c00e701fe836cfab?utm_campaign=1057&utm_source=git)** | Concord,NH,US | On Site | Jun 04 |
@@ -75,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[TimelyCare](https://timelycare.com)** | **[Clinical Training Intern](https://jobright.ai/jobs/info/6a20ba523a5f0145f4c16998?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | Remote | Jun 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Schools Sustainability Associate I (Intern) - Hourly Intermittent](https://jobright.ai/jobs/info/6a20b934c00e701fe836b5cf?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Program Internship](https://jobright.ai/jobs/info/6a20b366c00e701fe836b488?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
-| ↳ | **[Teen Support Internship](https://jobright.ai/jobs/info/6a20aee8338c01230511afba?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a2157cfc00e701fe836e111?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
+| **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Teen Support Internship](https://jobright.ai/jobs/info/6a20aee8338c01230511afba?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/6a20ae42c00e701fe836b2f6?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Administration Intern](https://jobright.ai/jobs/info/6a20a714902d19201c7b3cce?utm_campaign=1057&utm_source=git)** | Mercy Health Training Center, Milford, Ohio | On Site | Jun 03 |
 | ↳ | **[Academy Administration Intern](https://jobright.ai/jobs/info/6a20a6f0902d19201c7b3ca3?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
@@ -108,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | Jun 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Performance Analyst Intern](https://jobright.ai/jobs/info/6a205413c00e701fe83689ec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | **[Centerstone](https://centerstone.org/)** | **[Associate Level Intern](https://jobright.ai/jobs/info/6a20488ec00e701fe83684a0?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, US | On Site | Jun 03 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 03 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 03 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 03 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Betty Jean Kerr People's Health Centers](https://phcenters.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a204bff4bdf8a5a96bcfa96?utm_campaign=1057&utm_source=git)** | Saint Louis, MO, US | On Site | Jun 03 |
 | **[Career Planet - Explore Opportunities](https://careerplanet.webs.com/)** | **[Instructional design and product QA intern](https://jobright.ai/jobs/info/6a204559902d19201c7b1140?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
 | **[The Society of St. Vincent de Paul - Cincinnati](http://www.svdpcincinnati.org)** | **[Education Associate Unpaid Internship](https://jobright.ai/jobs/info/6a2042bd4bdf8a5a96bcf799?utm_campaign=1057&utm_source=git)** | Liz Carter Center, 1125 William L. Mallory, Sr. Street (formerly Bank Street*), Cincinnati, OH | On Site | Jun 03 |
@@ -137,11 +140,11 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bd?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526b5?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Jun 03 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 03 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 03 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 03 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 03 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 03 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 03 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 03 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 03 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 03 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e92f?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jun 03 |
 | **[Martha's Vineyard Hospital](https://www.mvhospital.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a1fcb81dce5db1256d1762c?utm_campaign=1057&utm_source=git)** | Oak Bluffs, MA | On Site | Jun 02 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/6a1fb1fe804915678116bd05?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Jun 02 |
@@ -155,7 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 03 |
 | **[South Suburban Park and Recreation District](http://www.ssprd.org)** | **[Early Childhood Education (Family Services) Intern](https://jobright.ai/jobs/info/6a1f762da507373dff6c168e?utm_campaign=1057&utm_source=git)** | Centennial, CO | On Site | Jun 02 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Meredith Cameron Summer Intern](https://jobright.ai/jobs/info/6a185ff0dbc80963f9343299?utm_campaign=1057&utm_source=git)** | New England Baptist Hospital | On Site | Jun 02 |
 | **[Jobster](https://www.jobster.com)** | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a1f6c43c5277c00c6486745?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 02 |
-| **[Making Opportunity Count](https://www.mocinc.org/)** | **[Digital Navigator Intern - Summer Temporary Role](https://jobright.ai/jobs/info/6a1f625c80491567811699fb?utm_campaign=1057&utm_source=git)** | Fitchburg, MA, US | On Site | Jun 02 |
-| **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Teacher Intern SY 26/27](https://jobright.ai/jobs/info/6a1a5daec2a87d6cd3dff30f?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | Jun 02 |
-| **[Making Opportunity Count](https://www.mocinc.org/)** | **[Digital Navigator Intern - Summer Temporary Role](https://jobright.ai/jobs/info/6a1f59e2c5277c00c648579a?utm_campaign=1057&utm_source=git)** | Fitchburg, MA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
