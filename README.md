@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a215ecf4bdf8a5a96bd58f7?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
 | **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215c657c30cc2cc5168b39?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | Jun 04 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215c63ca8f0b365d7a5f48?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Jun 04 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215b0cc00e701fe836e1ac?utm_campaign=1057&utm_source=git)** | Berks County, PA | On Site | Jun 04 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e932?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jun 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b20b0a6e09555303d27d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
@@ -137,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | Jun 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Performance Analyst Intern](https://jobright.ai/jobs/info/6a205413c00e701fe83689ec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | **[Centerstone](https://centerstone.org/)** | **[Associate Level Intern](https://jobright.ai/jobs/info/6a20488ec00e701fe83684a0?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, US | On Site | Jun 03 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 03 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 03 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 03 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 03 |
 | **[Career Planet - Explore Opportunities](https://careerplanet.webs.com/)** | **[Instructional design and product QA intern](https://jobright.ai/jobs/info/6a204559902d19201c7b1140?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
 | **[The Society of St. Vincent de Paul - Cincinnati](http://www.svdpcincinnati.org)** | **[Education Associate Unpaid Internship](https://jobright.ai/jobs/info/6a2042bd4bdf8a5a96bcf799?utm_campaign=1057&utm_source=git)** | Liz Carter Center, 1125 William L. Mallory, Sr. Street (formerly Bank Street*), Cincinnati, OH | On Site | Jun 03 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a203b40ca8f0b365d79fb10?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
@@ -158,4 +157,5 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 03 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afdde2f63f733065b3e8af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 03 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddf3f63f733065b3e900?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Jun 03 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01adfaeda6ff598d935?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
