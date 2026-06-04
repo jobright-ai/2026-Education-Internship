@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/6a1a64056b135014dbc8a0bc?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Jun 04 |
+| **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21f5214bdf8a5a96bd9774?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a21ee134bdf8a5a96bd959f?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 04 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship Summer/Fall 2026](https://jobright.ai/jobs/info/6a21e8c47c30cc2cc516c410?utm_campaign=1057&utm_source=git)** | Greenbelt,MD,US | Hybrid | Jun 04 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Honors College Internship](https://jobright.ai/jobs/info/6a21e77ec00e701fe8371b1c?utm_campaign=1057&utm_source=git)** | Commerce, TX, US | On Site | Jun 04 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Temporary Part Time Travel Course and Int'l Internship Mgr](https://jobright.ai/jobs/info/6a21aaf94bdf8a5a96bd71f8?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Virtual Professional Skin Therapist Intern](https://jobright.ai/jobs/info/6a21a9bf7c30cc2cc516a4d5?utm_campaign=1057&utm_source=git)** | Carson, CA | Remote | Jun 04 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
@@ -156,6 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a203b40ca8f0b365d79fb10?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8147c58811370cb120676?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 03 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a20379c3a5f0145f4c12fc3?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
-| **[Franklin County DD](https://fcbdd.org)** | **[Summer Internship Program (Multiple Departments)](https://jobright.ai/jobs/info/6a202933338c012305117338?utm_campaign=1057&utm_source=git)** | COLUMBUS, OH 43219, USA | On Site | Jun 03 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95c?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
