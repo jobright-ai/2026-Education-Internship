@@ -80,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[BASIS Ed](https://basised.com)** | **[Texas Central Office Summer Intern](https://jobright.ai/jobs/info/6a21c1094bdf8a5a96bd7d65?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 04 |
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Temporary Part Time Travel Course and Int'l Internship Mgr](https://jobright.ai/jobs/info/6a21aaf94bdf8a5a96bd71f8?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Virtual Professional Skin Therapist Intern](https://jobright.ai/jobs/info/6a21a9bf7c30cc2cc516a4d5?utm_campaign=1057&utm_source=git)** | Carson, CA | Remote | Jun 04 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[MBA Summer Intern – Provider Operations & Strategy](https://jobright.ai/jobs/info/6a21a3004bdf8a5a96bd6ce0?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 04 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Summer 2026 Studio Learning and Development Intern](https://jobright.ai/jobs/info/6a2197f5c00e701fe836f2d7?utm_campaign=1057&utm_source=git)** | 1010 Massachusetts Avenue, Boston, MA02118 | On Site | Jun 04 |
@@ -147,8 +147,8 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0d235e0411d7417a1bfafa?utm_campaign=1057&utm_source=git)** | Mendota Heights, MN | On Site | Jun 03 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a20a4ef902d19201c7b3aa2?utm_campaign=1057&utm_source=git)** | Tustin, CA | On Site | Jun 03 |
 | **[Adagio Health](https://www.adagiohealth.org)** | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/6a213b9f7c30cc2cc51683ef?utm_campaign=1057&utm_source=git)** | New Brighton, PA | On Site | Jun 03 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 03 |
-| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 03 |
+| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 03 |
+| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 03 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Intern Experience](https://jobright.ai/jobs/info/6a2080b04bdf8a5a96bd1217?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jun 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a207ad3ca8f0b365d7a1696?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 03 |
 | **[Kerecis](http://www.kerecis.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a20685f338c012305118e29?utm_campaign=1057&utm_source=git)** | Arlington County, VA | On Site | Jun 03 |
