@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship Summer/Fall 2026](https://jobright.ai/jobs/info/6a228cf794d89a1392b5217d?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Jun 05 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Upper Rio Grande Valley](https://jobright.ai/jobs/info/6a2287f04576ad60e9a7a7e9?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | Jun 05 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a228253597131741415efa8?utm_campaign=1057&utm_source=git)** | St Marys County, MD - Charlotte Hall, MD 20622 US (Primary) | On Site | Jun 05 |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship Summer/Fall 2026](https://jobright.ai/jobs/info/6a2280ddd1ab07243c7f830d?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | Hybrid | Jun 05 |
-| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Fall 2026](https://jobright.ai/jobs/info/6a2273404576ad60e9a7a420?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 04 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
-| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
-| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
+| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
+| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a225783597131741415e887?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a223045ca8f0b365d7ab38f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc1bca8f0b365d7aa586?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States of America | On Site | Jun 04 |
@@ -91,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a21c2667c30cc2cc516b1cc?utm_campaign=1057&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Jun 04 |
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Temporary Part Time Travel Course and Int'l Internship Mgr](https://jobright.ai/jobs/info/6a21aaf94bdf8a5a96bd71f8?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Virtual Professional Skin Therapist Intern](https://jobright.ai/jobs/info/6a21a9bf7c30cc2cc516a4d5?utm_campaign=1057&utm_source=git)** | Carson, CA | Remote | Jun 04 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
@@ -156,6 +155,7 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[North Risk Partners](http://northriskpartners.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a0d235e0411d7417a1bfafa?utm_campaign=1057&utm_source=git)** | Mendota Heights, MN | On Site | Jun 03 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a20a4ef902d19201c7b3aa2?utm_campaign=1057&utm_source=git)** | Tustin, CA | On Site | Jun 03 |
 | **[Adagio Health](https://www.adagiohealth.org)** | **[Intern - Nutrition & Education Programs](https://jobright.ai/jobs/info/6a213b9f7c30cc2cc51683ef?utm_campaign=1057&utm_source=git)** | New Brighton, PA | On Site | Jun 03 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 03 |
-| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 03 |
+| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 03 |
+| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 03 |
+| **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Intern Experience](https://jobright.ai/jobs/info/6a2080b04bdf8a5a96bd1217?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
