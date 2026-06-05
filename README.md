@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland Housing Authority](http://www.oakha.org/Pages/default.aspx)** | **[Resident Intern - General Program Support (Part Time)](https://jobright.ai/jobs/info/6a22003e7c30cc2cc516cfb9?utm_campaign=1057&utm_source=git)** | Oakland, CA, US | On Site | Jun 04 |
+| ↳ | **[Resident Intern - Education Program (Part Time)](https://jobright.ai/jobs/info/6a22003bc00e701fe8372735?utm_campaign=1057&utm_source=git)** | Oakland, CA, US | On Site | Jun 04 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[UCF Internship (Tuscany Village)](https://jobright.ai/jobs/info/6a21fcc27c30cc2cc516cea9?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Jun 04 |
+| **[Genentech](http://gene.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc21ca8f0b365d7aa587?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 04 |
+| ↳ | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc1bca8f0b365d7aa586?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States of America | On Site | Jun 04 |
+| **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Research Intern](https://jobright.ai/jobs/info/6a21fa32902d19201c7bb80d?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jun 04 |
+| **[Dynacare](https://www.dynacare.ca/)** | **[Student Internship](https://jobright.ai/jobs/info/6a21f77a338c0123051220d5?utm_campaign=1057&utm_source=git)** | Kelowna, BC | On Site | Jun 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/6a1a64056b135014dbc8a0bc?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Jun 04 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21f5214bdf8a5a96bd9774?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a21ee134bdf8a5a96bd959f?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 04 |
@@ -73,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[BASIS Ed](https://basised.com)** | **[Texas Central Office Summer Intern](https://jobright.ai/jobs/info/6a21c1094bdf8a5a96bd7d65?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 04 |
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Temporary Part Time Travel Course and Int'l Internship Mgr](https://jobright.ai/jobs/info/6a21aaf94bdf8a5a96bd71f8?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Virtual Professional Skin Therapist Intern](https://jobright.ai/jobs/info/6a21a9bf7c30cc2cc516a4d5?utm_campaign=1057&utm_source=git)** | Carson, CA | Remote | Jun 04 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
@@ -151,11 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | **[CIG ENERGY](https://www.linkedin.com/company/107839406)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a20572cca8f0b365d7a07c0?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jun 03 |
 | **[Magnifica Air](magnificaair.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a20570dc00e701fe8368bc7?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jun 03 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cb09a1a8c1822476e2346e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Remote | Jun 03 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Performance Analyst Intern](https://jobright.ai/jobs/info/6a205413c00e701fe83689ec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
-| **[Centerstone](https://centerstone.org/)** | **[Associate Level Intern](https://jobright.ai/jobs/info/6a20488ec00e701fe83684a0?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana, US | On Site | Jun 03 |
-| **[Career Planet - Explore Opportunities](https://careerplanet.webs.com/)** | **[Instructional design and product QA intern](https://jobright.ai/jobs/info/6a204559902d19201c7b1140?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 03 |
-| **[The Society of St. Vincent de Paul - Cincinnati](http://www.svdpcincinnati.org)** | **[Education Associate Unpaid Internship](https://jobright.ai/jobs/info/6a2042bd4bdf8a5a96bcf799?utm_campaign=1057&utm_source=git)** | Liz Carter Center, 1125 William L. Mallory, Sr. Street (formerly Bank Street*), Cincinnati, OH | On Site | Jun 03 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a203b40ca8f0b365d79fb10?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8147c58811370cb120676?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 03 |
-| **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a20379c3a5f0145f4c12fc3?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
