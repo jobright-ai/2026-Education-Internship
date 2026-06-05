@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a225783597131741415e887?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a223045ca8f0b365d7ab38f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc1bca8f0b365d7aa586?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States of America | On Site | Jun 04 |
 | ↳ | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc21ca8f0b365d7aa587?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 04 |
@@ -65,8 +66,6 @@ For a complete list, click the following sortable link below:
 | **[BASIS Ed](https://basised.com)** | **[Texas Central Office Summer Intern](https://jobright.ai/jobs/info/6a21c1094bdf8a5a96bd7d65?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 04 |
 | **[Randall's Island Park Alliance](https://randallsisland.org)** | **[Public Programming Intern](https://jobright.ai/jobs/info/6a221cc34bdf8a5a96bda516?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Training Coordinator Intern (Year-round)](https://jobright.ai/jobs/info/6a2219ee338c012305122d07?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | On Site | Jun 04 |
-| **[Oakland Housing Authority](http://www.oakha.org/Pages/default.aspx)** | **[Resident Intern - General Program Support (Part Time)](https://jobright.ai/jobs/info/6a22003e7c30cc2cc516cfb9?utm_campaign=1057&utm_source=git)** | Oakland, CA, US | On Site | Jun 04 |
-| ↳ | **[Resident Intern - Education Program (Part Time)](https://jobright.ai/jobs/info/6a22003bc00e701fe8372735?utm_campaign=1057&utm_source=git)** | Oakland, CA, US | On Site | Jun 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[UCF Internship (Tuscany Village)](https://jobright.ai/jobs/info/6a21fcc27c30cc2cc516cea9?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Jun 04 |
 | **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Research Intern](https://jobright.ai/jobs/info/6a21fa32902d19201c7bb80d?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jun 04 |
 | **[Dynacare](https://www.dynacare.ca/)** | **[Student Internship](https://jobright.ai/jobs/info/6a21f77a338c0123051220d5?utm_campaign=1057&utm_source=git)** | Kelowna, BC | On Site | Jun 04 |
@@ -75,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a21ee134bdf8a5a96bd959f?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 04 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship Summer/Fall 2026](https://jobright.ai/jobs/info/6a21e8c47c30cc2cc516c410?utm_campaign=1057&utm_source=git)** | Greenbelt,MD,US | Hybrid | Jun 04 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Honors College Internship](https://jobright.ai/jobs/info/6a21e77ec00e701fe8371b1c?utm_campaign=1057&utm_source=git)** | Commerce, TX, US | On Site | Jun 04 |
-| **[NACS](https://www.convenience.org/)** | **[Education Paid Internship](https://jobright.ai/jobs/info/6a21e57a7c30cc2cc516c2bc?utm_campaign=1057&utm_source=git)** | Alexandria, VA, US | On Site | Jun 04 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[UCF Internship (Las Palmeras)](https://jobright.ai/jobs/info/6a21e252902d19201c7bab9d?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Jun 04 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a21de8e4bdf8a5a96bd8d24?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Jun 04 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[Student Intern - Floater](https://jobright.ai/jobs/info/6a21c125c00e701fe83708fe?utm_campaign=1057&utm_source=git)** | Miami, Florida | On Site | Jun 04 |
@@ -85,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a21c2667c30cc2cc516b1cc?utm_campaign=1057&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Jun 04 |
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Temporary Part Time Travel Course and Int'l Internship Mgr](https://jobright.ai/jobs/info/6a21aaf94bdf8a5a96bd71f8?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jun 04 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Virtual Professional Skin Therapist Intern](https://jobright.ai/jobs/info/6a21a9bf7c30cc2cc516a4d5?utm_campaign=1057&utm_source=git)** | Carson, CA | Remote | Jun 04 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[MBA Summer Intern – Provider Operations & Strategy](https://jobright.ai/jobs/info/6a21a3004bdf8a5a96bd6ce0?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 04 |
@@ -112,8 +110,7 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | ↳ | **[Campus Chapter Intern at University of Central Florida](https://jobright.ai/jobs/info/6a04c45822395b6dc6da090d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 04 |
 | **[Jobster](https://www.jobster.com)** | **[Swiss Learning & Development Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a21600a338c01230511decd?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
 | ↳ | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a215ecf4bdf8a5a96bd58f7?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 04 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215c657c30cc2cc5168b39?utm_campaign=1057&utm_source=git)** | Susquehanna County, PA | On Site | Jun 04 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215c63ca8f0b365d7a5f48?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Jun 04 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a215c63ca8f0b365d7a5f48?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Jun 04 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e932?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jun 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e9b20b0a6e09555303d27d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
@@ -158,4 +155,7 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
 | ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 03 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Intern Experience](https://jobright.ai/jobs/info/6a2080b04bdf8a5a96bd1217?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jun 03 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a207ad3ca8f0b365d7a1696?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, USA | On Site | Jun 03 |
+| **[Kerecis](http://www.kerecis.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a20685f338c012305118e29?utm_campaign=1057&utm_source=git)** | Arlington County, VA | On Site | Jun 03 |
+| **[GG&G](https://www.gggaz.com)** | **[For-Credit Research Associate Intern (Fall 2026)](https://jobright.ai/jobs/info/6a205d2fca8f0b365d7a0a10?utm_campaign=1057&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 03 |
+| **[Genesis Global Group](https://www.genesisglobalgrp.com/)** | **[For-Credit Research Associate Intern (Fall 2026)](https://jobright.ai/jobs/info/6a205cd3902d19201c7b1be9?utm_campaign=1057&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
