@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dauch](http://www.Dauch.com)** | **[Summer Facilities Intern](https://jobright.ai/jobs/info/69ec27014b0fa35a707810e6?utm_campaign=1057&utm_source=git)** | Ridgway, PA | On Site | Jun 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Graduate Intern, Student Club Engagement](https://jobright.ai/jobs/info/6a23d9236624e500cad0cb85?utm_campaign=1057&utm_source=git)** | Berklee College of Music - Boston, US | On Site | Jun 06 |
 | **[Freedom School Partners](https://freedomschoolpartners.org/)** | **[Servant Leader Intern](https://jobright.ai/jobs/info/6a23556214de9460dc8442e5?utm_campaign=1057&utm_source=git)** | Charlotte Metro | On Site | Jun 05 |
 | **[PathWays of Southwestern Pennsylvania](https://yourpathways.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a22e5bbdedf78312c7ab44a?utm_campaign=1057&utm_source=git)** | Washington, PA 15301, USA | On Site | Jun 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Teen Support Internship](https://jobright.ai/jobs/info/6a20aee8338c01230511afba?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[CPP Investments | Investissements RPC](http://www.cppib.com/en/)** | **[Intern, CPA Program (8-months)](https://jobright.ai/jobs/info/6a20ae42c00e701fe836b2f6?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Administration Intern](https://jobright.ai/jobs/info/6a20a714902d19201c7b3cce?utm_campaign=1057&utm_source=git)** | Mercy Health Training Center, Milford, Ohio | On Site | Jun 03 |
-| ↳ | **[Academy Administration Intern](https://jobright.ai/jobs/info/6a20a6f0902d19201c7b3ca3?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
