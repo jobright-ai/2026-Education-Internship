@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a228253597131741415efa8?utm_campaign=1057&utm_source=git)** | St Marys County, MD - Charlotte Hall, MD 20622 US (Primary) | On Site | Jun 05 |
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
 | ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
-| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
-| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
+| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
+| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a225783597131741415e887?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a223045ca8f0b365d7ab38f?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc21ca8f0b365d7aa587?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 04 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4bbaa3c2c1995e31a51?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 04 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 04 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/6a21a409338c01230511f48d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 04 |
 | **[The MedElite Group](https://medelitegrp.com)** | **[MBA Summer Intern – Provider Operations & Strategy](https://jobright.ai/jobs/info/6a21a3004bdf8a5a96bd6ce0?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 04 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Summer 2026 Studio Learning and Development Intern](https://jobright.ai/jobs/info/6a2197f5c00e701fe836f2d7?utm_campaign=1057&utm_source=git)** | 1010 Massachusetts Avenue, Boston, MA02118 | On Site | Jun 04 |
