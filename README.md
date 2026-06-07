@@ -64,21 +64,22 @@ For a complete list, click the following sortable link below:
 | **[Campus](http://campus.edu)** | **[IT Instructor](https://jobright.ai/jobs/info/69a95d24f2055e05d1718502?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium](https://jobright.ai/jobs/info/6a07a4e4a203b1052e43d7d4?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Jun 06 |
 | **[New York State Department of Civil Service](http://www.cs.ny.gov/)** | **[Training Assistant Student Internship](https://jobright.ai/jobs/info/6a0806188f3e371eb617c9b7?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jun 06 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbfdce5db1256d11ad1?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Jun 06 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbfdce5db1256d11ad0?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbfdce5db1256d11acf?utm_campaign=1057&utm_source=git)** | Frisco, Texas | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d37f?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11ac7?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 06 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fc5dce5db1256d11ad2?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d37d?utm_campaign=1057&utm_source=git)** | Frisco, Texas | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fb9dce5db1256d11ac5?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b3939a5f01db94e4b0?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a016619335383fb3d382?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11aca?utm_campaign=1057&utm_source=git)** | New York City, New York, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11ac8?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbbdce5db1256d11acd?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a014619335383fb3d378?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a016619335383fb3d384?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d380?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11ac9?utm_campaign=1057&utm_source=git)** | New York, New York | Hybrid | Jun 06 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbfdce5db1256d11ad0?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d37e?utm_campaign=1057&utm_source=git)** | New York City, New York, United States | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d37a?utm_campaign=1057&utm_source=git)** | New York, New York | Hybrid | Jun 06 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b2939a5f01db94e4aa?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a015619335383fb3d380?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11ac6?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbfdce5db1256d11ad1?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a13a014619335383fb3d378?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a0750b3939a5f01db94e4b0?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbbdce5db1256d11acd?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fb9dce5db1256d11ac5?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee | Hybrid | Jun 06 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a1f0fbadce5db1256d11acb?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 06 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 06 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, Varies](https://jobright.ai/jobs/info/69d1210a0b098b7a6707fa6f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jun 06 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cfd77acfdc6132f94362c8?utm_campaign=1057&utm_source=git)** | British Columbia, Canada | On Site | Jun 06 |
@@ -111,8 +112,8 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jun 05 |
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
 | ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
-| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
-| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
+| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
+| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a225783597131741415e887?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 04 |
 | **[Genentech](http://gene.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc21ca8f0b365d7aa587?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 04 |
 | ↳ | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21fc1bca8f0b365d7aa586?utm_campaign=1057&utm_source=git)** | South San Francisco, California, United States of America | On Site | Jun 04 |
@@ -157,5 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[US Modules](https://usmodules.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a2189ba7c30cc2cc516967d?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jun 04 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a2189cb338c01230511e8e2?utm_campaign=1057&utm_source=git)** | Peoria, Illinois, US | On Site | Jun 04 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 04 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[MOREHOUSE CADET SUMMER INTERNS - unpaid Internship](https://jobright.ai/jobs/info/6a217e06902d19201c7b79f9?utm_campaign=1057&utm_source=git)** | 200 Piedmont Ave. SE Atlanta, GA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
