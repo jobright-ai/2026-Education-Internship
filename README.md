@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Arts Education Internship](https://jobright.ai/jobs/info/6a2875b57061b51a3a5f602c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 09 |
+| **[Light of Life Rescue Mission](https://www.lightoflife.org)** | **[Women &amp; Children's Program Intern](https://jobright.ai/jobs/info/6a1fb11edce5db1256d16fea?utm_campaign=1057&utm_source=git)** | 665 Ridge Avenue, Pittsburgh, PA, USA | On Site | Jun 09 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[THECB - Intern, College & Career Advising (CCA)](https://jobright.ai/jobs/info/6a285b3dfd37e62bb47a88f4?utm_campaign=1057&utm_source=git)** | 1801 N. Congress Ave. Austin, TX 78701 | Hybrid | Jun 09 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 09 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Intern (Calvin Mowbray Park and Stephen Camper Park)](https://jobright.ai/jobs/info/6a284475fd37e62bb47a7f28?utm_campaign=1057&utm_source=git)** | Cambridge, MD 21613, USA | On Site | Jun 09 |
@@ -134,6 +136,7 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Graduate Intern, Student Club Engagement](https://jobright.ai/jobs/info/6a23d9236624e500cad0cb85?utm_campaign=1057&utm_source=git)** | Berklee College of Music - Boston, US | On Site | Jun 06 |
 | **[Freedom School Partners](https://freedomschoolpartners.org/)** | **[Servant Leader Intern](https://jobright.ai/jobs/info/6a279d7fadd4b5278cb5f9ab?utm_campaign=1057&utm_source=git)** | Charlotte Metro | On Site | Jun 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/69c48bbf33eecf310794e4a7?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jun 05 |
+| **[AnMed](http://anmed.org)** | **[SafeKids Intern](https://jobright.ai/jobs/info/6a286436fd37e62bb47a8d02?utm_campaign=1057&utm_source=git)** | Anderson, SC | Hybrid | Jun 05 |
 | **[PathWays of Southwestern Pennsylvania](https://yourpathways.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a22e5bbdedf78312c7ab44a?utm_campaign=1057&utm_source=git)** | Washington, PA 15301, USA | On Site | Jun 05 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Jun 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/6a20379c3a5f0145f4c12fc3?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jun 05 |
@@ -153,9 +156,6 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern - Trainer](https://jobright.ai/jobs/info/6a2372ce757ade085b6ae2f2?utm_campaign=1057&utm_source=git)** | Cypress, TX, US | On Site | Jun 05 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Upper Rio Grande Valley](https://jobright.ai/jobs/info/6a2287f04576ad60e9a7a7e9?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | Jun 05 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a228253597131741415efa8?utm_campaign=1057&utm_source=git)** | St Marys County, MD - Charlotte Hall, MD 20622 US (Primary) | On Site | Jun 05 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
-| **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
-| ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
