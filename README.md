@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 09 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Intern (Calvin Mowbray Park and Stephen Camper Park)](https://jobright.ai/jobs/info/6a284475fd37e62bb47a7f28?utm_campaign=1057&utm_source=git)** | Cambridge, MD 21613, USA | On Site | Jun 09 |
 | **[United Salt Corporation](https://unitedsalt.com/)** | **[Internship - Learning & Development /  Training Systems - USC Baytown, LLC](https://jobright.ai/jobs/info/6a283ec4fd37e62bb47a7c29?utm_campaign=1057&utm_source=git)** | Baytown, Texas, United States | On Site | Jun 09 |
 | **[Texas United Management Corporation](http://texasbrine.com)** | **[Internship - Learning & Development /  Training Systems - USC Baytown, LLC](https://jobright.ai/jobs/info/6a283de21dbd8437bebc9d53?utm_campaign=1057&utm_source=git)** | Baytown, Texas, United States | On Site | Jun 09 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[LGBTQA+ Center Graduate Intern](https://jobright.ai/jobs/info/6a280fe01dbd8437bebc87ad?utm_campaign=1057&utm_source=git)** | Pleasantville, NY 10570, USA | On Site | Jun 09 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - Facilities Corporate Internship Program](https://jobright.ai/jobs/info/6a1f1373c5277c00c64829e0?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a27ef8a7061b51a3a5f29fa?utm_campaign=1057&utm_source=git)** | Clinton Head Start - Clinton, MO 64724 | On Site | Jun 09 |
-| **[UNC Health](https://www.unchealth.org)** | **[Intern, Nursing Administration](https://jobright.ai/jobs/info/6a27a12efd37e62bb47a5420?utm_campaign=1057&utm_source=git)** | Hendersonville, NC | On Site | Jun 08 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[THECB - Intern (Student Success)](https://jobright.ai/jobs/info/6a279691add4b5278cb5f794?utm_campaign=1057&utm_source=git)** | Texas Higher Education Coordinating Board, 1801 Congress Ave, Austin, TX | Hybrid | Jun 08 |
 | ↳ | **[THECB - Intern (Student Succes)](https://jobright.ai/jobs/info/6a279689fd37e62bb47a50d2?utm_campaign=1057&utm_source=git)** | Texas Higher Education Coordinating Board, 1801 Congress Ave, Austin, TX | Hybrid | Jun 08 |
 | **[Full Jam Music INC.](http://fulljam.com)** | **[Musicians and Content creators (volunteer or internship)](https://jobright.ai/jobs/info/6a27a242add4b5278cb5fafb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 08 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Training Team Intern (Intern Program)](https://jobright.ai/jobs/info/6a2701697d827633afff7f65?utm_campaign=1057&utm_source=git)** | Beachwood, OH | On Site | Jun 08 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | Jun 08 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in Italy - English Teaching Assistant](https://jobright.ai/jobs/info/6a26fa9a30042e753908656e?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 08 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 08 |
 | **[Bobbitt](http://bobbitt.com)** | **[Junior Intern](https://jobright.ai/jobs/info/6a26d90312f0202342260c30?utm_campaign=1057&utm_source=git)** | Cary, NC 27513, USA | On Site | Jun 08 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[Secondary School Administrative Intern - 200 Day](https://jobright.ai/jobs/info/6a26e02530042e75390858c9?utm_campaign=1057&utm_source=git)** | Prince William County, VA | On Site | Jun 08 |
 | ↳ | **[Elementary School Administrative Intern - 200 Day](https://jobright.ai/jobs/info/6a26dda230042e75390857b1?utm_campaign=1057&utm_source=git)** | Prince William County, VA | On Site | Jun 08 |
@@ -158,4 +157,5 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
+| **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a225783597131741415e887?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
