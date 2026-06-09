@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99c?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jun 09 |
+| ↳ | **[Training Analyst Internship](https://jobright.ai/jobs/info/6a0b3f4a0411d7417a1ae99b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jun 09 |
+| **[Goodwill Industries of San Antonio](https://www.goodwillsa.org)** | **[Intern Student Leaders Workforce Development (33261)](https://jobright.ai/jobs/info/6a27efe040ac8e329329e4dc?utm_campaign=1057&utm_source=git)** | Commerce H - 406 W. Commerce - San Antonio, TX 78207 | On Site | Jun 09 |
+| **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a27ef8a7061b51a3a5f29fa?utm_campaign=1057&utm_source=git)** | Clinton Head Start - Clinton, MO 64724 | On Site | Jun 09 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Analyst Intern, Early Talent & Campus Programs - Fall 2026 - Multiple Locations](https://jobright.ai/jobs/info/6a27d1477061b51a3a5f2575?utm_campaign=1057&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | Jun 09 |
-| ↳ | **[Analyst Intern, Early Talent & Campus Programs - Fall 2026 - Multiple Locations](https://jobright.ai/jobs/info/6a27d1451dbd8437bebc7dda?utm_campaign=1057&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Jun 09 |
+| ↳ | **[Analyst Intern, Early Talent & Campus Programs - Fall 2026 - Multiple Locations](https://jobright.ai/jobs/info/6a27f4bb7061b51a3a5f2b7d?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 09 |
 | **[UNC Health](https://www.unchealth.org)** | **[Intern, Nursing Administration](https://jobright.ai/jobs/info/6a27a12efd37e62bb47a5420?utm_campaign=1057&utm_source=git)** | Hendersonville, NC | On Site | Jun 08 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[THECB - Intern (Student Success)](https://jobright.ai/jobs/info/6a279691add4b5278cb5f794?utm_campaign=1057&utm_source=git)** | Texas Higher Education Coordinating Board, 1801 Congress Ave, Austin, TX | Hybrid | Jun 08 |
 | ↳ | **[THECB - Intern (Student Succes)](https://jobright.ai/jobs/info/6a279689fd37e62bb47a50d2?utm_campaign=1057&utm_source=git)** | Texas Higher Education Coordinating Board, 1801 Congress Ave, Austin, TX | Hybrid | Jun 08 |
@@ -141,8 +145,8 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Upper Rio Grande Valley](https://jobright.ai/jobs/info/6a2287f04576ad60e9a7a7e9?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | Jun 05 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a228253597131741415efa8?utm_campaign=1057&utm_source=git)** | St Marys County, MD - Charlotte Hall, MD 20622 US (Primary) | On Site | Jun 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jun 05 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
@@ -154,8 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[BASIS Ed](https://basised.com)** | **[Texas Central Office Summer Intern](https://jobright.ai/jobs/info/6a21c1094bdf8a5a96bd7d65?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 04 |
 | **[Randall's Island Park Alliance](https://randallsisland.org)** | **[Public Programming Intern](https://jobright.ai/jobs/info/6a221cc34bdf8a5a96bda516?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Boys & Girls Clubs of Delaware](http://www.bgclubs.org)** | **[Jr. Youth Development Professional - Literacy Intern](https://jobright.ai/jobs/info/6a219188c00e701fe836ef94?utm_campaign=1057&utm_source=git)** | Pritchett Academy, Wilmington, DE | On Site | Jun 04 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[Summer Eats Program Intern, Salem Public Schools, Salem, MA [SY 2025-2026]](https://jobright.ai/jobs/info/6a27605d7d827633afffa577?utm_campaign=1057&utm_source=git)** | District Wide - Salem, Massachusetts | On Site | Jun 04 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Training Coordinator Intern (Year-round)](https://jobright.ai/jobs/info/6a2219ee338c012305122d07?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | On Site | Jun 04 |
-| **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[Summer Clinical Research Intern](https://jobright.ai/jobs/info/6a21fa32902d19201c7bb80d?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jun 04 |
-| **[Dynacare](https://www.dynacare.ca/)** | **[Student Internship](https://jobright.ai/jobs/info/6a21f77a338c0123051220d5?utm_campaign=1057&utm_source=git)** | Kelowna, BC | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
