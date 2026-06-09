@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carlsbad Municipal Schools](http://www.carlsbadschools.net)** | **[Principal Internship SY 26/27](https://jobright.ai/jobs/info/6a0e6142beb4d73cb6231e7e?utm_campaign=1057&utm_source=git)** | Carlsbad, NM | On Site | Jun 08 |
+| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | Jun 08 |
 | **[GSK](http://www.gsk.com)** | **[Medical Education Associate - 12 Month Internship](https://jobright.ai/jobs/info/6a27312912f02023422634c8?utm_campaign=1057&utm_source=git)** | Mississauga Milverton Drive, CA | Hybrid | Jun 08 |
 | **[Heravi Peace Institute](https://chass.usu.edu/peace-institute/)** | **[Summer 4-H Program Internship](https://jobright.ai/jobs/info/6a272e867d827633afff93c0?utm_campaign=1057&utm_source=git)** | Kaysville, UT, US | On Site | Jun 08 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Fire Rescue Student Intern (Temporary)](https://jobright.ai/jobs/info/6a272cd37d827633afff9301?utm_campaign=1057&utm_source=git)** | 2472 Clower Lane, Bartow, FL, 33830, US | On Site | Jun 08 |
@@ -90,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Clinical Education Intern](https://jobright.ai/jobs/info/6a26bf0d7d827633afff669e?utm_campaign=1057&utm_source=git)** | Columbia, US | On Site | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26ac1be8701116570f3d2c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a2690d4fe3b84269c50e018?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
-| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a0ef73f83d714428981c1ca?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
+| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264a9f14de9460dc849819?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 07 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264898d46c0f7996089bfc?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jun 07 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development Undergraduate Intern](https://jobright.ai/jobs/info/6a262799dedf78312c7b13c5?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jun 07 |
@@ -130,8 +132,8 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Upper Rio Grande Valley](https://jobright.ai/jobs/info/6a2287f04576ad60e9a7a7e9?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | Jun 05 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a228253597131741415efa8?utm_campaign=1057&utm_source=git)** | St Marys County, MD - Charlotte Hall, MD 20622 US (Primary) | On Site | Jun 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jun 05 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
-| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
+| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e4?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 04 |
+| ↳ | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a1c95d79111f771d1a156e3?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Jun 04 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83734?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 04 |
 | ↳ | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a2266d08e98cb42c8a83733?utm_campaign=1057&utm_source=git)** | New York | On Site | Jun 04 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 04 |
@@ -156,6 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Seaboard Marine](http://www.seaboardmarine.com/)** | **[Student Intern - Floater](https://jobright.ai/jobs/info/6a21c125c00e701fe83708fe?utm_campaign=1057&utm_source=git)** | Miami, Florida | On Site | Jun 04 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a21db22902d19201c7ba5fe?utm_campaign=1057&utm_source=git)** | South San Francisco, US | On Site | Jun 04 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Research and Evaluation](https://jobright.ai/jobs/info/6a21db19902d19201c7ba5f7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c6?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jun 04 |
-| **[Wellesley College](http://www.wellesley.edu/)** | **[Graduate Intern](https://jobright.ai/jobs/info/6a21cbab4bdf8a5a96bd8315?utm_campaign=1057&utm_source=git)** | Wellesley College, US | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
