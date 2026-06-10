@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Summer Intern - Customer Experience Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920ba3442db3ffc3651eb?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
+| ↳ | **[Summer eLearning Specialist Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920b83442db3ffc3651e7?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Arts Education Internship](https://jobright.ai/jobs/info/6a2875b57061b51a3a5f602c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern, Clinical Non-Nursing](https://jobright.ai/jobs/info/6a288e9d883c0d3be6542c86?utm_campaign=1057&utm_source=git)** | ND, Bismarck, US | On Site | Jun 09 |
 | **[Geotab](http://www.geotab.com/)** | **[Learning & Development Intern (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a28e2842d6c332ee52e8959?utm_campaign=1057&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 09 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026, Applied Research Internship, Brookings Metro (2026-3865)](https://jobright.ai/jobs/info/6a287d18883c0d3be65426ac?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026, Applied Research Internship, Brookings Metro (2026-3865)](https://jobright.ai/jobs/info/6a287d17883c0d3be65426aa?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026, Research & Project Coordination Internship, Center for Universal Education, Global Economy and Development (2026-3862)](https://jobright.ai/jobs/info/6a287d102d6c332ee52e6670?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | Jun 09 |
-| ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development (job ID 2026-3863)](https://jobright.ai/jobs/info/6a287d0f1dbd8437bebcb901?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | Jun 09 |
 | ↳ | **[Fall 2026, Research Internship, Brown Center on Education Policy, Governance Studies (2026-3854)](https://jobright.ai/jobs/info/6a287d0f7061b51a3a5f6367?utm_campaign=1057&utm_source=git)** | Washington, DC, US | Hybrid | Jun 09 |
+| ↳ | **[Fall 2026, Project Coordination and Research Assistance Internship, Center for Universal Education, Global Economy and Development (job ID 2026-3863)](https://jobright.ai/jobs/info/6a287d0f1dbd8437bebcb901?utm_campaign=1057&utm_source=git)** | US-DC-Washington | Hybrid | Jun 09 |
 | **[Chesterfield County Public Schools](http://mychesterfieldschools.com/)** | **[Fall 2026 Student Internship](https://jobright.ai/jobs/info/6a283d7140ac8e32932a01d6?utm_campaign=1057&utm_source=git)** | CCPS - Various School Locations, US | On Site | Jun 09 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer Cooperative Education Student IT-Internship (SHS)](https://jobright.ai/jobs/info/6a28798e2d6c332ee52e64ad?utm_campaign=1057&utm_source=git)** | Sherando High School - Stephens City, Virginia | On Site | Jun 09 |
 | **[Secure Base Counseling Center](https://www.securebasecounselingcenter.com)** | **[Graduate Level Clinical Intern- Rehabilitative Programs (LPCC)](https://jobright.ai/jobs/info/6a2888d72d6c332ee52e6b20?utm_campaign=1057&utm_source=git)** | New Prague, MN | On Site | Jun 09 |
@@ -156,6 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/69c48bbf33eecf310794e4a7?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jun 05 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of South Carolina](https://jobright.ai/jobs/info/6a287d5e40ac8e32932a1f8c?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Hybrid | Jun 05 |
 | **[AnMed](http://anmed.org)** | **[SafeKids Intern](https://jobright.ai/jobs/info/6a286436fd37e62bb47a8d02?utm_campaign=1057&utm_source=git)** | Anderson, SC | Hybrid | Jun 05 |
-| **[PathWays of Southwestern Pennsylvania](https://yourpathways.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a22e5bbdedf78312c7ab44a?utm_campaign=1057&utm_source=git)** | Washington, PA 15301, USA | On Site | Jun 05 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
