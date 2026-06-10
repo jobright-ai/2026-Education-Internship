@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Health Solutions](https://www.healthsolutions.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a2995aac07d4b6ae1c415f1?utm_campaign=1057&utm_source=git)** | Long Island City, NY, US | Hybrid | Jun 10 |
+| **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Girl Scouts Beyond Bars (GSBB) Intern](https://jobright.ai/jobs/info/6a299539d3ec8317fe13ef2e?utm_campaign=1057&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Jun 10 |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a29915fd3ec8317fe13ed76?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD | On Site | Jun 10 |
+| **[Physicians Committee for Responsible Medicine](https://www.pcrm.org/)** | **[Building Healthy Communities Internship](https://jobright.ai/jobs/info/6a29910cd3ec8317fe13ed50?utm_campaign=1057&utm_source=git)** | Washington, DC, USA | Remote | Jun 10 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/6a298e6c0c4972328e7e4221?utm_campaign=1057&utm_source=git)** | Norwalk, Connecticut, United States | On Site | Jun 10 |
 | **[City of Iowa City](https://www.icgov.org)** | **[Hourly Library Intern - Digital Media Lab](https://jobright.ai/jobs/info/6a298d43c07d4b6ae1c411cf?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | Jun 10 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Adjunct Teaching - Kennedy Center - IAS 399R: Academic Internship (International Area Studies)](https://jobright.ai/jobs/info/6a2985360c4972328e7e3e21?utm_campaign=1057&utm_source=git)** | Provo, UT, US | On Site | Jun 10 |
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Clinical-Bachelor-CREATE](https://jobright.ai/jobs/info/6a2981fd495d985b99423d7a?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ReNEW Schools Charter Management Organization](http://www.renewschools.org)** | **[Intern Associate/Tutor](https://jobright.ai/jobs/info/6a25ebf5d46c0f79960890db?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jun 07 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8:30A-5P](https://jobright.ai/jobs/info/69d02a10cdb525785fba7f56?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 07 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Internship in Small Animal Emergency and Critical Care AF8218](https://jobright.ai/jobs/info/69d11e07366bb95ba55248d9?utm_campaign=1057&utm_source=git)** | Stillwater, OK | On Site | Jun 07 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - 2026/2027 Grads](https://jobright.ai/jobs/info/6977f8f6fdeb8243a27afd30?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 07 |
-| **[The Carroll Center for the Blind](http://carroll.org)** | **[TECHNOLOGY INSTRUCTOR INTERN](https://jobright.ai/jobs/info/6a25283c4239a435388819cd?utm_campaign=1057&utm_source=git)** | Newton, MA | On Site | Jun 07 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychology Doctoral Intern, Adult Outpatient](https://jobright.ai/jobs/info/69c88ef283ea553769fea5b9?utm_campaign=1057&utm_source=git)** | Roseville, CA | On Site | Jun 06 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a263b2fdedf78312c7b1661?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 06 |
-| **[Campus](http://campus.edu)** | **[IT Instructor](https://jobright.ai/jobs/info/69a95d24f2055e05d1718502?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
