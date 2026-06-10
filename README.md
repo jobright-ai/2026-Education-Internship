@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susan G. Komen](http://www.komen.org)** | **[Scientific Strategies & Programs Intern](https://jobright.ai/jobs/info/6a197042e24ef36525824fef?utm_campaign=1057&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 10 |
+| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/6a2978efc07d4b6ae1c4096e?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jun 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[NYSA Program and Operations Intern](https://jobright.ai/jobs/info/6a29700bd3ec8317fe13de58?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d4285154f00230c6d2eb63?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 10 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
-| **[Physicians Committee for Responsible Medicine](https://www.pcrm.org/)** | **[Building Healthy Communities Internship](https://jobright.ai/jobs/info/6a2958b0d3ec8317fe13d631?utm_campaign=1057&utm_source=git)** | Washington, DC, USA | Remote | Jun 10 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 10 |
 | **[Sioux Falls School District](http://www.sf.k12.sd.us)** | **[Administrator Intern - 1.0 FTE at Memorial Middle School](https://jobright.ai/jobs/info/6a293dcd0c4972328e7e276d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Jun 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | Jun 10 |
@@ -157,5 +158,4 @@ For a complete list, click the following sortable link below:
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Clinical Training & Development Internship](https://jobright.ai/jobs/info/6a0769043b54ed42d74cd0fc?utm_campaign=1057&utm_source=git)** | Bristol, CT 06010, USA | On Site | Jun 06 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Graduate Intern, Student Club Engagement](https://jobright.ai/jobs/info/6a23d9236624e500cad0cb85?utm_campaign=1057&utm_source=git)** | Berklee College of Music - Boston, US | On Site | Jun 06 |
-| **[Freedom School Partners](https://freedomschoolpartners.org/)** | **[Servant Leader Intern](https://jobright.ai/jobs/info/6a279d7fadd4b5278cb5f9ab?utm_campaign=1057&utm_source=git)** | Charlotte Metro | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
