@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Summer Intern - Customer Experience Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920ba3442db3ffc3651eb?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | ↳ | **[Summer eLearning Specialist Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920b83442db3ffc3651e7?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Arts Education Internship](https://jobright.ai/jobs/info/6a2875b57061b51a3a5f602c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 09 |
@@ -134,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Food & Land Access Intern](https://jobright.ai/jobs/info/6a1dd82ec2a87d6cd3e0e34a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT USA, US | On Site | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26ac1be8701116570f3d2c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a2690d4fe3b84269c50e018?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
-| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a0ef73f83d714428981c1ca?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
+| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264a9f14de9460dc849819?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 07 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264898d46c0f7996089bfc?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jun 07 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development Undergraduate Intern](https://jobright.ai/jobs/info/6a262799dedf78312c7b13c5?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jun 07 |
@@ -157,5 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Freedom School Partners](https://freedomschoolpartners.org/)** | **[Servant Leader Intern](https://jobright.ai/jobs/info/6a279d7fadd4b5278cb5f9ab?utm_campaign=1057&utm_source=git)** | Charlotte Metro | On Site | Jun 05 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/69c48bbf33eecf310794e4a7?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jun 05 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of South Carolina](https://jobright.ai/jobs/info/6a287d5e40ac8e32932a1f8c?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Hybrid | Jun 05 |
-| **[AnMed](http://anmed.org)** | **[SafeKids Intern](https://jobright.ai/jobs/info/6a286436fd37e62bb47a8d02?utm_campaign=1057&utm_source=git)** | Anderson, SC | Hybrid | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
