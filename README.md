@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Y in Central Maryland](https://ymaryland.org/)** | **[Family Center Intern - Swim Center in Randallstown](https://jobright.ai/jobs/info/6a28a4881dbd8437bebcc8c9?utm_campaign=1057&utm_source=git)** | Randallstown, MD | On Site | Jun 09 |
 | **[Physicians Committee for Responsible Medicine](https://www.pcrm.org/)** | **[Building Healthy Communities Internship](https://jobright.ai/jobs/info/6a2893be7061b51a3a5f6bad?utm_campaign=1057&utm_source=git)** | Washington, DC, USA | Remote | Jun 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern, Clinical Non-Nursing](https://jobright.ai/jobs/info/6a288e9d883c0d3be6542c86?utm_campaign=1057&utm_source=git)** | ND, Bismarck, US | On Site | Jun 09 |
 | **[Canisius University](http://canisius.edu)** | **[Practicum & Internship Placement Coordinator](https://jobright.ai/jobs/info/6a2882122d6c332ee52e6922?utm_campaign=1057&utm_source=git)** | Buffalo, NY, US | On Site | Jun 09 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Food & Land Access Intern](https://jobright.ai/jobs/info/6a1dd82ec2a87d6cd3e0e34a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT USA, US | On Site | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26ac1be8701116570f3d2c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a2690d4fe3b84269c50e018?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
-| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a0ef73f83d714428981c1ca?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
+| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jun 07 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264a9f14de9460dc849819?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 07 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a264898d46c0f7996089bfc?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jun 07 |
 | **[Hernandez Consulting & Construction](https://www.hernandezconsulting.com/)** | **[NORF Companies - Real Estate Development Undergraduate Intern](https://jobright.ai/jobs/info/6a262799dedf78312c7b13c5?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jun 07 |
@@ -157,5 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Facilities Operations Intern](https://jobright.ai/jobs/info/6a22e76214de9460dc8439d7?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Jun 05 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern Graduate Neuropsychology](https://jobright.ai/jobs/info/6a22fbda14de9460dc843d92?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 05 |
 | **[Neighbourly Pharmacy](https://neighbourlypharmacy.ca/)** | **[Pharmacy Student](https://jobright.ai/jobs/info/69cd7934891d7b11cfcb9261?utm_campaign=1057&utm_source=git)** | Winnipeg, MB | On Site | Jun 05 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern - Dietician, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/6a22d7c5dedf78312c7aae02?utm_campaign=1057&utm_source=git)** | Boynton Beach, FL | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
