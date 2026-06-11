@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Life](https://sworlando.younglife.org)** | **[Central OC Young Life — Summer 2026 Internship Program](https://jobright.ai/jobs/info/6a2ac0240ad4053b108c880b?utm_campaign=1057&utm_source=git)** | Tustin, CA, US | On Site | Jun 11 |
+| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2abf7e1de59e0682a85ac6?utm_campaign=1057&utm_source=git)** | 1830 W Romneya Dr, 9th Floor, Anaheim, California, 92801, US | On Site | Jun 11 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a0e960b12f8b43cf39788bc?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jun 11 |
 | **[Jobster](https://www.jobster.com)** | **[Group L&D Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a2a9b552cde2824469c2589?utm_campaign=1057&utm_source=git)** | Bellevue, WA | Remote | Jun 11 |
 | **[GSK](http://www.gsk.com)** | **[Medical Education Associate - 12 Month Internship](https://jobright.ai/jobs/info/6a27312912f02023422634c8?utm_campaign=1057&utm_source=git)** | Mississauga Milverton Drive, CA | Hybrid | Jun 11 |
@@ -69,13 +71,13 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
 | **[Webdroid, LLC](https://www.webdroid.online)** | **[Adjunct Coding Instructor Intern (Paid Internship)](https://jobright.ai/jobs/info/6a2a2717d3ec8317fe14219e?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
@@ -88,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a29cb961de59e0682a81a17?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 10 |
 | **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a2a29f32cde2824469c049b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 10 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29c1f7d3ec8317fe14030c?utm_campaign=1057&utm_source=git)** | Dickson, OK | On Site | Jun 10 |
-| **[Donum Dei Classical Academy](https://www.donumdei.org/)** | **[Internship](https://jobright.ai/jobs/info/6a29bf08d3ec8317fe140261?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jun 10 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 10 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 10 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d4285154f00230c6d2eb63?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 10 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Undergraduate Intern, Supply Chain, Per Diem, 8A-4:30P](https://jobright.ai/jobs/info/69d424d5e63cea7a8b6571ce?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Jun 10 |
-| **[Jobster](https://www.jobster.com)** | **[Swiss Learning & Development Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a298b41d3ec8317fe13e97a?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 10 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Athletics Academic Services Intern](https://jobright.ai/jobs/info/6a2a2ba8c07d4b6ae1c44a54?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 | **[Sioux Falls School District](http://www.sf.k12.sd.us)** | **[Administrator Intern - 1.0 FTE at Memorial Middle School](https://jobright.ai/jobs/info/6a293dcd0c4972328e7e276d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Jun 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | Jun 10 |
