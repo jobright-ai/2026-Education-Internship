@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIAA](https://www.tiaa.org)** | **[All Star Intern](https://jobright.ai/jobs/info/6a2c2e1ca1d15e3c552fa5e3?utm_campaign=1057&utm_source=git)** | Chicago, IL, USA | Hybrid | Jun 12 |
+| **[Brian Hamilton Foundation](https://brianhamilton.org)** | **[SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6a2c2d2ed3ec94183f4bb80c?utm_campaign=1057&utm_source=git)** | Apex, NC | On Site | Jun 12 |
+| **[AAF International (American Air Filter)](http://www.aafintl.com/)** | **[Instructional Design And Facilitation Intern](https://jobright.ai/jobs/info/6a2c29bec260bb1b8ae14d14?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 12 |
+| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 12 |
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Engineering Outreach Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c23c7fc06447490548687?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - STAC, NYC (Sociotechnical Alignment Center)](https://jobright.ai/jobs/info/6a0eb8049f654b3359ce076b?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jun 12 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a2c04bbc260bb1b8ae1419a?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 12 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ICON Strategic Solutions](https://www.iconplc.com/services/strategic-solutions/)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fe0ad4053b108cab32?utm_campaign=1057&utm_source=git)** | US, Wilmington, NC, US | On Site | Jun 11 |
 | ↳ | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fa0ad4053b108cab2c?utm_campaign=1057&utm_source=git)** | US, Tradd Court, Wilmington, NC 28401, US | On Site | Jun 11 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Intern-Student Support Services-Radiology-Methodist Hospital](https://jobright.ai/jobs/info/6a2b168a9bf7365df089c477?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jun 11 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 11 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a2b0d371de59e0682a87c3d?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 11 |
 | **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a2b0ce39bf7365df089c147?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/69f25c178feca91f14924682?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Jun 11 |
@@ -102,13 +105,13 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[Tropical Shipping](https://www.tropical.com/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a29da3d1de59e0682a8208d?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a29915fd3ec8317fe13ed76?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD | On Site | Jun 10 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/6a298e6c0c4972328e7e4221?utm_campaign=1057&utm_source=git)** | Norwalk, Connecticut, United States | On Site | Jun 10 |
 | **[City of Iowa City](https://www.icgov.org)** | **[Hourly Library Intern - Digital Media Lab](https://jobright.ai/jobs/info/6a298d43c07d4b6ae1c411cf?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | Jun 10 |
-| **[Brigham Young University](http://www.byu.edu)** | **[Adjunct Teaching - Kennedy Center - IAS 399R: Academic Internship (International Area Studies)](https://jobright.ai/jobs/info/6a2985360c4972328e7e3e21?utm_campaign=1057&utm_source=git)** | Provo, UT, US | On Site | Jun 10 |
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Clinical-Bachelor-CREATE](https://jobright.ai/jobs/info/6a2981fd495d985b99423d7a?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, US | On Site | Jun 10 |
 | ↳ | **[Professional Development Intern](https://jobright.ai/jobs/info/6a2981fb2cde2824469bc9ee?utm_campaign=1057&utm_source=git)** | Havertown, PA, US | On Site | Jun 10 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a185b6b6243320e8d1633b4?utm_campaign=1057&utm_source=git)** | US-ME-Scarborough | On Site | Jun 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Athletics Academic Services Intern](https://jobright.ai/jobs/info/6a2a2ba8c07d4b6ae1c44a54?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Jun 10 |
 | **[Sioux Falls School District](http://www.sf.k12.sd.us)** | **[Administrator Intern - 1.0 FTE at Memorial Middle School](https://jobright.ai/jobs/info/6a293dcd0c4972328e7e276d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Jun 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/6a0faaf0619335383fb2e6a2?utm_campaign=1057&utm_source=git)** | West Valley City, UT, US | On Site | Jun 10 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Summer Intern - Customer Experience Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920ba3442db3ffc3651eb?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
-| ↳ | **[Summer eLearning Specialist Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2920b83442db3ffc3651e7?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
