@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eckerd Connects](https://eckerd.org)** | **[Work Based Learning Internship Coordinator](https://jobright.ai/jobs/info/6a2c99b9a1d15e3c552fc93a?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 12 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/6a229525757ade085b6ac64c?utm_campaign=1057&utm_source=git)** | Cleveland, Tennessee, US | On Site | Jun 12 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a2c7a1ca1d15e3c552fc23a?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jun 12 |
 | **[Betty Jean Kerr People's Health Centers](https://phcenters.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a2c7577fc0644749054a1a9?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jun 12 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[Charlotte Lozier Institute Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2c73f4f1751b183c8189dc?utm_campaign=1057&utm_source=git)** | Arlington,VA,US | On Site | Jun 12 |
 | **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[All Star Intern](https://jobright.ai/jobs/info/6a2c6a747cd40a338fae64c0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 12 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Thunder Fellows](https://jobright.ai/jobs/info/6a2c5462c260bb1b8ae15dd1?utm_campaign=1057&utm_source=git)** | Tulsa, Thunder Fellows - Tulsa, OK 74120 | On Site | Jun 12 |
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Community Engagement Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c605a7cd40a338fae6197?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jun 12 |
 | ↳ | **[Engineering Outreach Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c6056d3ec94183f4bc9df?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jun 12 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Thunder Fellows](https://jobright.ai/jobs/info/6a2c5462c260bb1b8ae15dd1?utm_campaign=1057&utm_source=git)** | Tulsa, Thunder Fellows - Tulsa, OK 74120 | On Site | Jun 12 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a2c5c43f1751b183c818238?utm_campaign=1057&utm_source=git)** | Boston, US | On Site | Jun 12 |
 | **[Golden Aluminum](http://goldenaluminum.com/)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a2c58c6d3ec94183f4bc750?utm_campaign=1057&utm_source=git)** | Fort Lupton,CO,US | On Site | Jun 12 |
 | **[Lynn Community Health Center](https://www.lchcnet.org/front)** | **[Community Health Student Fellowship Alumni Internship](https://jobright.ai/jobs/info/6a2c584bfc0644749054975e?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Jun 12 |
@@ -119,13 +120,13 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[Tropical Shipping](https://www.tropical.com/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a29da3d1de59e0682a8208d?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29c1f7d3ec8317fe14030c?utm_campaign=1057&utm_source=git)** | Dickson, OK | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 10 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 10 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29ee56495d985b99426a1b?utm_campaign=1057&utm_source=git)** | Madill, OK | On Site | Jun 10 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29ee56495d985b99426a1a?utm_campaign=1057&utm_source=git)** | Ardmore, OK | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Public Health Solutions](https://www.healthsolutions.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a2995aac07d4b6ae1c415f1?utm_campaign=1057&utm_source=git)** | Long Island City, NY, US | Hybrid | Jun 10 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Girl Scouts Beyond Bars (GSBB) Intern](https://jobright.ai/jobs/info/6a299539d3ec8317fe13ef2e?utm_campaign=1057&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Jun 10 |
 | **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a29915fd3ec8317fe13ed76?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD | On Site | Jun 10 |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Academy for Career Readiness Intern](https://jobright.ai/jobs/info/6a298e6c0c4972328e7e4221?utm_campaign=1057&utm_source=git)** | Norwalk, Connecticut, United States | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
