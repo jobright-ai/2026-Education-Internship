@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ed8b7fc0644749054e1ec?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e017c09ecfd704b3e4dfa?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Jun 14 |
 | **[YMCA of Greater San Francisco](https://www.ymcasf.org/)** | **[Aquatics Workforce Intern](https://jobright.ai/jobs/info/6a2eab62d3ec94183f4c1167?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jun 14 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Work Based Learning Internship Coordinator](https://jobright.ai/jobs/info/6a2ea26bc260bb1b8ae1a73d?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 14 |
 | **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/6a063275bc4184089f24ca71?utm_campaign=1057&utm_source=git)** | New Berlin, WI, 53151, United States | On Site | Jun 14 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Academy BCPS AHS Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69bc019145e08b3dc1f7e0a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 14 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 14 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a2e6f44d3ec94183f4c0d5b?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 14 |
 | **[Northern News Services](https://www.nnsl.com/)** | **[Intern](https://jobright.ai/jobs/info/6a2e4cbca1d15e3c552ff8ac?utm_campaign=1057&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 13 |
@@ -139,13 +141,13 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[Tropical Shipping](https://www.tropical.com/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a29da3d1de59e0682a8208d?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29cd7c1de59e0682a81b10?utm_campaign=1057&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 | **[Zurich Canada](https://zurichcanada.com)** | **[Cyber Underwriting Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a29cd030c4972328e7e5e13?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 10 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a29cb961de59e0682a81a17?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 10 |
-| **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a2a29f32cde2824469c049b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 10 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29c1f7d3ec8317fe14030c?utm_campaign=1057&utm_source=git)** | Dickson, OK | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
