@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a2e3711d3ec94183f4c0a51?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 13 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy- Arizona](https://jobright.ai/jobs/info/6a2dff1ed3ec94183f4c04ba?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, US | On Site | Jun 13 |
 | **[JCC Chicago](https://www.jccchicago.org)** | **[Growing Hope Intern](https://jobright.ai/jobs/info/6a2df7cbfc0644749054d13d?utm_campaign=1057&utm_source=git)** | Northbrook, Illinois, United States | On Site | Jun 13 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 13 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Intern-Nursing Administration-Mount Sinai Queens-In Person-Full Time-Days](https://jobright.ai/jobs/info/6a2caeacc260bb1b8ae1777f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[The Village for Families & Children](https://thevillage.org/)** | **[Training Director - Psychology Internship Program](https://jobright.ai/jobs/info/6a2ca4c8d3ec94183f4bde60?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Jun 12 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 12 |
-| **[Eckerd Connects](https://eckerd.org)** | **[Work Based Learning Internship Coordinator](https://jobright.ai/jobs/info/6a2c99b9a1d15e3c552fc93a?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 12 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[Charlotte Lozier Institute Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2cbb38a1d15e3c552fcffb?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jun 12 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional lecturer-FSC483H5Y - Collaborative Research Internship](https://jobright.ai/jobs/info/6a2ca81cf1751b183c81971f?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 12 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/6a229525757ade085b6ac64c?utm_campaign=1057&utm_source=git)** | Cleveland, Tennessee, US | On Site | Jun 12 |
@@ -135,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
