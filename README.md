@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a2f2697a1d15e3c5530067b?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 14 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a2efe25d3ec94183f4c16f4?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ed8b7fc0644749054e1ec?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e017c09ecfd704b3e4dfa?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Jun 14 |
@@ -143,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - Community Engagement](https://jobright.ai/jobs/info/6a29d9421de59e0682a82009?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
 | **[Credit Union West](http://www.cuwest.org/)** | **[Training Department Intern](https://jobright.ai/jobs/info/6a29d5ee2cde2824469bef6a?utm_campaign=1057&utm_source=git)** | Glendale, AZ, US | On Site | Jun 10 |
 | **[Newport Bay Conservancy](https://newportbay.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a29d440495d985b99426254?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Jun 10 |
-| **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29cd7c1de59e0682a81b10?utm_campaign=1057&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
