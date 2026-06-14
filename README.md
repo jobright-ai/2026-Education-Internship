@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of Greater San Francisco](https://www.ymcasf.org/)** | **[Aquatics Workforce Intern](https://jobright.ai/jobs/info/6a2eab62d3ec94183f4c1167?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jun 14 |
+| **[Eckerd Connects](https://eckerd.org)** | **[Work Based Learning Internship Coordinator](https://jobright.ai/jobs/info/6a2ea26bc260bb1b8ae1a73d?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 14 |
 | **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/6a063275bc4184089f24ca71?utm_campaign=1057&utm_source=git)** | New Berlin, WI, 53151, United States | On Site | Jun 14 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 14 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a2e6f44d3ec94183f4c0d5b?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 14 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy- Arizona](https://jobright.ai/jobs/info/6a2dff1ed3ec94183f4c04ba?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, US | On Site | Jun 13 |
 | **[JCC Chicago](https://www.jccchicago.org)** | **[Growing Hope Intern](https://jobright.ai/jobs/info/6a2df7cbfc0644749054d13d?utm_campaign=1057&utm_source=git)** | Northbrook, Illinois, United States | On Site | Jun 13 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 13 |
-| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a2dc9c37cd40a338fae970d?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 13 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a2dd222c260bb1b8ae19667?utm_campaign=1057&utm_source=git)** | Fort Bliss, TX | On Site | Jun 13 |
 | **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/6a2982d40c4972328e7e3d6e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 13 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e017c09ecfd704b3e4dfa?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Jun 13 |
@@ -138,13 +139,13 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2b71495d985b99427749?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Foundation Internship – Fall 2026](https://jobright.ai/jobs/info/6a29da74c07d4b6ae1c4354d?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jun 10 |
 | **[Tropical Shipping](https://www.tropical.com/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/6a29da3d1de59e0682a8208d?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a29cb961de59e0682a81a17?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 10 |
 | **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a2a29f32cde2824469c049b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 10 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29c1f7d3ec8317fe14030c?utm_campaign=1057&utm_source=git)** | Dickson, OK | On Site | Jun 10 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
