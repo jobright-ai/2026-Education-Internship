@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
