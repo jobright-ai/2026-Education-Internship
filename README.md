@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507eafabbe533fb8a5e1?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fa0ad4053b108cab2c?utm_campaign=1057&utm_source=git)** | US, Tradd Court, Wilmington, NC 28401, US | On Site | Jun 11 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Intern-Student Support Services-Radiology-Methodist Hospital](https://jobright.ai/jobs/info/6a2b168a9bf7365df089c477?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jun 11 |
 | **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a2b0ce39bf7365df089c147?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/69f25c178feca91f14924682?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Jun 11 |
-| **[Town of Erie](http://www.erieco.gov)** | **[Learning and Development Intern (85977)](https://jobright.ai/jobs/info/6a27181e30042e7539087063?utm_campaign=1057&utm_source=git)** | Erie, CO | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
