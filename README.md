@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[TFA Texas Summer Fellow (Intern)](https://jobright.ai/jobs/info/6a300dfcafabbe533fb88c23?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | Jun 15 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Educational Outreach Internship](https://jobright.ai/jobs/info/6a300009524fd5657fe0e603?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 15 |
 | **[Orlando Youth Chamber Ensembles (OYCE)](www.oyce.org)** | **[OYCE Internship Program](https://jobright.ai/jobs/info/6a2ffa0b524fd5657fe0e41e?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Jun 15 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 15 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2fe0faeace377055eb3953?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f9ebb43732c05812df42a?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 14 |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a300ed843732c05812e04d9?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9d5289f8f147d3732364?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/6a2f8d1589f8f147d3732285?utm_campaign=1057&utm_source=git)** | Petersburg, VA | On Site | Jun 14 |
 | **[New Haven Public Schools](http://nhps.net/)** | **[Resident Teacher Intern](https://jobright.ai/jobs/info/6a2f690c43732c05812dedf1?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jun 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Life.Church](http://www.life.church)** | **[Life.Church Central Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e1b?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 11 |
 | **[Central Ohio Youth for Christ](http://www.coyfc.org)** | **[City Life West Paid Intern](https://jobright.ai/jobs/info/6a2a7d8d1de59e0682a84be2?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 11 |
 | **[Auburn University](https://thepark.auburn.edu)** | **[Graduate Student Assistant Leader](https://jobright.ai/jobs/info/6a06162d6c07461fe171c1d5?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jun 10 |
-| **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
-| **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
