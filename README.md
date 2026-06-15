@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenaris](http://www.tenaris.com)** | **[Tenaris University / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a306625524fd5657fe10b5b?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 15 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a2b1942d3ec8317fe14718d?utm_campaign=1057&utm_source=git)** | San Diego, CA, US | On Site | Jun 11 |
 | **[ICON Strategic Solutions](https://www.iconplc.com/services/strategic-solutions/)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fe0ad4053b108cab32?utm_campaign=1057&utm_source=git)** | US, Wilmington, NC, US | On Site | Jun 11 |
 | ↳ | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fa0ad4053b108cab2c?utm_campaign=1057&utm_source=git)** | US, Tradd Court, Wilmington, NC 28401, US | On Site | Jun 11 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Intern-Student Support Services-Radiology-Methodist Hospital](https://jobright.ai/jobs/info/6a2b168a9bf7365df089c477?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Jun 11 |
-| **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a2b0ce39bf7365df089c147?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
