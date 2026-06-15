@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Haven Public Schools](http://nhps.net/)** | **[Resident Teacher Intern](https://jobright.ai/jobs/info/6a2f690c43732c05812dedf1?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jun 14 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56277cd40a338faeb4ee?utm_campaign=1057&utm_source=git)** | Hooksett, New Hampshire, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56257cd40a338faeb4ec?utm_campaign=1057&utm_source=git)** | Batesville, Mississippi, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561d7cd40a338faeb4e0?utm_campaign=1057&utm_source=git)** | Sterling, Virginia, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4db?utm_campaign=1057&utm_source=git)** | Erlanger, Kentucky, United States of America | On Site | Jun 14 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561a7cd40a338faeb4cb?utm_campaign=1057&utm_source=git)** | Madisonville, Kentucky, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 10 |
 | **[World Relief](https://worldrelief.org/)** | **[Summer Intern - 2025758](https://jobright.ai/jobs/info/6a2a2a35c07d4b6ae1c448de?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 10 |
 | **[Languages Canada](https://www.languagescanada.ca)** | **[Internship in France - English Teaching Assistant](https://jobright.ai/jobs/info/6a2a31ab0c4972328e7e7afb?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jun 10 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jun 10 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
