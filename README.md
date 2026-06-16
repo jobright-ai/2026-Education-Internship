@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
+| ↳ | **[Administrative Intern (AGS Fellow), Sanford School of Public Policy Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d05958816970016999?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | Jun 16 |
+| **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Trading & Origination - Houston, TX](https://jobright.ai/jobs/info/6a31b97a2ee3ac1b4bef0d23?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
+| ↳ | **[Summer Internship - Supply, Trading, & Shipping - Analytics - Houston, TX](https://jobright.ai/jobs/info/6a31b9792ee3ac1b4bef0d20?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
 | **[SMUD](https://www.smud.org/en)** | **[Student Staff Assistant Intern: Year Round](https://jobright.ai/jobs/info/6a31b0fa35e80310003a8b5f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 16 |
 | **[County College of Morris](http://www.ccm.edu/)** | **[CTE Campus Based Internship Coordinator (PT)](https://jobright.ai/jobs/info/6a31ab10c477a5075f48e63f?utm_campaign=1057&utm_source=git)** | Randolph, NJ | On Site | Jun 16 |
 | **[bp](https://www.bp.com)** | **[Summer Intern – Supply, Trading, & Shipping Finance & Risk – Chicago, IL](https://jobright.ai/jobs/info/6a31a5ca0ff23769fdb1f5c2?utm_campaign=1057&utm_source=git)** | United States of America - Illinois - Chicago, US | Hybrid | Jun 16 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a30d7c843732c05812e3ee1?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 15 |
 | **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Internship and Practicum Opportunities 2026-2027](https://jobright.ai/jobs/info/6a30c51d89f8f147d3736c3b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jun 15 |
 | **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/6a309968093df201d07b22c0?utm_campaign=1057&utm_source=git)** | Baldwinsville, NY | On Site | Jun 15 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Aluminum](http://goldenaluminum.com/)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a2c58c6d3ec94183f4bc750?utm_campaign=1057&utm_source=git)** | Fort Lupton,CO,US | On Site | Jun 13 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Intern-Nursing Administration-Mount Sinai Queens-In Person-Full Time-Days](https://jobright.ai/jobs/info/6a2cb134f1751b183c819a18?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[The Village for Families & Children](https://thevillage.org/)** | **[Training Director - Psychology Internship Program](https://jobright.ai/jobs/info/6a2ca4c8d3ec94183f4bde60?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Jun 12 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8149be0cd471b2f12f4ae?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 12 |
-| **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[Charlotte Lozier Institute Internship (Fall 2026)](https://jobright.ai/jobs/info/6a2cbb38a1d15e3c552fcffb?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jun 12 |
-| **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional lecturer-FSC483H5Y - Collaborative Research Internship](https://jobright.ai/jobs/info/6a2ca81cf1751b183c81971f?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | On Site | Jun 12 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/6a229525757ade085b6ac64c?utm_campaign=1057&utm_source=git)** | Cleveland, Tennessee, US | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
