@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/6a309968093df201d07b22c0?utm_campaign=1057&utm_source=git)** | Baldwinsville, NY | On Site | Jun 15 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
