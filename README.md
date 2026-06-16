@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a31be645958816970016b75?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 16 |
 | **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 16 |
 | ↳ | **[Administrative Intern (AGS Fellow), Sanford School of Public Policy Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d05958816970016999?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | Jun 16 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Trading & Origination - Houston, TX](https://jobright.ai/jobs/info/6a31b97a2ee3ac1b4bef0d23?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a31422e35e80310003a5f39?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 16 |
 | **[NEON](http://neon-nyc.com/)** | **[Learning Strategy Intern](https://jobright.ai/jobs/info/6a313a97c477a5075f48b896?utm_campaign=1057&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Student Helper/Summer Intern (Ben Towne Center: Libbrecht Lab)](https://jobright.ai/jobs/info/6a30fbb289f8f147d3737483?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
-| **[Durango School District 9-R](https://www.durangoschools.org/)** | **[2026/2027 Digital Media/Broadcast Journalism Teacher, Durango High School, 0.5 FTE](https://jobright.ai/jobs/info/6a30e5e7eace377055eb7f71?utm_campaign=1057&utm_source=git)** | Durango, CO | On Site | Jun 15 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a30dba343732c05812e3f93?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 15 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a30db5889f8f147d373713a?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 15 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a30d7c843732c05812e3ee1?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 15 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507eafabbe533fb8a5e1?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507dafabbe533fb8a5e0?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507cafabbe533fb8a5df?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 15 |
