@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF Intern](https://jobright.ai/jobs/info/6a319aa30ff23769fdb1f156?utm_campaign=1057&utm_source=git)** | CLB Rainier Vista - Seattle, WA 98108 | On Site | Jun 16 |
+| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship (AIM)](https://jobright.ai/jobs/info/6a31988d5958816970015a04?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 16 |
+| **[By Light Professional IT Services](http://www.bylight.com)** | **[Training Solutions Intern](https://jobright.ai/jobs/info/6a3197be0ff23769fdb1efd4?utm_campaign=1057&utm_source=git)** | Orlando, FL, US | On Site | Jun 16 |
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Scientific Affairs Intern](https://jobright.ai/jobs/info/6a1de77b9111f771d1a1bcf8?utm_campaign=1057&utm_source=git)** | US Remote - AR, US | Remote | Jun 16 |
 | **[BBYO](https://www.bbyo.org)** | **[AZA & BBG Movement Intern](https://jobright.ai/jobs/info/6a3177450ff23769fdb1e1c6?utm_campaign=1057&utm_source=git)** | Washington, D.C. - International Office | Hybrid | Jun 16 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern, Office of the Riverside County Superintendent of Schools *Indio*](https://jobright.ai/jobs/info/6a31733635e80310003a700b?utm_campaign=1057&utm_source=git)** | RCOE - Indio | On Site | Jun 16 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507eafabbe533fb8a5e1?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507dafabbe533fb8a5e0?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507cafabbe533fb8a5df?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 15 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Transit and Rail High School Intern](https://jobright.ai/jobs/info/6a301e9beace377055eb4772?utm_campaign=1057&utm_source=git)** | Boston, MA, US | Hybrid | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Training Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a30187989f8f147d37336bf?utm_campaign=1057&utm_source=git)** | Glendale, CA | Hybrid | Jun 15 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Educational Outreach Internship](https://jobright.ai/jobs/info/6a300009524fd5657fe0e603?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 15 |
-| **[Orlando Youth Chamber Ensembles (OYCE)](www.oyce.org)** | **[OYCE Internship Program](https://jobright.ai/jobs/info/6a2ffa0b524fd5657fe0e41e?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Jun 15 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2fe0faeace377055eb3953?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f9ebb43732c05812df42a?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Community Engagement Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c605a7cd40a338fae6197?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jun 12 |
 | ↳ | **[Engineering Outreach Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c6056d3ec94183f4bc9df?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jun 12 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Grant Assistant Student Intern, General Internal Medicine (per diem)](https://jobright.ai/jobs/info/6a2c5c43f1751b183c818238?utm_campaign=1057&utm_source=git)** | Boston, US | On Site | Jun 12 |
-| **[Lynn Community Health Center](https://www.lchcnet.org/front)** | **[Community Health Student Fellowship Alumni Internship](https://jobright.ai/jobs/info/6a2c584bfc0644749054975e?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Jun 12 |
-| **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Academic Intern](https://jobright.ai/jobs/info/6a2c5417fc064474905495f3?utm_campaign=1057&utm_source=git)** | Endwell, New York, United States | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
