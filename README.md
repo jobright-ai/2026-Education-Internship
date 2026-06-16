@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEON](http://neon-nyc.com/)** | **[Learning Strategy Intern](https://jobright.ai/jobs/info/6a313a97c477a5075f48b896?utm_campaign=1057&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Student Helper/Summer Intern (Ben Towne Center: Libbrecht Lab)](https://jobright.ai/jobs/info/6a30fbb289f8f147d3737483?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
 | **[Durango School District 9-R](https://www.durangoschools.org/)** | **[2026/2027 Digital Media/Broadcast Journalism Teacher, Durango High School, 0.5 FTE](https://jobright.ai/jobs/info/6a30e5e7eace377055eb7f71?utm_campaign=1057&utm_source=git)** | Durango, CO | On Site | Jun 15 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a30dba343732c05812e3f93?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 15 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a30db5889f8f147d373713a?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 15 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a30d7c843732c05812e3ee1?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 15 |
 | **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Internship and Practicum Opportunities 2026-2027](https://jobright.ai/jobs/info/6a30c51d89f8f147d3736c3b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jun 15 |
-| **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
+| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clayton Valley Charter High School](https://www.claytonvalley.org/)** | **[School Counselor Intern - SY 26/27](https://jobright.ai/jobs/info/6a2bc2dda1d15e3c552f9153?utm_campaign=1057&utm_source=git)** | Concord, CA | On Site | Jun 12 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a2bb89e2cde2824469c72c2?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 12 |
 | **[On-Target Supplies & Logistics, LTD.](http://otsl.com)** | **[Training Intern](https://jobright.ai/jobs/info/6a2b4f6bc07d4b6ae1c4a403?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship HEBCAC](https://jobright.ai/jobs/info/69bab1df3b74eb1e2c88e97f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
