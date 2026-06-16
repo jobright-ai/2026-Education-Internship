@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit)](https://jobright.ai/jobs/info/6a307624093df201d07b18cf?utm_campaign=1057&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Jun 15 |
 | **[Tenaris](http://www.tenaris.com)** | **[Tenaris University / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a306625524fd5657fe10b5b?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 15 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507dafabbe533fb8a5e0?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507cafabbe533fb8a5df?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 15 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6a304f2143732c05812e1b08?utm_campaign=1057&utm_source=git)** | Coppell, TX 75019, USA | On Site | Jun 15 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e813e47820c036924da0ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 15 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[TFA Texas Summer Fellow (Intern)](https://jobright.ai/jobs/info/6a300dfcafabbe533fb88c23?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Training Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303156524fd5657fe0f723?utm_campaign=1057&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Innovations - Remote - Nationwide](https://jobright.ai/jobs/info/6a3030f0524fd5657fe0f6db?utm_campaign=1057&utm_source=git)** | Sacramento, California | Remote | Jun 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Environmental Education Internship](https://jobright.ai/jobs/info/6a2b07c40ad4053b108ca52c?utm_campaign=1057&utm_source=git)** | Penn State University Park, US | On Site | Jun 11 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Intern-Student Support Services-Radiology-Methodist Hospital](https://jobright.ai/jobs/info/6a2b3444c07d4b6ae1c49c7e?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jun 11 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Internship CE's for Education](https://jobright.ai/jobs/info/6a2b1c8d0ad4053b108cad3e?utm_campaign=1057&utm_source=git)** | District Wide - Onalaska, Texas | On Site | Jun 11 |
-| **[Sanford Burnham Prebys](http://www.sbpdiscovery.org)** | **[INTERN](https://jobright.ai/jobs/info/6a2b1942d3ec8317fe14718d?utm_campaign=1057&utm_source=git)** | San Diego, CA, US | On Site | Jun 11 |
-| **[ICON Strategic Solutions](https://www.iconplc.com/services/strategic-solutions/)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fe0ad4053b108cab32?utm_campaign=1057&utm_source=git)** | US, Wilmington, NC, US | On Site | Jun 11 |
-| ↳ | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b16fa0ad4053b108cab2c?utm_campaign=1057&utm_source=git)** | US, Tradd Court, Wilmington, NC 28401, US | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
