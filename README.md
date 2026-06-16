@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a31422e35e80310003a5f39?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 16 |
 | **[NEON](http://neon-nyc.com/)** | **[Learning Strategy Intern](https://jobright.ai/jobs/info/6a313a97c477a5075f48b896?utm_campaign=1057&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Student Helper/Summer Intern (Ben Towne Center: Libbrecht Lab)](https://jobright.ai/jobs/info/6a30fbb289f8f147d3737483?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
 | **[Durango School District 9-R](https://www.durangoschools.org/)** | **[2026/2027 Digital Media/Broadcast Journalism Teacher, Durango High School, 0.5 FTE](https://jobright.ai/jobs/info/6a30e5e7eace377055eb7f71?utm_campaign=1057&utm_source=git)** | Durango, CO | On Site | Jun 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term - 2025624](https://jobright.ai/jobs/info/6a2bdbcbfc06447490547758?utm_campaign=1057&utm_source=git)** | Bellingham, WA | On Site | Jun 12 |
 | **[Clayton Valley Charter High School](https://www.claytonvalley.org/)** | **[School Counselor Intern - SY 26/27](https://jobright.ai/jobs/info/6a2bc2dda1d15e3c552f9153?utm_campaign=1057&utm_source=git)** | Concord, CA | On Site | Jun 12 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a2bb89e2cde2824469c72c2?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 12 |
-| **[On-Target Supplies & Logistics, LTD.](http://otsl.com)** | **[Training Intern](https://jobright.ai/jobs/info/6a2b4f6bc07d4b6ae1c4a403?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
