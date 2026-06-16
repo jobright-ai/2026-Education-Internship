@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 16 |
 | **[Eradicate Hate Global Summit](https://eradicatehatesummit.org/)** | **[Programs Internship](https://jobright.ai/jobs/info/6a3167b2c477a5075f48cc59?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Aspire Living & Learning](https://allinc.org/)** | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a3159e32ee3ac1b4beee3c3?utm_campaign=1057&utm_source=git)** | Stamford, Connecticut, United States | On Site | Jun 16 |
 | ↳ | **[Aspire Internship Program](https://jobright.ai/jobs/info/6a3159e22ee3ac1b4beee3c1?utm_campaign=1057&utm_source=git)** | Naugatuck, Connecticut, United States | On Site | Jun 16 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a30d7c843732c05812e3ee1?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 15 |
 | **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Internship and Practicum Opportunities 2026-2027](https://jobright.ai/jobs/info/6a30c51d89f8f147d3736c3b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jun 15 |
 | **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/6a309968093df201d07b22c0?utm_campaign=1057&utm_source=git)** | Baldwinsville, NY | On Site | Jun 15 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56277cd40a338faeb4ee?utm_campaign=1057&utm_source=git)** | Hooksett, New Hampshire, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56257cd40a338faeb4ec?utm_campaign=1057&utm_source=git)** | Batesville, Mississippi, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561d7cd40a338faeb4e0?utm_campaign=1057&utm_source=git)** | Sterling, Virginia, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4db?utm_campaign=1057&utm_source=git)** | Erlanger, Kentucky, United States of America | On Site | Jun 14 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561a7cd40a338faeb4cb?utm_campaign=1057&utm_source=git)** | Madisonville, Kentucky, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Community Engagement Intern - College of Engineering - Dean's Office](https://jobright.ai/jobs/info/6a2c31bdf1751b183c817394?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, US | On Site | Jun 12 |
 | **[TIAA](https://www.tiaa.org)** | **[All Star Intern](https://jobright.ai/jobs/info/6a2c2e1ca1d15e3c552fa5e3?utm_campaign=1057&utm_source=git)** | Chicago, IL, USA | Hybrid | Jun 12 |
 | **[Brian Hamilton Foundation](https://brianhamilton.org)** | **[SOUL Program Intern (High School Students)](https://jobright.ai/jobs/info/6a2c2d2ed3ec94183f4bb80c?utm_campaign=1057&utm_source=git)** | Apex, NC | On Site | Jun 12 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
