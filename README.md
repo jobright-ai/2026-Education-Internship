@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Internship and Practicum Opportunities 2026-2027](https://jobright.ai/jobs/info/6a30c51d89f8f147d3736c3b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jun 15 |
 | **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/6a309968093df201d07b22c0?utm_campaign=1057&utm_source=git)** | Baldwinsville, NY | On Site | Jun 15 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507eafabbe533fb8a5e1?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507dafabbe533fb8a5e0?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507cafabbe533fb8a5df?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 15 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56277cd40a338faeb4ee?utm_campaign=1057&utm_source=git)** | Hooksett, New Hampshire, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56257cd40a338faeb4ec?utm_campaign=1057&utm_source=git)** | Batesville, Mississippi, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561d7cd40a338faeb4e0?utm_campaign=1057&utm_source=git)** | Sterling, Virginia, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4db?utm_campaign=1057&utm_source=git)** | Erlanger, Kentucky, United States of America | On Site | Jun 14 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561a7cd40a338faeb4cb?utm_campaign=1057&utm_source=git)** | Madisonville, Kentucky, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[On-Target Supplies & Logistics, LTD.](http://otsl.com)** | **[Training Intern](https://jobright.ai/jobs/info/6a2b4f6bc07d4b6ae1c4a403?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship HEBCAC](https://jobright.ai/jobs/info/69bab1df3b74eb1e2c88e97f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 11 |
 | **[TechSpaces Education](https://www.techspaceseducation.org)** | **[Education Program Intern (Volunteer Internship)](https://jobright.ai/jobs/info/6a2b601c1de59e0682a894ef?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 11 |
-| **[ICON plc](https://www.iconplc.com)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b5dc30ad4053b108cc0a0?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
