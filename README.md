@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb17910b734910712882?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b73491071287e?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287d?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Safety/Risk](https://jobright.ai/jobs/info/6a32d9baf6b55d12c7915f6b?utm_campaign=1057&utm_source=git)** | Temecula, CA 92590 | On Site | Jun 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Internship Coordinator (METALLIC Program)](https://jobright.ai/jobs/info/6a32d79529c90c607e4d85d9?utm_campaign=1057&utm_source=git)** | Lemont, IL | Hybrid | Jun 17 |
 | **[Tenaris](http://www.tenaris.com)** | **[TenarisUniversity / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a32d0dd29c90c607e4d83d2?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e017c09ecfd704b3e4dfa?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Jun 14 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Work Based Learning Internship Coordinator](https://jobright.ai/jobs/info/6a2ea26bc260bb1b8ae1a73d?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 14 |
 | **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/6a063275bc4184089f24ca71?utm_campaign=1057&utm_source=git)** | New Berlin, WI, 53151, United States | On Site | Jun 14 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/6982a80d0f6f7e7a2cdbf996?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Jun 14 |
-| **[Northern News Services](https://www.nnsl.com/)** | **[Intern](https://jobright.ai/jobs/info/6a2e4cbca1d15e3c552ff8ac?utm_campaign=1057&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 13 |
-| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy- Arizona](https://jobright.ai/jobs/info/6a2dff1ed3ec94183f4c04ba?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, US | On Site | Jun 13 |
-| **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 13 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a2dd222c260bb1b8ae19667?utm_campaign=1057&utm_source=git)** | Fort Bliss, TX | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
