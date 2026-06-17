@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports & Recreation Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a3307e4910b73491071387f?utm_campaign=1057&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Jun 17 |
+| **[Pueblo Of Sandia](https://www.linkedin.com/company/4587058)** | **[TIWA LANGUAGE TEACHER INTERN](https://jobright.ai/jobs/info/6a330733f6b55d12c7917669?utm_campaign=1057&utm_source=git)** | Bernalillo, NM 87004 | On Site | Jun 17 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32fbeff6b55d12c7916e36?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jun 17 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a32f3e329c90c607e4d93a5?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56257cd40a338faeb4ec?utm_campaign=1057&utm_source=git)** | Batesville, Mississippi, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561d7cd40a338faeb4e0?utm_campaign=1057&utm_source=git)** | Sterling, Virginia, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4db?utm_campaign=1057&utm_source=git)** | Erlanger, Kentucky, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561a7cd40a338faeb4cb?utm_campaign=1057&utm_source=git)** | Madisonville, Kentucky, United States of America | On Site | Jun 14 |
-| ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
