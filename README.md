@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Campus Intern](https://jobright.ai/jobs/info/6a31eadd2ee3ac1b4bef1c14?utm_campaign=1057&utm_source=git)** | Jamestown, ND | On Site | Jun 16 |
+| **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a31ea58e7b7d514a3bd63b4?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 16 |
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Preserve Environmental Education Summer Intern](https://jobright.ai/jobs/info/6a31d77a35e80310003a9bf7?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jun 16 |
 | **[Equity Methods](http://equitymethods.com)** | **[Fall 2026 Externship (Atlanta)](https://jobright.ai/jobs/info/6a31d10d5958816970017168?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jun 16 |
 | **[East Carolina University](ecu.edu)** | **[Student Employment - Waste Reduction Specialist Intern](https://jobright.ai/jobs/info/6a31d09bc477a5075f48f697?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Jun 16 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56277cd40a338faeb4ee?utm_campaign=1057&utm_source=git)** | Hooksett, New Hampshire, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f56257cd40a338faeb4ec?utm_campaign=1057&utm_source=git)** | Batesville, Mississippi, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561d7cd40a338faeb4e0?utm_campaign=1057&utm_source=git)** | Sterling, Virginia, United States of America | On Site | Jun 14 |
-| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4db?utm_campaign=1057&utm_source=git)** | Erlanger, Kentucky, United States of America | On Site | Jun 14 |
+| ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561c7cd40a338faeb4dc?utm_campaign=1057&utm_source=git)** | Bohemia, New York, United States of America | On Site | Jun 14 |
 | ↳ | **[Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f561a7cd40a338faeb4cb?utm_campaign=1057&utm_source=git)** | Madisonville, Kentucky, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northern News Services](https://www.nnsl.com/)** | **[Intern](https://jobright.ai/jobs/info/6a2e4cbca1d15e3c552ff8ac?utm_campaign=1057&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | Jun 13 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy- Arizona](https://jobright.ai/jobs/info/6a2dff1ed3ec94183f4c04ba?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, US | On Site | Jun 13 |
 | **[JCC Chicago](https://www.jccchicago.org)** | **[Growing Hope Intern](https://jobright.ai/jobs/info/6a2df7cbfc0644749054d13d?utm_campaign=1057&utm_source=git)** | Northbrook, Illinois, United States | On Site | Jun 13 |
-| **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/69bf617b2c312363dcd210af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 13 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a2dd222c260bb1b8ae19667?utm_campaign=1057&utm_source=git)** | Fort Bliss, TX | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
