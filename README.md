@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a3063b9afabbe533fb8ad41?utm_campaign=1057&utm_source=git)** | Florida | On Site | Jun 15 |
 | **[Lending Force, LLC](https://lendingfrc.com)** | **[Summer Intern - Training & Development](https://jobright.ai/jobs/info/6a30574f43732c05812e1d27?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jun 15 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3056beeace377055eb5bf9?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e2?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a305080afabbe533fb8a5e3?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507eafabbe533fb8a5e1?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507dafabbe533fb8a5e0?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30507cafabbe533fb8a5df?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 15 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Supervisor for Teacher Intern Program -Ed Specialist](https://jobright.ai/jobs/info/6a3021b7eace377055eb480e?utm_campaign=1057&utm_source=git)** | 526 B St., Davis, California, 95616-3811, US | On Site | Jun 15 |
 | **[VHB](https://www.vhb.com/)** | **[Transit and Rail High School Intern](https://jobright.ai/jobs/info/6a301e9beace377055eb4772?utm_campaign=1057&utm_source=git)** | Boston, MA, US | Hybrid | Jun 15 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Training Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a30187989f8f147d37336bf?utm_campaign=1057&utm_source=git)** | Glendale, CA | Hybrid | Jun 15 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Educational Outreach Internship](https://jobright.ai/jobs/info/6a300009524fd5657fe0e603?utm_campaign=1057&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 15 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2fe0faeace377055eb3953?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f9ebb43732c05812df42a?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
 | ↳ | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fc7cd40a338faeb45b?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a2efe25d3ec94183f4c16f4?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
