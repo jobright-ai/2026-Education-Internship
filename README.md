@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StopWaste](https://www.stopwaste.org)** | **[Schools Sustainability Associate I (Intern) - Hourly Intermittent](https://jobright.ai/jobs/info/6a32331e0ff23769fdb21fa4?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jun 16 |
 | **[YES USA](https://www.yesusa.com)** | **[Administrative Intern NYC](https://jobright.ai/jobs/info/6a322865c477a5075f490b72?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | Jun 16 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3222fb35e80310003aadb5?utm_campaign=1057&utm_source=git)** | San Francisco - Mission (CA295), US | On Site | Jun 16 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221845958816970018499?utm_campaign=1057&utm_source=git)** | PA - Philadelphia (19103), US | On Site | Jun 16 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221795958816970018497?utm_campaign=1057&utm_source=git)** | TX - Houston (77002), US | On Site | Jun 16 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221785958816970018496?utm_campaign=1057&utm_source=git)** | NY - New York (10173), US | On Site | Jun 16 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221755958816970018495?utm_campaign=1057&utm_source=git)** | TX - Dallas (75201), US | On Site | Jun 16 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221745958816970018494?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222), US | On Site | Jun 16 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221745958816970018493?utm_campaign=1057&utm_source=git)** | IL - Chicago (60606), US | On Site | Jun 16 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Summer 2027 Intern - Capital Markets](https://jobright.ai/jobs/info/6a3221745958816970018494?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222), US | On Site | Jun 16 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit)](https://jobright.ai/jobs/info/6a307624093df201d07b18cf?utm_campaign=1057&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Jun 16 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Conservation Education Internship - Fall 2026](https://jobright.ai/jobs/info/6a3202d235e80310003aa6a1?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Jun 16 |
 | **[Riverside County Office of Education](https://www.rcoe.us/)** | **[Intern, Office of the Riverside County Superintendent of Schools *Riverside*](https://jobright.ai/jobs/info/6a31f43835e80310003aa453?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 16 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a30d7c843732c05812e3ee1?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jun 15 |
 | **[Arizona State Schools for the Deaf and the Blind - ASDB](https://asdb.az.gov)** | **[Internship and Practicum Opportunities 2026-2027](https://jobright.ai/jobs/info/6a30c51d89f8f147d3736c3b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jun 15 |
 | **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 15 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736656?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 15 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55489f8f147d3736657?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 15 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a30a55389f8f147d3736655?utm_campaign=1057&utm_source=git)** | Arlington, Virginia | Hybrid | Jun 15 |
 | **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/6a309968093df201d07b22c0?utm_campaign=1057&utm_source=git)** | Baldwinsville, NY | On Site | Jun 15 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a30800bafabbe533fb8b803?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fe7cd40a338faeb468?utm_campaign=1057&utm_source=git)** | Livonia, Michigan, United States of America | On Site | Jun 14 |
 | ↳ | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fd7cd40a338faeb45f?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
 | ↳ | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f55fc7cd40a338faeb45b?utm_campaign=1057&utm_source=git)** | Evendale, Ohio, United States of America | On Site | Jun 14 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a2efe25d3ec94183f4c16f4?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
