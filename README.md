@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Teacher Assistant Internship](https://jobright.ai/jobs/info/6a341f35ce501060b5cef7ff?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Jun 18 |
+| **[Phalanx Investment Partners](https://phalanxinvpartners.com)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/6a341a5ff6b55d12c791af4a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Perry Township Schools](https://www.perryschools.org/)** | **[Ball State Intern Program](https://jobright.ai/jobs/info/6a33e788f6b55d12c7919ef6?utm_campaign=1057&utm_source=git)** | Jeremiah Gray Elementary | On Site | Jun 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/6a2dd4abfc0644749054cdaa?utm_campaign=1057&utm_source=git)** | TARRYTOWN, US | On Site | Jun 18 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 18 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -78,16 +80,16 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109629c90c607e4da0a5?utm_campaign=1057&utm_source=git)** | New York City, New York, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109429c90c607e4da0a4?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109329c90c607e4da0a3?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09f?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09e?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09f?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 17 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports & Recreation Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a3307e4910b73491071387f?utm_campaign=1057&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Jun 17 |
 | **[Pueblo Of Sandia](https://www.linkedin.com/company/4587058)** | **[TIWA LANGUAGE TEACHER INTERN](https://jobright.ai/jobs/info/6a330733f6b55d12c7917669?utm_campaign=1057&utm_source=git)** | Bernalillo, NM 87004 | On Site | Jun 17 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32fbeff6b55d12c7916e36?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jun 17 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/6a32f34ece501060b5ceb4c7?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 17 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb17910b734910712882?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b73491071287e?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287d?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Safety/Risk](https://jobright.ai/jobs/info/6a32d9baf6b55d12c7915f6b?utm_campaign=1057&utm_source=git)** | Temecula, CA 92590 | On Site | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Student Engagement Intern (Remote, USA)](https://jobright.ai/jobs/info/6a1837bb6243320e8d161a44?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e813e47820c036924da0ff?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 15 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[TFA Texas Summer Fellow (Intern)](https://jobright.ai/jobs/info/6a300dfcafabbe533fb88c23?utm_campaign=1057&utm_source=git)** | Central Management Office Dallas | Hybrid | Jun 15 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Training Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a303156524fd5657fe0f723?utm_campaign=1057&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | Hybrid | Jun 15 |
-| **[Vituity](https://www.vituity.com)** | **[Intern - College - Innovations - Remote - Nationwide](https://jobright.ai/jobs/info/6a3030f0524fd5657fe0f6db?utm_campaign=1057&utm_source=git)** | Sacramento, California | Remote | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
