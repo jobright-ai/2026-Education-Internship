@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/6a344d91f6b55d12c791c032?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jun 18 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Actuarial Internship - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a3443fb1232144fb155f17c?utm_campaign=1057&utm_source=git)** | OH-Fairfield | Hybrid | Jun 18 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern- Fall (1634)](https://jobright.ai/jobs/info/69decdab5913ad3398140370?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Jun 18 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/6a3437c229c90c607e4de09d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 18 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -99,11 +100,10 @@ For a complete list, click the following sortable link below:
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32fbeff6b55d12c7916e36?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jun 17 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/6a32f34ece501060b5ceb4c7?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 17 |
-| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb17910b734910712882?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
+| **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b73491071287e?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287d?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Safety/Risk](https://jobright.ai/jobs/info/6a32d9baf6b55d12c7915f6b?utm_campaign=1057&utm_source=git)** | Temecula, CA 92590 | On Site | Jun 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Internship Coordinator (METALLIC Program)](https://jobright.ai/jobs/info/6a32d79529c90c607e4d85d9?utm_campaign=1057&utm_source=git)** | Lemont, IL | Hybrid | Jun 17 |
 | **[Tenaris](http://www.tenaris.com)** | **[TenarisUniversity / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a32d0dd29c90c607e4d83d2?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 17 |
