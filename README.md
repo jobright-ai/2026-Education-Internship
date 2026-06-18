@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miami Valley Child Development Centers, Inc.](https://www.mvcdc.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a33db40649fdf16292f2eb5?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jun 18 |
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[Duke University](https://dumac.duke.edu/)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
@@ -78,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/6a32f34ece501060b5ceb4c7?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 17 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb17910b734910712882?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b73491071287e?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287d?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Safety/Risk](https://jobright.ai/jobs/info/6a32d9baf6b55d12c7915f6b?utm_campaign=1057&utm_source=git)** | Temecula, CA 92590 | On Site | Jun 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Internship Coordinator (METALLIC Program)](https://jobright.ai/jobs/info/6a32d79529c90c607e4d85d9?utm_campaign=1057&utm_source=git)** | Lemont, IL | Hybrid | Jun 17 |
 | **[Tenaris](http://www.tenaris.com)** | **[TenarisUniversity / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a32d0dd29c90c607e4d83d2?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2fe0faeace377055eb3953?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 15 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Intern – US – Summer 2027 - Returning Students](https://jobright.ai/jobs/info/6a2f9ebb43732c05812df42a?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 14 |
-| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a300ed843732c05812e04d9?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
