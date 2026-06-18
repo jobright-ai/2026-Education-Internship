@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a337496f6b55d12c7918f74?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](https://dumac.duke.edu/)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -69,16 +70,16 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109629c90c607e4da0a5?utm_campaign=1057&utm_source=git)** | New York City, New York, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109429c90c607e4da0a4?utm_campaign=1057&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33109329c90c607e4da0a3?utm_campaign=1057&utm_source=git)** | Frisco, Texas, United States | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09e?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09f?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09e?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | Hybrid | Jun 17 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports & Recreation Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a3307e4910b73491071387f?utm_campaign=1057&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Jun 17 |
 | **[Pueblo Of Sandia](https://www.linkedin.com/company/4587058)** | **[TIWA LANGUAGE TEACHER INTERN](https://jobright.ai/jobs/info/6a330733f6b55d12c7917669?utm_campaign=1057&utm_source=git)** | Bernalillo, NM 87004 | On Site | Jun 17 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32fbeff6b55d12c7916e36?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jun 17 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/6a32f34ece501060b5ceb4c7?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 17 |
 | **[Humana](http://www.humana.com)** | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb17910b734910712882?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL, US | Hybrid | Jun 17 |
-| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b73491071287e?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Jun 17 |
+| ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb15910b734910712880?utm_campaign=1057&utm_source=git)** | Frisco, TX, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287c?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Hybrid | Jun 17 |
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a32eb14910b73491071287d?utm_campaign=1057&utm_source=git)** | Arlington, VA, US | Hybrid | Jun 17 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern - Safety/Risk](https://jobright.ai/jobs/info/6a32d9baf6b55d12c7915f6b?utm_campaign=1057&utm_source=git)** | Temecula, CA 92590 | On Site | Jun 17 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 16 |
 | **[Genesis Healthcare System](https://www.genesishcs.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a3154280ff23769fdb1d5db?utm_campaign=1057&utm_source=git)** | Genesis Hospital, US | On Site | Jun 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jun 16 |
-| **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a31422e35e80310003a5f39?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 16 |
 | **[NEON](http://neon-nyc.com/)** | **[Learning Strategy Intern](https://jobright.ai/jobs/info/6a313a97c477a5075f48b896?utm_campaign=1057&utm_source=git)** | NY NY 100 W 33rd | Hybrid | Jun 16 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, School Based Step Up Counselor](https://jobright.ai/jobs/info/69e8147bf8fa2f3ec32ab4b1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 16 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Student Helper/Summer Intern (Ben Towne Center: Libbrecht Lab)](https://jobright.ai/jobs/info/6a30fbb289f8f147d3737483?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 16 |
