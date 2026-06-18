@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
+| **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Galesburg Foster Care- Community Engagement Practicum Student](https://jobright.ai/jobs/info/6a32f3e229c90c607e4d93a4?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jun 17 |
 | ↳ | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a32f3e329c90c607e4d93a5?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jun 17 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 MBA Internship – Consortium   ](https://jobright.ai/jobs/info/6a33108d29c90c607e4da09f?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 17 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports & Recreation Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a3307e4910b73491071387f?utm_campaign=1057&utm_source=git)** | YMCA of the North Shore Association - Beverly, MA 01915 | On Site | Jun 17 |
 | **[Pueblo Of Sandia](https://www.linkedin.com/company/4587058)** | **[TIWA LANGUAGE TEACHER INTERN](https://jobright.ai/jobs/info/6a330733f6b55d12c7917669?utm_campaign=1057&utm_source=git)** | Bernalillo, NM 87004 | On Site | Jun 17 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32fbeff6b55d12c7916e36?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jun 17 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a32f45fce501060b5ceb55c?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 17 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[DBH Student Programs - Unpaid Internship Opportunities - General Application - Summer & Fall 2026](https://jobright.ai/jobs/info/6a32f34ece501060b5ceb4c7?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a300ed843732c05812e04d9?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Strategy & Data Creator Education Project Intern (TikTok-Operations-Global Creator Marketing & Community) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9d5289f8f147d3732364?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[Paid STEM Instructor/Intern - Summer Position](https://jobright.ai/jobs/info/6a301404eace377055eb44f4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jun 14 |
-| **[HCA Florida St. Petersburg Hospital](https://stpetegeneral.com/)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69da2179869c7e25d85a0f9f?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
