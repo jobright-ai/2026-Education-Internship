@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0b9eada235d749afa87598?utm_campaign=1057&utm_source=git)** | The Colony, Texas, United States of America | On Site | Jun 19 |
+| **[Execaire Aviation](https://execaireaviation.com)** | **[Organizational Development & Training Intern](https://jobright.ai/jobs/info/6a18e63dc2a87d6cd3df5a93?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | On Site | Jun 19 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional lecturer-FSC483H5Y - Collaborative Research Internship Job Details / University of Toronto](https://jobright.ai/jobs/info/6a353e66ce501060b5cf380e?utm_campaign=1057&utm_source=git)** | Mississauga, ON, CA | On Site | Jun 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](https://dumac.duke.edu/)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Tenaris](http://www.tenaris.com)** | **[TenarisUniversity / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a32d0dd29c90c607e4d83d2?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jun 17 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[F15E Virtual Instructor Pilot (SkillBridge Intern)](https://jobright.ai/jobs/info/6a102adb9f654b3359ce9dd0?utm_campaign=1057&utm_source=git)** | NV - Nellis AFB - Nellis AFB | On Site | Jun 17 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Counselor Intern - UTRGV Grant-Funded (26-27)](https://jobright.ai/jobs/info/6a32b6c6ce501060b5ce9e1f?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 17 |
-| **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Health Data Systems Intern, Community Engaged Learning](https://jobright.ai/jobs/info/6a32a7827f3fdd180d4c2acb?utm_campaign=1057&utm_source=git)** | Norfolk, VA, US | On Site | Jun 17 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Supply Chain Management (Summer 2027)](https://jobright.ai/jobs/info/6a2f7231eace377055eb2d31?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jun 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 Summer Associate Internship – Global Markets, Quantitative Research & Trading](https://jobright.ai/jobs/info/69fb105987a4820e6da84622?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF Intern](https://jobright.ai/jobs/info/6a319aa30ff23769fdb1f156?utm_campaign=1057&utm_source=git)** | CLB Rainier Vista - Seattle, WA 98108 | On Site | Jun 16 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship (AIM)](https://jobright.ai/jobs/info/6a31988d5958816970015a04?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 16 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[Training Solutions Intern](https://jobright.ai/jobs/info/6a3197be0ff23769fdb1efd4?utm_campaign=1057&utm_source=git)** | Orlando, FL, US | On Site | Jun 16 |
-| **[BBYO](https://www.bbyo.org)** | **[AZA & BBG Movement Intern](https://jobright.ai/jobs/info/6a3177450ff23769fdb1e1c6?utm_campaign=1057&utm_source=git)** | Washington, D.C. - International Office | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
