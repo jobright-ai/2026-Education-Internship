@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 19 |
+| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Summer Intern - Vitalant Foundation](https://jobright.ai/jobs/info/6a347e387f3fdd180d4cac49?utm_campaign=1057&utm_source=git)** | AZ Scottsdale Corporate, US | Hybrid | Jun 18 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Future Workforce Strategy Enablement Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a34c637ce501060b5cf26ae?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Research Center - Libraries](https://jobright.ai/jobs/info/6a34a878f6b55d12c791da55?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship (AIM)](https://jobright.ai/jobs/info/6a31988d5958816970015a04?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 16 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[Training Solutions Intern](https://jobright.ai/jobs/info/6a3197be0ff23769fdb1efd4?utm_campaign=1057&utm_source=git)** | Orlando, FL, US | On Site | Jun 16 |
 | **[BBYO](https://www.bbyo.org)** | **[AZA & BBG Movement Intern](https://jobright.ai/jobs/info/6a3177450ff23769fdb1e1c6?utm_campaign=1057&utm_source=git)** | Washington, D.C. - International Office | Hybrid | Jun 16 |
-| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Intern, Office of the Riverside County Superintendent of Schools *Indio*](https://jobright.ai/jobs/info/6a31733635e80310003a700b?utm_campaign=1057&utm_source=git)** | RCOE - Indio | On Site | Jun 16 |
-| ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Murrieta*](https://jobright.ai/jobs/info/6a3173322ee3ac1b4beeedd1?utm_campaign=1057&utm_source=git)** | RCOE - Murrieta | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
