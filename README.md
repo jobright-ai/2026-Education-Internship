@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Unpaid Internship - Non-Clinical](https://jobright.ai/jobs/info/6a348900f6b55d12c791d4a2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 18 |
+| **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Intern - MOB Lindner Research Womens Heart Center - Part Time](https://jobright.ai/jobs/info/6a3484a77f3fdd180d4cae49?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 18 |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Actuarial Internship - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a34831d7f3fdd180d4cad8f?utm_campaign=1057&utm_source=git)** | Fairfield, OH | Hybrid | Jun 18 |
+| **[Vitalant](https://www.vitalant.org/)** | **[Summer Intern - Vitalant Foundation](https://jobright.ai/jobs/info/6a347e387f3fdd180d4cac49?utm_campaign=1057&utm_source=git)** | AZ Scottsdale Corporate, US | Hybrid | Jun 18 |
 | **[Syracuse University](http://emc.syr.edu)** | **[Part-Time Faculty: ATR 616.2 Art Therapy Supervised Practicum/Internship (Spring 2027)](https://jobright.ai/jobs/info/6a347b2529c90c607e4df75f?utm_campaign=1057&utm_source=git)** | Syracuse, NY | Remote | Jun 18 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Intern - MOB Lindner Research Womens Heart Center - Part Time](https://jobright.ai/jobs/info/6a34795af6b55d12c791cffe?utm_campaign=1057&utm_source=git)** | 2123 AUBURN AVE, Cincinnati, OH, 45219, US | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Research Center - Libraries](https://jobright.ai/jobs/info/6a347538ce501060b5cf15ad?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Career Development Intern - UNPAID](https://jobright.ai/jobs/info/6a3437c229c90c607e4de09d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | Hybrid | Jun 18 |
 | ↳ | **[Fall 2026 Youth Program Intern - UNPAID](https://jobright.ai/jobs/info/6a3437a8649fdf16292f4b3e?utm_campaign=1057&utm_source=git)** | Atlanta, GA USA, US | On Site | Jun 18 |
 | **[Rabren General Contractors](https://www.rabren.com)** | **[Intern/Co-Op Program - Spring 2027](https://jobright.ai/jobs/info/6a34375029c90c607e4de072?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jun 18 |
-| **[Phalanx Investment Partners](https://phalanxinvpartners.com)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/6a3434b3f6b55d12c791b88e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Syracuse University](http://emc.syr.edu)** | **[Part-Time Faculty: ATR 718 Internship II (Fall 2026)](https://jobright.ai/jobs/info/6a342fb129c90c607e4ddd3f?utm_campaign=1057&utm_source=git)** | Syracuse, NY | Remote | Jun 18 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 English Cafe Intern - UNPAID](https://jobright.ai/jobs/info/6a342d571232144fb155e97f?utm_campaign=1057&utm_source=git)** | Miami, FL, USA | Hybrid | Jun 18 |
 | ↳ | **[Fall 2026 Adult Education Intern - UNPAID](https://jobright.ai/jobs/info/6a342d481232144fb155e97d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Riverside*](https://jobright.ai/jobs/info/6a3173305958816970014a13?utm_campaign=1057&utm_source=git)** | RCOE - Riverside | On Site | Jun 16 |
 | ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Murrieta*](https://jobright.ai/jobs/info/6a31732d2ee3ac1b4beeedd0?utm_campaign=1057&utm_source=git)** | 3939 13th St., Riverside, California, 92502-0868, US | On Site | Jun 16 |
 | ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Indio*](https://jobright.ai/jobs/info/6a31732b35e80310003a7009?utm_campaign=1057&utm_source=git)** | Riverside County Office of Education Riverside Riverside County, CA California | On Site | Jun 16 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 16 |
-| **[Genesis Healthcare System](https://www.genesishcs.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a3154280ff23769fdb1d5db?utm_campaign=1057&utm_source=git)** | Genesis Hospital, US | On Site | Jun 16 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
