@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a35b351f6b55d12c7921062?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | Jun 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF Intern](https://jobright.ai/jobs/info/6a319aa30ff23769fdb1f156?utm_campaign=1057&utm_source=git)** | CLB Rainier Vista - Seattle, WA 98108 | On Site | Jun 16 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship (AIM)](https://jobright.ai/jobs/info/6a31988d5958816970015a04?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jun 16 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[Training Solutions Intern](https://jobright.ai/jobs/info/6a3197be0ff23769fdb1efd4?utm_campaign=1057&utm_source=git)** | Orlando, FL, US | On Site | Jun 16 |
-| **[BBYO](https://www.bbyo.org)** | **[AZA & BBG Movement Intern](https://jobright.ai/jobs/info/6a3177450ff23769fdb1e1c6?utm_campaign=1057&utm_source=git)** | Washington, D.C. - International Office | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
