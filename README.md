@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samet Corporation](https://www.sametcorp.com/)** | **[High School Intern 2026](https://jobright.ai/jobs/info/6a35e0c4f6b55d12c79218a6?utm_campaign=1057&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 19 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a35d46929c90c607e4e36c7?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | Hybrid | Jun 19 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a35b351f6b55d12c7921062?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jun 19 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jun 19 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Intern](https://jobright.ai/jobs/info/6a189a6154a441713ae86508?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Jun 19 |
 | ↳ | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | Jun 19 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Clark County School District](https://www.ccsd.net/)** | **[Communities in Schools-Intern-Scholar- CE -Volunteer](https://jobright.ai/jobs/info/6a33ac0229c90c607e4dbe1d?utm_campaign=1057&utm_source=git)** | LAS VEGAS | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](https://dumac.duke.edu/)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoW SkillBridge Internship - Program Management](https://jobright.ai/jobs/info/69faf18086d5cd46527d13d2?utm_campaign=1057&utm_source=git)** | Beavercreek, OH | On Site | Jun 16 |
 | **[SMUD](https://www.smud.org/en)** | **[Student Staff Assistant Intern: Year Round](https://jobright.ai/jobs/info/6a31b0fa35e80310003a8b5f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 16 |
 | **[County College of Morris](http://www.ccm.edu/)** | **[CTE Campus Based Internship Coordinator (PT)](https://jobright.ai/jobs/info/6a31ab10c477a5075f48e63f?utm_campaign=1057&utm_source=git)** | Randolph, NJ | On Site | Jun 16 |
-| **[bp](https://www.bp.com)** | **[Summer Intern – Supply, Trading, & Shipping Finance & Risk – Chicago, IL](https://jobright.ai/jobs/info/6a31a5ca0ff23769fdb1f5c2?utm_campaign=1057&utm_source=git)** | United States of America - Illinois - Chicago, US | Hybrid | Jun 16 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship](https://jobright.ai/jobs/info/6a31a4680ff23769fdb1f540?utm_campaign=1057&utm_source=git)** | 1700 W. 162nd Street, Gardena, CA | On Site | Jun 16 |
-| **[PSI Groups](https://www.psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6a31dbfc59588169700174a9?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
