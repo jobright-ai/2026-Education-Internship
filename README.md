@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StopWaste](https://www.stopwaste.org)** | **[Schools Sustainability Associate I (Intern) - Hourly Intermittent](https://jobright.ai/jobs/info/6a3627807f3fdd180d4cf8f1?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jun 19 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 19 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[High School Intern 2026](https://jobright.ai/jobs/info/6a35e0c4f6b55d12c79218a6?utm_campaign=1057&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 19 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a35d46929c90c607e4e36c7?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | Hybrid | Jun 19 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jun 19 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jun 19 |
+| **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (Per Diem)](https://jobright.ai/jobs/info/69d5bfe1cdb525785fbd300c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jun 19 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Intern](https://jobright.ai/jobs/info/6a189a6154a441713ae86508?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Jun 19 |
 | ↳ | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | Jun 19 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Execaire Aviation](https://execaireaviation.com)** | **[Organizational Development & Training Intern](https://jobright.ai/jobs/info/6a18e63dc2a87d6cd3df5a93?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | On Site | Jun 19 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional lecturer-FSC483H5Y - Collaborative Research Internship Job Details / University of Toronto](https://jobright.ai/jobs/info/6a353e66ce501060b5cf380e?utm_campaign=1057&utm_source=git)** | Mississauga, ON, CA | On Site | Jun 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 19 |
-| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
+| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 19 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Summer Intern - Vitalant Foundation](https://jobright.ai/jobs/info/6a347e387f3fdd180d4cac49?utm_campaign=1057&utm_source=git)** | AZ Scottsdale Corporate, US | Hybrid | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Research Center - Libraries](https://jobright.ai/jobs/info/6a34a878f6b55d12c791da55?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | **[Dignity Health](https://www.dignityhealth.org/central-california/locations/stjosephs-stockton)** | **[Knowledge Donor Intern](https://jobright.ai/jobs/info/6a349c2c1232144fb1560bee?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - B2B Program](https://jobright.ai/jobs/info/6a31c5bc35e80310003a94f1?utm_campaign=1057&utm_source=git)** | Richland, WA | On Site | Jun 16 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Administrative Intern (AGS Fellow), Sanford School of Public Policy Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d05958816970016999?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | Jun 16 |
 | **[bp](https://www.bp.com)** | **[Summer Internship - Supply, Trading, & Shipping - Trading & Origination - Houston, TX](https://jobright.ai/jobs/info/6a31b97a2ee3ac1b4bef0d23?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
-| ↳ | **[Summer Internship - Supply, Trading, & Shipping - Analytics - Houston, TX](https://jobright.ai/jobs/info/6a31b9792ee3ac1b4bef0d20?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
-| **[BTAS, Inc.](http://www.btas.com/)** | **[DoW SkillBridge Internship - Program Management](https://jobright.ai/jobs/info/69faf18086d5cd46527d13d2?utm_campaign=1057&utm_source=git)** | Beavercreek, OH | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
