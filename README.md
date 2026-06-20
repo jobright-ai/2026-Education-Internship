@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 19 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[High School Intern 2026](https://jobright.ai/jobs/info/6a35e0c4f6b55d12c79218a6?utm_campaign=1057&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 19 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[TPG - Intern, Oklahoma Secondary School Activities Association](https://jobright.ai/jobs/info/6a35d46929c90c607e4e36c7?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | Hybrid | Jun 19 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a35b351f6b55d12c7921062?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 19 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Execaire Aviation](https://execaireaviation.com)** | **[Organizational Development & Training Intern](https://jobright.ai/jobs/info/6a18e63dc2a87d6cd3df5a93?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | On Site | Jun 19 |
 | **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional lecturer-FSC483H5Y - Collaborative Research Internship Job Details / University of Toronto](https://jobright.ai/jobs/info/6a353e66ce501060b5cf380e?utm_campaign=1057&utm_source=git)** | Mississauga, ON, CA | On Site | Jun 19 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jun 19 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 19 |
-| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 19 |
+| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 19 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Summer Intern - Vitalant Foundation](https://jobright.ai/jobs/info/6a347e387f3fdd180d4cac49?utm_campaign=1057&utm_source=git)** | AZ Scottsdale Corporate, US | Hybrid | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Research Center - Libraries](https://jobright.ai/jobs/info/6a34a878f6b55d12c791da55?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | **[Dignity Health](https://www.dignityhealth.org/central-california/locations/stjosephs-stockton)** | **[Knowledge Donor Intern](https://jobright.ai/jobs/info/6a349c2c1232144fb1560bee?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jun 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Supply, Trading, & Shipping - Analytics - Houston, TX](https://jobright.ai/jobs/info/6a31b9792ee3ac1b4bef0d20?utm_campaign=1057&utm_source=git)** | United States of America - Texas - Houston, US | Hybrid | Jun 16 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoW SkillBridge Internship - Program Management](https://jobright.ai/jobs/info/69faf18086d5cd46527d13d2?utm_campaign=1057&utm_source=git)** | Beavercreek, OH | On Site | Jun 16 |
 | **[SMUD](https://www.smud.org/en)** | **[Student Staff Assistant Intern: Year Round](https://jobright.ai/jobs/info/6a31b0fa35e80310003a8b5f?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jun 16 |
-| **[County College of Morris](http://www.ccm.edu/)** | **[CTE Campus Based Internship Coordinator (PT)](https://jobright.ai/jobs/info/6a31ab10c477a5075f48e63f?utm_campaign=1057&utm_source=git)** | Randolph, NJ | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
