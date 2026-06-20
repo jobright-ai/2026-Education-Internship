@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Community Engagement Practicum Student](https://jobright.ai/jobs/info/6a3687b829c90c607e4e52c6?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Jun 20 |
 | **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[Computer Science Intern (CSI): Fall 2026](https://jobright.ai/jobs/info/6a368264649fdf16292fbceb?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 20 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Intern (Ben Towne Center: Evans Lab)](https://jobright.ai/jobs/info/6a19945cc2a87d6cd3df9919?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
 | **[StopWaste](https://www.stopwaste.org)** | **[Schools Sustainability Associate I (Intern) - Hourly Intermittent](https://jobright.ai/jobs/info/6a3627807f3fdd180d4cf8f1?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jun 19 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](https://dumac.duke.edu/)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Preserve Environmental Education Summer Intern](https://jobright.ai/jobs/info/6a31d77a35e80310003a9bf7?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jun 16 |
 | **[Equity Methods](http://equitymethods.com)** | **[Fall 2026 Externship (Atlanta)](https://jobright.ai/jobs/info/6a31d10d5958816970017168?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jun 16 |
 | **[East Carolina University](ecu.edu)** | **[Student Employment - Waste Reduction Specialist Intern](https://jobright.ai/jobs/info/6a31d09bc477a5075f48f697?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Jun 16 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a31cf2fc477a5075f48f614?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
