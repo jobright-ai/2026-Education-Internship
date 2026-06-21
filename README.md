@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a3768daa0f3e56e86d6cb08?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | Jun 20 |
 | **[Necessary Ventures](https://www.necessary.vc)** | **[Content Intern](https://jobright.ai/jobs/info/6a37553e649fdf16292fcf73?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Jun 20 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a37061d649fdf16292fc925?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 20 |
 | ↳ | **[Para Educator - Specialized Services at JFK - 1:1 - Vacancy CL-27, 28, 29 & 30-27 (Internal Only) DEADLINE DATE: 6/25/2026- 5:00 p.m. PST](https://jobright.ai/jobs/info/6a37061729c90c607e4e5df6?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 20 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Community Engagement Practicum Student](https://jobright.ai/jobs/info/6a3687b829c90c607e4e52c6?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Jun 20 |
+| **[Colorado Christian University](http://www.ccu.edu)** | **[School of Counseling - PhD Counselor Education and Supervision, Graduate Assistant](https://jobright.ai/jobs/info/69fafb0638179b6f1ae7454c?utm_campaign=1057&utm_source=git)** | United States | On Site | Jun 20 |
 | **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[Computer Science Intern (CSI): Fall 2026](https://jobright.ai/jobs/info/6a368264649fdf16292fbceb?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jun 20 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Intern (Ben Towne Center: Evans Lab)](https://jobright.ai/jobs/info/6a19945cc2a87d6cd3df9919?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jun 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Campus Intern](https://jobright.ai/jobs/info/6a31eadd2ee3ac1b4bef1c14?utm_campaign=1057&utm_source=git)** | Jamestown, ND | On Site | Jun 16 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a31ea58e7b7d514a3bd63b4?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 16 |
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Preserve Environmental Education Summer Intern](https://jobright.ai/jobs/info/6a31d77a35e80310003a9bf7?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jun 16 |
-| **[Equity Methods](http://equitymethods.com)** | **[Fall 2026 Externship (Atlanta)](https://jobright.ai/jobs/info/6a31d10d5958816970017168?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jun 16 |
-| **[East Carolina University](ecu.edu)** | **[Student Employment - Waste Reduction Specialist Intern](https://jobright.ai/jobs/info/6a31d09bc477a5075f48f697?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
