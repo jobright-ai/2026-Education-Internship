@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e18edeacc736112f5c4247?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 21 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a3768daa0f3e56e86d6cb08?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | Jun 20 |
-| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a37061d649fdf16292fc925?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 20 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 20 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e13bc36c20aa114954013c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 20 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Community Engagement Practicum Student](https://jobright.ai/jobs/info/6a3687b829c90c607e4e52c6?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Jun 20 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Murrieta*](https://jobright.ai/jobs/info/6a31f40c2ee3ac1b4bef1fd2?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 16 |
 | **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Campus Intern](https://jobright.ai/jobs/info/6a31eadd2ee3ac1b4bef1c14?utm_campaign=1057&utm_source=git)** | Jamestown, ND | On Site | Jun 16 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a31ea58e7b7d514a3bd63b4?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 16 |
+| **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Preserve Environmental Education Summer Intern](https://jobright.ai/jobs/info/6a31d77a35e80310003a9bf7?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
