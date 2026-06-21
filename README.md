@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a3838a4649fdf16292fe18e?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jun 21 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Learning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a38318a1232144fb156853f?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | Jun 21 |
 | **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a1b1b0e6b135014dbc8da51?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Jun 21 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2b1fa3770bd5361cd9900?utm_campaign=1057&utm_source=git)** | US-CO-Greeley | On Site | Jun 21 |
 | **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e18edeacc736112f5c4247?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 21 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Pharmacy Intern yr1](https://jobright.ai/jobs/info/69c1d6812c312363dcd50ced?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jun 18 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a339952f6b55d12c79194a7?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 18 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6a33f77729c90c607e4dc9ba?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 17 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
-| ↳ | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| **[Duke University](http://ceint.duke.edu)** | **[NonDuke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31b9d9595881697001699d?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 17 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Aftersales Technical Training Intern](https://jobright.ai/jobs/info/6a330664649fdf16292f0672?utm_campaign=1057&utm_source=git)** | Atlanta HQ (OPD) | On Site | Jun 17 |
 | **[McKinley](https://www.mckinleycc.org/)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a333d9a7f3fdd180d4c61b3?utm_campaign=1057&utm_source=git)** | San Dimas, CA | On Site | Jun 17 |
 | **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | US | On Site | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Conservation Education Internship - Fall 2026](https://jobright.ai/jobs/info/6a3202d235e80310003aa6a1?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Jun 16 |
 | **[Riverside County Office of Education](https://www.rcoe.us/)** | **[Intern, Office of the Riverside County Superintendent of Schools *Riverside*](https://jobright.ai/jobs/info/6a31f43835e80310003aa453?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 16 |
 | ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *El Centro*](https://jobright.ai/jobs/info/6a31f41435e80310003aa44b?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 16 |
-| ↳ | **[Intern, Office of the Riverside County Superintendent of Schools *Murrieta*](https://jobright.ai/jobs/info/6a31f40c2ee3ac1b4bef1fd2?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jun 16 |
-| **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Campus Intern](https://jobright.ai/jobs/info/6a31eadd2ee3ac1b4bef1c14?utm_campaign=1057&utm_source=git)** | Jamestown, ND | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
