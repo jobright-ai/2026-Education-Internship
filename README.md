@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadia Healthcare](http://acadiahealthcare.com)** | **[Therapist Intern](https://jobright.ai/jobs/info/69e18edeacc736112f5c4247?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 21 |
 | **[Lavner Education](https://www.lavnercampsandprograms.com)** | **[STEM Instructor/Intern](https://jobright.ai/jobs/info/6a3768daa0f3e56e86d6cb08?utm_campaign=1057&utm_source=git)** | Pittsburgh,PA,US | On Site | Jun 20 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a37061d649fdf16292fc925?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 20 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Campus Intern](https://jobright.ai/jobs/info/6a31eadd2ee3ac1b4bef1c14?utm_campaign=1057&utm_source=git)** | Jamestown, ND | On Site | Jun 16 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a31ea58e7b7d514a3bd63b4?utm_campaign=1057&utm_source=git)** | Othello, WA, US | On Site | Jun 16 |
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Preserve Environmental Education Summer Intern](https://jobright.ai/jobs/info/6a31d77a35e80310003a9bf7?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jun 16 |
-| **[Equity Methods](http://equitymethods.com)** | **[Fall 2026 Externship (Atlanta)](https://jobright.ai/jobs/info/6a31d10d5958816970017168?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
