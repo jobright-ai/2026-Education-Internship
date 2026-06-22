@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Intern College - Learning Solutions](https://jobright.ai/jobs/info/6a38f5301232144fb15696f9?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 22 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator - Specialized Services at JFK - 1:1 - Vacancy CL-27, 28, 29 & 30-27 (Internal Only) DEADLINE DATE: 6/25/2026- 5:00 p.m. PST](https://jobright.ai/jobs/info/6a387bf01232144fb1568ac7?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 21 |
 | ↳ | **[Para Educator Non-Severe, Teel, Vacancy CL-19-27 (Internal Only) DEADLINE DATE: 6/22/2026 5PM PST](https://jobright.ai/jobs/info/6a387bf0ce501060b5cf99b8?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 21 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Learning Systems & Analytics Intern - 6 months](https://jobright.ai/jobs/info/6a38318a1232144fb156853f?utm_campaign=1057&utm_source=git)** | San Carlos, CA, US | On Site | Jun 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The French Language Institute of Boulder LLC](https://www.thefrenchlanguageinstituteonline.org/)** | **[Teaching Assistant Internship – French Classes for Children](https://jobright.ai/jobs/info/6a3265ebc477a5075f4912ee?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Jun 17 |
 | **[YES USA](https://www.yesusa.com)** | **[Administrative Intern NYC](https://jobright.ai/jobs/info/6a322865c477a5075f490b72?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | Jun 16 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit)](https://jobright.ai/jobs/info/6a307624093df201d07b18cf?utm_campaign=1057&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Jun 16 |
-| **[Dallas Zoo](http://dallaszoo.com)** | **[Conservation Education Internship - Fall 2026](https://jobright.ai/jobs/info/6a3202d235e80310003aa6a1?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
