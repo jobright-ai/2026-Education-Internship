@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Intern - Service College](https://jobright.ai/jobs/info/6a39e6b9214ae004c7a20ee5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 22 |
+| **[K2 Medical Research](https://k2med.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a39dabaf6b55d12c792a6c3?utm_campaign=1057&utm_source=git)** | Berry Hill, TN, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab8f6b55d12c792a6bd?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab9f6b55d12c792a6c1?utm_campaign=1057&utm_source=git)** | Maitland, FL, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab9f6b55d12c792a6c0?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab9f6b55d12c792a6bf?utm_campaign=1057&utm_source=git)** | Foxborough, MA, US | On Site | Jun 22 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a39dab8f6b55d12c792a6bc?utm_campaign=1057&utm_source=git)** | Tampa, FL, US | On Site | Jun 22 |
+| **[Steer](https://in.steergroup.com/)** | **[Intern (Research, Storytelling & Community Impact)](https://jobright.ai/jobs/info/6a39dc936484fb75f2b33e97?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Learning Solutions](https://jobright.ai/jobs/info/6a39d40e214ae004c7a20b06?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 22 |
-| **[MyPoint Credit Union](https://mypointcu.com/)** | **[Intern, Instructional Design Specialist](https://jobright.ai/jobs/info/6a39c060649fdf1629302c40?utm_campaign=1057&utm_source=git)** | San Diego, CA, US | On Site | Jun 22 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, NextGen Programs-Remote](https://jobright.ai/jobs/info/6a39ba7e06a4fd4b1fabbd6d?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Jun 22 |
-| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
 | ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c00f6b55d12c792764f?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Remote | Jun 22 |
+| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
 | **[Kyros AI](https://www.kyros.ai/)** | **[Educational Internship Opportunity Leader](https://jobright.ai/jobs/info/6a39b88a6484fb75f2b3362e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a39b7e2649fdf1629302983?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jun 22 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator - Specialized Services at JFK - 1:1 - Vacancy CL-27, 28, 29 & 30-27 (Internal Only) DEADLINE DATE: 6/25/2026- 5:00 p.m. PST](https://jobright.ai/jobs/info/6a39b3051232144fb156ced6?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 22 |
@@ -86,11 +93,11 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a39684f6484fb75f2b315d9?utm_campaign=1057&utm_source=git)** | Wake County, United States of America | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c06f6b55d12c7927652?utm_campaign=1057&utm_source=git)** | Miami, FL, US | Remote | Jun 22 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 22 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Intern College - Learning Solutions](https://jobright.ai/jobs/info/6a38f5301232144fb15696f9?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 22 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jun 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 English Cafe Intern - UNPAID](https://jobright.ai/jobs/info/6a342d571232144fb155e97f?utm_campaign=1057&utm_source=git)** | Miami, FL, USA | Hybrid | Jun 18 |
 | ↳ | **[Fall 2026 Adult Education Intern - UNPAID](https://jobright.ai/jobs/info/6a342d481232144fb155e97d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, USA | Hybrid | Jun 18 |
 | **[Colorado Mountain College](https://coloradomtn.edu)** | **[Internship and Work Based Learning Coordinator - Term*](https://jobright.ai/jobs/info/6a342bae7f3fdd180d4c91e4?utm_campaign=1057&utm_source=git)** | Leadville, CO | On Site | Jun 18 |
-| **[Lexicon, Inc.](http://lexicon-inc.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6a342476f6b55d12c791b3bb?utm_campaign=1057&utm_source=git)** | Calvert, Alabama, 36513 | On Site | Jun 18 |
-| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Milieu-Based Intervention Intern](https://jobright.ai/jobs/info/6a342438ce501060b5cefa7e?utm_campaign=1057&utm_source=git)** | 21380 Centre Pointe Parkway, Santa Clarita, California, 91350-2948, US | On Site | Jun 18 |
-| **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 18 |
-| **[Perry Township Schools](https://www.perryschools.org/)** | **[Ball State Intern Program](https://jobright.ai/jobs/info/6a33e788f6b55d12c7919ef6?utm_campaign=1057&utm_source=git)** | Jeremiah Gray Elementary | On Site | Jun 18 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a18414cc2a87d6cd3dee81b?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jun 18 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/6a2dd4abfc0644749054cdaa?utm_campaign=1057&utm_source=git)** | TARRYTOWN, US | On Site | Jun 18 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
