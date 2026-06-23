@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Learning Solutions](https://jobright.ai/jobs/info/6a39d40e214ae004c7a20b06?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 22 |
 | **[MyPoint Credit Union](https://mypointcu.com/)** | **[Intern, Instructional Design Specialist](https://jobright.ai/jobs/info/6a39c060649fdf1629302c40?utm_campaign=1057&utm_source=git)** | San Diego, CA, US | On Site | Jun 22 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, NextGen Programs-Remote](https://jobright.ai/jobs/info/6a39ba7e06a4fd4b1fabbd6d?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Jun 22 |
 | ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
@@ -85,11 +86,11 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a39684f6484fb75f2b315d9?utm_campaign=1057&utm_source=git)** | Wake County, United States of America | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c06f6b55d12c7927652?utm_campaign=1057&utm_source=git)** | Miami, FL, US | Remote | Jun 22 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Intern College - Learning Solutions](https://jobright.ai/jobs/info/6a38f5301232144fb15696f9?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 22 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jun 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a18414cc2a87d6cd3dee81b?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jun 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/6a2dd4abfc0644749054cdaa?utm_campaign=1057&utm_source=git)** | TARRYTOWN, US | On Site | Jun 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Diversity and Leadership Training Intern - (2026 Semester 2) Generation H](https://jobright.ai/jobs/info/69c1ad2879e36d3a847eb3a7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| **[County College of Morris Foundation](https://www.ccm.edu/meet-ccm/about/ccm-foundation/)** | **[Part-Time CTE Campus Based Internship Coordinator](https://jobright.ai/jobs/info/6a33f2d2ce501060b5cee94a?utm_campaign=1057&utm_source=git)** | Randolph, NJ | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
