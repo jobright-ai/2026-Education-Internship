@@ -57,31 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parkland Corporation](https://www.parkland.ca/)** | **[Integration, Change Management & Training Intern - September 2026 (8-Month Term)](https://jobright.ai/jobs/info/6a3c17408bfad862bc998f91?utm_campaign=1057&utm_source=git)** | Calgary, AB, Canada | On Site | Jun 24 |
+| **[MedStar Georgetown University Hospital](https://www.medstargeorgetown.org/)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c1386882f121f56a33311?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
+| ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c1382d261407de97fc2f0?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
 | **[GuideWell](http://www.guidewell.com)** | **[Dillard Intern- High School](https://jobright.ai/jobs/info/6a3c0c87882f121f56a33220?utm_campaign=1057&utm_source=git)** | FL, United States | On Site | Jun 24 |
 | **[WebTPA](http://webtpa.com)** | **[Dillard Intern- High School](https://jobright.ai/jobs/info/6a3c0a848bfad862bc998c7f?utm_campaign=1057&utm_source=git)** | FL, United States | On Site | Jun 24 |
-| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009e122f340d29cec06e?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
-| ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009d122f340d29cec06c?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 24 |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c00a6d261407de97fbd88?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
+| ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009e122f340d29cec06e?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 24 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 24 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a23fd9ad46c0f79960862aa?utm_campaign=1057&utm_source=git)** | GA-Atlanta
 US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 24 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4ede565c26a70042473?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 24 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4e98fc6090c5d452813?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | Remote | Jun 24 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/69cae4dc466f1e133aac8810?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | Remote | Jun 24 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Learning & Development (HR/Training) Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be9d28bfad862bc998327?utm_campaign=1057&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Adult Supervision Intern (Hourly)](https://jobright.ai/jobs/info/6a3be2f1122f340d29ceb8e2?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Jun 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Probation Adult Supervision Intern (Hourly)](https://jobright.ai/jobs/info/6a3bdc0c882f121f56a325d9?utm_campaign=1057&utm_source=git)** | Central Office, 171 Jersey Street, Trenton, NJ | On Site | Jun 24 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Financial Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a3bd1cc122f340d29ceb702?utm_campaign=1057&utm_source=git)** | East Lansing, Michigan, United States | On Site | Jun 24 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Unpaid Internship - Non-Clinical](https://jobright.ai/jobs/info/6a3bc8a2982bb239f812d35e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 24 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 24 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a3bab4ad261407de97fb004?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 24 |
 | **[GSK](http://www.gsk.com)** | **[Medical Governance Associate - 12 Month Internship](https://jobright.ai/jobs/info/6a3af8d806a4fd4b1fabfccf?utm_campaign=1057&utm_source=git)** | Mississauga Milverton Drive, CA | Hybrid | Jun 23 |
 | **[Steer](https://in.steergroup.com/)** | **[Intern (Research, Storytelling & Community Impact)](https://jobright.ai/jobs/info/6a3b2d95649fdf16293078a5?utm_campaign=1057&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 23 |
 | **[Meharry Medical College](http://www.mmc.edu/)** | **[Summer Intern - Urban League-24](https://jobright.ai/jobs/info/6a3abe3bdd879c60912b02da?utm_campaign=1057&utm_source=git)** | Main Campus, US | On Site | Jun 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a3b0c4c797099171917d08c?utm_campaign=1057&utm_source=git)** | South San Francisco, US | On Site | Jun 23 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/6a3b08dddbedbf5680c727a6?utm_campaign=1057&utm_source=git)** | Smithfield,RI,US | On Site | Jun 23 |
 | **[University of Central Florida](https://area67.cs.ucf.edu/)** | **[Internship Experience Coordinator I (TEMP)](https://jobright.ai/jobs/info/6a3aefd1dd879c60912b12e3?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Jun 23 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Youth Leadership Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1706a4fd4b1fabf95f?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 | **[Breg](http://www.breg.com)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a3ad63306a4fd4b1fabf1d8?utm_campaign=1057&utm_source=git)** | Carlsbad, California, United States | On Site | Jun 23 |
@@ -103,8 +105,8 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 24 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Learning Solutions](https://jobright.ai/jobs/info/6a39d40e214ae004c7a20b06?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 22 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Chapters Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3af6a5dd879c60912b15a7?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jun 22 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, NextGen Programs-Remote](https://jobright.ai/jobs/info/6a39ba7e06a4fd4b1fabbd6d?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Jun 22 |
-| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
 | ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c00f6b55d12c792764f?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Remote | Jun 22 |
+| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a39b7e2649fdf1629302983?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jun 22 |
 | **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN COORDINATOR-BAS](https://jobright.ai/jobs/info/6a39cc961232144fb156d4a9?utm_campaign=1057&utm_source=git)** | West Melbourne, FL | On Site | Jun 22 |
 | **[Big Brothers Big Sisters of Eastern Massachusetts](http://www.emassbigs.org)** | **[MSW Internship - Big Brothers Big Sisters](https://jobright.ai/jobs/info/6a39a0f6214ae004c7a1fc1a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jun 22 |
@@ -125,11 +127,11 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 24 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a39684f6484fb75f2b315d9?utm_campaign=1057&utm_source=git)** | Wake County, United States of America | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c06f6b55d12c7927652?utm_campaign=1057&utm_source=git)** | Miami, FL, US | Remote | Jun 22 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2d6bd5c44d4710fe2725a?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Jun 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Intern College - Learning Solutions](https://jobright.ai/jobs/info/6a38f5301232144fb15696f9?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 22 |
@@ -156,6 +158,4 @@ US-AZ-Phoenix, UNAVAILABLE, US | Remote | Jun 24 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Learning & AI Enablement Intern](https://jobright.ai/jobs/info/6a32afb9ce501060b5ce9ba7?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Intern](https://jobright.ai/jobs/info/6a189a6154a441713ae86508?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Jun 19 |
 | ↳ | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0de8c5beb4d73cb622cfd9?utm_campaign=1057&utm_source=git)** | The Colony, TX | On Site | Jun 19 |
-| ↳ | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0b9eada235d749afa87598?utm_campaign=1057&utm_source=git)** | The Colony, Texas, United States of America | On Site | Jun 19 |
-| **[Luminis Health](http://www.luminishealth.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a2b153a2cde2824469c4fda?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
