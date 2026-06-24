@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steer](https://in.steergroup.com/)** | **[Intern (Research, Storytelling & Community Impact)](https://jobright.ai/jobs/info/6a3b2d95649fdf16293078a5?utm_campaign=1057&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Fall Intern - gRED Learning and Development](https://jobright.ai/jobs/info/6a3b0c4c797099171917d08c?utm_campaign=1057&utm_source=git)** | South San Francisco, US | On Site | Jun 23 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/6a3b08dddbedbf5680c727a6?utm_campaign=1057&utm_source=git)** | Smithfield,RI,US | On Site | Jun 23 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator - Specialized Services at JFK - 1:1 - Vacancy CL-27, 28, 29 & 30-27 (Internal Only) DEADLINE DATE: 6/25/2026- 5:00 p.m. PST](https://jobright.ai/jobs/info/6a3af922797099171917caa9?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 23 |
@@ -104,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a39684f6484fb75f2b315d9?utm_campaign=1057&utm_source=git)** | Wake County, United States of America | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c06f6b55d12c7927652?utm_campaign=1057&utm_source=git)** | Miami, FL, US | Remote | Jun 22 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 22 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 22 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 22 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Intern College - Learning Solutions](https://jobright.ai/jobs/info/6a38f5301232144fb15696f9?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 22 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jun 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern-28047](https://jobright.ai/jobs/info/6a3450e77f3fdd180d4c9dfb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | ↳ | **[Student Intern-28052](https://jobright.ai/jobs/info/6a34504b7f3fdd180d4c9db0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 18 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Adult Education Intern - UNPAID](https://jobright.ai/jobs/info/6a344f507f3fdd180d4c9d3d?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jun 18 |
-| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/6a344eca29c90c607e4de81f?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
