@@ -61,9 +61,9 @@ For a complete list, click the following sortable link below:
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d6f244d047136e09338a8?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 25 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a049304f3d6cc51d6380a6b?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, US | On Site | Jun 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047c7ef3d6cc51d637f5a5?utm_campaign=1057&utm_source=git)** | Gallipolis, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047faf6c07461fe170d1f5?utm_campaign=1057&utm_source=git)** | Goshen, OH, US | On Site | Jun 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b4622395b6dc6d9d1ac?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d5de078237a036d5e0ea9?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Technical Training Coordinator Intern](https://jobright.ai/jobs/info/6a3d1d9c882f121f56a36244?utm_campaign=1057&utm_source=git)** | Richmond, Virginia, United States of America | Hybrid | Jun 25 |
@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of Central Florida](https://jobright.ai/jobs/info/6a3d4601d261407de97ff97f?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Jun 25 |
 | ↳ | **[Campus Chapter Intern at University of Alabama](https://jobright.ai/jobs/info/6a358b837f3fdd180d4cde4b?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Jun 25 |
 | **[Via](http://www.ridewithvia.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a20a4faca8f0b365d7a278c?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Jun 25 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 25 |
-| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 25 |
+| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 25 |
+| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 25 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Education - Spanish Initiatives Internship](https://jobright.ai/jobs/info/6a3d66c2122f340d29cf05a7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | ↳ | **[[Fall 2026] Education - K-12 Initiatives Internship](https://jobright.ai/jobs/info/6a3c71828bfad862bc99a6fc?utm_campaign=1057&utm_source=git)** | New York City, NY | On Site | Jun 24 |
 | **[North Orange County Community College District](https://www.nocccd.edu/)** | **[Future Instructor Training (FIT) Intern ( Non-NOCCCD employees)](https://jobright.ai/jobs/info/6a2a4182d3ec8317fe142ec8?utm_campaign=1057&utm_source=git)** | Anaheim, CA | On Site | Jun 24 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[MedStar Georgetown University Hospital](https://www.medstargeorgetown.org/)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c1386882f121f56a33311?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
 | ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c1382d261407de97fc2f0?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Training Department](https://jobright.ai/jobs/info/69af68a66b21de023e608c3f?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | Jun 24 |
-| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009e122f340d29cec06e?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
-| ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c00a6d261407de97fbd88?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009d122f340d29cec06c?utm_campaign=1057&utm_source=git)** | California,Maryland,United States | On Site | Jun 24 |
+| ↳ | **[MA Student Intern](https://jobright.ai/jobs/info/6a3c009e122f340d29cec06e?utm_campaign=1057&utm_source=git)** | Charlotte Hall,Maryland,United States | On Site | Jun 24 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2ad282f28653593077a5a?utm_campaign=1057&utm_source=git)** | US-IL-Madison & St Clair Counties | On Site | Jun 24 |
 | ↳ | **[Student Internship / Practicum Clinician](https://jobright.ai/jobs/info/69e2acf23ce36005badbf35d?utm_campaign=1057&utm_source=git)** | Madison & St Clair Counties, IL, US | On Site | Jun 24 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Learning & Development (HR/Training) Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be9d28bfad862bc998327?utm_campaign=1057&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
@@ -108,10 +108,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d5?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jun 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afddecf63f733065b3e8d6?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Jun 24 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c30c2a87d6cd3df0064?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
-| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 24 |
 | ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0030?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a185c2cc2a87d6cd3df0032?utm_campaign=1057&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a08503e403fc339507ece6f?utm_campaign=1057&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 24 |
+| ↳ | **[Co-Op/ Intern Curriculum Developer](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550f?utm_campaign=1057&utm_source=git)** | CA-ON-Toronto | Hybrid | Jun 24 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a3bab4ad261407de97fb004?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jun 24 |
 | **[GSK](http://www.gsk.com)** | **[Medical Governance Associate - 12 Month Internship](https://jobright.ai/jobs/info/6a3af8d806a4fd4b1fabfccf?utm_campaign=1057&utm_source=git)** | Mississauga Milverton Drive, CA | Hybrid | Jun 23 |
 | **[Steer](https://in.steergroup.com/)** | **[Intern (Research, Storytelling & Community Impact)](https://jobright.ai/jobs/info/6a3b2d95649fdf16293078a5?utm_campaign=1057&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 23 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Learning Solutions](https://jobright.ai/jobs/info/6a39d40e214ae004c7a20b06?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 22 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Chapters Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3af6a5dd879c60912b15a7?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jun 22 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, NextGen Programs-Remote](https://jobright.ai/jobs/info/6a39ba7e06a4fd4b1fabbd6d?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Jun 22 |
-| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c00f6b55d12c792764f?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Remote | Jun 22 |
 | ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c02f6b55d12c7927651?utm_campaign=1057&utm_source=git)** | Charlotte, NC, US | Remote | Jun 22 |
+| ↳ | **[Intern, Southeast Community CPR-Remote](https://jobright.ai/jobs/info/6a395c00f6b55d12c792764f?utm_campaign=1057&utm_source=git)** | Nashville, TN, US | Remote | Jun 22 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a39b7e2649fdf1629302983?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jun 22 |
 | **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN COORDINATOR-BAS](https://jobright.ai/jobs/info/6a39cc961232144fb156d4a9?utm_campaign=1057&utm_source=git)** | West Melbourne, FL | On Site | Jun 22 |
 | **[Big Brothers Big Sisters of Eastern Massachusetts](http://www.emassbigs.org)** | **[MSW Internship - Big Brothers Big Sisters](https://jobright.ai/jobs/info/6a39a0f6214ae004c7a1fc1a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jun 22 |
