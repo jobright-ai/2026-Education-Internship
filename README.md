@@ -107,18 +107,18 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jun 25 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Transportation Student Intern](https://jobright.ai/jobs/info/6a3d91b4882f121f56a38213?utm_campaign=1057&utm_source=git)** | Framingham, Massachusetts | On Site | Jun 25 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42844?utm_campaign=1057&utm_source=git)** | Davis, Oklahoma, United States | On Site | Jun 25 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 25 |
+| ↳ | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 25 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb18c07d4b6ae1c42842?utm_campaign=1057&utm_source=git)** | Kingston, Oklahoma, United States | On Site | Jun 25 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 25 |
-| ↳ | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 25 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 25 |
 | **[Franklin Park Conservatory and Botanical Gardens](https://www.fpconservatory.org/)** | **[Growing to Green Intern](https://jobright.ai/jobs/info/6a3d6f8c4d047136e09338d7?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d6f244d047136e09338a8?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 25 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b4622395b6dc6d9d1ac?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Jun 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047c7ef3d6cc51d637f5a5?utm_campaign=1057&utm_source=git)** | Gallipolis, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a049304f3d6cc51d6380a6b?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, US | On Site | Jun 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047faf6c07461fe170d1f5?utm_campaign=1057&utm_source=git)** | Goshen, OH, US | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d5de078237a036d5e0ea9?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Technical Training Coordinator Intern](https://jobright.ai/jobs/info/6a3d1d9c882f121f56a36244?utm_campaign=1057&utm_source=git)** | Richmond, Virginia, United States of America | Hybrid | Jun 25 |
@@ -134,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01adfaeda6ff598d935?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bb?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Jun 25 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 25 |
-| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 25 |
+| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb7902d19201c7b0ea5?utm_campaign=1057&utm_source=git)** | US-AK-Juneau | On Site | Jun 25 |
+| ↳ | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a203fb8902d19201c7b0ea6?utm_campaign=1057&utm_source=git)** | Juneau, AK, US | On Site | Jun 25 |
 | **[CrossWinds Counseling & Wellness](https://crosswindsks.org)** | **[Training Intern](https://jobright.ai/jobs/info/6a3dc25e122f340d29cf1f5f?utm_campaign=1057&utm_source=git)** | Emporia, KS, US | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Program Intern - UNPAID](https://jobright.ai/jobs/info/6a3450f71232144fb155f5e5?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde04f63f733065b3e937?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Jun 24 |
