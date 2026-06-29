@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sustainable Waterloo Region](https://new.sustainablewaterlooregion.ca)** | **[Environmental Engagement Intern (Fall 2026 University Co-op)](https://jobright.ai/jobs/info/6a42dc4d6a9c2774b3fa7a52?utm_campaign=1057&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jun 29 |
+| **[North Park University](http://www.northpark.edu)** | **[Study Abroad Intern](https://jobright.ai/jobs/info/6a42d9e96faf756060968469?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 29 |
+| **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Patron Program](https://jobright.ai/jobs/info/6a42d8156c326942b4e84638?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | Jun 29 |
+| **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a42d7d8ff87fd527f985c41?utm_campaign=1057&utm_source=git)** | Fayetteville,NC,US | On Site | Jun 29 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Private Equity Summer Intern (MBA Required)](https://jobright.ai/jobs/info/6a42ca516faf756060967fa2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Evaluation Intern](https://jobright.ai/jobs/info/6a42c8166faf756060967f36?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Jun 29 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern](https://jobright.ai/jobs/info/6a42c2121cc9cc2b12fecbd8?utm_campaign=1057&utm_source=git)** | Brooklyn, New York, United States | On Site | Jun 29 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - General/Non-Invasive Cardiology - Chicago-12207](https://jobright.ai/jobs/info/6998dc0481476f6176b14430?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jun 28 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a41f35716b1493953284c93?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 28 |
-| **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 28 |
-| ↳ | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a4150a21afc66714d3cab11?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | Jun 28 |
+| **[Duke University](https://forge.duke.edu/)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a4150a21afc66714d3cab11?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | Hybrid | Jun 28 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 28 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a263b2fdedf78312c7b1661?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
 | **[Walter Technologies](https://www.waltertechnologies.com)** | **[LIVE PROJECT TRAINING/INTERNSHIP](https://jobright.ai/jobs/info/6a4058aa1afc66714d3c9eab?utm_campaign=1057&utm_source=git)** | Live Oak, CA | On Site | Jun 27 |
 | **[LJV](https://ljvdevelopment.com)** | **[Internship Program](https://jobright.ai/jobs/info/69cf1a11891d7b11cfcd000c?utm_campaign=1057&utm_source=git)** | Remote Worker - N/A | Remote | Jun 27 |
@@ -129,21 +133,21 @@ For a complete list, click the following sortable link below:
 | **[Framingham Public Schools](https://www.framingham.k12.ma.us)** | **[School Transportation Student Intern](https://jobright.ai/jobs/info/6a3d9fee8bfad862bc99dfd8?utm_campaign=1057&utm_source=git)** | Framingham, MA | On Site | Jun 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jun 25 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Transportation Student Intern](https://jobright.ai/jobs/info/6a3d91b4882f121f56a38213?utm_campaign=1057&utm_source=git)** | Framingham, Massachusetts | On Site | Jun 25 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 25 |
+| ↳ | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 25 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 25 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde097495006450952616?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
 | **[Franklin Park Conservatory and Botanical Gardens](https://www.fpconservatory.org/)** | **[Growing to Green Intern](https://jobright.ai/jobs/info/6a3d6f8c4d047136e09338d7?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d6f244d047136e09338a8?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 25 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047c7ef3d6cc51d637f5a5?utm_campaign=1057&utm_source=git)** | Gallipolis, OH, US | On Site | Jun 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047faf6c07461fe170d1f5?utm_campaign=1057&utm_source=git)** | Goshen, OH, US | On Site | Jun 25 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047faf6c07461fe170d1f5?utm_campaign=1057&utm_source=git)** | Goshen, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b4622395b6dc6d9d1ac?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a049304f3d6cc51d6380a6b?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, US | On Site | Jun 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047c7ef3d6cc51d637f5a5?utm_campaign=1057&utm_source=git)** | Gallipolis, OH, US | On Site | Jun 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d5de078237a036d5e0ea9?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Technical Training Coordinator Intern](https://jobright.ai/jobs/info/6a3d1d9c882f121f56a36244?utm_campaign=1057&utm_source=git)** | Richmond, Virginia, United States of America | Hybrid | Jun 25 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026-2027 Part-Time Grant Funded Community & Civic Engagement High School Intern @ Family & Community Engagement](https://jobright.ai/jobs/info/6a3d595778237a036d5e0cb8?utm_campaign=1057&utm_source=git)** | FAMILY & COMMUNITY ENGAGEMENT - Houston, Texas | On Site | Jun 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Community Health Education Intern](https://jobright.ai/jobs/info/69bc670f4828227293fe35b5?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Jun 25 |
 | **[Via](http://www.ridewithvia.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a209dbec00e701fe836a9b6?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Jun 25 |
 | ↳ | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a20a4faca8f0b365d7a278c?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Jun 25 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe081f63f733065b3efc8?utm_campaign=1057&utm_source=git)** | Falls Church, VA | On Site | Jun 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afe01adfaeda6ff598d935?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jun 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde2774950064509526bb?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Jun 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264f?utm_campaign=1057&utm_source=git)** | Eatonton, GA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
