@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Student-Athlete Development Intern](https://jobright.ai/jobs/info/6a442295105260150b720eba?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jun 30 |
 | **[AARP](http://www.aarp.org)** | **[Caregiving and Health Intern](https://jobright.ai/jobs/info/6a441593ef17a815538a2e0c?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Remote | Jun 30 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a3a9f34649fdf1629304e1e?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jun 30 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/6a440f57b156014e414bb4df?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Jun 30 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 30 |
 | **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jun 30 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | Jun 30 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
-| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a432ee64461bf091787a4bf?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
+| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jun 30 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jun 30 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | 1101 14th Street NW Suite 1100, Washington, D.C. | On Site | Jun 29 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US, 87106 | On Site | Jun 29 |
 | ↳ | **[Student Worker - Health & Wellness Intern -- IUP Dining - IUP - Admin Job Details / Aramark](https://jobright.ai/jobs/info/6a43135e6a9c2774b3fa845a?utm_campaign=1057&utm_source=git)** | Indiana, PA, US, 15705 | On Site | Jun 29 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | Jun 29 |
-| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a3cf6634d047136e0931e6a?utm_campaign=1057&utm_source=git)** | Mountain View, CA, US | On Site | Jun 29 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a3cf6634d047136e0931e6a?utm_campaign=1057&utm_source=git)** | Mountain View, CA, US | On Site | Jun 29 |
+| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | Jun 29 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs](https://jobright.ai/jobs/info/6a4309b56faf756060968e0c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
 | **[Orchard Farm School District](https://www.ofsd.k12.mo.us)** | **[Teaching Intern Opportunity - LindenTeach](https://jobright.ai/jobs/info/6a42f9191cc9cc2b12fed8f6?utm_campaign=1057&utm_source=git)** | Orchard Farm School District | On Site | Jun 29 |
 | **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a42d7d8ff87fd527f985c41?utm_campaign=1057&utm_source=git)** | Fayetteville,NC,US | On Site | Jun 29 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jun 28 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Social Work Internship External Field Instructor – Adjunct Faculty – College of Humanities and Social Sciences](https://jobright.ai/jobs/info/6a41f35716b1493953284c93?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 28 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 28 |
+| **[New York State Department of Civil Service](http://www.cs.ny.gov/)** | **[Training Assistant Student Internship](https://jobright.ai/jobs/info/6a0806188f3e371eb617c9b7?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jun 28 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a263b2fdedf78312c7b1661?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
 | **[LJV](https://ljvdevelopment.com)** | **[Internship Program](https://jobright.ai/jobs/info/69cf1a11891d7b11cfcd000c?utm_campaign=1057&utm_source=git)** | Remote Worker - N/A | Remote | Jun 27 |
 | **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a4048e6d528ac2915f96782?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Jun 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Child Welfare Supervisor Practicum Student](https://jobright.ai/jobs/info/6a21c6e27c30cc2cc516b3e1?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Jun 26 |
 | **[US Modules](https://usmodules.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a2189ba7c30cc2cc516967d?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jun 26 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c6?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jun 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69afde13749500645095264d?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Jun 26 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Commercial Banking Summer Internship - Early Careers (CA/CO)](https://jobright.ai/jobs/info/6a3e4bc1882f121f56a39c71?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
