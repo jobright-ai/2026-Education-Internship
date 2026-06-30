@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US, 87106 | On Site | Jun 29 |
+| ↳ | **[Student Worker - Health & Wellness Intern -- IUP Dining - IUP - Admin Job Details / Aramark](https://jobright.ai/jobs/info/6a43135e6a9c2774b3fa845a?utm_campaign=1057&utm_source=git)** | Indiana, PA, US, 15705 | On Site | Jun 29 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs](https://jobright.ai/jobs/info/6a4309b56faf756060968e0c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
 | **[Orchard Farm School District](https://www.ofsd.k12.mo.us)** | **[Teaching Intern Opportunity - LindenTeach](https://jobright.ai/jobs/info/6a42f9191cc9cc2b12fed8f6?utm_campaign=1057&utm_source=git)** | Orchard Farm School District | On Site | Jun 29 |
 | **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a42d7d8ff87fd527f985c41?utm_campaign=1057&utm_source=git)** | Fayetteville,NC,US | On Site | Jun 29 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Naturalist (Fall)](https://jobright.ai/jobs/info/6a42beb91cc9cc2b12fecb14?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Jun 29 |
 | ↳ | **[Intern - Archery/Hunting Naturalist (Fall)](https://jobright.ai/jobs/info/6a42be946a9c2774b3fa72ca?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Jun 29 |
 | **[Young STEAMers](https://www.youngsteamers.org/)** | **[Inspire the Next Generation of Scientists – Join Young STEAMers as a STEAM Instructor Intern](https://jobright.ai/jobs/info/6a42ba926c326942b4e83ef7?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Jun 29 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection, Safety Risk Programs](https://jobright.ai/jobs/info/6a42b86dff87fd527f9854a9?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
 | **[CED](http://www.cedcareers.com)** | **[Internship - KU](https://jobright.ai/jobs/info/6a42b596a5e15b1068379e0f?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jun 29 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Safety and Industrial Hygiene Programs](https://jobright.ai/jobs/info/6a4230721afc66714d3cbe4e?utm_campaign=1057&utm_source=git)** | Tempe, AZ, US | Hybrid | Jun 29 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Laborer Union Undergraduate Year Round -  Reapplication & Bus Services, Onsite](https://jobright.ai/jobs/info/6a429e49a5e15b10683798d9?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jun 29 |
@@ -136,10 +137,10 @@ For a complete list, click the following sortable link below:
 | **[Framingham Public Schools](https://www.framingham.k12.ma.us)** | **[School Transportation Student Intern](https://jobright.ai/jobs/info/6a3d9fee8bfad862bc99dfd8?utm_campaign=1057&utm_source=git)** | Framingham, MA | On Site | Jun 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe052dfaeda6ff598da0b?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jun 25 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Transportation Student Intern](https://jobright.ai/jobs/info/6a3d91b4882f121f56a38213?utm_campaign=1057&utm_source=git)** | Framingham, Massachusetts | On Site | Jun 25 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 25 |
-| ↳ | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 25 |
 | ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb19c07d4b6ae1c42843?utm_campaign=1057&utm_source=git)** | Dickson, Oklahoma, United States | On Site | Jun 25 |
-| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bb1dc07d4b6ae1c42846?utm_campaign=1057&utm_source=git)** | Ardmore, Oklahoma, United States | Hybrid | Jun 25 |
+| ↳ | **[Health Education Internship at Local Middle and High Schools](https://jobright.ai/jobs/info/6a29bbb21de59e0682a813f8?utm_campaign=1057&utm_source=git)** | Madill, Oklahoma, United States | On Site | Jun 25 |
+| ↳ | **[Health Education Internship](https://jobright.ai/jobs/info/6a3afa29797099171917cb05?utm_campaign=1057&utm_source=git)** | Dickson, OK, US | On Site | Jun 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afe03bdfaeda6ff598d9c2?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69afde097495006450952616?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jun 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69b14014548f140066e6e7a7?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jun 25 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d6f244d047136e09338a8?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 25 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b6bbc4184089f23b1d9?utm_campaign=1057&utm_source=git)** | Fayetteville, OH, US | On Site | Jun 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b4622395b6dc6d9d1ac?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a049304f3d6cc51d6380a6b?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, US | On Site | Jun 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047b4622395b6dc6d9d1ac?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047c7ef3d6cc51d637f5a5?utm_campaign=1057&utm_source=git)** | Gallipolis, OH, US | On Site | Jun 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a047faf6c07461fe170d1f5?utm_campaign=1057&utm_source=git)** | Goshen, OH, US | On Site | Jun 25 |
 | **[Lawyers'​ Committee for Civil Rights Under Law](https://lawyerscommittee.org)** | **[2026 Fall Undergraduate Intern](https://jobright.ai/jobs/info/6a3d5de078237a036d5e0ea9?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jun 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026-2027 Part-Time Grant Funded Community & Civic Engagement High School Intern @ Family & Community Engagement](https://jobright.ai/jobs/info/6a3d595778237a036d5e0cb8?utm_campaign=1057&utm_source=git)** | FAMILY & COMMUNITY ENGAGEMENT - Houston, Texas | On Site | Jun 25 |
 | **[University of North Texas at Dallas](https://www.untdallas.edu/)** | **[Student Leadership Success Program Intern](https://jobright.ai/jobs/info/6a3d584b8bfad862bc99c977?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Student Assistant - Intern (Undergrad)](https://jobright.ai/jobs/info/6a3d47994d047136e0932c73?utm_campaign=1057&utm_source=git)** | Saint Petersburg, FL, United States | On Site | Jun 25 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afde0cf63f733065b3e95b?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
