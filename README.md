@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of Alabama](https://jobright.ai/jobs/info/6a444007ef17a815538a388c?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Remote | Jun 30 |
+| **[PruittHealth](http://www.pruitthealth.com)** | **[PruittHealth Internship](https://jobright.ai/jobs/info/6a443f7c105260150b7216cb?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Jun 30 |
+| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Justice Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a443130ef17a815538a35ba?utm_campaign=1057&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Jun 30 |
 | **[Tecan](http://www.tecan.com)** | **[Training Content & Enablement Intern](https://jobright.ai/jobs/info/6a442a5765e80d3c99f2bdf3?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Education Intern (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a44295f0153061b8b3df939?utm_campaign=1057&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
 | ↳ | **[Greenville County Prevention Intern-Fall 2026 (Unpaid)](https://jobright.ai/jobs/info/6a4429580153061b8b3df936?utm_campaign=1057&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
@@ -76,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 30 |
 | **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jun 30 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | Jun 30 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a432ee64461bf091787a4bf?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
-| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
+| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jun 30 |
 | **[Englewood Schools](https://www.englewoodschools.net/)** | **[Student Teachers/Intern](https://jobright.ai/jobs/info/69eb4b61dc35f7132c4af5a0?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jun 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[ML Summer School ELEMENTARY Student Intern](https://jobright.ai/jobs/info/6a3ec6fbd261407de980470a?utm_campaign=1057&utm_source=git)** | LINCOLN ELEMENTARY SCHOOL - Springfield, Massachusetts | On Site | Jun 26 |
 | **[Touro College of Dental Medicine](http://dental.touro.edu/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a3ec3494d047136e09378b2?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | Jun 26 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Development Undergraduate Internship](https://jobright.ai/jobs/info/6a3ec11a882f121f56a3b37e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[University of Toronto - Woodsworth College](http://www.wdw.utoronto.ca/)** | **[Sessional Lecturer - CSC2703HY - Handling an Internship Offer module](https://jobright.ai/jobs/info/6a3eaffe4d047136e093743a?utm_campaign=1057&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 26 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/69afdde1f63f733065b3e8a7?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Jun 26 |
-| **[Salute](https://salute.com/)** | **[DoW SkillBridge Internship Program](https://jobright.ai/jobs/info/6a3ee7f478237a036d5e5eea?utm_campaign=1057&utm_source=git)** | Elk Grove Village, IL | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
