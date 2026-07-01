@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nuclear Waste Management Organization](https://www.nwmo.ca/)** | **[Developmental Student Intern - Corporate Communications](https://jobright.ai/jobs/info/6a455566971cd25b06f887c1?utm_campaign=1057&utm_source=git)** | Toronto | Hybrid | Jul 05 |
+| **[Tenaris](http://www.tenaris.com)** | **[TenarisUniversity / Training Internship Job Details / Tenaris](https://jobright.ai/jobs/info/6a32d0dd29c90c607e4d83d2?utm_campaign=1057&utm_source=git)** | Sault Ste Marie, Ontario, Canada | On Site | Jul 01 |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[Internship and Career Coordinator / Rebound Elevate & Goal - E](https://jobright.ai/jobs/info/6a457ac948d2f00f2a86db68?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 01 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Academic Support Program Intern](https://jobright.ai/jobs/info/6a45755748d2f00f2a86da55?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jul 01 |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6a0e017c09ecfd704b3e4dfa?utm_campaign=1057&utm_source=git)** | New York,NY,US | On Site | Jul 01 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[International Student Services Graduate Intern](https://jobright.ai/jobs/info/6a456b553dbab558e29a1360?utm_campaign=1057&utm_source=git)** | BYU–Hawaii, US | On Site | Jul 01 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a456c443dbab558e29a137e?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jul 01 |
 | **[Arizona State University](http://wpcarey.asu.edu)** | **[Junior Research Intern, Center on Reinventing Public Education](https://jobright.ai/jobs/info/6a456c343dbab558e29a137c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jul 01 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - Maryvale Village | On Site | Jul 01 |
 | ↳ | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - South of Airport | On Site | Jul 01 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a453cdf0dd56c76cc2f2b7b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
-| **[MESA Charter High School](http://mesacharter.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a4532d948d2f00f2a86cbde?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 01 |
 | **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/6a45284d971cd25b06f87ed4?utm_campaign=1057&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Jul 01 |
 | **[GG&G](https://www.gggaz.com)** | **[Fall Research Associate Internship - Invivotek - Credit Based](https://jobright.ai/jobs/info/6a4039669dd7f954cafe7e17?utm_campaign=1057&utm_source=git)** | Hamilton Township, NJ, USA | On Site | Jul 01 |
 | **[Fox Entertainment](http://www.fox.com/)** | **[Fall 2026 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6a0d1f08538d03366dc94466?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Youth Programming Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279516a9c2774b3fa61b3?utm_campaign=1057&utm_source=git)** | Elizabeth, NJ | On Site | Jun 29 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - General/Non-Invasive Cardiology - Chicago-12207](https://jobright.ai/jobs/info/6998dc0481476f6176b14430?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jun 28 |
-| **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jun 28 |
-| **[New York State Department of Civil Service](http://www.cs.ny.gov/)** | **[Training Assistant Student Internship](https://jobright.ai/jobs/info/6a0806188f3e371eb617c9b7?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
