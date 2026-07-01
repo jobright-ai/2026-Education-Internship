@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Institutes for Research](http://www.air.org/)** | **[Researcher Intern (PhD Students), National Center for Systemic Improvement](https://jobright.ai/jobs/info/6a446e48ef17a815538a402a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 30 |
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jun 30 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrator Intern, Elementary - BES (2026-2027 School Year)](https://jobright.ai/jobs/info/6a44453665e80d3c99f2c3da?utm_campaign=1057&utm_source=git)** | BLUESTONE ELEMENTARY - Harrisonburg, Virginia | On Site | Jun 30 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jun 30 |
 | **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jun 30 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | Jun 30 |
-| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
+| **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a432ee64461bf091787a4bf?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
 | ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jun 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sage](https://group.sagepub.com)** | **[Digital Learning Solutions Intern](https://jobright.ai/jobs/info/6a3ed25878237a036d5e5859?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jun 26 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Bryant Student Campus Coordinator - Intern](https://jobright.ai/jobs/info/6a3ed218ce7cce40b3421f65?utm_campaign=1057&utm_source=git)** | Smithfield, RI | On Site | Jun 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Organizational Learning (Fall 2026)](https://jobright.ai/jobs/info/6a3eccd6ce7cce40b3421e57?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 26 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[ML Summer School ELEMENTARY Student Intern](https://jobright.ai/jobs/info/6a3ec6fbd261407de980470a?utm_campaign=1057&utm_source=git)** | LINCOLN ELEMENTARY SCHOOL - Springfield, Massachusetts | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
