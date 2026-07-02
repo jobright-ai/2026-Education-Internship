@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a45f02d076271587529f21f?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jul 01 |
 | **[Space Exploration Academy (SEA) Foundation](https://seaedukation.wixsite.com/seafoundation)** | **[Student Intern: SEA Foundation Pilots](https://jobright.ai/jobs/info/6a45c7e9c2d11a6a4666a15e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 01 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a43a1f88208843cea1f23e5?utm_campaign=1057&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Jul 01 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jul 01 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jun 30 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrator Intern, Elementary - BES (2026-2027 School Year)](https://jobright.ai/jobs/info/6a44453665e80d3c99f2c3da?utm_campaign=1057&utm_source=git)** | BLUESTONE ELEMENTARY - Harrisonburg, Virginia | On Site | Jun 30 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of Alabama](https://jobright.ai/jobs/info/6a444007ef17a815538a388c?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Remote | Jun 30 |
-| **[PruittHealth](http://www.pruitthealth.com)** | **[PruittHealth Internship](https://jobright.ai/jobs/info/6a443f7c105260150b7216cb?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Jun 30 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Justice Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a443130ef17a815538a35ba?utm_campaign=1057&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Jun 30 |
 | **[Tecan](http://www.tecan.com)** | **[Training Content & Enablement Intern](https://jobright.ai/jobs/info/6a442a5765e80d3c99f2bdf3?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Education Intern (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a44295f0153061b8b3df939?utm_campaign=1057&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs](https://jobright.ai/jobs/info/6a4309b56faf756060968e0c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
 | **[Orchard Farm School District](https://www.ofsd.k12.mo.us)** | **[Teaching Intern Opportunity - LindenTeach](https://jobright.ai/jobs/info/6a42f9191cc9cc2b12fed8f6?utm_campaign=1057&utm_source=git)** | Orchard Farm School District | On Site | Jun 29 |
 | **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a42d7d8ff87fd527f985c41?utm_campaign=1057&utm_source=git)** | Fayetteville,NC,US | On Site | Jun 29 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a42f2926c326942b4e84c6d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Evaluation Intern](https://jobright.ai/jobs/info/6a430c78a5e15b106837b0f1?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Jun 29 |
 | **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Worker - Student Productions Intern - BC](https://jobright.ai/jobs/info/6a42ef0c6c326942b4e84ba4?utm_campaign=1057&utm_source=git)** | Waco, TX, United States | On Site | Jun 29 |
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Patron Program](https://jobright.ai/jobs/info/6a42d8156c326942b4e84638?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | Jun 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2026 Undergraduate Intern, Leadership and Planned Gifts - Development Team](https://jobright.ai/jobs/info/6a4298d61cc9cc2b12fec169?utm_campaign=1057&utm_source=git)** | Hybrid- New York, NY | Hybrid | Jun 29 |
 | ↳ | **[Fall 2026 Undergraduate Intern, Privacy and Data Governance](https://jobright.ai/jobs/info/6a4298d46a9c2774b3fa68ca?utm_campaign=1057&utm_source=git)** | Hybrid-NY | Hybrid | Jun 29 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/6a4296d96c326942b4e83540?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jun 29 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (Per Diem, Temporary)](https://jobright.ai/jobs/info/6a4295a06c326942b4e8350b?utm_campaign=1057&utm_source=git)** | Boston, US | Hybrid | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
