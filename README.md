@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern OP Clinic](https://jobright.ai/jobs/info/6a462a140dd56c76cc2f6eb8?utm_campaign=1057&utm_source=git)** | Primary Childrens at Taylorsville, US | On Site | Jul 02 |
 | **[Duke University](https://forge.duke.edu/)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[YMCA of Lincoln, Nebraska](http://www.ymcalincoln.org)** | **[Youth Development - Intern](https://jobright.ai/jobs/info/6a4621363dbab558e29a4362?utm_campaign=1057&utm_source=git)** | Lincoln,NE,US | On Site | Jul 02 |
@@ -103,14 +103,13 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of Houston](https://jobright.ai/jobs/info/6a453de0971cd25b06f88221?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Jul 01 |
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a3bab4ad261407de97fb004?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 01 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Bridgeport Refugee Youth Intern](https://jobright.ai/jobs/info/6a4477dc57ffc2202940763c?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jun 30 |
-| ↳ | **[RISE Program Intern](https://jobright.ai/jobs/info/6a4477d9b156014e414bc8bc?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jun 30 |
 | ↳ | **[New Haven Refugee Youth Intern](https://jobright.ai/jobs/info/6a4477d9b156014e414bc8bd?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jun 30 |
+| ↳ | **[RISE Program Intern](https://jobright.ai/jobs/info/6a4477d9b156014e414bc8bc?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jun 30 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Researcher Intern (PhD Students), National Center for Systemic Improvement](https://jobright.ai/jobs/info/6a446e48ef17a815538a402a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern with Security Clearance](https://jobright.ai/jobs/info/6a4546b23dbab558e29a0b8a?utm_campaign=1057&utm_source=git)** | Fayetteville, NC | On Site | Jun 30 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jun 30 |
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jun 30 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrator Intern, Elementary - BES (2026-2027 School Year)](https://jobright.ai/jobs/info/6a44453665e80d3c99f2c3da?utm_campaign=1057&utm_source=git)** | BLUESTONE ELEMENTARY - Harrisonburg, Virginia | On Site | Jun 30 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of Alabama](https://jobright.ai/jobs/info/6a444007ef17a815538a388c?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Remote | Jun 30 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Justice Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a443130ef17a815538a35ba?utm_campaign=1057&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Jun 30 |
 | **[Tecan](http://www.tecan.com)** | **[Training Content & Enablement Intern](https://jobright.ai/jobs/info/6a442a5765e80d3c99f2bdf3?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Safe Harbor](https://www.safeharborsc.org)** | **[Education Intern (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a44295f0153061b8b3df939?utm_campaign=1057&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jun 30 |
@@ -147,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Grace Church](http://www.visitgracechurch.com)** | **[Grace Kids Ministry Internship (Unpaid)](https://jobright.ai/jobs/info/6a432f84b0f2553559ece7ce?utm_campaign=1057&utm_source=git)** | KS | On Site | Jun 29 |
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | 1101 14th Street NW Suite 1100, Washington, D.C. | On Site | Jun 29 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US, 87106 | On Site | Jun 29 |
-| **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a3cf6634d047136e0931e6a?utm_campaign=1057&utm_source=git)** | Mountain View, CA, US | On Site | Jun 29 |
-| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | Jun 29 |
+| **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | Jun 29 |
+| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a3cf6634d047136e0931e6a?utm_campaign=1057&utm_source=git)** | Mountain View, CA, US | On Site | Jun 29 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Corporate Insurance, Fire Protection & Safety Risk Programs](https://jobright.ai/jobs/info/6a4309b56faf756060968e0c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Jun 29 |
 | **[Orchard Farm School District](https://www.ofsd.k12.mo.us)** | **[Teaching Intern Opportunity - LindenTeach](https://jobright.ai/jobs/info/6a42f9191cc9cc2b12fed8f6?utm_campaign=1057&utm_source=git)** | Orchard Farm School District | On Site | Jun 29 |
 | **[Obsidian Solutions Group](https://obsidiansg.com)** | **[SOF Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a42d7d8ff87fd527f985c41?utm_campaign=1057&utm_source=git)** | Fayetteville,NC,US | On Site | Jun 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York City Ballet](http://nycballet.com)** | **[Fall Intern - Patron Program](https://jobright.ai/jobs/info/6a42d8156c326942b4e84638?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | Jun 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Evaluation Intern](https://jobright.ai/jobs/info/6a42c8166faf756060967f36?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Jun 29 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern](https://jobright.ai/jobs/info/6a42c2121cc9cc2b12fecbd8?utm_campaign=1057&utm_source=git)** | Brooklyn, New York, United States | On Site | Jun 29 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Naturalist (Fall)](https://jobright.ai/jobs/info/6a42c0d41cc9cc2b12fecb82?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
