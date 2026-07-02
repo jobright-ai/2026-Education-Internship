@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Actuarial Internship - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a3443fb1232144fb155f17c?utm_campaign=1057&utm_source=git)** | Fairfield, OH | Hybrid | Jul 02 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Training Program Intern (Summer)](https://jobright.ai/jobs/info/6a46d0f74f64ba41dcb54fb9?utm_campaign=1057&utm_source=git)** | Fishkill,NY,US | On Site | Jul 02 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Idyllwild Arts Foundation](https://idyllwildarts.org)** | **[AEL - Arts Enterprise Laboratory Intern](https://jobright.ai/jobs/info/6a46b27f8204a812e98c9936?utm_campaign=1057&utm_source=git)** | Foundation Headquarters - IDYLLWILD, CA 92549 | On Site | Jul 02 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern OP Clinic](https://jobright.ai/jobs/info/6a462a140dd56c76cc2f6eb8?utm_campaign=1057&utm_source=git)** | Primary Childrens at Taylorsville, US | On Site | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
@@ -94,14 +95,13 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](https://global.asu.edu/edson-student-entrepreneur-initiative)** | **[Junior Research Intern, Center on Reinventing Public Education](https://jobright.ai/jobs/info/6a456c343dbab558e29a137c?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jul 01 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[International Student Services Graduate Intern](https://jobright.ai/jobs/info/6a456b553dbab558e29a1360?utm_campaign=1057&utm_source=git)** | BYU–Hawaii, US | On Site | Jul 01 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6a456c443dbab558e29a137e?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jul 01 |
-| **[Sedai Immigration Law Corporation](http://www.sedailaw.com)** | **[Canadian Immigration Articling Student (Intern)](https://jobright.ai/jobs/info/6a45670e3dbab558e29a12a2?utm_campaign=1057&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Jul 01 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4556f80dd56c76cc2f316a?utm_campaign=1057&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
 | **[Life.Church](http://www.life.church)** | **[Life.Church Campus Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e6c?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jul 01 |
 | **[Carroll School](http://www.carrollschool.org/)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/69efe2ad0a6e095553057d58?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jul 01 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a454181971cd25b06f88317?utm_campaign=1057&utm_source=git)** | Alexandria, VA, US | On Site | Jul 01 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Community Outreach & Education DuPage](https://jobright.ai/jobs/info/6a2795b6fd37e62bb47a5080?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Jul 01 |
-| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - South of Airport | On Site | Jul 01 |
-| ↳ | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - Maryvale Village | On Site | Jul 01 |
+| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - Maryvale Village | On Site | Jul 01 |
+| ↳ | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - South of Airport | On Site | Jul 01 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a453cdf0dd56c76cc2f2b7b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/6a45284d971cd25b06f87ed4?utm_campaign=1057&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Jul 01 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jul 01 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jun 30 |
 | **[Hexcel Corporation](http://hexcel.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69f4d56012f2811ab5a61634?utm_campaign=1057&utm_source=git)** | USA - UT - Salt Lake City Fibers, US | On Site | Jun 30 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
-| ↳ | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df89bf1751b183c81bb75?utm_campaign=1057&utm_source=git)** | Meriden, CT, USA | On Site | Jun 30 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jun 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | 1101 14th Street NW Suite 1100, Washington, D.C. | On Site | Jun 29 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US, 87106 | On Site | Jun 29 |
 | **[NewsBreak](http://www.newsbreak.com)** | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a1653d6a429fd279da97a40?utm_campaign=1057&utm_source=git)** | Mountain View, California, United States | On Site | Jun 29 |
+| ↳ | **[Research Intern, Agent RL Training](https://jobright.ai/jobs/info/6a3cf6634d047136e0931e6a?utm_campaign=1057&utm_source=git)** | Mountain View, CA, US | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
