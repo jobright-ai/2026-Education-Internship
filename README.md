@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE) Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6a47b159971cd25b06f928b7?utm_campaign=1057&utm_source=git)** | Newport News, Virginia, United States | On Site | Jul 03 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a47a72ac2d11a6a46672c94?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, US | On Site | Jul 03 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[Master's Level Clinical Training & Development Internship](https://jobright.ai/jobs/info/6a3573e529c90c607e4e2485?utm_campaign=1057&utm_source=git)** | Bristol, CT 06010, USA | On Site | Jul 03 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Intern](https://jobright.ai/jobs/info/6a475e3fc2d11a6a46672284?utm_campaign=1057&utm_source=git)** | Armada, MI | On Site | Jul 03 |
@@ -76,21 +77,21 @@ For a complete list, click the following sortable link below:
 | **[Idyllwild Arts Foundation](https://idyllwildarts.org)** | **[AEL - Arts Enterprise Laboratory Intern](https://jobright.ai/jobs/info/6a46b27f8204a812e98c9936?utm_campaign=1057&utm_source=git)** | Foundation Headquarters - IDYLLWILD, CA 92549 | On Site | Jul 02 |
 | **[Plymouth State University](http://www.plymouth.edu/)** | **[Student Life Summer Intern](https://jobright.ai/jobs/info/6a46acebc2d11a6a466700ba?utm_campaign=1057&utm_source=git)** | Plymouth, NH | On Site | Jul 02 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d449f654b3359cf2eac?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
 | ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae27?utm_campaign=1057&utm_source=git)** | Tolleson, Arizona, United States | Hybrid | Jul 02 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
 | **[Sierra Club](http://sierraclub.org)** | **[Florida Green Schools Intern](https://jobright.ai/jobs/info/6a46a82c8204a812e98c95ab?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Study Abroad Intern](https://jobright.ai/jobs/info/6a46a6828204a812e98c9531?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Programming and Event Planning](https://jobright.ai/jobs/info/6a46973b4f64ba41dcb540f3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6a4676ba971cd25b06f8ec21?utm_campaign=1057&utm_source=git)** | Waltham | On Site | Jul 02 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[2026 - 27 SCHOOL PSYCHOLOGIST INTERN](https://jobright.ai/jobs/info/6a466e093dbab558e29a70b4?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern OP Clinic](https://jobright.ai/jobs/info/6a462a140dd56c76cc2f6eb8?utm_campaign=1057&utm_source=git)** | Primary Childrens at Taylorsville, US | On Site | Jul 02 |
 | **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern](https://jobright.ai/jobs/info/6a464cf3c2d11a6a4666d8d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[AIC Internship-Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/6a2df8a1f1751b183c81bb79?utm_campaign=1057&utm_source=git)** | New Britain, CT, USA | On Site | Jun 30 |
 | **[City of Richmond Hill](https://www.richmondhill.ca/)** | **[Aquatic Employment (Hiring Fall 2026 - Spring 2027) Job Details / Richmond Hill](https://jobright.ai/jobs/info/69a8b90c79f3f4037f43219e?utm_campaign=1057&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 30 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 30 |
-| **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
