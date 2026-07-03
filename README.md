@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a45f02d076271587529f21f?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jul 02 |
 | **[Mission Edge](https://www.missionedge.org)** | **[Fall Internship Opportunity at Includ(Ed)](https://jobright.ai/jobs/info/6a346ecc7f3fdd180d4ca88d?utm_campaign=1057&utm_source=git)** | San Diego | On Site | Jul 02 |
+| **[Acterra](https://www.acterra.org)** | **[Youth Education Intern](https://jobright.ai/jobs/info/6a470a9b971cd25b06f9116f?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Actuarial Internship - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a3443fb1232144fb155f17c?utm_campaign=1057&utm_source=git)** | Fairfield, OH | Hybrid | Jul 02 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Training Program Intern (Summer)](https://jobright.ai/jobs/info/6a46d0f74f64ba41dcb54fb9?utm_campaign=1057&utm_source=git)** | Fishkill,NY,US | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Youth Programming Intern (Unpaid)](https://jobright.ai/jobs/info/6a4279516a9c2774b3fa61b3?utm_campaign=1057&utm_source=git)** | Elizabeth, NJ | On Site | Jul 02 |
@@ -70,19 +72,18 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Programming and Event Planning](https://jobright.ai/jobs/info/6a46973b4f64ba41dcb540f3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6a4676ba971cd25b06f8ec21?utm_campaign=1057&utm_source=git)** | Waltham | On Site | Jul 02 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[2026 - 27 SCHOOL PSYCHOLOGIST INTERN](https://jobright.ai/jobs/info/6a466e093dbab558e29a70b4?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern OP Clinic](https://jobright.ai/jobs/info/6a462a140dd56c76cc2f6eb8?utm_campaign=1057&utm_source=git)** | Primary Childrens at Taylorsville, US | On Site | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern](https://jobright.ai/jobs/info/6a464cf3c2d11a6a4666d8d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jul 02 |
 | **[YMCA of Lincoln, Nebraska](http://www.ymcalincoln.org)** | **[Youth Development - Intern](https://jobright.ai/jobs/info/6a4621363dbab558e29a4362?utm_campaign=1057&utm_source=git)** | Lincoln,NE,US | On Site | Jul 02 |
 | **[Lake Elsinore Unified School District](https://www.leusd.k12.ca.us)** | **[Teacher, SDC Mod/Severe (K - 2nd Grade) - WCE ** Intern Eligible**](https://jobright.ai/jobs/info/6a4694d73dbab558e29a7b95?utm_campaign=1057&utm_source=git)** | Lake Elsinore, CA | On Site | Jul 02 |
-| **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Summer 2026](https://jobright.ai/jobs/info/6a45f02d076271587529f21f?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jul 01 |
 | **[Space Exploration Academy (SEA) Foundation](https://seaedukation.wixsite.com/seafoundation)** | **[Student Intern: SEA Foundation Pilots](https://jobright.ai/jobs/info/6a45c7e9c2d11a6a4666a15e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 01 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jul 01 |
 | **[Pueblo Of Sandia](https://www.linkedin.com/company/4587058)** | **[TIWA LANGUAGE TEACHER INTERN](https://jobright.ai/jobs/info/6a330733f6b55d12c7917669?utm_campaign=1057&utm_source=git)** | Bernalillo, NM 87004 | On Site | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Beech Brook](https://beechbrook.org)** | **[Internship Programs](https://jobright.ai/jobs/info/6a433007cbf92c7bcd36e83d?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jun 29 |
 | **[Grace Church](http://www.visitgracechurch.com)** | **[Grace Kids Ministry Internship (Unpaid)](https://jobright.ai/jobs/info/6a432f84b0f2553559ece7ce?utm_campaign=1057&utm_source=git)** | KS | On Site | Jun 29 |
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | 1101 14th Street NW Suite 1100, Washington, D.C. | On Site | Jun 29 |
-| **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, US, 87106 | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
