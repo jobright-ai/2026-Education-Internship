@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[F15E Virtual Instructor Pilot (SkillBridge Intern) Job Details / HII's Mission Technologies division](https://jobright.ai/jobs/info/6a4902323dbab558e29ad7a2?utm_campaign=1057&utm_source=git)** | Nellis AFB, NV, Nevada, United States | On Site | Jul 04 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, NextGen Programs-Remote](https://jobright.ai/jobs/info/6a398f6c06a4fd4b1fabacb6?utm_campaign=1057&utm_source=git)** | Dallas, TX, US | Remote | Jul 04 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com)** | **[Training Program Intern (Summer)](https://jobright.ai/jobs/info/6a46d0f74f64ba41dcb54fb9?utm_campaign=1057&utm_source=git)** | Fishkill,NY,US | On Site | Jul 03 |
 | **[Arizona State University](http://wpcarey.asu.edu)** | **[Management Intern- WorkLearn](https://jobright.ai/jobs/info/6a486e78f9cbb100d1ab289e?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jul 03 |
+| **[ICON plc](https://www.iconplc.com)** | **[Excel Intern- Clinical Operations](https://jobright.ai/jobs/info/6a2b5dc30ad4053b108cc0a0?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/6a4734fc8204a812e98cb3db?utm_campaign=1057&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Education Intern - Lady Bird Johnson Wildflower Center](https://jobright.ai/jobs/info/6a47d4983dbab558e29ab434?utm_campaign=1057&utm_source=git)** | JOHNSON WILDFLOWER CENTER, United States of America | On Site | Jul 03 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Foster Youth Mentoring Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/6a47cba2971cd25b06f92b6e?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Jul 03 |
@@ -97,9 +99,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[MSW Intern OP Clinic](https://jobright.ai/jobs/info/6a462a140dd56c76cc2f6eb8?utm_campaign=1057&utm_source=git)** | Primary Childrens at Taylorsville, US | On Site | Jul 02 |
 | **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern](https://jobright.ai/jobs/info/6a464cf3c2d11a6a4666d8d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jul 02 |
 | **[Lake Elsinore Unified School District](https://www.leusd.k12.ca.us)** | **[Teacher, SDC Mod/Severe (K - 2nd Grade) - WCE ** Intern Eligible**](https://jobright.ai/jobs/info/6a4694d73dbab558e29a7b95?utm_campaign=1057&utm_source=git)** | Lake Elsinore, CA | On Site | Jul 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of North Texas at Dallas](https://www.untdallas.edu/)** | **[Student Leadership Success Program Intern- Internal](https://jobright.ai/jobs/info/6a43f6edb156014e414bafc2?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
 | **[Orlando Youth Chamber Ensembles (OYCE)](www.oyce.org)** | **[OYCE Internship Program](https://jobright.ai/jobs/info/6a4458f9105260150b721b6d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jun 30 |
 | **[Illinois College](http://www.ic.edu/)** | **[ST Admissions Office Student Intern 2026/2027](https://jobright.ai/jobs/info/6a43f2a365e80d3c99f2afdc?utm_campaign=1057&utm_source=git)** | Illinois College - Jacksonville, IL 62650 | On Site | Jun 30 |
-| **[Colorado Legal Services](http://www.coloradolegalservices.org/)** | **[Undergraduate Student Internship - Denver Volunteer Program](https://jobright.ai/jobs/info/6a43f1c9105260150b72041f?utm_campaign=1057&utm_source=git)** | Denver, Colorado, United States | On Site | Jun 30 |
-| **[Film Pittsburgh](http://www.FilmPittsburgh.org)** | **[Spring Teen Screen Internship](https://jobright.ai/jobs/info/6a43ed60b156014e414bacc5?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
