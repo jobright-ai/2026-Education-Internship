@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a3a9f34649fdf1629304e1e?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jul 05 |
 | **[Qalam](https://www.qalam.institute)** | **[Academy Intern](https://jobright.ai/jobs/info/6a4a317f4f64ba41dcb5af6c?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | Jul 05 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac1a649fdf16292f9ee4?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 05 |
@@ -95,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jul 02 |
 | **[Idyllwild Arts Foundation](https://idyllwildarts.org)** | **[AEL - Arts Enterprise Laboratory Intern](https://jobright.ai/jobs/info/6a46b27f8204a812e98c9936?utm_campaign=1057&utm_source=git)** | Foundation Headquarters - IDYLLWILD, CA 92549 | On Site | Jul 02 |
 | **[Plymouth State University](http://www.plymouth.edu/)** | **[Student Life Summer Intern](https://jobright.ai/jobs/info/6a46acebc2d11a6a466700ba?utm_campaign=1057&utm_source=git)** | Plymouth, NH | On Site | Jul 02 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae27?utm_campaign=1057&utm_source=git)** | Tolleson, Arizona, United States | Hybrid | Jul 02 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
 | ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d449f654b3359cf2eac?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae27?utm_campaign=1057&utm_source=git)** | Tolleson, Arizona, United States | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Study Abroad Intern](https://jobright.ai/jobs/info/6a46a6828204a812e98c9531?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Programming and Event Planning](https://jobright.ai/jobs/info/6a46973b4f64ba41dcb540f3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrator Intern, Elementary - BES (2026-2027 School Year)](https://jobright.ai/jobs/info/6a44453665e80d3c99f2c3da?utm_campaign=1057&utm_source=git)** | BLUESTONE ELEMENTARY - Harrisonburg, Virginia | On Site | Jun 30 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a4979aa3dbab558e29ae248?utm_campaign=1057&utm_source=git)** | Allentown, PA, United States of America | On Site | Jun 30 |
 | **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Justice Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a443130ef17a815538a35ba?utm_campaign=1057&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Jun 30 |
-| **[Tecan](http://www.tecan.com)** | **[Training Content & Enablement Intern](https://jobright.ai/jobs/info/6a442a5765e80d3c99f2bdf3?utm_campaign=1057&utm_source=git)** | United States | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
