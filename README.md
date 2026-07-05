@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Education - K-12 Initiatives Internship](https://jobright.ai/jobs/info/6a3c71828bfad862bc99a6fc?utm_campaign=1057&utm_source=git)** | New York City, NY | On Site | Jul 05 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Mid Rio Grande Valley](https://jobright.ai/jobs/info/6a4a6585971cd25b06f9649d?utm_campaign=1057&utm_source=git)** | WESLACO, TEXAS | On Site | Jul 05 |
 | **[Crown College](http://www.crown.edu/)** | **[Current Crown College Student Position- AI Intern, Curriculum Support Team](https://jobright.ai/jobs/info/6a3a9f34649fdf1629304e1e?utm_campaign=1057&utm_source=git)** | Saint Bonifacius, MN 55375, USA | On Site | Jul 05 |
 | **[Qalam](https://www.qalam.institute)** | **[Academy Intern](https://jobright.ai/jobs/info/6a4a317f4f64ba41dcb5af6c?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | Jul 05 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jul 02 |
 | **[Idyllwild Arts Foundation](https://idyllwildarts.org)** | **[AEL - Arts Enterprise Laboratory Intern](https://jobright.ai/jobs/info/6a46b27f8204a812e98c9936?utm_campaign=1057&utm_source=git)** | Foundation Headquarters - IDYLLWILD, CA 92549 | On Site | Jul 02 |
 | **[Plymouth State University](http://www.plymouth.edu/)** | **[Student Life Summer Intern](https://jobright.ai/jobs/info/6a46acebc2d11a6a466700ba?utm_campaign=1057&utm_source=git)** | Plymouth, NH | On Site | Jul 02 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d449f654b3359cf2eac?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae26?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
 | ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae27?utm_campaign=1057&utm_source=git)** | Tolleson, Arizona, United States | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Study Abroad Intern](https://jobright.ai/jobs/info/6a46a6828204a812e98c9531?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jul 02 |
@@ -106,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6a4676ba971cd25b06f8ec21?utm_campaign=1057&utm_source=git)** | Waltham | On Site | Jul 02 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[2026 - 27 SCHOOL PSYCHOLOGIST INTERN](https://jobright.ai/jobs/info/6a466e093dbab558e29a70b4?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Carroll School](http://www.carrollschool.org/)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/69efe2ad0a6e095553057d58?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jul 01 |
 | **[KWC CPAs](https://www.kwccpa.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a454181971cd25b06f88317?utm_campaign=1057&utm_source=git)** | Alexandria, VA, US | On Site | Jul 01 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Domestic Violence Community Outreach & Education DuPage](https://jobright.ai/jobs/info/6a2795b6fd37e62bb47a5080?utm_campaign=1057&utm_source=git)** | Wheaton, IL | On Site | Jul 01 |
-| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - Maryvale Village | On Site | Jul 01 |
-| ↳ | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - South of Airport | On Site | Jul 01 |
+| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - South of Airport | On Site | Jul 01 |
+| ↳ | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6a453d163dbab558e29a08d7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ - Maryvale Village | On Site | Jul 01 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[Program Administration Intern](https://jobright.ai/jobs/info/6a453cdf0dd56c76cc2f2b7b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/6a45284d971cd25b06f87ed4?utm_campaign=1057&utm_source=git)** | HQ - Philadelphia, PA 19106 | On Site | Jul 01 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69f0c49c62b48c683879138d?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jul 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jun 30 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Administrator Intern, Elementary - BES (2026-2027 School Year)](https://jobright.ai/jobs/info/6a44453665e80d3c99f2c3da?utm_campaign=1057&utm_source=git)** | BLUESTONE ELEMENTARY - Harrisonburg, Virginia | On Site | Jun 30 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a4979aa3dbab558e29ae248?utm_campaign=1057&utm_source=git)** | Allentown, PA, United States of America | On Site | Jun 30 |
-| **[Council for Court Excellence](http://www.courtexcellence.org/)** | **[Justice Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a443130ef17a815538a35ba?utm_campaign=1057&utm_source=git)** | 999 E St NW, Washington, DC 20463, USA | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
