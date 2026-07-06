@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Standard Chartered](https://www.sc.com)** | **[Transaction Services Internship Programme US 2027](https://jobright.ai/jobs/info/6a4bf4d6c2d11a6a4667963c?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jul 06 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Diagnostician Intern (Unpaid)](https://jobright.ai/jobs/info/6a4bd9e04eb370649b27b3f5?utm_campaign=1057&utm_source=git)** | Texans Can Academies - Central Administration, 325 W. 12th Street, Dallas TX 75208 - Dallas, Texas | On Site | Jul 06 |
+| **[Texans Can Academies](http://www.texanscan.org)** | **[Diagnostician Intern (Unpaid)](https://jobright.ai/jobs/info/6a4bfc634eb370649b27bcfb?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 06 |
 | **[Sedai Immigration Law Corporation](http://www.sedailaw.com)** | **[Canadian Immigration Articling Student (Intern)](https://jobright.ai/jobs/info/6a4bce895d7b097d2df3e38d?utm_campaign=1057&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Jul 06 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Kids Ministry Intern](https://jobright.ai/jobs/info/6a2682dbf7fb48017f2bc716?utm_campaign=1057&utm_source=git)** | Excelsior,MN,US | On Site | Jul 06 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Bryant Student Campus Coordinator](https://jobright.ai/jobs/info/6a4622d23dbab558e29a4636?utm_campaign=1057&utm_source=git)** | 1005 Douglas Pike, Smithfield, RI, United States | On Site | Jul 06 |
@@ -113,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) (Student Assistant)](https://jobright.ai/jobs/info/69f118ce8feca91f1491e8d6?utm_campaign=1057&utm_source=git)** | Conway, SC | On Site | Jul 02 |
 | **[Idyllwild Arts Foundation](https://idyllwildarts.org)** | **[AEL - Arts Enterprise Laboratory Intern](https://jobright.ai/jobs/info/6a46b27f8204a812e98c9936?utm_campaign=1057&utm_source=git)** | Foundation Headquarters - IDYLLWILD, CA 92549 | On Site | Jul 02 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae26?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 02 |
 | ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae27?utm_campaign=1057&utm_source=git)** | Tolleson, Arizona, United States | Hybrid | Jul 02 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae26?utm_campaign=1057&utm_source=git)** | Chandler, Arizona, United States | On Site | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Study Abroad Intern](https://jobright.ai/jobs/info/6a46a6828204a812e98c9531?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Information Technology Intern - Summer 2026 - Hybrid](https://jobright.ai/jobs/info/6a444a36ef17a815538a3af0?utm_campaign=1057&utm_source=git)** | Sacramento, CA 95819, USA | Hybrid | Jul 02 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[STAR Intern - Programming and Event Planning](https://jobright.ai/jobs/info/6a46973b4f64ba41dcb540f3?utm_campaign=1057&utm_source=git)** | St. Paul, MN, US | On Site | Jul 02 |
@@ -125,10 +127,10 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab75d3ec8317fe13fbc0?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc3?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Undergraduate](https://jobright.ai/jobs/info/6a29ab77d3ec8317fe13fbc4?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern](https://jobright.ai/jobs/info/6a464cf3c2d11a6a4666d8d2?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jul 02 |
 | **[Rally Enterprises](http://www.rallycamps.com/)** | **[Paid Baseball Internship in Danville, CA June 8-12](https://jobright.ai/jobs/info/6a420c5f3bfa967791ec1e07?utm_campaign=1057&utm_source=git)** | Danville, CA, 94526, US | On Site | Jul 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[RISE Program Intern](https://jobright.ai/jobs/info/6a4a18f74f64ba41dcb5ae21?utm_campaign=1057&utm_source=git)** | New Haven, CT, US | On Site | Jul 01 |
 | ↳ | **[Bridgeport Refugee Youth Intern](https://jobright.ai/jobs/info/6a4a1904f9cbb100d1ab4717?utm_campaign=1057&utm_source=git)** | Bridgeport, CT, US | On Site | Jul 01 |
 | ↳ | **[Internship - Refugee Program for Initial Resettlement](https://jobright.ai/jobs/info/6a45f693971cd25b06f8add6?utm_campaign=1057&utm_source=git)** | Bridgeport, CT, US | On Site | Jul 01 |
-| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern at University of South Carolina](https://jobright.ai/jobs/info/6a453de2971cd25b06f88222?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Jul 01 |
-| **[State of Indiana](https://www.in.gov)** | **[Innovation Intern Job Details / State of Indiana](https://jobright.ai/jobs/info/6a450c058206850566059fa2?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US, 46204 | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
