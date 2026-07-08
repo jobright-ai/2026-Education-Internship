@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[2026 - 27 SCHOOL PSYCHOLOGIST INTERN](https://jobright.ai/jobs/info/6a466e093dbab558e29a70b4?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 02 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS USA, United States of America | On Site | Jul 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eaed3ec8317fe13f5c7?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, US | On Site | Jul 02 |
-| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086c?utm_campaign=1057&utm_source=git)** | Space Coast, FL, US | On Site | Jul 02 |
 | ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a299eabd3ec8317fe13f5c0?utm_campaign=1057&utm_source=git)** | Denver, CO, US | On Site | Jul 02 |
+| ↳ | **[Spring 2027 Return Internship - Graduate](https://jobright.ai/jobs/info/6a29a02e1de59e0682a8086d?utm_campaign=1057&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
