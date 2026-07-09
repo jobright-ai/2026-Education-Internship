@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[High School Student Intern I (Ventura HS & Pacific HS)](https://jobright.ai/jobs/info/6a4fbeab397d8d353c28c57e?utm_campaign=1057&utm_source=git)** | Ventura, CA, United States | On Site | Jul 09 |
-| **[One To World](https://onetoworld.org)** | **[Global Classroom Intern](https://jobright.ai/jobs/info/6a4fb99efc327f422fef633e?utm_campaign=1057&utm_source=git)** | New York City Metropolitan Area, United States | Hybrid | Jul 09 |
 | **[The Miami Foundation](http://miamifoundation.org)** | **[Student Engagement/Scholarships Intern](https://jobright.ai/jobs/info/6a4fb6d84649561ec08aeac6?utm_campaign=1057&utm_source=git)** | FL, United States | On Site | Jul 09 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern (Economic Development)](https://jobright.ai/jobs/info/6a4fcd2ef57ed168c3416c43?utm_campaign=1057&utm_source=git)** | Carlsbad, CA, United States | On Site | Jul 09 |
+| ↳ | **[High School Student Intern I (Ventura HS & Pacific HS)](https://jobright.ai/jobs/info/6a4fbeab397d8d353c28c57e?utm_campaign=1057&utm_source=git)** | Ventura, CA, United States | On Site | Jul 09 |
+| **[One To World](https://onetoworld.org)** | **[Global Classroom Intern](https://jobright.ai/jobs/info/6a4fb99efc327f422fef633e?utm_campaign=1057&utm_source=git)** | New York City Metropolitan Area, United States | Hybrid | Jul 09 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Foster Care- Multi-Disciplinary Team Practicum Student](https://jobright.ai/jobs/info/6a4fb3baf57ed168c3416676?utm_campaign=1057&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 09 |
 | **[Seattle Pacific University](http://www.spu.edu/)** | **[Division of Education Intern Supervisor (Adjunct Faculty)](https://jobright.ai/jobs/info/6a4fb077397d8d353c28c25e?utm_campaign=1057&utm_source=git)** | Main Campus, United States of America | On Site | Jul 09 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/6a3f314d882f121f56a3cb3a?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, United States | On Site | Jul 09 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/6a2dd4abfc0644749054cdaa?utm_campaign=1057&utm_source=git)** | TARRYTOWN, United States of America | On Site | Jul 09 |
 | **[Maven Clinic](http://www.mavenclinic.com)** | **[Clinical Quality Intern](https://jobright.ai/jobs/info/6a4faa9efc327f422fef5f29?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 09 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 09 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 09 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 09 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jul 09 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jul 09 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 09 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a32f3e329c90c607e4d93a5?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jul 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Supply Chain Management (Summer 2027)](https://jobright.ai/jobs/info/6a2f7231eace377055eb2d31?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Goddard Riverside](https://goddard.org)** | **[Internship Specialist (Learning to Work)](https://jobright.ai/jobs/info/6a4f79cffc327f422fef5896?utm_campaign=1057&utm_source=git)** | Learning to Work - New York, NY 10025 | On Site | Jul 09 |
@@ -104,31 +105,31 @@ For a complete list, click the following sortable link below:
 | **[Kerecis](http://www.kerecis.com)** | **[MSKA Operations Intern](https://jobright.ai/jobs/info/6a4cfe8c99523700cbff3ef0?utm_campaign=1057&utm_source=git)** | Arlington County, VA, United States | On Site | Jul 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 Summer Associate Internship – Global Markets, Quantitative Research & Trading](https://jobright.ai/jobs/info/69fb105987a4820e6da84622?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Community-Engaged Learning](https://jobright.ai/jobs/info/6a3a912b06a4fd4b1fabdc84?utm_campaign=1057&utm_source=git)** | Norfolk, VA, United States | On Site | Jul 08 |
-| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacc?utm_campaign=1057&utm_source=git)** | Clarion County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad3?utm_campaign=1057&utm_source=git)** | Potter County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac8?utm_campaign=1057&utm_source=git)** | Centre County, US | On Site | Jul 08 |
+| **[Penn State University](http://psu.edu)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cace?utm_campaign=1057&utm_source=git)** | York County, US | On Site | Jul 08 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb7?utm_campaign=1057&utm_source=git)** | Indiana County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb6?utm_campaign=1057&utm_source=git)** | Centre County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cacb?utm_campaign=1057&utm_source=git)** | Lehigh County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad0?utm_campaign=1057&utm_source=git)** | Lancaster County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339c?utm_campaign=1057&utm_source=git)** | Adams County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad2?utm_campaign=1057&utm_source=git)** | Susquehanna County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780c6c07461fe170cad6?utm_campaign=1057&utm_source=git)** | Lycoming County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac8?utm_campaign=1057&utm_source=git)** | Centre County, US | On Site | Jul 08 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780c6c07461fe170cad7?utm_campaign=1057&utm_source=git)** | Montgomery County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac9?utm_campaign=1057&utm_source=git)** | Mercer County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad4?utm_campaign=1057&utm_source=git)** | Snyder County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacf?utm_campaign=1057&utm_source=git)** | Bradford County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e837ae2a534885ea3384?utm_campaign=1057&utm_source=git)** | Mercer County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacd?utm_campaign=1057&utm_source=git)** | Off Campus - Other, US | Remote | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb8?utm_campaign=1057&utm_source=git)** | Bradford County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb5?utm_campaign=1057&utm_source=git)** | Lehigh County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cb?utm_campaign=1057&utm_source=git)** | Susquehanna County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339b?utm_campaign=1057&utm_source=git)** | Potter County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cace?utm_campaign=1057&utm_source=git)** | York County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac7?utm_campaign=1057&utm_source=git)** | Columbia County, US | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cc?utm_campaign=1057&utm_source=git)** | Columbia County | On Site | Jul 08 |
-| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cd?utm_campaign=1057&utm_source=git)** | Snyder County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb6?utm_campaign=1057&utm_source=git)** | Centre County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780c6c07461fe170cad6?utm_campaign=1057&utm_source=git)** | Lycoming County, US | On Site | Jul 08 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb4?utm_campaign=1057&utm_source=git)** | Berks County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacd?utm_campaign=1057&utm_source=git)** | Off Campus - Other, US | Remote | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e837ae2a534885ea3384?utm_campaign=1057&utm_source=git)** | Mercer County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad2?utm_campaign=1057&utm_source=git)** | Susquehanna County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacc?utm_campaign=1057&utm_source=git)** | Clarion County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cd?utm_campaign=1057&utm_source=git)** | Snyder County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb5?utm_campaign=1057&utm_source=git)** | Lehigh County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad4?utm_campaign=1057&utm_source=git)** | Snyder County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cb?utm_campaign=1057&utm_source=git)** | Susquehanna County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e832ad360c0340a7f9cc?utm_campaign=1057&utm_source=git)** | Columbia County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cacb?utm_campaign=1057&utm_source=git)** | Lehigh County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cacf?utm_campaign=1057&utm_source=git)** | Bradford County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339c?utm_campaign=1057&utm_source=git)** | Adams County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac9?utm_campaign=1057&utm_source=git)** | Mercer County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e956a8ac8e70ff670eb8?utm_campaign=1057&utm_source=git)** | Bradford County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/69b2e840ae2a534885ea339b?utm_campaign=1057&utm_source=git)** | Potter County | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad0?utm_campaign=1057&utm_source=git)** | Lancaster County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780a6c07461fe170cac7?utm_campaign=1057&utm_source=git)** | Columbia County, US | On Site | Jul 08 |
+| ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a04780b6c07461fe170cad3?utm_campaign=1057&utm_source=git)** | Potter County, US | On Site | Jul 08 |
 | ↳ | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a0478126c07461fe170cad9?utm_campaign=1057&utm_source=git)** | Adams County, US | On Site | Jul 08 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Jul 08 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL, United States | On Site | Jul 07 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Development Undergraduate Internship](https://jobright.ai/jobs/info/6a3ec11a882f121f56a3b37e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[Long Island Rough Riders](https://liroughriders.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6a4d7d72c643fd23fed3d3df?utm_campaign=1057&utm_source=git)** | Uniondale, NY, United States | On Site | Jul 07 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 07 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 07 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student/Intern - Infectious Diseases](https://jobright.ai/jobs/info/6a4dac0c4c6c9f7a619f86ba?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 07 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Outdoor Education Instructional Internship (Splash Science/Green Machine) 2026-2027](https://jobright.ai/jobs/info/6a4b6ebe4f64ba41dcb5c572?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 07 |
 | **[American Institutes for Research](http://www.air.org/)** | **[Intern (Masters and PhD Students), National Center for Systemic Improvement](https://jobright.ai/jobs/info/6a4d543a0209ea6fd6851ce2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a397c101232144fb156b87e?utm_campaign=1057&utm_source=git)** | Wake County, NC, United States | On Site | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Quality & Performance Improvement](https://jobright.ai/jobs/info/6a4c61e5c2d11a6a4667ab77?utm_campaign=1057&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
 | ↳ | **[Student Intern - Trauma Administration](https://jobright.ai/jobs/info/6a4c61e2c2d11a6a4667ab75?utm_campaign=1057&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
-| **[NextGen Growth Partners](https://nextgengp.com/)** | **[MBA Associate Internship - Fall 2026](https://jobright.ai/jobs/info/6a43b14a592109606e5a861f?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Remote | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
