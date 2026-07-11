@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LYNA](https://www.lynacycle.app/)** | **[Certified Nutritionist Intern (Hormonal Health & AI Tech)](https://jobright.ai/jobs/info/6a524b7b8576ec69c014b4a5?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 11 |
 | **[City of New York](http://www1.nyc.gov)** | **[Fieldwork intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6a5242fc8a74e077472f3d79?utm_campaign=1057&utm_source=git)** | New York City, NY, United States | On Site | Jul 11 |
 | **[Champaign-Urbana Public Health District](https://www.c-uphd.org/ccsafekids/)** | **[UNPAID Internship - IPLAN INTERN Fall 2026](https://jobright.ai/jobs/info/6a22abe4757ade085b6ac901?utm_campaign=1057&utm_source=git)** | Champaign, IL 61820-7892, USA | On Site | Jul 11 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Intake Program Internship](https://jobright.ai/jobs/info/6a523d448ef95364ead8d7ca?utm_campaign=1057&utm_source=git)** | Chicago, IL 60623, USA | On Site | Jul 11 |
@@ -120,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/6a51ba28bf63b66c7997b967?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a510e3f78e364789ca58649?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Future Workforce Strategy Enablement Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a4803323dbab558e29abd34?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 10 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jul 10 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jul 10 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jul 10 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf229c90c607e4e38d7?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jul 10 |
 | **[Walter Technologies](https://www.waltertechnologies.com)** | **[LIVE PROJECT TRAINING/INTERNSHIP](https://jobright.ai/jobs/info/6a51215d78e364789ca59203?utm_campaign=1057&utm_source=git)** | Live Oak, CA, United States | On Site | Jul 10 |
 | **[DISCOVERY Children's Museum](https://www.discoverykidslv.org/)** | **[Youthworks Intern](https://jobright.ai/jobs/info/6a50e95878e364789ca5734e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV 89106, United States | On Site | Jul 10 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 10 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Foster Care- Multi-Disciplinary Team Practicum Student](https://jobright.ai/jobs/info/6a4fb3baf57ed168c3416676?utm_campaign=1057&utm_source=git)** | Galesburg, IL, United States | On Site | Jul 09 |
 | **[Seattle Pacific University](http://www.spu.edu/)** | **[Division of Education Intern Supervisor (Adjunct Faculty)](https://jobright.ai/jobs/info/6a4fb077397d8d353c28c25e?utm_campaign=1057&utm_source=git)** | Main Campus, United States of America | On Site | Jul 09 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/6a3f314d882f121f56a3cb3a?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, United States | On Site | Jul 09 |
-| **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecae1430333075ccb847?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Jul 09 |
-| ↳ | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecb11430333075ccb84c?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | On Site | Jul 09 |
+| **[ImageFIRST](http://www.imagefirst.com/)** | **[ImageFIRST Post-Graduate Internship Program (8–12 Weeks)](https://jobright.ai/jobs/info/6a16ecb11430333075ccb84c?utm_campaign=1057&utm_source=git)** | US-GA-Atlanta | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
