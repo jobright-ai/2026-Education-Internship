@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a52ee579fbdab22fe13d99c?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[High School Health & Safety Internship](https://jobright.ai/jobs/info/6a52e0aa9fbdab22fe13d658?utm_campaign=1057&utm_source=git)** | New Haven, IN, United States | On Site | Jul 11 |
 | **[St. Mark's Episcopal School](http://www.stmes.org)** | **[Student Teaching Intern](https://jobright.ai/jobs/info/6a52dafb9fbdab22fe13d487?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 11 |
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Long-Term, Resident Intern](https://jobright.ai/jobs/info/6a52ca129fbdab22fe13d184?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jul 11 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Fossil Rim Wildlife Center](https://fossilrim.org/)** | **[Environmental Education Internship](https://jobright.ai/jobs/info/6a51e67fbf63b66c7997ea68?utm_campaign=1057&utm_source=git)** | Glen Rose, TX, United States | On Site | Jul 10 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6a51cce2bf63b66c7997ce0b?utm_campaign=1057&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS, United States | On Site | Jul 10 |
-| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| **[Duke University](https://dumac.duke.edu/)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
 | **[African Communities Together](https://africans.us)** | **[EOSL Intern- Paid](https://jobright.ai/jobs/info/6a51c5838d7d3e6cf1cc2a62?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[The Y in Central Maryland](https://ymaryland.org/)** | **[Youth Development Intern Preschool - Towson](https://jobright.ai/jobs/info/6a4312721cc9cc2b12fedc81?utm_campaign=1057&utm_source=git)** | Towson, MD, United States | On Site | Jul 10 |
 | **[CED](http://www.cedcareers.com)** | **[Internship](https://jobright.ai/jobs/info/6a51e63ebf63b66c7997e9f2?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Jul 10 |
@@ -137,10 +138,10 @@ For a complete list, click the following sortable link below:
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/6a51ba28bf63b66c7997b967?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a510e3f78e364789ca58649?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Future Workforce Strategy Enablement Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a4803323dbab558e29abd34?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 10 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ac347f3fdd180d4ce82f?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
+| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jul 10 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf229c90c607e4e38d7?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6a09846d6186f4685988d2e6?utm_campaign=1057&utm_source=git)** | Orlando, FL, US, 32803 | On Site | Jul 10 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jul 10 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddfa7f3fdd180d4ced8c?utm_campaign=1057&utm_source=git)** | Jupiter, FL, US, 33458 | On Site | Jul 10 |
 | **[Walter Technologies](https://www.waltertechnologies.com)** | **[LIVE PROJECT TRAINING/INTERNSHIP](https://jobright.ai/jobs/info/6a51215d78e364789ca59203?utm_campaign=1057&utm_source=git)** | Live Oak, CA, United States | On Site | Jul 10 |
 | **[DISCOVERY Children's Museum](https://www.discoverykidslv.org/)** | **[Youthworks Intern](https://jobright.ai/jobs/info/6a50e95878e364789ca5734e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV 89106, United States | On Site | Jul 10 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unified Procurement Services Team (UPST)](https://www.umassp.edu/upst)** | **[Intern Institutional Research](https://jobright.ai/jobs/info/6a508bfcfb1cdf60f4ccd6c0?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 09 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a39684f6484fb75f2b315d9?utm_campaign=1057&utm_source=git)** | Wake County, United States of America | On Site | Jul 09 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Juvenile Justice Intern - Fall 2026](https://jobright.ai/jobs/info/6a397c101232144fb156b87e?utm_campaign=1057&utm_source=git)** | Wake County, NC, United States | On Site | Jul 09 |
-| **[VOX ATL](https://voxatl.org)** | **[VOX ATL Teen Leadership Intern](https://jobright.ai/jobs/info/6a503bb8f57ed168c34186ec?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
