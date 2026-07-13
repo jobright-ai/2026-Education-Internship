@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akola](https://akola.co)** | **[Fall Internship: Empowerment Programs](https://jobright.ai/jobs/info/6a545046d007ee02d95fe604?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Jul 12 |
 | **[Touro University](https://dental.touro.edu)** | **[Instructional Design Intern for the Graduate School of Education](https://jobright.ai/jobs/info/6a544001e726ec56126a99b1?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a54356b8ef95364ead94cdd?utm_campaign=1057&utm_source=git)** | Juneau, AK, United States | On Site | Jul 12 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2026/2027 - Art Teacher & Intern](https://jobright.ai/jobs/info/6a542f27d007ee02d95fdf2d?utm_campaign=1057&utm_source=git)** | Fremont, MO, United States | On Site | Jul 12 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Fossil Rim Wildlife Center](https://fossilrim.org/)** | **[Environmental Education Internship](https://jobright.ai/jobs/info/6a51e67fbf63b66c7997ea68?utm_campaign=1057&utm_source=git)** | Glen Rose, TX, United States | On Site | Jul 10 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6a51cce2bf63b66c7997ce0b?utm_campaign=1057&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS, United States | On Site | Jul 10 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Adult Supervision Intern (Hourly)](https://jobright.ai/jobs/info/6a3be2f1122f340d29ceb8e2?utm_campaign=1057&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 10 |
 | **[African Communities Together](https://africans.us)** | **[EOSL Intern- Paid](https://jobright.ai/jobs/info/6a51c5838d7d3e6cf1cc2a62?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[The Y in Central Maryland](https://ymaryland.org/)** | **[Youth Development Intern Preschool - Towson](https://jobright.ai/jobs/info/6a4312721cc9cc2b12fedc81?utm_campaign=1057&utm_source=git)** | Towson, MD, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toronto Zoo](http://www.torontozoo.com/)** | **[CALL Intern](https://jobright.ai/jobs/info/6a511e4057513b72e0c640b0?utm_campaign=1057&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry / Winter 2027](https://jobright.ai/jobs/info/6a5107fc78e364789ca58332?utm_campaign=1057&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, NH, United States | On Site | Jul 10 |
-| ↳ | **[Omni Care Internship Culinary / Winter 2027](https://jobright.ai/jobs/info/6a5107f178e364789ca58327?utm_campaign=1057&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
