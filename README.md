@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Education Specialist (Intern Sponsorship Program)](https://jobright.ai/jobs/info/6a5464268ef95364ead95625?utm_campaign=1057&utm_source=git)** | Central Valley, CA, United States | On Site | Jul 12 |
 | **[Akola](https://akola.co)** | **[Fall Internship: Empowerment Programs](https://jobright.ai/jobs/info/6a545046d007ee02d95fe604?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Jul 12 |
 | **[Touro University](https://dental.touro.edu)** | **[Instructional Design Intern for the Graduate School of Education](https://jobright.ai/jobs/info/6a544001e726ec56126a99b1?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a54356b8ef95364ead94cdd?utm_campaign=1057&utm_source=git)** | Juneau, AK, United States | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Fall Education Programs Intern (onsite)](https://jobright.ai/jobs/info/6a5121a302522b5b722e7c5c?utm_campaign=1057&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 10 |
 | **[Toronto Zoo](http://www.torontozoo.com/)** | **[CALL Intern](https://jobright.ai/jobs/info/6a511e4057513b72e0c640b0?utm_campaign=1057&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Liberty and National Security Undergraduate Internship](https://jobright.ai/jobs/info/6a396773f6b55d12c7927d2e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry / Winter 2027](https://jobright.ai/jobs/info/6a5107fc78e364789ca58332?utm_campaign=1057&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, NH, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
