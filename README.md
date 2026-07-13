@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern - Sharp House](https://jobright.ai/jobs/info/6a5412068ef95364ead944e3?utm_campaign=1057&utm_source=git)** | Bronx, NY, United States | On Site | Jul 12 |
 | **[Barnard](http://barnard-inc.com)** | **[Safety Educator Intern](https://jobright.ai/jobs/info/6a540d29d007ee02d95fd735?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Learnitude](https://www.learnitude.com/)** | **[Internship: Training and Operations Support](https://jobright.ai/jobs/info/6a53f6598a74e077472fa285?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/6a53eebdc8eb0843027ae356?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jul 12 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a5348bdd007ee02d95fade4?utm_campaign=1057&utm_source=git)** | Bay Area, California, United States | On Site | Jul 12 |
 | **[YSS](https://www.yss.org/)** | **[Residential Recovery Intern (53635)](https://jobright.ai/jobs/info/6a531c8e8ef95364ead91130?utm_campaign=1057&utm_source=git)** | Ember Recovery Campus - Cambridge, IA 50046 | On Site | Jul 11 |
-| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
+| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a0ef73f83d714428981c1ca?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
 | **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Community Health Education Intern](https://jobright.ai/jobs/info/6a53005b9fbdab22fe13de66?utm_campaign=1057&utm_source=git)** | Toledo, OH, United States | Hybrid | Jul 11 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Redwood Camp Intern](https://jobright.ai/jobs/info/6a52ff999fbdab22fe13de33?utm_campaign=1057&utm_source=git)** | Mount Hermon, CA, United States | On Site | Jul 11 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a52ee579fbdab22fe13d99c?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 11 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Fossil Rim Wildlife Center](https://fossilrim.org/)** | **[Environmental Education Internship](https://jobright.ai/jobs/info/6a51e67fbf63b66c7997ea68?utm_campaign=1057&utm_source=git)** | Glen Rose, TX, United States | On Site | Jul 10 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6a51cce2bf63b66c7997ce0b?utm_campaign=1057&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026 Youth Programs Intern (UNPAID)](https://jobright.ai/jobs/info/6a48e184c2d11a6a46675158?utm_campaign=1057&utm_source=git)** | Wichita, KS, United States | On Site | Jul 10 |
-| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
-| ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| **[Duke University](http://ceint.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 10 |
 | **[African Communities Together](https://africans.us)** | **[EOSL Intern- Paid](https://jobright.ai/jobs/info/6a51c5838d7d3e6cf1cc2a62?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 10 |
 | **[The Y in Central Maryland](https://ymaryland.org/)** | **[Youth Development Intern Preschool - Towson](https://jobright.ai/jobs/info/6a4312721cc9cc2b12fedc81?utm_campaign=1057&utm_source=git)** | Towson, MD, United States | On Site | Jul 10 |
 | **[CED](http://www.cedcareers.com)** | **[Internship](https://jobright.ai/jobs/info/6a51e63ebf63b66c7997e9f2?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Emerging Stars](https://www.chicagoemergingstars.org/)** | **[Program Support Intern](https://jobright.ai/jobs/info/6a51ba28bf63b66c7997b967?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[Abuse Refuge Org. (ARO)](https://GoARO.org)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a510e3f78e364789ca58649?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Future Workforce Strategy Enablement Intern (CMMK, Fall 2026)](https://jobright.ai/jobs/info/6a4803323dbab558e29abd34?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO, United States | Remote | Jul 10 |
-| **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a35ddf1649fdf16292fa423?utm_campaign=1057&utm_source=git)** | Orange Park, FL, US, 32073 | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
