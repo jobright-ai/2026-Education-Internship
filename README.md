@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a5348bdd007ee02d95fade4?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
+| **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Pitt-Bradford Women’s Lacrosse Intern](https://jobright.ai/jobs/info/6a563d35efb06a45240d4720?utm_campaign=1057&utm_source=git)** | Bradford, PA, United States | On Site | Jul 14 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Genetic Counseling Assistant - Temporary Student Intern](https://jobright.ai/jobs/info/6a56339bf7517b519ad542b6?utm_campaign=1057&utm_source=git)** | Charlotte, NC - 1001 Blythe Blvd, United States of America | On Site | Jul 14 |
 | **[Chevron](http://www.chevron.com)** | **[2026-2027 Finance & Commercial MBA Development Program (FCMP) Intern (Returning Intern)](https://jobright.ai/jobs/info/6a5629b910c4d945d8647d92?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 14 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Clinical Intern Supervisor](https://jobright.ai/jobs/info/6a39b7e2649fdf1629302983?utm_campaign=1057&utm_source=git)** | South Orange, NJ, United States | On Site | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota County Sheriff's Office](www.SarasotaSheriff.org)** | **[Student Internship - Fall 2026](https://jobright.ai/jobs/info/6a551e844119652ff38637a9?utm_campaign=1057&utm_source=git)** | Sarasota, FL, United States | On Site | Jul 12 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern - Sharp House](https://jobright.ai/jobs/info/6a5412068ef95364ead944e3?utm_campaign=1057&utm_source=git)** | Bronx, NY, United States | On Site | Jul 12 |
 | **[Learnitude](https://www.learnitude.com/)** | **[Internship: Training and Operations Support](https://jobright.ai/jobs/info/6a53f6598a74e077472fa285?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 12 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Trader Internship: Summer 2027](https://jobright.ai/jobs/info/6a53eebdc8eb0843027ae356?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment – Program Development Specialist Intern (CET) (NFWS)](https://jobright.ai/jobs/info/6a53ea8c8a74e077472fa09b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
