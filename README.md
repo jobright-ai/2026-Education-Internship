@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Fall)](https://jobright.ai/jobs/info/6a5656f6e9b77f668bd62b0e?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 14 |
 | **[County College of Morris](http://www.ccm.edu/)** | **[CTE Campus Based Internship Coordinator (PT)](https://jobright.ai/jobs/info/6a31ab10c477a5075f48e63f?utm_campaign=1057&utm_source=git)** | Randolph, NJ, United States | On Site | Jul 14 |
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Phase 66: Dallas ISD Alternative Certification Program Internship 2026 – 2027](https://jobright.ai/jobs/info/6a564e20e9b77f668bd62855?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Jul 14 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Community Collaborations Intern](https://jobright.ai/jobs/info/6a564d9721f64463ad353ab6?utm_campaign=1057&utm_source=git)** | Schaumburg, IL, United States | On Site | Jul 14 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a556b64ae07d60a8d011572?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ, United States | On Site | Jul 13 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator Severe - CL-54-27 - Autism @Stroud (Internal Only) - DEADLINE: 07/17/2026](https://jobright.ai/jobs/info/6a55834d268af95237bec1ff?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jul 13 |
 | ↳ | **[Para Educator Severe - CL-55-27 - Autism @Empire (Internal Only) - DEADLINE: 07/17/2026](https://jobright.ai/jobs/info/6a5583454119652ff3866221?utm_campaign=1057&utm_source=git)** | West Modesto, CA, United States | On Site | Jul 13 |
-| ↳ | **[Para Educator Severe (Autism/TK), Hughes (Internal Only) Vacancy CL-40-27 DEADLINE: 07/16/2026 - 5:00 p.m. PST](https://jobright.ai/jobs/info/6a558345377f983ce8a9a928?utm_campaign=1057&utm_source=git)** | West Modesto, CA, United States | On Site | Jul 13 |
 | **[Children's Home Society of Florida](https://chsfl.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a5561144119652ff38655a2?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32210, USA | Hybrid | Jul 13 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Golf Talent](https://jobright.ai/jobs/info/6a5529ff268af95237be9b4e?utm_campaign=1057&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), Canada | Hybrid | Jul 13 |
 | **[Centerstone](https://centerstone.org/)** | **[Associate Level Intern Late Fall Semester](https://jobright.ai/jobs/info/6a5517432084cd792b47611b?utm_campaign=1057&utm_source=git)** | Bloomington, IN, United States | On Site | Jul 13 |
