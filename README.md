@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - School Programs (Fall)](https://jobright.ai/jobs/info/6a568e8453b3962b910b1008?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Jul 14 |
+| ↳ | **[Intern - Outreach Naturalist (Fall)](https://jobright.ai/jobs/info/6a568e76e9b77f668bd64254?utm_campaign=1057&utm_source=git)** | Brookings, SD, United States | On Site | Jul 14 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a5684b9f7517b519ad5649b?utm_campaign=1057&utm_source=git)** | Alexandria, VA, United States | On Site | Jul 14 |
+| **[Illinois College](http://www.ic.edu/)** | **[ST Admissions Office Student Intern 2026/2027](https://jobright.ai/jobs/info/6a43f2a365e80d3c99f2afdc?utm_campaign=1057&utm_source=git)** | Jacksonville, IL, United States | On Site | Jul 14 |
+| **[Acenda Integrated Health](https://acendahealth.org/)** | **[Bachelors Intern](https://jobright.ai/jobs/info/6a56829810c4d945d864a140?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 110-114 East High Street, United States of America | On Site | Jul 14 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Genetic Counseling Assistant - Temporary Student Intern](https://jobright.ai/jobs/info/6a567d7310c4d945d8649e43?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 14 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Parent Educator Internship - Fall 2026](https://jobright.ai/jobs/info/6a567b9aefb06a45240d60df?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Ed Specialist Intern - Credential Sponsorship](https://jobright.ai/jobs/info/6a567b3010c4d945d8649d2d?utm_campaign=1057&utm_source=git)** | Bay Area, CA, United States | On Site | Jul 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[African Communities Together](https://africans.us)** | **[ESOL Tutor Intern- Paid](https://jobright.ai/jobs/info/6a55103d2084cd792b475d72?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 13 |
 | **[CRISTA Ministries](https://crista.org/)** | **[Miracle Ranch - Camp Intern](https://jobright.ai/jobs/info/6a550e9b4119652ff3862fa1?utm_campaign=1057&utm_source=git)** | Port Orchard, WA, United States | On Site | Jul 13 |
 | **[Patient-Centered Outcomes Research Institute (PCORI)](http://pcori.org)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6a555cefae07d60a8d010d6c?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 13 |
-| ↳ | **[Graduate Student Intern](https://jobright.ai/jobs/info/6a5556fc377f983ce8a997dc?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 13 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Training Center Internship](https://jobright.ai/jobs/info/6a54fbdd2084cd792b4755d3?utm_campaign=1057&utm_source=git)** | Chicago, IL 60614, USA | On Site | Jul 13 |
-| **[HELP USA](http://www.helpusa.org/)** | **[Children's Room Specialist- Intern](https://jobright.ai/jobs/info/6a5554cef2c46727285f1804?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, USA | On Site | Jul 13 |
-| **[Tulsa Public Schools](http://www.tulsaschools.org)** | **[Student Teacher/Counselor/Social Worker or Administrative Intern Request Form](https://jobright.ai/jobs/info/6a1b1b0e6b135014dbc8da51?utm_campaign=1057&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 13 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Internship - Fall 2026](https://jobright.ai/jobs/info/6a54eda04119652ff38623b7?utm_campaign=1057&utm_source=git)** | Sarasota, FL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
