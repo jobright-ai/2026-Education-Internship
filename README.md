@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[YearUp Intern Program - Cohort 17](https://jobright.ai/jobs/info/6a55a5358719590518d94b40?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Sumner-Bonney Lake School District](https://www.sumnersd.org )** | **[Intern Substitute](https://jobright.ai/jobs/info/6a55a05378611229b823d6a0?utm_campaign=1057&utm_source=git)** | Sumner-Bonney Lake School District | On Site | Jul 13 |
 | **[WETA](https://weta.org/)** | **[Intern, Outreach and Community Engagement](https://jobright.ai/jobs/info/6a556d19268af95237bebd05?utm_campaign=1057&utm_source=git)** | Arlington, VA 22206, USA | On Site | Jul 13 |
 | **[Duke University](http://ceint.duke.edu)** | **[Administrative Intern, The Center for Documentary Studies (CDS)](https://jobright.ai/jobs/info/6a5589974119652ff3866469?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Jul 13 |
 | **[Rocky Mountain PBS](http://www.rmpbs.org/home/)** | **[Civic Engagement Intern – Fort Lewis College](https://jobright.ai/jobs/info/6a558429377f983ce8a9a98a?utm_campaign=1057&utm_source=git)** | Durango, CO, USA, 81301 | Hybrid | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/6a440f57b156014e414bb4df?utm_campaign=1057&utm_source=git)** | Regis College Campus - Weston, MA 02493 | On Site | Jul 11 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Afterschool Intern (Elementary School)](https://jobright.ai/jobs/info/6a523aaa8576ec69c014b02b?utm_campaign=1057&utm_source=git)** | 2300 Henderson Mill Rd, Atlanta, GA 30345, USA | On Site | Jul 11 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 WFR Summer Intern](https://jobright.ai/jobs/info/6a54ebe02084cd792b47502b?utm_campaign=1057&utm_source=git)** | Antelope, OR, United States | On Site | Jul 11 |
-| **[Fannie Mae](http://www.fanniemae.com)** | **[Future Housing Leaders Intern - Freddie Mac](https://jobright.ai/jobs/info/6a521f138576ec69c014a8e9?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Jul 11 |
-| **[Juno](https://joinjuno.com)** | **[Law School Campus Outreach Intern](https://jobright.ai/jobs/info/6a4048e6d528ac2915f96782?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
