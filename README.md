@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lodi Unified School District](https://www.lodiusd.net/)** | **[Math Teacher for 2026 - 2027 School Year (Interns May Apply)](https://jobright.ai/jobs/info/6a55df1b5a49300edeaa2dc1?utm_campaign=1057&utm_source=git)** | Lodi, CA, United States | On Site | Jul 14 |
 | **[Mainstay Supportive Housing and Home Care, Inc.](https://www.mainstayliving.org)** | **[Summer Enrollment Specialist Intern (16 - 24 hrs/week)](https://jobright.ai/jobs/info/6a433032c8bca56ab2246275?utm_campaign=1057&utm_source=git)** | Boston, MA 02118, United States | On Site | Jul 13 |
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 13 |
 | **[Central Ohio Youth for Christ](http://www.coyfc.org)** | **[City Life West Paid Intern](https://jobright.ai/jobs/info/6a55cdc9fdf4fa71202b55fa?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Jul 13 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Grace Church](http://www.grace.church)** | **[Chaska Adult Ministry Intern](https://jobright.ai/jobs/info/6a44472cb156014e414bc205?utm_campaign=1057&utm_source=git)** | Chaska Campus - Chaska, MN 55318 | On Site | Jul 12 |
 | **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a5348bdd007ee02d95fade4?utm_campaign=1057&utm_source=git)** | Bay Area, California, United States | On Site | Jul 12 |
 | **[YSS](https://www.yss.org/)** | **[Residential Recovery Intern (53635)](https://jobright.ai/jobs/info/6a531c8e8ef95364ead91130?utm_campaign=1057&utm_source=git)** | Ember Recovery Campus - Cambridge, IA 50046 | On Site | Jul 11 |
-| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a2188004bdf8a5a96bd628d?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
+| **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a0ef73f83d714428981c1ca?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
 | **[Planned Parenthood of Greater Ohio](http://www.plannedparenthood.org/greater-ohio/)** | **[Community Health Education Intern](https://jobright.ai/jobs/info/6a53005b9fbdab22fe13de66?utm_campaign=1057&utm_source=git)** | Toledo, OH, United States | Hybrid | Jul 11 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Redwood Camp Intern](https://jobright.ai/jobs/info/6a52ff999fbdab22fe13de33?utm_campaign=1057&utm_source=git)** | Mount Hermon, CA, United States | On Site | Jul 11 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a52ee579fbdab22fe13d99c?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[African Communities Together](https://africans.us)** | **[ESOL Tutor Intern- Paid](https://jobright.ai/jobs/info/6a51c5838d7d3e6cf1cc2a62?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 11 |
 | **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Long-Term, Resident Intern](https://jobright.ai/jobs/info/6a52ca129fbdab22fe13d184?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jul 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Fall 2026)](https://jobright.ai/jobs/info/6a52c8248576ec69c014d747?utm_campaign=1057&utm_source=git)** | Wolf Trap HeadQuarters - Vienna, VA 22182 | On Site | Jul 11 |
-| **[Wheaton Bible Church](http://www.wheatonbible.org)** | **[Puente del Pueblo Summer Youth Development Intern - 2026](https://jobright.ai/jobs/info/6a52c7ff9fbdab22fe13d0c0?utm_campaign=1057&utm_source=git)** | West Chicago, IL, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
