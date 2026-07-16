@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[African Communities Together](https://africans.us)** | **[ESOL Tutor Intern- Paid](https://jobright.ai/jobs/info/6a55103d2084cd792b475d72?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 15 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Career Services, Student Associate Intern, UC Blue Ash College](https://jobright.ai/jobs/info/6a5841273330ca6f993c3d2a?utm_campaign=1057&utm_source=git)** | Blue Ash, OH, United States | On Site | Jul 15 |
+| **[Bristol Public Schools](https://www.bristol.k12.ct.us)** | **[Student Support Intern, NEMS](https://jobright.ai/jobs/info/6a583ad28f51964c040475fd?utm_campaign=1057&utm_source=git)** | Bristol, CT, United States | On Site | Jul 15 |
+| **[USA Triathlon](https://www.usatriathlon.org)** | **[Collegiate Club Program Intern](https://jobright.ai/jobs/info/6a5839df72fe7a7b98dcd7d2?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 15 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Learning Center Youth Specialist](https://jobright.ai/jobs/info/6a582a799f1f56462cf68e76?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 15 |
 | **[YES USA](https://www.yesusa.com)** | **[Administrative Intern Orange County](https://jobright.ai/jobs/info/6a5829f39f1f56462cf68e42?utm_campaign=1057&utm_source=git)** | Irvine, California, United States | On Site | Jul 15 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Neurodiversity - Inclusive Internship Program](https://jobright.ai/jobs/info/6a5821c43330ca6f993c35fb?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 15 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a580c4e8f51964c04046990?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Academic Support Program Intern](https://jobright.ai/jobs/info/6a45755748d2f00f2a86da55?utm_campaign=1057&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
 | **[Milton Academy](https://miltonacademy.in/)** | **[Saturday Course Intern](https://jobright.ai/jobs/info/6a58064c3330ca6f993c2c0a?utm_campaign=1057&utm_source=git)** | Milton, MA, United States | On Site | Jul 15 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a21ecd77c30cc2cc516c709?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | Hybrid | Jul 15 |
-| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a52cae9e726ec56126a4942?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, United States of America | On Site | Jul 15 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a52cae9e726ec56126a4942?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, United States of America | On Site | Jul 15 |
+| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a21ecd77c30cc2cc516c709?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | Hybrid | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a097a1da203b1052e449489?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | On Site | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c80e00411d7417a1b9478?utm_campaign=1057&utm_source=git)** | Fort Myers, Florida, US | On Site | Jul 15 |
 | **[RISC Foundation (Risk and Insurance Studies Centre)](www.therisc.ca)** | **[Fall 2026 HAIVE Part-time Internship](https://jobright.ai/jobs/info/6a57fadf8f51964c04046209?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 15 |
@@ -101,13 +105,13 @@ For a complete list, click the following sortable link below:
 | **[Anderson Center for Autism](https://www.andersoncenterforautism.org/)** | **[Unpaid Internship](https://jobright.ai/jobs/info/6a57600a10c4d945d864de5b?utm_campaign=1057&utm_source=git)** | Staatsburg, NY, United States | On Site | Jul 15 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4556f80dd56c76cc2f316a?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6e46aa05c26e7ab5d820?utm_campaign=1057&utm_source=git)** | Lancaster, Ohio, United States | Hybrid | Jul 15 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6d1a5e4962051b59897b?utm_campaign=1057&utm_source=git)** | Canton, Ohio, United States | Hybrid | Jul 15 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6f375e4962051b598bd7?utm_campaign=1057&utm_source=git)** | New Philadelphia, Ohio, United States | Hybrid | Jul 15 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c700d5e4962051b598cea?utm_campaign=1057&utm_source=git)** | Medina, Ohio, United States | Hybrid | Jul 15 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6427f1f8465b79f287fb?utm_campaign=1057&utm_source=git)** | canton, Ohio, United States | Hybrid | Jul 15 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c650bf1f8465b79f288f8?utm_campaign=1057&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jul 15 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c79f65e4962051b599888?utm_campaign=1057&utm_source=git)** | Lorain, Ohio, United States | Hybrid | Jul 15 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6f375e4962051b598bd7?utm_campaign=1057&utm_source=git)** | New Philadelphia, Ohio, United States | Hybrid | Jul 15 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c793ef1f8465b79f29cd3?utm_campaign=1057&utm_source=git)** | Sandusky, Ohio, United States | Hybrid | Jul 15 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6d1a5e4962051b59897b?utm_campaign=1057&utm_source=git)** | Canton, Ohio, United States | Hybrid | Jul 15 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c700d5e4962051b598cea?utm_campaign=1057&utm_source=git)** | Medina, Ohio, United States | Hybrid | Jul 15 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6427f1f8465b79f287fb?utm_campaign=1057&utm_source=git)** | canton, Ohio, United States | Hybrid | Jul 15 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Sports Performance Analytics Intern](https://jobright.ai/jobs/info/6a57314610c4d945d864d484?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ 07410, United States | On Site | Jul 15 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Co-Op Student Intern](https://jobright.ai/jobs/info/6a57163953b3962b910b3924?utm_campaign=1057&utm_source=git)** | Foxborough, MA, United States | On Site | Jul 14 |
 | **[LCS](https://www.lcsnet.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a5697bee9b77f668bd64521?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acenda Integrated Health](https://acendahealth.org/)** | **[Bachelors Intern](https://jobright.ai/jobs/info/6a56829810c4d945d864a140?utm_campaign=1057&utm_source=git)** | US NJ Glassboro 110-114 East High Street, United States of America | On Site | Jul 14 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Genetic Counseling Assistant - Temporary Student Intern](https://jobright.ai/jobs/info/6a567d7310c4d945d8649e43?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 14 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Parent Educator Internship - Fall 2026](https://jobright.ai/jobs/info/6a567b9aefb06a45240d60df?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
-| **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Ed Specialist Intern - Credential Sponsorship](https://jobright.ai/jobs/info/6a567b3010c4d945d8649d2d?utm_campaign=1057&utm_source=git)** | Bay Area, CA, United States | On Site | Jul 14 |
-| **[Ashoka](http://www.ashoka.org)** | **[Youth Safeguarding & Autonomy Intern](https://jobright.ai/jobs/info/6a567a3810c4d945d8649ca8?utm_campaign=1057&utm_source=git)** | Arlington, VA, United States | Remote | Jul 14 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Intern - Service College](https://jobright.ai/jobs/info/6a39e6b9214ae004c7a20ee5?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 14 |
-| **[Right On Crime](https://rightoncrime.com)** | **[Internship Program](https://jobright.ai/jobs/info/6a566bc5efb06a45240d5c40?utm_campaign=1057&utm_source=git)** | Austin, 901 Congress Ave., United States | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
