@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Actuarial Internship - Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6a3443fb1232144fb155f17c?utm_campaign=1057&utm_source=git)** | OH-Fairfield | Hybrid | Jul 16 |
+| **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a5961d24da96a42cfd9104a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 16 |
+| **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a595fc43ac7627fe9fff25e?utm_campaign=1057&utm_source=git)** | Clinton, MO, United States | On Site | Jul 16 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[Para Educator - Specialized Services at JFK - 2:1 - Vacancy CL-46-27 (Internal Only) DEADLINE DATE: 7/14/2026- 5:00 p.m.](https://jobright.ai/jobs/info/6a5957853ac7627fe9ffecbc?utm_campaign=1057&utm_source=git)** | West Modesto, CA, United States | On Site | Jul 16 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd86484fb75f2b30924?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Avista Senior Living](https://avistaseniorliving.com)** | **[Student Intern Mesa Public Schools students ONLY](https://jobright.ai/jobs/info/6a5943ee3ac7627fe9ffe677?utm_campaign=1057&utm_source=git)** | Mesa, AZ 85215 | On Site | Jul 16 |
@@ -122,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a580c4e8f51964c04046990?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Academic Support Program Intern](https://jobright.ai/jobs/info/6a45755748d2f00f2a86da55?utm_campaign=1057&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
 | **[Milton Academy](https://miltonacademy.in/)** | **[Saturday Course Intern](https://jobright.ai/jobs/info/6a58064c3330ca6f993c2c0a?utm_campaign=1057&utm_source=git)** | Milton, MA, United States | On Site | Jul 15 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a55d3cc14f1040fa611cb76?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 15 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 15 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c80e00411d7417a1b9478?utm_campaign=1057&utm_source=git)** | Fort Myers, Florida, US | On Site | Jul 15 |
-| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a097a1da203b1052e449489?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | On Site | Jul 15 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a125d489f654b3359cf2eb8?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 15 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a55d3cc14f1040fa611cb76?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 15 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a097a1da203b1052e449489?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | On Site | Jul 15 |
+| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c80e00411d7417a1b9478?utm_campaign=1057&utm_source=git)** | Fort Myers, Florida, US | On Site | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a21ecd77c30cc2cc516c709?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | Hybrid | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a52cae9e726ec56126a4942?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, United States of America | On Site | Jul 15 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Jul 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor-Summer Intern](https://jobright.ai/jobs/info/6a0b9eada235d749afa87598?utm_campaign=1057&utm_source=git)** | The Colony, Texas, United States of America | On Site | Jul 15 |
 | ↳ | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/6a50abaf2e2ceb72963b4b7b?utm_campaign=1057&utm_source=git)** | Canton, Massachusetts, United States | On Site | Jul 15 |
 | **[Adult & Teen Challenge](https://teenchallengeusa.org)** | **[Residential Program Intern](https://jobright.ai/jobs/info/6a57a7e521f64463ad35a7a5?utm_campaign=1057&utm_source=git)** | Muskegon, MI, United States | On Site | Jul 15 |
-| **[Natural Lands](https://natlands.org/)** | **[Crow's Nest Long-Term, Resident Intern](https://jobright.ai/jobs/info/6a5783f3e9b77f668bd6851f?utm_campaign=1057&utm_source=git)** | Elverson, PA 19520, USA | On Site | Jul 15 |
-| **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a57807da791c6211befe7c8?utm_campaign=1057&utm_source=git)** | Chandler, AZ, United States | On Site | Jul 15 |
-| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Program Evaluation-Remote](https://jobright.ai/jobs/info/6a3c48d0122f340d29ced665?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
