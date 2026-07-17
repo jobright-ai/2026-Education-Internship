@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a59a9a4c8e3a473cb8a7e9f?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Jul 16 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Global Dealer Learning Intern](https://jobright.ai/jobs/info/6a59928a686b4755d1e1107e?utm_campaign=1057&utm_source=git)** | Peoria, IL, United States | On Site | Jul 16 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Childcare Intern](https://jobright.ai/jobs/info/6a599028856af468ab00462d?utm_campaign=1057&utm_source=git)** | Akron, OH, United States | On Site | Jul 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Fall Recreation Intern - St. Louis Park](https://jobright.ai/jobs/info/6a597f8e4da96a42cfd91755?utm_campaign=1057&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 16 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Student Worker: Honors College- Internship](https://jobright.ai/jobs/info/6a590b364da96a42cfd8ec74?utm_campaign=1057&utm_source=git)** | Commerce, TX, United States | On Site | Jul 16 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Afterschool Intern (Middle School)](https://jobright.ai/jobs/info/6a590acbc8e3a473cb8a4a75?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
 | **[IAAPA](https://iaapa.org)** | **[North America Education Intern](https://jobright.ai/jobs/info/6a59081863a8f619507bfcf8?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Jul 16 |
-| **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 16 |
-| ↳ | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 16 |
+| **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 16 |
+| ↳ | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a0f3f309f654b3359ce3c8b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 16 |
 | **[Cobb EMC](https://www.cobbemc.com/)** | **[Education & Community Relations Intern](https://jobright.ai/jobs/info/6a58fc02686b4755d1e0da03?utm_campaign=1057&utm_source=git)** | Marietta, GA, United States | On Site | Jul 16 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Academy Performance Analyst Intern](https://jobright.ai/jobs/info/6a58ee7e3ac7627fe9ffc3ce?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 16 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Based Mental Health Intern](https://jobright.ai/jobs/info/6a58ed54686b4755d1e0d463?utm_campaign=1057&utm_source=git)** | STUDENT SUPPORT SERVICES - Macon, Georgia, United States | On Site | Jul 16 |
@@ -136,12 +137,12 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a580c4e8f51964c04046990?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[Academic Support Program Intern](https://jobright.ai/jobs/info/6a45755748d2f00f2a86da55?utm_campaign=1057&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
 | **[Milton Academy](https://miltonacademy.in/)** | **[Saturday Course Intern](https://jobright.ai/jobs/info/6a58064c3330ca6f993c2c0a?utm_campaign=1057&utm_source=git)** | Milton, MA, United States | On Site | Jul 15 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a55d3cc14f1040fa611cb76?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 15 |
-| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 15 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c80e00411d7417a1b9478?utm_campaign=1057&utm_source=git)** | Fort Myers, Florida, US | On Site | Jul 15 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a081c43403fc339507eae25?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Jul 15 |
+| ↳ | **[Teens Make Health Happen Internship](https://jobright.ai/jobs/info/6a55d3cc14f1040fa611cb76?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 15 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a21ecd77c30cc2cc516c709?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | Hybrid | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a52cae9e726ec56126a4942?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, United States of America | On Site | Jul 15 |
-| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a21ecd77c30cc2cc516c709?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | Hybrid | Jul 15 |
 | ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a097a1da203b1052e449489?utm_campaign=1057&utm_source=git)** | Sarasota, Florida, US | On Site | Jul 15 |
+| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/6a0c80e00411d7417a1b9478?utm_campaign=1057&utm_source=git)** | Fort Myers, Florida, US | On Site | Jul 15 |
 | **[Texas Public Policy Foundation](https://www.texaspolicy.com/)** | **[Texas Scholars Program 2026 - Highschool Fellowship](https://jobright.ai/jobs/info/69b07ee3dfaeda6ff59a6fb1?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Jul 15 |
 | **[RISC Foundation (Risk and Insurance Studies Centre)](www.therisc.ca)** | **[Fall 2026 HAIVE Part-time Internship](https://jobright.ai/jobs/info/6a57fadf8f51964c04046209?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Pastry / Fall 2026](https://jobright.ai/jobs/info/6a57f3999838a11e5d835eee?utm_campaign=1057&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, NH, United States | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Chicago Community Trust](http://www.cct.org/)** | **[(Hybrid) Learning and Impact, Fall Intern](https://jobright.ai/jobs/info/6a5807859f1f56462cf681e9?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a57d6f5efb06a45240ddad0?utm_campaign=1057&utm_source=git)** | Gulfport/Biloxi, MS, United States | On Site | Jul 15 |
 | **[ECHO, Leahy Center for Lake Champlain](https://www.echovermont.org)** | **[STEM Education Intern - Fall Semester](https://jobright.ai/jobs/info/6a57d00ae9b77f668bd6af10?utm_campaign=1057&utm_source=git)** | Burlington, VT, United States | On Site | Jul 15 |
-| **[Live Action](https://www.liveaction.org/)** | **[Campus Outreach Associate (Intern)](https://jobright.ai/jobs/info/6a57cd49a791c6211bf01164?utm_campaign=1057&utm_source=git)** | Orange County, CA, United States | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
