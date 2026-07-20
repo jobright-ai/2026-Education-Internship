@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cynuria®](https://www.cynuriaconsulting.com/)** | **[Instructional design and product QA intern](https://jobright.ai/jobs/info/6a5ddc2527bf767ea68f31e2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 20 |
 | **[Pasadena Independent School District](https://www1.pasadenaisd.org/)** | **[145- Licensed Specialist in School Psychology-Intern](https://jobright.ai/jobs/info/6a5dbfd93ac7627fe900d94a?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 19 |
 | **[Jordan School District](http://employment.jordandistrict.org)** | **[2026-2027 Administrative Internship - Unpaid](https://jobright.ai/jobs/info/6a4330e5e09ecb4959642ff2?utm_campaign=1057&utm_source=git)** | Jordan School District | On Site | Jul 19 |
 | **[Aramark UK](aramark.co.uk)** | **[Sustainability Intern - University of New Mexico Job Details / Aramark](https://jobright.ai/jobs/info/6a43141e6faf75606096900e?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 19 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Education - Spanish Initiatives Internship](https://jobright.ai/jobs/info/6a509ce9d5d2a327b664be06?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Jul 17 |
 | **[Wells Fargo](http://financial.wellsfargo.com)** | **[2027 Commercial Banking Summer Internship - Early Careers (CA/CO)](https://jobright.ai/jobs/info/6a3e49b3122f340d29cf2ee8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 17 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Bilingual Change Management Intern- (9 Month Contract)- EN](https://jobright.ai/jobs/info/6a3ece9c78237a036d5e57b0?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 17 |
-| **[Chevron](http://www.chevron.com)** | **[2026-2027 Finance & Commercial MBA Development Program (FCMP) (Previous Intern) Intern](https://jobright.ai/jobs/info/6a5a45d563a8f619507c6111?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 17 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Activity Specialist - Intern](https://jobright.ai/jobs/info/6a5ce6a9c8e3a473cb8b332f?utm_campaign=1057&utm_source=git)** | Denver,CO,US | On Site | Jul 17 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Grower Relations](https://jobright.ai/jobs/info/69af6b636b21de023e608d9b?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | Jul 17 |
 | **[Museum of the Bible](https://www.museumofthebible.org/)** | **[Museum Education Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a41a64da96a42cfd94e2f?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 17 |
