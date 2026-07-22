@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Research Intern - School of Computer Science - LTI](https://jobright.ai/jobs/info/6a60d941e3f5ff347d7c5f60?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 22 |
+| **[Bonnet Springs Park](https://bonnetspringspark.com)** | **[Education Intern](https://jobright.ai/jobs/info/6a43d88665e80d3c99f29a28?utm_campaign=1057&utm_source=git)** | Lakeland, FL, United States | On Site | Jul 22 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Academic Intern - Communications](https://jobright.ai/jobs/info/6a60d88fa0dbef49469b951f?utm_campaign=1057&utm_source=git)** | Zeeland, Michigan, United States | On Site | Jul 22 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Caring Foundation Intern - Fall 2026 (Part-time)](https://jobright.ai/jobs/info/6a60cfc397c51d628eb3a673?utm_campaign=1057&utm_source=git)** | Fargo, ND, United States | Hybrid | Jul 22 |
 | **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern- College](https://jobright.ai/jobs/info/696739cb1703f05405a8f241?utm_campaign=1057&utm_source=git)** | Corpus Christi, Texas, United States | On Site | Jul 22 |
@@ -115,14 +117,14 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Plans Library Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fdd83f68dd368023e93df?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[University of South Florida](https://www.usf.edu/arts-sciences/departments/physics/index.aspx)** | **[Suit-A-Bull Retail Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a5fc69f6e0c3c7c7d3d8f89?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 21 |
 | ↳ | **[Suit-A-Bull Retail Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a5fc95c8c7fd835513bb153?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 21 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6d1a5e4962051b59897b?utm_campaign=1057&utm_source=git)** | Canton, Ohio, United States | Hybrid | Jul 21 |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6f375e4962051b598bd7?utm_campaign=1057&utm_source=git)** | New Philadelphia, Ohio, United States | Hybrid | Jul 21 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c650bf1f8465b79f288f8?utm_campaign=1057&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jul 21 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6d1a5e4962051b59897b?utm_campaign=1057&utm_source=git)** | Canton, Ohio, United States | Hybrid | Jul 21 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c793ef1f8465b79f29cd3?utm_campaign=1057&utm_source=git)** | Sandusky, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6f375e4962051b598bd7?utm_campaign=1057&utm_source=git)** | New Philadelphia, Ohio, United States | Hybrid | Jul 21 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c700d5e4962051b598cea?utm_campaign=1057&utm_source=git)** | Medina, Ohio, United States | Hybrid | Jul 21 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c79f65e4962051b599888?utm_campaign=1057&utm_source=git)** | Lorain, Ohio, United States | Hybrid | Jul 21 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6427f1f8465b79f287fb?utm_campaign=1057&utm_source=git)** | canton, Ohio, United States | Hybrid | Jul 21 |
 | ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6e46aa05c26e7ab5d820?utm_campaign=1057&utm_source=git)** | Lancaster, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c79f65e4962051b599888?utm_campaign=1057&utm_source=git)** | Lorain, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c650bf1f8465b79f288f8?utm_campaign=1057&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c700d5e4962051b598cea?utm_campaign=1057&utm_source=git)** | Medina, Ohio, United States | Hybrid | Jul 21 |
 | **[Lake Elsinore Unified School District](https://www.leusd.k12.ca.us)** | **[Teacher, SDC Mod/Severe (TK - 2nd Grade) - WES ** Intern Eligible**](https://jobright.ai/jobs/info/6a5fdaa733ef5c58b400087b?utm_campaign=1057&utm_source=git)** | Lake Elsinore, CA, United States | On Site | Jul 21 |
 | **[World Relief](https://worldrelief.org/)** | **[Adult Education Intern](https://jobright.ai/jobs/info/6a5a8b4b856af468ab0090e5?utm_campaign=1057&utm_source=git)** | Greenville, SC, United States | On Site | Jul 21 |
 | **[Family Service Association - Fall River](http://www.frfsa.org)** | **[Teacher Assistant Internship](https://jobright.ai/jobs/info/6a341f35ce501060b5cef7ff?utm_campaign=1057&utm_source=git)** | Fall River, MA, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Building Impact](https://buildingimpact.org)** | **[Program Team Intern - Fall Semester 2026](https://jobright.ai/jobs/info/6a5f7f5b6e0c3c7c7d3d72a9?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[High Jump](https://highjumpchicago.org/)** | **[Campus Intern - Saturday Session 2026-2027](https://jobright.ai/jobs/info/6a5f7dd5193b511309678c29?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Research Center - Libraries](https://jobright.ai/jobs/info/6a347538ce501060b5cf15ad?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 21 |
-| **[Beech Brook](https://beechbrook.org)** | **[Internship Programs](https://jobright.ai/jobs/info/6a433007cbf92c7bcd36e83d?utm_campaign=1057&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 21 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a461da2c2d11a6a4666bce9?utm_campaign=1057&utm_source=git)** | New York, United States of America | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
