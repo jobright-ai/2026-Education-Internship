@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Incompass Human Services](https://www.incompasshs.org)** | **[Internship, Unpaid/College Credit](https://jobright.ai/jobs/info/6a5a25113ac7627fe900278e?utm_campaign=1057&utm_source=git)** | Chelmsford, MA, United States | On Site | Jul 23 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[26/27 Assistant Principal Intern 446400](https://jobright.ai/jobs/info/6a620b3cab14335fc0f1b352?utm_campaign=1057&utm_source=git)** | Fayetteville, NC, United States | On Site | Jul 23 |
 | **[New American Pathways](https://newamericanpathways.org)** | **[Afterschool Intern (Middle School)](https://jobright.ai/jobs/info/6a61f6dad51f6101c8fbe488?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4556f80dd56c76cc2f316a?utm_campaign=1057&utm_source=git)** | Chicago, United States | On Site | Jul 23 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a61a0deab14335fc0f18f4e?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WETA](https://weta.org/)** | **[Intern, Outreach and Community Engagement](https://jobright.ai/jobs/info/6a556d19268af95237bebd05?utm_campaign=1057&utm_source=git)** | Arlington, VA, United States | On Site | Jul 21 |
 | **[Columbia Basin Health Association](https://www.cbha.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a58d06dc8e3a473cb8a30a5?utm_campaign=1057&utm_source=git)** | Othello, WA, United States | On Site | Jul 21 |
 | **[Plymouth County District Attorney's Office](https://plymouthda.com/)** | **[Undergraduate Internship Opportunities](https://jobright.ai/jobs/info/6a606ba6cf6cf477a0560e0c?utm_campaign=1057&utm_source=git)** | Brockton, MA, United States | On Site | Jul 21 |
-| **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Contracted Student Interns - Plans Library Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fded433ef5c58b4000b4e?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Plans Library Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fdd83f68dd368023e93df?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
