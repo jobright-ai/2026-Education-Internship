@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Program Support Intern (Driver Education Program).](https://jobright.ai/jobs/info/6a626bf5846162391c935c6d?utm_campaign=1057&utm_source=git)** | Ankeny, IA, United States | On Site | Jul 23 |
+| **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Field Supervisor - Education Specialist Intern Program (Limited Term)](https://jobright.ai/jobs/info/6a626bd6d5caab4af8baddf8?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 23 |
+| **[Denver Botanic Gardens](http://www.botanicgardens.org)** | **[School Program Intern](https://jobright.ai/jobs/info/6a626596846162391c935a74?utm_campaign=1057&utm_source=git)** | Littleton, CO, United States | On Site | Jul 23 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Prevention](https://jobright.ai/jobs/info/6a6260fc1e089c0cc884c222?utm_campaign=1057&utm_source=git)** | Bloomington, IL, United States | On Site | Jul 23 |
 | **[Long Island Rough Riders](https://liroughriders.com)** | **[Internship Opportunity](https://jobright.ai/jobs/info/6a4d7d72c643fd23fed3d3df?utm_campaign=1057&utm_source=git)** | Uniondale, NY, United States | On Site | Jul 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Education and Youth Services Fall 2026 Intern - Unpaid](https://jobright.ai/jobs/info/6a625a54846162391c9354ad?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stony Brook University Libraries](https://library.stonybrook.edu/)** | **[Research & User Engagement Intern](https://jobright.ai/jobs/info/6a604f0c2a30b8563787399c?utm_campaign=1057&utm_source=git)** | Kansas, United States | On Site | Jul 21 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Learning & Development Internship - Fall 2026 (Hybrid)](https://jobright.ai/jobs/info/6a604f022a30b85637873992?utm_campaign=1057&utm_source=git)** | Fairfield, OH, United States | Hybrid | Jul 21 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Fall/Spring Internship and Education Program Management Intern](https://jobright.ai/jobs/info/6a604e8a71c79e639619ae74?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
-| **[CGC](http://coalitionforgreencapital.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a5348bdd007ee02d95fade4?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Jul 21 |
-| **[Goldbelt Heritage Foundation](http://www.goldbeltheritage.org/)** | **[Lingít Language Program Intern](https://jobright.ai/jobs/info/6a54356b8ef95364ead94cdd?utm_campaign=1057&utm_source=git)** | Juneau, AK, United States | On Site | Jul 21 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Intake Program Internship](https://jobright.ai/jobs/info/6a603388cf6cf477a0560334?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
