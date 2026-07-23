@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/6a61d9ffab14335fc0f19ff5?utm_campaign=1057&utm_source=git)** | Elk Grove, CA, United States | On Site | Jul 23 |
+| **[ArtWorks for Milwaukee, Inc.](http://www.artworksformilwaukee.org)** | **[Arts Internship Coordinator](https://jobright.ai/jobs/info/6a61d975d51f6101c8fbd706?utm_campaign=1057&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 23 |
+| **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Jefferson City Youth Specialist](https://jobright.ai/jobs/info/6a61d89bab14335fc0f19f33?utm_campaign=1057&utm_source=git)** | Jefferson City, Missouri, United States | On Site | Jul 23 |
 | **[Abuse Refuge Org. (ARO)](https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2FAbuseRefuge%2eorg)** | **[Internship Supervisor (Volunteer/Remote)](https://jobright.ai/jobs/info/6a510e3f78e364789ca58649?utm_campaign=1057&utm_source=git)** | Westerville, OH, United States | Remote | Jul 23 |
 | **[Baker School District 5J](http://www.baker5j.org)** | **[Student Teacher (Intern)](https://jobright.ai/jobs/info/6a61c1c97196365a6f00c2ef?utm_campaign=1057&utm_source=git)** | Baker City, OR, United States | On Site | Jul 23 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a61a0deab14335fc0f18f4e?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Jul 22 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Plymouth County District Attorney's Office](https://plymouthda.com/)** | **[Undergraduate Internship Opportunities](https://jobright.ai/jobs/info/6a606ba6cf6cf477a0560e0c?utm_campaign=1057&utm_source=git)** | Brockton, MA, United States | On Site | Jul 21 |
 | **[Commonwealth of Massachusetts](http://www.mass.gov)** | **[Contracted Student Interns - Plans Library Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fded433ef5c58b4000b4e?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Plans Library Intern (UNPAID)](https://jobright.ai/jobs/info/6a5fdd83f68dd368023e93df?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
-| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c650bf1f8465b79f288f8?utm_campaign=1057&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c793ef1f8465b79f29cd3?utm_campaign=1057&utm_source=git)** | Sandusky, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6d1a5e4962051b59897b?utm_campaign=1057&utm_source=git)** | Canton, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6427f1f8465b79f287fb?utm_campaign=1057&utm_source=git)** | canton, Ohio, United States | Hybrid | Jul 21 |
-| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c700d5e4962051b598cea?utm_campaign=1057&utm_source=git)** | Medina, Ohio, United States | Hybrid | Jul 21 |
+| **[OhioGuidestone](https://www.ohioguidestone.org)** | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c6e46aa05c26e7ab5d820?utm_campaign=1057&utm_source=git)** | Lancaster, Ohio, United States | Hybrid | Jul 21 |
+| ↳ | **[Clinical Intern (Masters Level Counseling)](https://jobright.ai/jobs/info/695c79f65e4962051b599888?utm_campaign=1057&utm_source=git)** | Lorain, Ohio, United States | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
