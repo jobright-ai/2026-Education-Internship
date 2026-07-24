@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Suburban Special Recreation Association](http://www.sssra.org)** | **[Intern](https://jobright.ai/jobs/info/6a62b54d07e15f1ab0e47c19?utm_campaign=1057&utm_source=git)** | Tinley Park, IL, United States | On Site | Jul 23 |
+| **[Youth Guidance](https://www.youth-guidance.org/)** | **[Intern (2560)](https://jobright.ai/jobs/info/6a62b511d5caab4af8baf689?utm_campaign=1057&utm_source=git)** | Kansas City, Missouri, United States | On Site | Jul 23 |
+| **[Title Resources Group](https://trguw.com)** | **[Training & Education Intern](https://jobright.ai/jobs/info/6a32eefef6b55d12c79168ca?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Lewis & Clark College](https://www.lclark.edu)** | **[Write Around Student Program Intern '26](https://jobright.ai/jobs/info/6a62a8f5f805ef6ff4234168?utm_campaign=1057&utm_source=git)** | Portland, OR, United States | On Site | Jul 23 |
 | **[GigCentric](https://gigcentric.com/)** | **[Virtual Software Trainer Internship / Video Editor Internship](https://jobright.ai/jobs/info/6a55cc1f05c65f7c8f4c7add?utm_campaign=1057&utm_source=git)** | Middleton, WI, United States | Remote | Jul 23 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Integrated Care Initiatives-Remote](https://jobright.ai/jobs/info/6a6272d7d5caab4af8badfb0?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
@@ -64,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Virginia Wesleyan University](https://www.vwu.edu/)** | **[Graduate Intern-Field Hockey](https://jobright.ai/jobs/info/6a6241c1c28982326de95832?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
 | ↳ | **[Graduate Intern- Enrollment](https://jobright.ai/jobs/info/6a628313f805ef6ff42335d5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
 | **[Nevada Museum of Art](https://www.nevadaart.org/)** | **[Education Internship](https://jobright.ai/jobs/info/6a628066f805ef6ff42334ec?utm_campaign=1057&utm_source=git)** | Reno, NV, United States | On Site | Jul 23 |
-| **[University of South Florida](https://www.usf.edu/arts-sciences/departments/physics/index.aspx)** | **[Guest Relations Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a623738d5caab4af8bac882?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
+| **[University of South Florida](https://www.usf.edu/arts-sciences/departments/physics/index.aspx)** | **[Guest Relations Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a6239fef805ef6ff42317b7?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
 | ↳ | **[Career Peer Intern (Student Assistant - FWS)](https://jobright.ai/jobs/info/6a6239fdc28982326de9551b?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
 | **[Somerville Public Schools](https://somerville.k12.ma.us/)** | **[2026 Summer Programs - Summer Adventure: High School Intern](https://jobright.ai/jobs/info/6a627e65c28982326de97193?utm_campaign=1057&utm_source=git)** | Somerville, MA, United States | On Site | Jul 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Education Intern](https://jobright.ai/jobs/info/6a627cd1f805ef6ff423331d?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Remote | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PathWays of Southwestern Pennsylvania](https://yourpathways.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6a5864b068d16a30e2412f2b?utm_campaign=1057&utm_source=git)** | Washington, PA, United States | On Site | Jul 22 |
 | **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Theater Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/6a5371468a74e077472f86d8?utm_campaign=1057&utm_source=git)** | Dublin, OH, United States | On Site | Jul 22 |
 | ↳ | **[Theater Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/6a59b4733ac7627fe90007b8?utm_campaign=1057&utm_source=git)** | Dublin, OH, 43017, US | On Site | Jul 22 |
-| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Academy Academic Advisor Intern](https://jobright.ai/jobs/info/6a5943743ac7627fe9ffe61b?utm_campaign=1057&utm_source=git)** | Denver, CO, United States | On Site | Jul 22 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[College & Career Readiness Intern](https://jobright.ai/jobs/info/6a5966f23ac7627fe9fff45d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 22 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - Lower Rio Grande Valley](https://jobright.ai/jobs/info/6a607a68193c4d692385e389?utm_campaign=1057&utm_source=git)** | Weslaco, TX, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
