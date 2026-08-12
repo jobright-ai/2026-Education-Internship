@@ -6,6 +6,11 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Academic Teaching and Educational Administration.
 
 
+### Related Canadian student resource
+
+- [Hanzilla Jobs - Canadian student internships and new grad roles](https://jobs.hanzilla.co/internships/) - free daily-updated Canadian jobs board for students and recent graduates, including internships, co-ops, new grad, junior, and entry-level roles across education-adjacent, business, tech, engineering, finance, sciences, arts, and other fields.
+
+
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1057&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
