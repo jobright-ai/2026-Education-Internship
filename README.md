@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AECOM](http://www.aecom.com/)** | **[Structural Intern- Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a98559aaf954907d6572b53?utm_campaign=1057&utm_source=git)** | Piscataway, NJ, United States | Hybrid | Sep 09 |
-| ↳ | **[Structural Intern- Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a9855a2af954907d6572b57?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
+| **[AECOM](http://www.aecom.com/)** | **[Structural Intern- Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a9855a2af954907d6572b57?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
+| ↳ | **[Structural Intern- Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a98559aaf954907d6572b53?utm_campaign=1057&utm_source=git)** | Piscataway, NJ, United States | Hybrid | Sep 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f495d985b99422f44?utm_campaign=1057&utm_source=git)** | Rapid City, SD, United States | On Site | Sep 09 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Student – Business Solutions Advisor](https://jobright.ai/jobs/info/6aa1cb66500b01124c77f155?utm_campaign=1057&utm_source=git)** | Quebec, Quebec, Canada | Hybrid | Sep 09 |
 | **[Yates Construction](https://www.wgyates.com)** | **[Copy of - Intern - Summer Program](https://jobright.ai/jobs/info/6aa1bebc2f936e4a53dadc56?utm_campaign=1057&utm_source=git)** | Philadelphia, MS, United States | Remote | Sep 09 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Program Specialist)](https://jobright.ai/jobs/info/6aa1632cef23570cae2439dd?utm_campaign=1057&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[INSPIRE Applied Internship (Student/Work Study)](https://jobright.ai/jobs/info/6aa1bd760ffb3d4fea6b6c46?utm_campaign=1057&utm_source=git)** | Flint, MI, United States | On Site | Sep 09 |
 | **[Pearson](https://www.pearson.com/)** | **[Utah Valley University-Pearson Campus Ambassador](https://jobright.ai/jobs/info/6aa1859fef23570cae24438e?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 09 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a9df292dacf777321a90457?utm_campaign=1057&utm_source=git)** | Ardmore, OK, United States | On Site | Sep 09 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Sep 09 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Sep 09 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a9df292dacf777321a90457?utm_campaign=1057&utm_source=git)** | Ardmore, OK, United States | On Site | Sep 09 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | On Site | Sep 09 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 09 |
 | **[CIANBRO](https://www.cianbro.com)** | **[College Internship](https://jobright.ai/jobs/info/6aa1bb93ef23570cae245d01?utm_campaign=1057&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 09 |
