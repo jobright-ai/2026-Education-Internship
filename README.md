@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Penn State University](http://www.psu.edu/)** | **[4-H Summer Assistant/Intern, Part-time](https://jobright.ai/jobs/info/6a537e5de726ec56126a6fd5?utm_campaign=1057&utm_source=git)** | Off Campus - Other, United States of America | Remote | Sep 10 |
+| **[Brevan Howard](http://www.brevanhoward.com)** | **[2027 Summer Internship Program – Trading, New York](https://jobright.ai/jobs/info/6a9ec260352f093fc756cb06?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 10 |
+| ↳ | **[2027 Summer Internship Program – Venture Capital, New York](https://jobright.ai/jobs/info/6aa1b1ae0ffb3d4fea6b68ce?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 10 |
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6aa258011ba58d018005137c?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/6a880bb34afae74a0834a748?utm_campaign=1057&utm_source=git)** | Chanhassen, MN, United States | On Site | Sep 09 |
 | **[AECOM](http://www.aecom.com/)** | **[Structural Intern- Hiring Event with AECOM - New York City](https://jobright.ai/jobs/info/6a98559aaf954907d6572b53?utm_campaign=1057&utm_source=git)** | Piscataway, NJ, United States | Hybrid | Sep 09 |
@@ -97,13 +99,13 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/6aa1684adbc0e60e37e111d3?utm_campaign=1057&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[Yates Construction](https://www.wgyates.com)** | **[Copy of - Intern - Summer Program](https://jobright.ai/jobs/info/6aa1bf6d2f936e4a53dadcc8?utm_campaign=1057&utm_source=git)** | Jackson, MS, United States | Remote | Sep 09 |
 | **[Schlaupitz Madhavan, P.C.](https://www.smcpafirm.com)** | **[Intern](https://jobright.ai/jobs/info/6aa17c58ef23570cae2440c9?utm_campaign=1057&utm_source=git)** | Troy, MI, United States | On Site | Sep 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Program Specialist)](https://jobright.ai/jobs/info/6aa1632cef23570cae2439dd?utm_campaign=1057&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Program Specialist)](https://jobright.ai/jobs/info/6aa168422f936e4a53dab843?utm_campaign=1057&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[INSPIRE Applied Internship (Student/Work Study)](https://jobright.ai/jobs/info/6aa1bd760ffb3d4fea6b6c46?utm_campaign=1057&utm_source=git)** | Flint, MI, United States | On Site | Sep 09 |
 | **[Pearson](https://www.pearson.com/)** | **[Utah Valley University-Pearson Campus Ambassador](https://jobright.ai/jobs/info/6aa1859fef23570cae24438e?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 09 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Sep 09 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | On Site | Sep 09 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a9df292dacf777321a90457?utm_campaign=1057&utm_source=git)** | Ardmore, OK, United States | On Site | Sep 09 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | On Site | Sep 09 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 09 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a9df292dacf777321a90457?utm_campaign=1057&utm_source=git)** | Ardmore, OK, United States | On Site | Sep 09 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Sep 09 |
 | **[CIANBRO](https://www.cianbro.com)** | **[College Internship](https://jobright.ai/jobs/info/6aa1bb93ef23570cae245d01?utm_campaign=1057&utm_source=git)** | Norfolk, VA, United States | On Site | Sep 09 |
 | **[PwC](http://pwc.com)** | **[Assurance - Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa20095ef23570cae247469?utm_campaign=1057&utm_source=git)** | Hamilton, WA, United States | On Site | Sep 09 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Academic Part Time Intern (APX) - Flight Projects Business Administration](https://jobright.ai/jobs/info/6aa1b765500b01124c77e8db?utm_campaign=1057&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 09 |
@@ -125,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[D2L](http://www.d2l.com)** | **[Knowledge Specialist - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa1747a3272060a8e3efd58?utm_campaign=1057&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a84a9052f4f0014cae22044?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Sep 09 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954bb58f1f8465b79ebf8b7?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Sep 09 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Student Internship, Psychiatry](https://jobright.ai/jobs/info/6a9b49449c24314c35f98bdb?utm_campaign=1057&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 09 |
 | **[Potential Inc.](https://potentialinc.org)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a5a0cf64da96a42cfd93f39?utm_campaign=1057&utm_source=git)** | Bristol, PA, United States | On Site | Sep 09 |
 | **[RBC](https://www.rbc.com)** | **[2027 Winter Student Opportunities Technology & Operations - Business Support, 8-12 Months](https://jobright.ai/jobs/info/6a84a648e12474455273ba4c?utm_campaign=1057&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 09 |
 | **[Brevard Zoo](https://brevardzoo.org/)** | **[Conservation Learning STEM Internship](https://jobright.ai/jobs/info/6aa1558adbc0e60e37e10dee?utm_campaign=1057&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[English Language Learning Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7cf8050c423c792ef7b7?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, United States | On Site | Sep 08 |
 | ↳ | **[Education and Youth Services Fall 2026 Intern - Unpaid](https://jobright.ai/jobs/info/6a625a54846162391c9354ad?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Sep 08 |
 | ↳ | **[Adult Education Intern - Fall 2026 (UNPAID)](https://jobright.ai/jobs/info/6a5e4857050c423c792ee2c1?utm_campaign=1057&utm_source=git)** | Richmond, VA USA, United States of America | On Site | Sep 08 |
-| ↳ | **[ICM Intern - Fall 2026 (UNPAID)](https://jobright.ai/jobs/info/6a6a08c70b42f866b6196502?utm_campaign=1057&utm_source=git)** | Richmond, VA, United States | On Site | Sep 08 |
-| ↳ | **[Youth Intern (Fall 2026)](https://jobright.ai/jobs/info/6a461c74076271587529fc8e?utm_campaign=1057&utm_source=git)** | Silver Spring, MD USA, United States of America | Hybrid | Sep 08 |
-| ↳ | **[After-School Program Fall 2026 Intern - Unpaid](https://jobright.ai/jobs/info/6a625a4907e15f1ab0e45b43?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
