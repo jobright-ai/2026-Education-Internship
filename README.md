@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6aa6eb5c42411952ff9ac89b?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Cerris](http://www.cerris.com)** | **[Learning and Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a6d021757120971bf3ae714?utm_campaign=1057&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 13 |
 | **[Miami Country Day School](https://www.miamicountryday.org/)** | **[Miami Country Day Teaching Internship](https://jobright.ai/jobs/info/6aa685fda77a53f5a157464f?utm_campaign=1057&utm_source=git)** | Miami, FL 33161, United States | On Site | Sep 13 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Fall 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/69ec1f2a16b2612c2a121383?utm_campaign=1057&utm_source=git)** | WOBURN,Massachusetts,United States | On Site | Sep 12 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Workforce Development Intern (Sacramento Students Only)](https://jobright.ai/jobs/info/6aa454921d92e2d05d1145e5?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | On Site | Sep 11 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Workforce Development Intern (Sacramento Students Only)](https://jobright.ai/jobs/info/6aa4716bf7baf881567cec00?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | On Site | Sep 11 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Training Content Developer Intern - Summer 2027](https://jobright.ai/jobs/info/6aa44e4f422289703bd66101?utm_campaign=1057&utm_source=git)** | Plymouth, WI, United States | On Site | Sep 11 |
-| **[EOS Hospitality](https://eoshospitality.com/)** | **[Rotational J1 Visa Internship program](https://jobright.ai/jobs/info/6a5ff72c6e0c3c7c7d3da3e6?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 11 |
+| **[EOS Hospitality](https://eoshospitality.com/)** | **[Rotational J1 Visa Internship program](https://jobright.ai/jobs/info/6a55f61210c4d945d864629b?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 11 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Facilities](https://jobright.ai/jobs/info/6aa449bff3aa936e2cdb0997?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Sep 11 |
 | **[Mayo Clinic Rochester](https://www.mayoclinic.org)** | **[Intern - Facilities](https://jobright.ai/jobs/info/6aa445f01d92e2d05d114288?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Sep 11 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Fraternal Intern](https://jobright.ai/jobs/info/6aa4127c1d92e2d05d1132b2?utm_campaign=1057&utm_source=git)** | Omaha, NE, United States | Hybrid | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[MEAL & Child Protection in Emergencies Intern](https://jobright.ai/jobs/info/6aa54308930bff471a29df35?utm_campaign=1057&utm_source=git)** | AZ, United States | Remote | Sep 10 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Video Editor and Training Content Developer (Spring 2027)](https://jobright.ai/jobs/info/6aa4c77f82e82a31997baacc?utm_campaign=1057&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 10 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Student, Digital Transformation Coordinator (Winter 2027)](https://jobright.ai/jobs/info/6aa4ddbba77a53f5a156e697?utm_campaign=1057&utm_source=git)** | Waterloo, ON, Canada | On Site | Sep 10 |
-| **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Internship Opportunities, Waltham, MA](https://jobright.ai/jobs/info/6aa5a2aa2ed333b4ea5c781d?utm_campaign=1057&utm_source=git)** | Waltham, MA, United States | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
