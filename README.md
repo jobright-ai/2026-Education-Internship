@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Learning & Development Internship - Spring 2027 (Hybrid)](https://jobright.ai/jobs/info/6aa72b5f82e82a31997c19c3?utm_campaign=1057&utm_source=git)** | Fairfield, OH, United States | Hybrid | Sep 13 |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Transactions Internship – Fall / MBA](https://jobright.ai/jobs/info/6aa72905a77a53f5a1575071?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 13 |
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6aa6eb5c42411952ff9ac89b?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Cerris](http://www.cerris.com)** | **[Learning and Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a6d021757120971bf3ae714?utm_campaign=1057&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 13 |
 | **[Miami Country Day School](https://www.miamicountryday.org/)** | **[Miami Country Day Teaching Internship](https://jobright.ai/jobs/info/6aa685fda77a53f5a157464f?utm_campaign=1057&utm_source=git)** | Miami, FL 33161, United States | On Site | Sep 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Learnitude](https://www.learnitude.com/)** | **[Internship: Instructional Design](https://jobright.ai/jobs/info/6aa3e707f7baf881567cbfa6?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Sep 10 |
 | **[UMass Boston](http://www.umb.edu/)** | **[Progressive Employment Research Intern, Scholarly Writing](https://jobright.ai/jobs/info/6aa3a3364233a2201a2b292d?utm_campaign=1057&utm_source=git)** | Greater Boston, United States | Remote | Sep 10 |
 | **[World Vision](http://www.worldvision.org/)** | **[MEAL & Child Protection in Emergencies Intern](https://jobright.ai/jobs/info/6aa54308930bff471a29df35?utm_campaign=1057&utm_source=git)** | AZ, United States | Remote | Sep 10 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Video Editor and Training Content Developer (Spring 2027)](https://jobright.ai/jobs/info/6aa4c77f82e82a31997baacc?utm_campaign=1057&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 10 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Student, Digital Transformation Coordinator (Winter 2027)](https://jobright.ai/jobs/info/6aa4ddbba77a53f5a156e697?utm_campaign=1057&utm_source=git)** | Waterloo, ON, Canada | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
