@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6aa8e59283a6750b1adfa73a?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 14 |
+| **[Ulta Beauty](https://www.ulta.com)** | **[Asset Protection Programs Intern](https://jobright.ai/jobs/info/6aa80fcf654b2a9424cfa6f9?utm_campaign=1057&utm_source=git)** | Bolingbrook, IL, United States | Hybrid | Sep 14 |
+| **[National Reconnaissance Office (NRO)](https://www.nro.gov)** | **[2027 Dr. Chris Scolese Summer Internship Program](https://jobright.ai/jobs/info/6a83e141e021cc586fb68c3d?utm_campaign=1057&utm_source=git)** | Chantilly, VA, United States | On Site | Sep 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Opportunities, Morristown, NJ](https://jobright.ai/jobs/info/6aa8cc8b6d0edc2d91b07b67?utm_campaign=1057&utm_source=git)** | Morristown, NJ, United States | On Site | Sep 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Community Programs Project Intern (TikTok Operations) - 2026 Start](https://jobright.ai/jobs/info/6a83a8589b859b2277670230?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
 | **[Family Connections, Inc.](https://www.familyconnectionsnj.org/)** | **[Events Associate Internship – Culture Connections Training Center](https://jobright.ai/jobs/info/6aa8c90017ddad6a8a47d3b4?utm_campaign=1057&utm_source=git)** | East Orange, NJ, United States | Hybrid | Sep 14 |
@@ -116,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Athene](https://www.athene.com/)** | **[Training Intern](https://jobright.ai/jobs/info/6aa84ddd3a9f0a4fe6f186f2?utm_campaign=1057&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 14 |
 | **[Mississippi Votes](msvotes.org)** | **[2027 Spring Internship Cohort](https://jobright.ai/jobs/info/6aa08f5bea127c3794697d7b?utm_campaign=1057&utm_source=git)** | Jackson, MS, United States | On Site | Sep 14 |
 | **[Martin Brower](http://martinbrower.com)** | **[Quality Programs Internship](https://jobright.ai/jobs/info/6aa84c6382e82a31997c5042?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 14 |
-| **[Union Gospel Mission of Tarrant County](https://ugm-tc.org)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a5a3da1686b4755d1e14003?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 14 |
+| **[Union Gospel Mission of Tarrant County](https://ugm-tc.org)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a733f958dc3d52d8ed9e37e?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 14 |
 | ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/6a2374f44239a4353887e368?utm_campaign=1057&utm_source=git)** | Mission, Fort Worth, TX, US | On Site | Sep 14 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Spring 2027)](https://jobright.ai/jobs/info/6a541853d007ee02d95fdb11?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Sep 14 |
 | ↳ | **[Research Intern(Summer 2027)](https://jobright.ai/jobs/info/6a99f8468a8b765bc55f6abc?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 14 |
@@ -144,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Messiah University](https://www.messiah.edu/)** | **[Student - Instructional Design Intern](https://jobright.ai/jobs/info/6aa8244a930bff471a2a573e?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Sep 14 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Intern - Parts College](https://jobright.ai/jobs/info/6a7d7f11d77e8156a8e3677f?utm_campaign=1057&utm_source=git)** | Waco, TX, United States | On Site | Sep 14 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa80f0a82e82a31997c38c9?utm_campaign=1057&utm_source=git)** | Wilton, CT, United States | On Site | Sep 14 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Asset Protection Programs Intern](https://jobright.ai/jobs/info/6aa80fcf654b2a9424cfa6f9?utm_campaign=1057&utm_source=git)** | Bolingbrook, IL, United States | Hybrid | Sep 14 |
 | **[James G. Davis Construction (DAVIS)](https://www.davisconstruction.com/)** | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6aa807eda77a53f5a1576d7e?utm_campaign=1057&utm_source=git)** | Rockville, MD, United States | On Site | Sep 14 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Innovation Group - Technology Product Analyst](https://jobright.ai/jobs/info/6aa7d016a77a53f5a1576143?utm_campaign=1057&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 14 |
 | ↳ | **[Summer 2027 Intern- Innovation Group- Scouting/Business Research](https://jobright.ai/jobs/info/6aa7dc68654b2a9424cf99d3?utm_campaign=1057&utm_source=git)** | Los Altos, CA, United States | Hybrid | Sep 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/6aa7e3c72ed333b4ea5cc448?utm_campaign=1057&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 14 |
 | **[Cozey](https://www.cozey.ca)** | **[Retail Training Intern](https://jobright.ai/jobs/info/6aa7d95d2ed333b4ea5cc1bd?utm_campaign=1057&utm_source=git)** | Mont-Royal, Quebec, Canada | Hybrid | Sep 14 |
 | **[World Vision](http://www.worldvision.org/)** | **[MEAL & Child Protection in Emergencies Intern](https://jobright.ai/jobs/info/6aa54308930bff471a29df35?utm_campaign=1057&utm_source=git)** | AZ, United States | Remote | Sep 14 |
-| **[Phillips 66](http://www.phillips66.com/)** | **[2027 University Intern - Commercial Marine Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa7c56c654b2a9424cf96cd?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
-| **[Credent Wealth Management](https://www.credentwealth.com)** | **[Wealth Management Intern- Plano, TX](https://jobright.ai/jobs/info/6aa8b7bceff87f571fc9762c?utm_campaign=1057&utm_source=git)** | Plano, TX, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
