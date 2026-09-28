@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2027 FOX Entertainment Internship Program - MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6aba1a72fe3c0ccb11a9861b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 28 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6aba1a23cc01395d1d22a578?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[Sojourn Collegiate Ministry](https://sojourncollegiate.com)** | **[RES10 Intern](https://jobright.ai/jobs/info/6a560cddefb06a45240d36dd?utm_campaign=1057&utm_source=git)** | South Kingston, Rhode Island, United States | On Site | Sep 27 |
 | **[World Relief](https://worldrelief.org/)** | **[English Conversation Partners Intern-  2025850](https://jobright.ai/jobs/info/6a9068010bd89e205d24a162?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 27 |
 | ↳ | **[ESL Class Support Intern-  2025851](https://jobright.ai/jobs/info/6a9070b70bd89e205d24a5ee?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 27 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Program - Commercial Banking (ICRE)](https://jobright.ai/jobs/info/6a99abeb138838706058f8b5?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 25 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2027 Instructional Design Co-op](https://jobright.ai/jobs/info/6aa8273a930bff471a2a589b?utm_campaign=1057&utm_source=git)** | Greenwood, IN, United States | On Site | Sep 25 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Sep 25 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | On Site | Sep 25 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 25 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a9df292dacf777321a90457?utm_campaign=1057&utm_source=git)** | Ardmore, OK, United States | Hybrid | Sep 25 |
 | **[Passion for Life, Inc.](https://mypassion4life.org)** | **[Internship - Family Engagement Coordinator/School Counselor](https://jobright.ai/jobs/info/6ab6a3ead85922de20ce5df3?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Insurance Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab6b178b3db59402d101c94?utm_campaign=1057&utm_source=git)** | Troy, MI, United States | Hybrid | Sep 25 |
@@ -139,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://browngay.com)** | **[Frisco, Transportation, Internship](https://jobright.ai/jobs/info/6a9a1a6c90a313642c65476a?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Sep 25 |
 | ↳ | **[NORTH AUSTIN - Transportation, Internship](https://jobright.ai/jobs/info/6a99c613040e5c3d07598bb6?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
 | ↳ | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/6ab6a0fac6fe0dec811a5aaf?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 25 |
-| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa80edf3a9f0a4fe6f16ee5?utm_campaign=1057&utm_source=git)** | Wilton, CT, United States | On Site | Sep 25 |
+| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa80f0a82e82a31997c38c9?utm_campaign=1057&utm_source=git)** | Wilton, CT, United States | On Site | Sep 25 |
 | **[BGE, Inc.](https://browngay.com)** | **[DALLAS - Transportation, Internship](https://jobright.ai/jobs/info/6ab6574f9d4843569fe4d4e5?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Sep 25 |
 | ↳ | **[FORT WORTH - Transportation, Internship](https://jobright.ai/jobs/info/6a9a19ae551435518ebf2f93?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 25 |
 | ↳ | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/6a99f779551435518ebf24d4?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Sep 25 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Scheduling Specialist Intern](https://jobright.ai/jobs/info/6ab5dd00d85922de20ce38ed?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | On Site | Sep 24 |
 | **[Rosendin](https://www.rosendin.com)** | **[2027 Summer Intern](https://jobright.ai/jobs/info/6ab5cdc2b3db59402d0ff02f?utm_campaign=1057&utm_source=git)** | Amarillo, TX, United States | On Site | Sep 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Dining Technology & Systems Intern, Chartwells Higher Ed / St. John Fisher University](https://jobright.ai/jobs/info/6ab5f5d29d4843569fe4c7f8?utm_campaign=1057&utm_source=git)** | Rochester, NY, United States | On Site | Sep 24 |
-| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab60519b3db59402d0ffb10?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
-| ↳ | **[Spring 2027 FOX Entertainment Internship Program - MBA](https://jobright.ai/jobs/info/6ab621314873fd3fd852cce6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 24 |
-| **[Cone Health](http://www.conehealth.com)** | **[Innovation and Lean Transformation Intern](https://jobright.ai/jobs/info/6ab690a2c6fe0dec811a53f8?utm_campaign=1057&utm_source=git)** | Greensboro, NC, United States | Hybrid | Sep 24 |
-| **[SCCCD International Education](https://www.scccd.edu/departments/educational-services-and-institutional-effectiveness/international-education/study-abroad-programs/index.html)** | **[Faculty In Training Intern - All Campuses](https://jobright.ai/jobs/info/6ab56f889d4843569fe49b44?utm_campaign=1057&utm_source=git)** | Fresno, CA, United States | On Site | Sep 24 |
+| **[Fox Corporation](https://www.foxcorporation.com)** | **[Spring 2027 FOX Entertainment Internship Program - MBA](https://jobright.ai/jobs/info/6ab621314873fd3fd852cce6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 24 |
+| ↳ | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab60519b3db59402d0ffb10?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
