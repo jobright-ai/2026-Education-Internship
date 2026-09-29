@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virbela](http://virbela.com/)** | **[Doctoral Research Intern — AI, Leadership & Behavioral Assessment](https://jobright.ai/jobs/info/6abb3cd31acb8fc6f09c43af?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Health Services, Clinical Quality and Training Internship](https://jobright.ai/jobs/info/6aa8b77a3387a3d9b67d2ba2?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 28 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Microplastics Institute: Education or Research Sub-Team Intern](https://jobright.ai/jobs/info/6abb2586be5f1e9325119d1e?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CED](http://www.cedcareers.com)** | **[Internship - ISU](https://jobright.ai/jobs/info/6a7112fe71acd469eeda1911?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 28 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6abac239ee0b348be729b532?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Harris](https://www.harriscompany.com/)** | **[Learning + Development Intern](https://jobright.ai/jobs/info/6aba75f97220f52e62ae6625?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 28 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Education Administration-Community Programs (Spring 2027)](https://jobright.ai/jobs/info/6abab6abad8589219ef7ed56?utm_campaign=1057&utm_source=git)** | Vienna, VA, United States | On Site | Sep 28 |
-| **[CareerXL](careerxl.com/)** | **[Chief of Staff Intern, Growth & Operations](https://jobright.ai/jobs/info/6abab6057220f52e62ae7cfa?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 28 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Cultural Activities Coordinator (Fall/Spring)](https://jobright.ai/jobs/info/6ab678634873fd3fd852d5dc?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 28 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa80f0a82e82a31997c38c9?utm_campaign=1057&utm_source=git)** | Wilton, CT, United States | On Site | Sep 28 |
 | ↳ | **[Trader Trainee Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa80edf3a9f0a4fe6f16ee5?utm_campaign=1057&utm_source=git)** | Memphis, TN, United States | On Site | Sep 28 |
@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6aba1a23cc01395d1d22a578?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[Bank Iowa](http://bankiowa.bank)** | **[Rotational Banking Internship (Summer 2027)](https://jobright.ai/jobs/info/6aba63607220f52e62ae61ad?utm_campaign=1057&utm_source=git)** | West Des Moines, IA, United States | On Site | Sep 28 |
 | **[Sojourn Collegiate Ministry](https://sojourncollegiate.com)** | **[RES10 Intern](https://jobright.ai/jobs/info/6a560cddefb06a45240d36dd?utm_campaign=1057&utm_source=git)** | South Kingston, Rhode Island, United States | On Site | Sep 27 |
-| **[DASH Sports](https://www.dashsports.us/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6abadf473db4ca81fc7c508c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 27 |
-| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/6abadfe03db4ca81fc7c50cb?utm_campaign=1057&utm_source=git)** | Saint Michael, MN, United States | On Site | Sep 27 |
+| **[DASH Sports](https://www.dashsports.us/)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6abadfe03db4ca81fc7c50cb?utm_campaign=1057&utm_source=git)** | Saint Michael, MN, United States | On Site | Sep 27 |
+| ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/6abadf473db4ca81fc7c508c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN, United States | On Site | Sep 27 |
 | ↳ | **[Sports Management Internship](https://jobright.ai/jobs/info/6abadf991acb8fc6f09c2108?utm_campaign=1057&utm_source=git)** | Alexandria, MN, United States | On Site | Sep 27 |
 | **[World Relief](https://worldrelief.org/)** | **[English Conversation Partners Intern-  2025850](https://jobright.ai/jobs/info/6a9068010bd89e205d24a162?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 27 |
 | ↳ | **[ESL Class Support Intern-  2025851](https://jobright.ai/jobs/info/6a9070b70bd89e205d24a5ee?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 27 |
