@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[2027 IMPACT Summer Leadership Program - Conshohocken, PA](https://jobright.ai/jobs/info/6a95e85ccabc9f6703e1ae84?utm_campaign=1057&utm_source=git)** | Conshohocken, PA, United States | On Site | Oct 13 |
 | **[Journal of Strategic Marketing](https://imm.ac.za/)** | **[Faculty Intern](https://jobright.ai/jobs/info/6ace0c9a4f3229123da3a585?utm_campaign=1057&utm_source=git)** | Johannesburg, California, United States | On Site | Oct 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Community Impact - Corporate](https://jobright.ai/jobs/info/6acd4148002e496d4bef15a2?utm_campaign=1057&utm_source=git)** | Stamford, CT, United States | On Site | Oct 13 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[2027 Summer Ronny Golf Park Junior Golf Coach Internship](https://jobright.ai/jobs/info/6acde9e687bf8b219cb9f5c1?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Oct 13 |
@@ -120,16 +121,16 @@ For a complete list, click the following sortable link below:
 | **[Gertens](https://www.gertens.com/)** | **[Training Content Creator Internship](https://jobright.ai/jobs/info/6acc65b2a56e5406e57bd8bc?utm_campaign=1057&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Oct 11 |
 | **[Neill Corporation](https://neill.com/)** | **[Spa Instructor Intern](https://jobright.ai/jobs/info/6acc4c3ca56e5406e57bd5a1?utm_campaign=1057&utm_source=git)** | Hammond, LA, United States | On Site | Oct 11 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31abe7a1d9333210d93b?utm_campaign=1057&utm_source=git)** | Medley, FL, United States | On Site | Oct 11 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE GES Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7002e496d4beee19a?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7a56e5406e57bd2ed?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Oct 11 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE GES Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7002e496d4beee19a?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a5002e496d4beee196?utm_campaign=1057&utm_source=git)** | Maryville, TN, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a2a56e5406e57bd2eb?utm_campaign=1057&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES Job Details / Cemex](https://jobright.ai/jobs/info/6acc31843c831dc4086be1b7?utm_campaign=1057&utm_source=git)** | New Braunfels, TX, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES Job Details / Cemex](https://jobright.ai/jobs/info/6acc317f3c831dc4086be1b5?utm_campaign=1057&utm_source=git)** | Brooksville, FL, United States | On Site | Oct 11 |
 | **[Butterball](http://www.butterball.com/)** | **[2027 Summer Community Engagement Intern](https://jobright.ai/jobs/info/6aa4d2ea42411952ff9a5b09?utm_campaign=1057&utm_source=git)** | Garner, NC, United States | On Site | Oct 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Video Editor and Training Content Developer (Spring 2027)](https://jobright.ai/jobs/info/6acdef16ab6cf97cf137b8da?utm_campaign=1057&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 11 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern (DM CM)](https://jobright.ai/jobs/info/6acd1abcd113c967e3c7c1f2?utm_campaign=1057&utm_source=git)** | Spring House, PA, United States | Hybrid | Oct 11 |
-| ↳ | **[IDAR Summer Intern (RMW)](https://jobright.ai/jobs/info/6acd1aacd113c967e3c7c1e2?utm_campaign=1057&utm_source=git)** | Spring House, PA, United States | Hybrid | Oct 11 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern (RMW)](https://jobright.ai/jobs/info/6acd1aacd113c967e3c7c1e2?utm_campaign=1057&utm_source=git)** | Spring House, PA, United States | Hybrid | Oct 11 |
+| ↳ | **[IDAR Summer Intern (DM CM)](https://jobright.ai/jobs/info/6acd1abcd113c967e3c7c1f2?utm_campaign=1057&utm_source=git)** | Spring House, PA, United States | Hybrid | Oct 11 |
 | **[Centene Corporation](http://centene.com)** | **[Finance and Accounting Summer 2027 Intern (Undergraduate)](https://jobright.ai/jobs/info/6acced0fddd23cce28a0fb87?utm_campaign=1057&utm_source=git)** | Missouri, United States | Remote | Oct 11 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Student Affairs Intern](https://jobright.ai/jobs/info/6ac924b9fe8f33a85d50272c?utm_campaign=1057&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 11 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Forestry Intern](https://jobright.ai/jobs/info/6acb5515002e496d4beed054?utm_campaign=1057&utm_source=git)** | Bingham, ME, United States | On Site | Oct 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iberdrola](http://www.iberdrola.com)** | **[2027 Technology, Cyber & Data Internship Program](https://jobright.ai/jobs/info/6a9109322e254e06fb9f36d7?utm_campaign=1057&utm_source=git)** | Orange, CT, United States | On Site | Oct 10 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL](https://jobright.ai/jobs/info/6aa05922ea127c37946968b7?utm_campaign=1057&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 10 |
 | **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Health Education Intern](https://jobright.ai/jobs/info/6a5a7af6c8e3a473cb8abfb0?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Oct 09 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[U.S. Summer Program - Patent Litigation Candidates (JD Year 2029)](https://jobright.ai/jobs/info/6ac98d1b48c3d015e4212a32?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
