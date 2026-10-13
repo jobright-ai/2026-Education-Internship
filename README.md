@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Personal Trainer-Intern](https://jobright.ai/jobs/info/6ab30c4c30340229a32315ce?utm_campaign=1057&utm_source=git)** | Roseville, CA, United States | On Site | Oct 12 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, California Education Learning Lab](https://jobright.ai/jobs/info/6acd8b6be7a1d933321120d4?utm_campaign=1057&utm_source=git)** | California, United States | Remote | Oct 12 |
 | **[Dow](https://www.dowchemical.com)** | **[2026-2027 Campus Internship – Treasury](https://jobright.ai/jobs/info/6acd5da3e7a1d93332111736?utm_campaign=1057&utm_source=git)** | Midland, MI, United States | On Site | Oct 12 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Administration and Communications](https://jobright.ai/jobs/info/6acd738eddd23cce28a125b6?utm_campaign=1057&utm_source=git)** | California, United States | Remote | Oct 12 |
@@ -113,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Neill Corporation](https://neill.com/)** | **[Spa Instructor Intern](https://jobright.ai/jobs/info/6acc4c3ca56e5406e57bd5a1?utm_campaign=1057&utm_source=git)** | Hammond, LA, United States | On Site | Oct 11 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31b3ddd23cce28a0e3b3?utm_campaign=1057&utm_source=git)** | Cantonment, FL, United States, 32533 | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31abe7a1d9333210d93b?utm_campaign=1057&utm_source=git)** | Medley, FL, United States | On Site | Oct 11 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7002e496d4beee199?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL, United States | On Site | Oct 11 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7a56e5406e57bd2ed?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE GES Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7ddd23cce28a0e3af?utm_campaign=1057&utm_source=git)** | Jersey Village, TX, United States, 77040 | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE GES Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7002e496d4beee19a?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Oct 11 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7a56e5406e57bd2ed?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Oct 11 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a7002e496d4beee199?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a5002e496d4beee196?utm_campaign=1057&utm_source=git)** | Maryville, TN, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a4002e496d4beee194?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Oct 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6acc31a2a56e5406e57bd2eb?utm_campaign=1057&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Health Education Intern](https://jobright.ai/jobs/info/6a5a7af6c8e3a473cb8abfb0?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Oct 09 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[U.S. Summer Program - Patent Litigation Candidates (JD Year 2029)](https://jobright.ai/jobs/info/6ac98d1b48c3d015e4212a32?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Oct 09 |
 | **[Travelers](https://www.travelers.com/)** | **[Bond and Specialty Insurance Intern: Underwriting Professional Development Program](https://jobright.ai/jobs/info/6acb07f63c831dc4086bcdb8?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 09 |
-| **[Toyota Automated Logistics](https://toyota-automated-logistics.com)** | **[Technical Trainer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa50c6e42411952ff9a6bd7?utm_campaign=1057&utm_source=git)** | Louisville, Kentucky, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
