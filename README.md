@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Clinical Excellence Student Intern - Summer 2027](https://jobright.ai/jobs/info/6ab0a6aa2e757fcb5c8be2e8?utm_campaign=1057&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 13 |
+| **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[2027 IMPACT Summer Leadership Program - Wheeling, WV](https://jobright.ai/jobs/info/6a95e8649fcec5442373022f?utm_campaign=1057&utm_source=git)** | Wheeling, WV, United States | On Site | Oct 13 |
+| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots-Youth Soccer Internship Winter/Spring 2027](https://jobright.ai/jobs/info/6a3fa5343bfa967791ebf478?utm_campaign=1057&utm_source=git)** | Carmel, IN, United States | On Site | Oct 13 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[2027 IMPACT Summer Leadership Program - Conshohocken, PA](https://jobright.ai/jobs/info/6a95e85ccabc9f6703e1ae84?utm_campaign=1057&utm_source=git)** | Conshohocken, PA, United States | On Site | Oct 13 |
 | **[Journal of Strategic Marketing](https://imm.ac.za/)** | **[Faculty Intern](https://jobright.ai/jobs/info/6ace0c9a4f3229123da3a585?utm_campaign=1057&utm_source=git)** | Johannesburg, California, United States | On Site | Oct 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Community Impact - Corporate](https://jobright.ai/jobs/info/6acd4148002e496d4bef15a2?utm_campaign=1057&utm_source=git)** | Stamford, CT, United States | On Site | Oct 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Big Cedar Lodge Internship Program](https://jobright.ai/jobs/info/6ac58acf8ff3fb9b3bc8a39f?utm_campaign=1057&utm_source=git)** | Ridgedale, MO, United States | On Site | Oct 10 |
 | **[Philip Morris International U.S.](https://www.uspmi.com)** | **[Undergraduate Intern - Communications & Corporate Development Summer 2027](https://jobright.ai/jobs/info/6aadac042e757fcb5c8b9cce?utm_campaign=1057&utm_source=git)** | Stamford, CT, United States | Hybrid | Oct 10 |
 | **[O&G Industries, Inc.](http://ogind.com)** | **[Summer Interns 2027](https://jobright.ai/jobs/info/6aa52ff02ed333b4ea5c5f33?utm_campaign=1057&utm_source=git)** | Torrington, CT, United States | On Site | Oct 10 |
-| **[Iberdrola](http://www.iberdrola.com)** | **[2027 Technology, Cyber & Data Internship Program](https://jobright.ai/jobs/info/6a9109322e254e06fb9f36d7?utm_campaign=1057&utm_source=git)** | Orange, CT, United States | On Site | Oct 10 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL](https://jobright.ai/jobs/info/6aa05922ea127c37946968b7?utm_campaign=1057&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 10 |
-| **[Urban League of Broward County](https://www.ulbroward.org/)** | **[Health Education Intern](https://jobright.ai/jobs/info/6a5a7af6c8e3a473cb8abfb0?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
