@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Trading Intern](https://jobright.ai/jobs/info/6ad520f125289a0b3bf5e718?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | Remote | Oct 18 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Category Content Management Intern](https://jobright.ai/jobs/info/6a9aeb58d5ff1f3f1c39bb9c?utm_campaign=1057&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Oct 18 |
 | **[Northeast Wisconsin Technical College](http://www.nwtc.edu/)** | **[Part-Time College Readiness Intern – Work Study (Current NWTC work-study eligible students only)](https://jobright.ai/jobs/info/6a97292d246d697dcee03b2e?utm_campaign=1057&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 18 |
 | **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6ad4c0b825289a0b3bf5da5e?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | Oct 18 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Summer Internship - Elkin, NC](https://jobright.ai/jobs/info/6ad2d0205290d4375c455233?utm_campaign=1057&utm_source=git)** | Elkin, North Carolina, United States | On Site | Oct 16 |
 | **[Travelers](https://www.travelers.com/)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/6ac92c33d4a5a0370741114b?utm_campaign=1057&utm_source=git)** | Centennial, CO, United States | Hybrid | Oct 16 |
 | ↳ | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/6ac92c18fe8f33a85d502943?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA, United States | Hybrid | Oct 16 |
-| ↳ | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/6ac92c146355f8776ff17c0e?utm_campaign=1057&utm_source=git)** | Glendale, California, United States | Hybrid | Oct 16 |
 | ↳ | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/6ac92c1dc3a8af9c54a0974f?utm_campaign=1057&utm_source=git)** | Spokane Valley, Washington, United States | Hybrid | Oct 16 |
+| ↳ | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/6ac92c146355f8776ff17c0e?utm_campaign=1057&utm_source=git)** | Glendale, California, United States | Hybrid | Oct 16 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[VIRGINIA Program Office - 2027 Summer Internship](https://jobright.ai/jobs/info/6aada4623dbb1f8967ceec36?utm_campaign=1057&utm_source=git)** | Groton, CT, United States | On Site | Oct 16 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Vocational & MD Training Intern](https://jobright.ai/jobs/info/6ad2679ac4290cef1412ab0f?utm_campaign=1057&utm_source=git)** | Fort Mill, SC, United States | Hybrid | Oct 16 |
 | **[Columbus Zoo and Aquarium](https://columbuszoo.org/)** | **[Animal Care Behavioral Observation Internship - Spring 2027](https://jobright.ai/jobs/info/6ad2a59483ada13a9da071e6?utm_campaign=1057&utm_source=git)** | Powell, OH, United States | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steppingstone](http://www.tsf.org)** | **[Summer Advising Intern](https://jobright.ai/jobs/info/6ad255cbf04335fc70ed4d7d?utm_campaign=1057&utm_source=git)** | Milton, MA, United States | On Site | Oct 16 |
 | ↳ | **[Summer Teaching Intern](https://jobright.ai/jobs/info/6ad255c9f04335fc70ed4d7c?utm_campaign=1057&utm_source=git)** | Milton, MA, United States | On Site | Oct 16 |
 | **[BGE, Inc.](https://browngay.com)** | **[Frisco, Transportation, Internship](https://jobright.ai/jobs/info/6a9a1aa51388387060592744?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Oct 16 |
-| ↳ | **[DALLAS - Transportation, Internship](https://jobright.ai/jobs/info/6a9a18808a8b765bc55f7787?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
