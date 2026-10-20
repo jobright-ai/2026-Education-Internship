@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - First Catch Center (Summer)](https://jobright.ai/jobs/info/6ad7826152aa6152bb69c3f8?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 20 |
 | **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Summer 2027 Intern - Technical Content Creation](https://jobright.ai/jobs/info/6ac4f3520e027c0f3b3ac0a0?utm_campaign=1057&utm_source=git)** | Greencastle, PA, United States | On Site | Oct 20 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program – Global Regulatory Affairs - Oncology – Co-op](https://jobright.ai/jobs/info/6a9f5b60f6ea002358298049?utm_campaign=1057&utm_source=git)** | Rahway, NJ, United States | Hybrid | Oct 20 |
 | **[Harris](https://www.harriscompany.com/)** | **[Learning + Development Intern](https://jobright.ai/jobs/info/6aba75f97220f52e62ae6625?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, United States | On Site | Oct 20 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd2e4b94611ab841c9f?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Oct 19 |
 | ↳ | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd23dc655658d8e9117?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Oct 19 |
 | **[Association of Independent Schools in New England](https://aisne.org)** | **[Athletics Operations Internship](https://jobright.ai/jobs/info/6ad6b64ae4b94611ab841513?utm_campaign=1057&utm_source=git)** | Brookline, MA, United States | On Site | Oct 19 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Youth Success Specialist Intern (Spring 2027)](https://jobright.ai/jobs/info/6ad776cee4b94611ab8452bf?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 19 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA901: Internship Program Manager](https://jobright.ai/jobs/info/6a52ee579fbdab22fe13d99c?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 19 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6ab1ab69d43eb922ca0c07ca?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Oct 19 |
 | **[Travelers](https://www.travelers.com/)** | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/6ad6a9f452aa6152bb697a53?utm_campaign=1057&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Community YMCA](https://www.oshkoshymca.org)** | **[Spring Sports Management Internship (Oshkosh YMCA)](https://jobright.ai/jobs/info/6a5fdab9b0f20036bc63387b?utm_campaign=1057&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 17 |
 | **[Summit Public Schools](http://summitps.org)** | **[Marshall Intern Credentialing Program](https://jobright.ai/jobs/info/6a52a406d007ee02d95f864a?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area, CA, United States | On Site | Oct 17 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Guzman Lab - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6ad1a5a5af5019c7f06232aa?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Oct 17 |
-| ↳ | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6ad18e7fc24514d0596cd01b?utm_campaign=1057&utm_source=git)** | Los Angeles, California, United States | On Site | Oct 17 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern Student Worker (CNHCP) (NFWS)](https://jobright.ai/jobs/info/6ad40727f04335fc70edace4?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
