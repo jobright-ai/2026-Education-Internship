@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris](https://www.harriscompany.com/)** | **[Learning + Development Intern](https://jobright.ai/jobs/info/6aba75f97220f52e62ae6625?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, United States | On Site | Oct 20 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[2027 Summer Internship](https://jobright.ai/jobs/info/6ad686cc67bec1d0d9c70163?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 20 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Academic Part Time Intern](https://jobright.ai/jobs/info/6aceacc24f3229123da3d940?utm_campaign=1057&utm_source=git)** | Pasadena, California, United States | On Site | Oct 20 |
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6ad70a173dc655658d8ea7ae?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Oct 19 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bond and Specialty Insurance Intern: Underwriting Professional Development Program](https://jobright.ai/jobs/info/6acb07f63c831dc4086bcdb8?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 19 |
 | ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/6acecd504391691a335aea17?utm_campaign=1057&utm_source=git)** | Flowood, MS, United States | On Site | Oct 19 |
 | ↳ | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/6ac97b6dfcdafb60c6a4c868?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 19 |
-| ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/6ac50fcf8ff3fb9b3bc87526?utm_campaign=1057&utm_source=git)** | Edison, NJ, United States | Hybrid | Oct 19 |
 | ↳ | **[Bond & Specialty Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/6ac029ad064da25272e08246?utm_campaign=1057&utm_source=git)** | Braintree, MA, United States | Hybrid | Oct 19 |
+| ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/6ac50fcf8ff3fb9b3bc87526?utm_campaign=1057&utm_source=git)** | Edison, NJ, United States | Hybrid | Oct 19 |
 | ↳ | **[Bond and Specialty Insurance Intern: Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/6ac937ccc3a8af9c54a09c61?utm_campaign=1057&utm_source=git)** | St. Paul, MN, United States | Hybrid | Oct 19 |
 | ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP Intern)](https://jobright.ai/jobs/info/6abad219ee0b348be729bad2?utm_campaign=1057&utm_source=git)** | Spokane Valley, Washington, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/6ac97b6dc3a8af9c54a0ae80?utm_campaign=1057&utm_source=git)** | Melville, NY, United States | On Site | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Content Development Intern, Summer 2027](https://jobright.ai/jobs/info/6acd05f9a56e5406e57bf31d?utm_campaign=1057&utm_source=git)** | Plano, Texas, United States | On Site | Oct 17 |
 | **[Art and Wellness Enterprises](https://aweoffice.org)** | **[2027 Youth & Family Programs Spring Intern](https://jobright.ai/jobs/info/6ab6ef5c39fd8792cb73ccba?utm_campaign=1057&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 17 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern – Business Credit](https://jobright.ai/jobs/info/6ad2f557f04335fc70ed8136?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Oct 17 |
-| **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Manufacturing Planning & Simulation Strategic Intern (DM, Spring 2027)](https://jobright.ai/jobs/info/6a9afff990a313642c658198?utm_campaign=1057&utm_source=git)** | Livonia, MI, United States | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
