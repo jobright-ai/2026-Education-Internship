@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern (Summer 2027) - Learning and Development](https://jobright.ai/jobs/info/6ab5b0b5d85922de20ce31b7?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 07 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Learning & Development (L&D Partner)](https://jobright.ai/jobs/info/6ad284405290d4375c453753?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 07 |
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6aeed20e676e3f91d3269d53?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Nov 06 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Instructor)](https://jobright.ai/jobs/info/6ad534d125289a0b3bf5e9a3?utm_campaign=1057&utm_source=git)** | Lower Peninsula, United States | Remote | Nov 06 |
 | **[NORY, Inc.](https://nory.co)** | **[Program Development & Operations Intern (Boston)](https://jobright.ai/jobs/info/6aee6b845c81f621d31165c4?utm_campaign=1057&utm_source=git)** | Brookline, MA, United States | On Site | Nov 06 |
@@ -128,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Future Finance Leaders Program - Summer 2027 Intern (U.S. Person Required)](https://jobright.ai/jobs/info/6a989943c8ed473c5c7650b6?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Seminole Hard Rock Hotel & Casino Hollywood](https://www.seminolehardrockhollywood.com)** | **[Intern - F&B Administration](https://jobright.ai/jobs/info/6aeda88acaf8e660b87d67ec?utm_campaign=1057&utm_source=git)** | Hollywood, FL, United States | On Site | Nov 06 |
 | **[CNA Insurance](http://www.cna.com)** | **[Actuarial Intern – Summer 2027](https://jobright.ai/jobs/info/6a9890dfdd171c728579303c?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
-| **[BGE, Inc.](https://browngay.com)** | **[DALLAS - Transportation, Internship](https://jobright.ai/jobs/info/6a9a196890a313642c654754?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Nov 06 |
+| **[BGE, Inc.](https://browngay.com)** | **[DALLAS - Transportation, Internship](https://jobright.ai/jobs/info/6a9a18808a8b765bc55f7787?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Nov 06 |
 | **[Butterball Farms, Inc.](https://butterballfarms.com)** | **[Manufacturing Training & Video Production Internship Part-Time 3 days/week 8 hour shifts $18/hour](https://jobright.ai/jobs/info/6aece7c13a3fa7f03ea8a3f4?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Land Acquisition Internship](https://jobright.ai/jobs/info/6ad5bfac950ef68d51830908?utm_campaign=1057&utm_source=git)** | Irving, TX, United States | On Site | Nov 06 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Clinical Development](https://jobright.ai/jobs/info/6ad14e85ae21edea94fd5383?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 06 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Global Health Action](https://globalhealthaction.org/)** | **[2027 Spring Leadership & Organizational Development Internship (Globally Remote, Unpaid)](https://jobright.ai/jobs/info/6aecfe2aa9ea762a04093fd2?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 05 |
 | ↳ | **[2027 Spring Monitoring, Evaluation and Learning Intern (Globally Remote, Unpaid)](https://jobright.ai/jobs/info/6aecfe243967d67f635a194a?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[US Medical Affairs Diagnostics, Breast Cancer Intern](https://jobright.ai/jobs/info/6aecfdd73a3fa7f03ea8b091?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD, United States | On Site | Nov 05 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/6ac00d558ff3fb9b3bc7a5e8?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 05 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/6aeb5715f40efa43f4a16101?utm_campaign=1057&utm_source=git)** | Garretson, SD, United States | On Site | Nov 05 |
 | ↳ | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/6ac34400d9621c5b2839c752?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 05 |
-| ↳ | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/6aeb5715f40efa43f4a16101?utm_campaign=1057&utm_source=git)** | Garretson, SD, United States | On Site | Nov 05 |
+| ↳ | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/6ac00d558ff3fb9b3bc7a5e8?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 05 |
 | **[Richland Library](https://www.richlandlibrary.com)** | **[Snack Break Intern](https://jobright.ai/jobs/info/6aecfb85ab48a70793820440?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Nov 05 |
-| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Corporate Training](https://jobright.ai/jobs/info/6aecf11e3967d67f635a1357?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 05 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Corporate Training](https://jobright.ai/jobs/info/6aeceea73a3fa7f03ea8a936?utm_campaign=1057&utm_source=git)** | Urbandale, IA, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
