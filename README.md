@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Chemistry](https://www.realchemistry.com)** | **[Syracuse University 2027 Weiss Center Ambassador](https://jobright.ai/jobs/info/6af1e5148cbcfef4a59d638c?utm_campaign=1057&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 09 |
 | **[Michael Kors](https://www.michaelkors.com/)** | **[2027 Capri Holdings Summer Corporate Internship Program – Finance](https://jobright.ai/jobs/info/6af1de180cb834dad9320bc5?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Lancaster-Lebanon IU13](https://www.iu13.org/)** | **[Part-time Career Pathway Intern (Pre-qualification Required)](https://jobright.ai/jobs/info/6af1da1462fb9f5fcd8915f6?utm_campaign=1057&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 09 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Learning Systems](https://jobright.ai/jobs/info/6aba6190ad8589219ef7d0d1?utm_campaign=1057&utm_source=git)** | Columbia, MO, United States | On Site | Nov 09 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Kentucky State University](http://www.kysu.edu/)** | **[Student Intern - Cooperative Extension](https://jobright.ai/jobs/info/6a8cb816d34f700f87fd2539?utm_campaign=1057&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 08 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern, Experiential Learning Programs](https://jobright.ai/jobs/info/6aee6106c7498922fe0cc4ad?utm_campaign=1057&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Category Content Management Intern](https://jobright.ai/jobs/info/6a9aeb58d5ff1f3f1c39bb9c?utm_campaign=1057&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 08 |
-| **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6ad4c0b825289a0b3bf5da5e?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | Nov 08 |
+| **[rand* construction corporation](http://randcc.com)** | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6ae8d0d0fb2cd420ace68ffd?utm_campaign=1057&utm_source=git)** | Colorado, United States | On Site | Nov 08 |
 | ↳ | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6af0758c676e3f91d326f54d?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Nov 08 |
 | ↳ | **[Summer 2027 Intern](https://jobright.ai/jobs/info/6af072da7bf8e8b9eaf82824?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 08 |
 | ↳ | **[Summer 2027 Construction and Business Internship](https://jobright.ai/jobs/info/6af070389f8e479a8bd00353?utm_campaign=1057&utm_source=git)** | Denver, CO, United States | On Site | Nov 08 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Amgen Foundation (Summer 2027)](https://jobright.ai/jobs/info/6ae8ee8103f4a1104b257d92?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 | **[BGE, Inc.](https://browngay.com)** | **[NORTH AUSTIN - Transportation, Internship](https://jobright.ai/jobs/info/6a99c613040e5c3d07598bb6?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Nov 07 |
 | ↳ | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/6a99f779551435518ebf24d4?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Nov 07 |
-| ↳ | **[FORT WORTH - Transportation, Internship](https://jobright.ai/jobs/info/6a9a1969ad752e2ad5503c4d?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 07 |
+| ↳ | **[FORT WORTH - Transportation, Internship](https://jobright.ai/jobs/info/6a9a19ae551435518ebf2f93?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 07 |
 | ↳ | **[Frisco, Transportation, Internship](https://jobright.ai/jobs/info/6a9a1aa51388387060592744?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern (Summer 2027) - Learning and Development](https://jobright.ai/jobs/info/6ab5b0b5d85922de20ce31b7?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 07 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Learning & Development (L&D Partner)](https://jobright.ai/jobs/info/6ad284405290d4375c453753?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 COLLEGE SUMMER INTERN - COMMUNICATIONS Job Details / Huntington Ingalls](https://jobright.ai/jobs/info/6aee0a8cd20350c7a5077b95?utm_campaign=1057&utm_source=git)** | Pascagoula, MS, United States | On Site | Nov 06 |
 | **[Green Valleys Watershed Association](https://greenvalleys.org)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/6aee969e676e3f91d3268d35?utm_campaign=1057&utm_source=git)** | Pottstown, PA, United States | On Site | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6ad276c6f04335fc70ed5b88?utm_campaign=1057&utm_source=git)** | Channelview, TX, United States | On Site | Nov 06 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[ESOL Intern - Spring 2027](https://jobright.ai/jobs/info/6aea0b1f1ba298c77776e7e5?utm_campaign=1057&utm_source=git)** | Richmond, VA, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
