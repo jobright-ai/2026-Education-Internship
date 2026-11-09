@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Relief](https://worldrelief.org/)** | **[ESL Class Support Intern-  2025851](https://jobright.ai/jobs/info/6a9070b70bd89e205d24a5ee?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Nov 08 |
 | **[Kentucky State University](http://www.kysu.edu/)** | **[Student Intern - Cooperative Extension](https://jobright.ai/jobs/info/6a8cb816d34f700f87fd2539?utm_campaign=1057&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 08 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern, Experiential Learning Programs](https://jobright.ai/jobs/info/6aee6106c7498922fe0cc4ad?utm_campaign=1057&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 08 |
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6af0bf5a9f8e479a8bd0127e?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Nov 08 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Amgen Foundation (Summer 2027)](https://jobright.ai/jobs/info/6ae8ee8103f4a1104b257d92?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 | **[BGE, Inc.](https://browngay.com)** | **[NORTH AUSTIN - Transportation, Internship](https://jobright.ai/jobs/info/6a99c613040e5c3d07598bb6?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Nov 07 |
 | ↳ | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/6a99f779551435518ebf24d4?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Nov 07 |
-| ↳ | **[FORT WORTH - Transportation, Internship](https://jobright.ai/jobs/info/6a9a19ae551435518ebf2f93?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 07 |
+| ↳ | **[FORT WORTH - Transportation, Internship](https://jobright.ai/jobs/info/6a9a1969ad752e2ad5503c4d?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 07 |
 | ↳ | **[Frisco, Transportation, Internship](https://jobright.ai/jobs/info/6a9a1aa51388387060592744?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern (Summer 2027) - Learning and Development](https://jobright.ai/jobs/info/6ab5b0b5d85922de20ce31b7?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 07 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Learning & Development (L&D Partner)](https://jobright.ai/jobs/info/6ad284405290d4375c453753?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 07 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Midwest Loan Services](https://midwestloanservices.com/)** | **[Insurance Development Intern](https://jobright.ai/jobs/info/6aee42ffe0c9de7b05f8d216?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 06 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[College Intern](https://jobright.ai/jobs/info/6aeec1040fe787d00ed189f9?utm_campaign=1057&utm_source=git)** | Mobile, AL, United States | On Site | Nov 06 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedtech.com/en-US)** | **[DS Education & Marketing Summer Intern 2027](https://jobright.ai/jobs/info/6aede994caf8e660b87d85cb?utm_campaign=1057&utm_source=git)** | Raynham, MA, United States | Hybrid | Nov 06 |
-| **[American Friends Service Committee](https://www.afsc.org/)** | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd23dc655658d8e9117?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Nov 06 |
-| ↳ | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd2e4b94611ab841c9f?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Nov 06 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd2e4b94611ab841c9f?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Nov 06 |
+| ↳ | **[Youth Lead Intern, 67 Sueños](https://jobright.ai/jobs/info/6ad6cdd23dc655658d8e9117?utm_campaign=1057&utm_source=git)** | Oakland, CA, United States | On Site | Nov 06 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Training Intern - Federal Services Division (FSD): Chattanooga, TN](https://jobright.ai/jobs/info/6aeec04140b5de2d2b30e599?utm_campaign=1057&utm_source=git)** | Chattanooga, TN, United States | On Site | Nov 06 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2027 University Intern - Commercial Marine Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa7c56c654b2a9424cf96cd?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
 | ↳ | **[2027 University Intern - Commercial Job Details / Phillips 66](https://jobright.ai/jobs/info/6aa7d9bf2ed333b4ea5cc1d8?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Lumber](http://www.americanlumberco.com)** | **[Spring 2027 Instructional Design Intern](https://jobright.ai/jobs/info/6aeec04840b5de2d2b30e5a8?utm_campaign=1057&utm_source=git)** | Bryan, TX, United States | On Site | Nov 06 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Future Finance Leaders Program - Summer 2027 Intern (U.S. Person Required)](https://jobright.ai/jobs/info/6a989943c8ed473c5c7650b6?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Seminole Hard Rock Hotel & Casino Hollywood](https://www.seminolehardrockhollywood.com)** | **[Intern - F&B Administration](https://jobright.ai/jobs/info/6aeda88acaf8e660b87d67ec?utm_campaign=1057&utm_source=git)** | Hollywood, FL, United States | On Site | Nov 06 |
-| **[CNA Insurance](http://www.cna.com)** | **[Actuarial Intern – Summer 2027](https://jobright.ai/jobs/info/6a9890dfdd171c728579303c?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
