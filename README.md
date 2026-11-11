@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GBH](http://www.wgbh.org/)** | **[Education Research Internship-Spring](https://jobright.ai/jobs/info/6af3fac950da4f72009241f3?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Nov 10 |
+| **[Case Western Reserve University](https://case.edu)** | **[Weatherhead ETA Center Program Intern](https://jobright.ai/jobs/info/6af3f6f5fee40b4fffbdd19e?utm_campaign=1057&utm_source=git)** | Peter B Lewis Building | On Site | Nov 10 |
+| **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/6af388964ac248020e8d2258?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 10 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a6b644d57120971bf3a6870?utm_campaign=1057&utm_source=git)** | Omaha, NE, United States | On Site | Nov 10 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6af3aeb8769e9374033c913c?utm_campaign=1057&utm_source=git)** | Dublin, CA, United States | On Site | Nov 10 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Commercial Training and Development Intern](https://jobright.ai/jobs/info/6af3bfee10c7aed77861da6d?utm_campaign=1057&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 10 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Instructional Design](https://jobright.ai/jobs/info/6ad52dcff04335fc70edd2fb?utm_campaign=1057&utm_source=git)** | Lower Peninsula, MI, United States | Hybrid | Nov 10 |
@@ -135,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[The University of New Mexico Health Sciences Center](https://hsc.unm.edu/)** | **[Professional Intern for Student Hub](https://jobright.ai/jobs/info/6af2606c1aaffa49f738433c?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 09 |
 | **[The University of New Mexico](http://unm.edu)** | **[Professional Intern for Student Hub](https://jobright.ai/jobs/info/6af25f381aaffa49f73842ff?utm_campaign=1057&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Knowledge Architecture & Learning Internship](https://jobright.ai/jobs/info/6af359fff6053e296fc7bb62?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 09 |
-| **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/6af388964ac248020e8d2258?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2027 Growth Team Technical Writer Internship](https://jobright.ai/jobs/info/6af3420f769e9374033c44ae?utm_campaign=1057&utm_source=git)** | Herndon, VA, United States | Hybrid | Nov 09 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Learning Design Internship-Spring 2027](https://jobright.ai/jobs/info/6af39b2b7c81de7a524c15c6?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Nov 09 |
 | **[City of Arlington](https://www.arlingtontx.gov)** | **[Intern SN](https://jobright.ai/jobs/info/6af3e185ebe39ae3299d9246?utm_campaign=1057&utm_source=git)** | United States | On Site | Nov 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Martha's Table](http://marthastable.org)** | **[Economic Mobility Program Intern](https://jobright.ai/jobs/info/6af235041116f6f0a07674f6?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 09 |
 | **[Biodesix, Inc.](http://www.biodesix.com)** | **[Sales Training Internship (Undergraduate)](https://jobright.ai/jobs/info/6af1fce562fb9f5fcd892842?utm_campaign=1057&utm_source=git)** | Louisville, Colorado, United States | On Site | Nov 09 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Faculty Diversity Intern (FDIP)](https://jobright.ai/jobs/info/6af203820cb834dad9322157?utm_campaign=1057&utm_source=git)** | Alameda, CA, United States | On Site | Nov 09 |
-| **[Fortress OS](https://www.fortresstech.io)** | **[OneElm Summer Intern - Elmington Elevates](https://jobright.ai/jobs/info/6af1fa831aaffa49f737f5a9?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | On Site | Nov 09 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 UCD Reporting and Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6af2033c0cb834dad9322102?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | Remote | Nov 09 |
-| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[University Relations Intern](https://jobright.ai/jobs/info/6af1cd760cb834dad93205fb?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
