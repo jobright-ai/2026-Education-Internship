@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Love Justice International](https://www.lovejustice.ngo)** | **[Dream School Internship](https://jobright.ai/jobs/info/6aa9e75d10b1cd4f41608bd9?utm_campaign=1057&utm_source=git)** | NE, United States | Remote | Nov 11 |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Intern Student, (Unpaid - Academic Credit)](https://jobright.ai/jobs/info/6af42a2c9aac15a56d824c96?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 11 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Digital Enterprise Software Applications Internship (Summer 2027, GSCS)](https://jobright.ai/jobs/info/6af3fec250da4f72009242b2?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 10 |
 | **[GBH](http://www.wgbh.org/)** | **[Education Research Internship-Spring](https://jobright.ai/jobs/info/6af3fac950da4f72009241f3?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Nov 10 |
 | **[Case Western Reserve University](https://case.edu)** | **[Weatherhead ETA Center Program Intern](https://jobright.ai/jobs/info/6af3f6f5fee40b4fffbdd19e?utm_campaign=1057&utm_source=git)** | Peter B Lewis Building | On Site | Nov 10 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6af368eef6053e296fc7c36b?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 10 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Summer Intern-Finance – Logistics/Trade Networks](https://jobright.ai/jobs/info/6af368a8769e9374033c5ec9?utm_campaign=1057&utm_source=git)** | Memphis, TN, United States | On Site | Nov 10 |
 | **[Brown University](https://www.brown.edu)** | **[Campus Growth Intern](https://jobright.ai/jobs/info/6af3682ff6053e296fc7c11f?utm_campaign=1057&utm_source=git)** | Providence, RI, United States | On Site | Nov 10 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af337e5769e9374033c3ef1?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af337e510c7aed7786181e8?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Summer 2027 Graduate Internship Program- Dalio Center for Health Justice](https://jobright.ai/jobs/info/6ad7907352aa6152bb69cbc8?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Instructor)](https://jobright.ai/jobs/info/6ad534d125289a0b3bf5e9a3?utm_campaign=1057&utm_source=git)** | Lower Peninsula, United States | Remote | Nov 10 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - Supervision & Regulation (Professional Development Group)](https://jobright.ai/jobs/info/6af332e6f6053e296fc7a0e4?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Justice Center for the Protection of People with Special Needs](http://www.justicecenter.ny.gov)** | **[Student Assistant (Intern)](https://jobright.ai/jobs/info/6af24bdc905985ccaa40b8ff?utm_campaign=1057&utm_source=git)** | Delmar, NY, United States | On Site | Nov 09 |
 | ↳ | **[Student Assistant (Intern)](https://jobright.ai/jobs/info/6af24bc91116f6f0a07683b2?utm_campaign=1057&utm_source=git)** | Schenectady, NY, United States | On Site | Nov 09 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Summer 2027 FOX Internship Program - Red Seat Ventures - New York](https://jobright.ai/jobs/info/6af23f381116f6f0a0767aa1?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Martha's Table](http://marthastable.org)** | **[Economic Mobility Program Intern](https://jobright.ai/jobs/info/6af235041116f6f0a07674f6?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 09 |
-| **[Biodesix, Inc.](http://www.biodesix.com)** | **[Sales Training Internship (Undergraduate)](https://jobright.ai/jobs/info/6af1fce562fb9f5fcd892842?utm_campaign=1057&utm_source=git)** | Louisville, Colorado, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
