@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jewish Narrative](https://www.newjewishnarrative.org/)** | **[Spring 2027 Intern](https://jobright.ai/jobs/info/6af5e08e8cc703bba47ad9e7?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Remote | Nov 12 |
+| **[Brevan Howard](http://www.brevanhoward.com)** | **[2027 Summer Internship Program – Trading, New York](https://jobright.ai/jobs/info/6af5dbdd80054650a5e796cd?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Nov 12 |
 | **[Old National Bank](http://www.oldnational.com)** | **[2027 Old National Summer Internship Experience](https://jobright.ai/jobs/info/6aa08492ea127c3794697a48?utm_campaign=1057&utm_source=git)** | Evansville, IN, United States | On Site | Nov 12 |
 | **[Gallagher](https://www.ajg.com/)** | **[U.S. Internship - Risk Control](https://jobright.ai/jobs/info/6a83925d9b859b227766fe04?utm_campaign=1057&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Nov 12 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Finance - AI Strategy](https://jobright.ai/jobs/info/6ac537d6d9621c5b283a3e6e?utm_campaign=1057&utm_source=git)** | Shelton, CT, United States | On Site | Nov 12 |
@@ -74,9 +76,9 @@ For a complete list, click the following sortable link below:
 | **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6af560ee36c61b4fbd7708ea?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Instructor)](https://jobright.ai/jobs/info/6ad534d125289a0b3bf5e9a3?utm_campaign=1057&utm_source=git)** | Lower Peninsula, United States | Remote | Nov 11 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Graduate Student Intern, Health Promotion](https://jobright.ai/jobs/info/6af55dd19144106c56a25649?utm_campaign=1057&utm_source=git)** | Bloomington, IN, United States | On Site | Nov 11 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Nov 11 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Nov 11 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Nov 11 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | Hybrid | Nov 11 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Nov 11 |
 | **[Leland](https://www.joinleland.com)** | **[AI Education Intern](https://jobright.ai/jobs/info/6af4ecf23a9a26aee70a1c71?utm_campaign=1057&utm_source=git)** | Lehi, UT, United States | On Site | Nov 11 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2027 Summer Undergraduate Internship](https://jobright.ai/jobs/info/6af5336f3a9a26aee70a3581?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 11 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[Whitney Museum of American Art - 2027 Spring Internship (Education - Family Programs)](https://jobright.ai/jobs/info/6af533d0cd7be4db20d8b535?utm_campaign=1057&utm_source=git)** | Whitney, NE, United States | On Site | Nov 11 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Lennox AES](https://www.aescurb.com)** | **[Sustaining Intern Spring 2027](https://jobright.ai/jobs/info/6af4c40d9144106c56a21434?utm_campaign=1057&utm_source=git)** | Tifton, GA, United States | On Site | Nov 11 |
 | **[The Nelson-Atkins Museum of Art](http://www.nelson-atkins.org)** | **[Digital Interpretation Intern (UMKC Mellon Humanities Internship Program)](https://jobright.ai/jobs/info/6af4b84f2278454e18c37e09?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 11 |
 | **[Newmark](https://www.nmrk.com)** | **[2027 Internship Program: Asset Management](https://jobright.ai/jobs/info/6ad7d4a9e4b94611ab84944e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Intern Undergrad Admin](https://jobright.ai/jobs/info/6af4abd61b2c5dcbbcd63273?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Nov 11 |
-| ↳ | **[Enterprise Learning & Development Intern](https://jobright.ai/jobs/info/6af4abd21b2c5dcbbcd6326f?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 11 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Enterprise Learning & Development Intern](https://jobright.ai/jobs/info/6af4abd21b2c5dcbbcd6326f?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 11 |
+| ↳ | **[Intern Undergrad Admin](https://jobright.ai/jobs/info/6af4abd61b2c5dcbbcd63273?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI, United States | Hybrid | Nov 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f309e4b94611ab84abb1?utm_campaign=1057&utm_source=git)** | Erie, PA, United States | On Site | Nov 11 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Teen Outreach Intern](https://jobright.ai/jobs/info/6af4a2281b2c5dcbbcd62c1e?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6ad7f2f4950ef68d51845ce4?utm_campaign=1057&utm_source=git)** | Greensburg, Pennsylvania, United States | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Spring Intern, Executive Education](https://jobright.ai/jobs/info/6ae0f7c3829a3bada15f9260?utm_campaign=1057&utm_source=git)** | Washington, D.C., United States | On Site | Nov 10 |
 | **[SAS](http://www.sas.com)** | **[Summer 2027 - EVAAS Live Training Events Graduate Intern](https://jobright.ai/jobs/info/6af36ec6769e9374033c6519?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 10 |
 | ↳ | **[Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern](https://jobright.ai/jobs/info/6af36ec1f6053e296fc7c849?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Remote | Nov 10 |
-| **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Summer Intern-Finance – Logistics/Trade Networks](https://jobright.ai/jobs/info/6af368a8769e9374033c5ec9?utm_campaign=1057&utm_source=git)** | Memphis, TN, United States | On Site | Nov 10 |
-| **[Brown University](https://www.brown.edu)** | **[Campus Growth Intern](https://jobright.ai/jobs/info/6af3682ff6053e296fc7c11f?utm_campaign=1057&utm_source=git)** | Providence, RI, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
