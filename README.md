@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Nov 11 |
-| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | Hybrid | Nov 11 |
+| **[SGX Graphics](http://sgxgraphics.com)** | **[Intern, Global Learning & Development](https://jobright.ai/jobs/info/6af560ee36c61b4fbd7708ea?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 11 |
+| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Graduate Student Intern, Health Promotion](https://jobright.ai/jobs/info/6af55dd19144106c56a25649?utm_campaign=1057&utm_source=git)** | Bloomington, IN, United States | On Site | Nov 11 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a984006def18223c854e3e2?utm_campaign=1057&utm_source=git)** | Portsmouth, OH, United States | Hybrid | Nov 11 |
+| ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a90df9ca1988648667636f3?utm_campaign=1057&utm_source=git)** | Ada, OK, United States | Hybrid | Nov 11 |
 | ↳ | **[Teen Health Education Internship](https://jobright.ai/jobs/info/6a8ffe0d8ffa38557e6cad1e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | Hybrid | Nov 11 |
 | **[Leland](https://www.joinleland.com)** | **[AI Education Intern](https://jobright.ai/jobs/info/6af4ecf23a9a26aee70a1c71?utm_campaign=1057&utm_source=git)** | Lehi, UT, United States | On Site | Nov 11 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2027 Summer Undergraduate Internship](https://jobright.ai/jobs/info/6af5336f3a9a26aee70a3581?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 11 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Teen Outreach Intern](https://jobright.ai/jobs/info/6af4a2281b2c5dcbbcd62c1e?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | **[Centene Corporation](http://centene.com)** | **[Analytics Summer 2027 Intern (Graduate)](https://jobright.ai/jobs/info/6af369aa80020ca3a897578d?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Nov 11 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Summer 2027 Power Technical Internship - Wharton, TX (ASSOCIATE'S DEGREE ONLY)](https://jobright.ai/jobs/info/6aeabb02913589212b1f8a52?utm_campaign=1057&utm_source=git)** | Wharton, TX, United States | On Site | Nov 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2027 Internship](https://jobright.ai/jobs/info/6ad8e59439284cd524281488?utm_campaign=1057&utm_source=git)** | San Bruno, CA, United States | On Site | Nov 11 |
 | **[Quad](https://www.quad.com)** | **[Corporate Trainee Program - Intern Summer 2027](https://jobright.ai/jobs/info/6aac532a2e757fcb5c8b507a?utm_campaign=1057&utm_source=git)** | Sussex, WI, United States | On Site | Nov 11 |
 | **[Old National Bank](http://www.oldnational.com)** | **[2027 Old National Summer Internship Experience](https://jobright.ai/jobs/info/6aa08492ea127c3794697a48?utm_campaign=1057&utm_source=git)** | Evansville, IN, United States | On Site | Nov 11 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Learning Intern - (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6ad7b27b54bbabbab07013c9?utm_campaign=1057&utm_source=git)** | Manhattan, NY, United States | On Site | Nov 11 |
@@ -143,7 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 - EVAAS Instructional Design e-Learning Developer Intern](https://jobright.ai/jobs/info/6af36ec1f6053e296fc7c849?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Remote | Nov 10 |
 | **[FedEx Logistics](https://careers.fedex.com/logistics)** | **[Summer Intern-Finance – Logistics/Trade Networks](https://jobright.ai/jobs/info/6af368a8769e9374033c5ec9?utm_campaign=1057&utm_source=git)** | Memphis, TN, United States | On Site | Nov 10 |
 | **[Brown University](https://www.brown.edu)** | **[Campus Growth Intern](https://jobright.ai/jobs/info/6af3682ff6053e296fc7c11f?utm_campaign=1057&utm_source=git)** | Providence, RI, United States | On Site | Nov 10 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af337e510c7aed7786181e8?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af337e5769e9374033c3ef1?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/locations/brooklyn/nyp-brooklyn-methodist-hospital)** | **[Summer 2027 Graduate Internship Program- Dalio Center for Health Justice](https://jobright.ai/jobs/info/6ad7907352aa6152bb69cbc8?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Instructor)](https://jobright.ai/jobs/info/6ad534d125289a0b3bf5e9a3?utm_campaign=1057&utm_source=git)** | Lower Peninsula, United States | Remote | Nov 10 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - Supervision & Regulation (Professional Development Group)](https://jobright.ai/jobs/info/6af332e6f6053e296fc7a0e4?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMG Academy](https://www.imgacademy.com)** | **[Athletic Administrative Intern, Spring 2027](https://jobright.ai/jobs/info/6ad645bc67bec1d0d9c6cbc1?utm_campaign=1057&utm_source=git)** | Bradenton, FL, United States | On Site | Nov 10 |
 | **[SAS](http://www.sas.com)** | **[Summer 2027 - EVAAS Education Policy Graduate Intern](https://jobright.ai/jobs/info/6af344707c81de7a524bdb16?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Remote | Nov 10 |
 | ↳ | **[Summer 2027 - EVAAS Education Policy Graduate Intern](https://jobright.ai/jobs/info/6af3423410c7aed7786187d1?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Remote | Nov 10 |
-| ↳ | **[Summer 2027 - EVAAS Education Policy Graduate Intern](https://jobright.ai/jobs/info/6af340fd10c7aed77861871e?utm_campaign=1057&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 10 |
-| **[Mayo Clinic Rochester](https://www.mayoclinic.org)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af33ed24ac248020e8cf054?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Undergraduate](https://jobright.ai/jobs/info/6af338ca769e9374033c3f6b?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
